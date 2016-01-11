@@ -1,0 +1,676 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/catlgeor.xml">catlgeor</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>George Catlin</titleproper>
+		<subtitle>A Finding Aid to the George Catlin Papers, <date type="inclusive">1821-1904, 1946</date>, in the Archives of American Art</subtitle>
+		<author>by Patricia K. Craig and Barbara D. Aikens</author>
+<sponsor>Funding for the digitization of the microfilm of this collection was provided by the Terra Foundation for American Art.</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">March 2003</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Patricia K. Craig,
+<date>October 23, 2003</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>September 8, 2005</date>
+<item>Finding aid updated from EAD 1.0 to 2002 by Stephanie Ashley
+</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Catlin, George</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">George Catlin papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1821-1904, 1946</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2.3 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The collection comprises 2.3 feet of  papers concerning George Catlin's creation and promotion of his famed "Indian Gallery" of paintings, drawings, and artifacts of North American Indians.  Dating from 1821 through 1904, with one item dated 1946, the papers include letters, notebooks and journals, receipt books and loose receipts, printed materials, and other documentation.   The bulk of the collection focuses on Catlin's efforts to promote the sale of his gallery to the United States government through tours, including London and Paris, and petitions to various governments to purchase the Gallery.  Among the rare printed catalogs and petitions in the collection are exhibition catalogs for the U.S., London, and Paris tours, the earliest dating from 1837.  Letters and other documents include letters dating from the 1830s from Henry Clay, Thomas Sully, and William Henry Seward commending Catlin's work, as well as Catlin family correspondence and papers dating from 1821 through the 1870s.</abstract>
+
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>George Catlin was born in 1796 in Wilkes-Barre, Pennsylvania.  Although trained as a lawyer, Catlin quit his law practice and moved to Philadelphia in 1823 to begin a career as a portrait painter.  He gained membership in the Pennsylvania Academy of Fine Arts in 1824, but his career in formal portraiture met with little success.  In 1830, Catlin embarked upon his lifetime achievement of documenting the lives, customs, and culture of the declining native American population of the Plains.  He spent the next six years traveling, drawing, painting, and writing about the Plains Indians.  By 1837, he had amassed enough documentation to hold a major exhibition in New York of <emph render="italic">Catlin's Indian Gallery of Portraits, Landscapes, Manners and Customs, Costumes, etc.</emph>  The same exhibition, with an added live show, traveled to London in 1842 and Paris in 1845, where it was met with rave reviews.</p>
+<p>Catlin spent the remainder of his life gathering support for the sale of the Indian Gallery to the U.S. Congress.  Between 1841 and 1842, at his own expense, Catlin wrote and published his two volume set <emph render="italic">Letters and Notes on the Manners, Customs, and Condition of the North American Indians.</emph> He also wrote numerous petitions and "memorials" to Congress, often including statements from national and international reputable supporters, such as Daniel Webster, General Lewis Cass, the Joint Committee on the Library (of Congress), and the American Ambassador to France.  The Smithsonian Institution's first Secretary  Joseph Henry strongly supported congressional acquisition of Catlin's work and even provided Catlin with a small studio in the Castle building.  All of the appeals to the government for the purchase of the collection were, in the end, unsuccessful and Catlin died almost penniless in 1872.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The collection comprises 2.3 feet of papers concerning George Catlin's creation and promotion of his famed "Indian Gallery" of paintings, drawings, and artifacts of North American Indians.  Dating from 1821 through 1904, with one item dated 1946, the papers include letters, notebooks and journals, receipt books and loose receipts, printed materials, and other documentation.   The bulk of the collection focuses on Catlin's efforts to promote the sale of his gallery to the United States government through tours, including London and Paris, and petitions to various governments to purchase the Gallery.  Among the rare printed catalogs and petitions in the collection are exhibition catalogs for the U.S., London, and Paris tours, the earliest dating from 1837.  Letters and other documents include letters dating from the 1830s from Henry Clay, Thomas Sully, and William Henry Seward commending Catlin's work, as well as Catlin family correspondence and papers dating from 1821 through the 1870s.</p>
+<p>Of particular interest in the collection are letters to and from Catlin, including two written by Catlin during his early travels to the west in the 1830s.  Other letters include ones from Henry Clay, John Adams Dix, Ralph Randolph Gurley, James Hall, William Henry Seward, Thomas Sully (illustrated), and Baron Friederich von Humbolt, among others.  Most wish Catlin well and offer support in his endeavors to sell his collection.</p>
+<p>Also found within the collection are several notebooks and notes describing Native American ceremonies, name translations, customs, and other information pertinent to Catlin's catalog, two volume book, and exhibitions of the "Indian Gallery." There are also numerous loose receipts and account and receipt books documenting the 1840s London and Paris venues of the "Indian Gallery" exhibition.   The collection also houses printed catalogs for the exhibitions, including a rare 1837 catalog for the first show in New York.</p>
+<p>Additional materials include certificates of authenticity testifying to the authenticity of Catlin's paintings from life of Native American sitters, announcements relating to exhibition openings, printed memorials and petitions to Congress, printed letters of support, envelopes and name cards, and handwritten tickets to Catlin lectures.  Also found are a handwritten journal of Theodore B. Catlin, photogravures of Catlin, obituaries for Catlin, and printed reviews of the exhibitions.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The George Catlin papers are arranged into five series based primarily on document type.  Within each series, materials are arranged in chronological order.</p>
+<list>
+<item>Series 1:  Correspondence, 1821-1885 (Boxes 1, 6; Reel 5824; 12 folders)</item>
+<item>Series 2:  Writings, 1825-circa 1872 (Boxes 1, 6; Reel 5824; 9 folders)</item>
+<item>Series 3:  Financial Records, 1826-1848 (Boxes 2, 6; Reels 5824-5825; 13 folders, 3 bound volumes)</item>
+<item>Series 4:  Catalogs, 1837-1871 (Boxes 3-5; Reel 5825; 1 linear foot)</item>
+<item>Series 5:  Ephemera and Miscellaneous Printed Material, 1832-1904, 1946 (Boxes 5-6, OV 7; Reel 5825; 14 folders)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following index terms. People, families and organizations are listed under "Subjects" when they are the topic of collection contents and under "Names" when they are creators or contributors.</p>
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art and race</subject>
+<subject encodinganalog="650" source="lcsh">Indians of North America -- Portraits</subject>
+<subject encodinganalog="650" source="lcsh">Portrait painters</subject>
+<subject encodinganalog="650" source="lcsh">Illustrators</subject>
+<subject encodinganalog="650" source="lcsh">Miniature painters</subject>
+<subject encodinganalog="650" source="lcsh">Painters</subject>
+<subject encodinganalog="650" source="lcsh">Ethnological illustrators</subject>
+<subject encodinganalog="650" source="lcsh">Ethnological painters</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photogravures
+ </genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head> 
+<persname encodinganalog="700" source="lcsh">Seward, William Henry, 1801-1872</persname>
+<persname encodinganalog="700" source="lcsh">Sully, Thomas, 1783-1872</persname>
+<persname encodinganalog="700" source="lcsh">Clay, Henry, 1777-1852</persname>
+</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The papers of George Catlin were transferred to the Archives of American Art by the Library of the Smithsonian's National Collection of Fine Arts, now the Smithsonian's American Art Museum.  Accession records indicate that the papers were once maintained by the Smithsonian's Bureau of Ethnology and were probably part of  the orginal 1879 acquisition of Catlin's Indian Gallery by the Smithsonian.   Businessman Joseph Harrison rescued the "Indian Gallery" from Catlin's creditors in the 1850s and stored the collection in a Philadelphia warehouse, where it suffered damage from at least two fires before Harrison's widow donated the collection to the Smithsonian.</p>
+</acqinfo>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The Archives holds several related collections of differing provenances related to George Catlin, including a  small collection of manuscripts and drawings microfilmed on reel 1191 related to Catlin's work in marine art and documentation.   A microfilmed loan of circa 500 items is also available on reel 3277 of letters between Catlin and Sir Thomas Phillipps, 1840-1860, writings by Catlin and material on Catlin's Indian Gallery, including clippings, catalogs, handbills, invitations, drawings and portrait sketches of native Americans, and printed material; a watercolor sketchbook; a list of paintings; and miscellany. Also found within the Archives is one undated letter microfilmed on reel D8 from Catlin, and a collection of art historian William Truettner's research papers on George Catlin.</p>
+</relatedmaterial>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>A digitized version of the microfilm of this collection is available online via the Archives of American Art website.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The George Catlin papers are owned by the Archives of American Art, Smithsonian Institution.  Rights as possessed by the donor have been dedicated to public use for research, study, and scholarship.  The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The microfilm for this collection has been digitized and is available online via the Archives of American Art website.</p>
+</altformavail>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>George Catlin papers, 1821-1946. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed by Patricia K. Craig in 2001. The microfilm was digitized in 2005 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Correspondence,<unitdate>1821-1885</unitdate></unittitle>
+<physdesc>(Boxes 1, 6; Reel 5824; 12 folders)</physdesc></did>
+<scopecontent> 
+<p>Letters to and from Catlin, including two written while traveling in the west in the 1830s.  Also found are family letters and several letters of support from Henry Clay, John Adams Dix, Ralph Randolph Gurley, James Hall, William Henry Seward, Thomas Sully (illustrated), and Baron Friederich von Humbolt, among others.  Most wish Catlin well and offer support in his endeavors to promote and sell his collection. Folder headings include all oversize material.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">17-29</container>
+<unittitle>Correspondence, <unitdate>1821, 1824</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">30-50</container>
+<unittitle>Correspondence, <unitdate>1834-1839</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">51-73</container>
+<unittitle>Correspondence, <unitdate>1839</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">74-96</container>
+<unittitle>Correspondence, <unitdate>1840-1842</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">97-129</container>
+<unittitle>Correspondence, <unitdate>circa 1840s </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">130-146</container>
+<unittitle>Correspondence, <unitdate>1843-1844</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">147-160</container>
+<unittitle>Correspondence, <unitdate>1845-1849</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">161-176</container>
+<unittitle>Correspondence, <unitdate>1850-1855</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">177-179</container>
+<unittitle>Correspondence, <unitdate>1861</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">180-187</container>
+<unittitle>Correspondence, <unitdate>1870, 1874</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">188-208</container>
+<unittitle>Correspondence, <unitdate>1885</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame"></container>
+<unittitle>Transcripts of Correspondence Concerning Catlin, <unitdate>undated</unitdate></unittitle>
+</did></c02>
+</c01>
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Writings,<unitdate>1825-circa 1872</unitdate></unittitle>
+<physdesc>(Boxes 1, 6; Reel 5824; 9 folders)</physdesc></did>
+<scopecontent> 
+<p>This series includes several handwritten notebooks by Catlin, as well as printed memorials and petitions written by Catlin.  Also found is a handwritten French translation of Catlin's 1845 exhibition catalog and a partial handwritten manuscript "Travels in Europe."  The subscription notebook was originally created circa 1825 to record subscription sales for a printed version of a portrait of the Hon. Tapping Reeve, a Connecticut judge painted by Catlin.  The printing was never actually undertaken, however, and the book was later used in 1841 as a memo book during Catlin's stay in London.  Of particular interest are the Notebooks numbered 6 and 7.  Both contain notes about Catlin's paintings and exhibitions,  as well as cultural information about the Indian tribes, such as name translations.  One notebook describes a Mandan battle in gruesome detail.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">209-227</container>
+<unittitle>George Catlin's Subscription and Expense Notebook, <unitdate>1825, 1841</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">228-252</container>
+<unittitle>George Catlin's Notebook #6, <unitdate>circa 1830s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">253-273</container>
+<unittitle>George Catlin's Notebook #7, <unitdate>circa 1830s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">274-292</container>
+<unittitle>George Catlin's Notebook with Notations about Paintings, <unitdate>circa 1840s </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">293-317</container>
+<unittitle>Handwritten Catalog Raisonne, French Translation, author unknown (1 of 4), <unitdate>circa 1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">318-342</container>
+<unittitle>Handwritten Catalog Raisonne, French Translation, author unknown (2 of 4), <unitdate>circa 1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">343-367</container>
+<unittitle>Handwritten Catalog Raisonne, French Translation, author unknown (3 of 4), <unitdate>circa 1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">368-387</container>
+<unittitle>Handwritten Catalog Raisonne, French Translation, author unknown (4 of 4), <unitdate>circa 1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">388-395</container>
+<unittitle>Printed, "Memorial" by George Catlin to Congress, <unitdate>1868</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">396-402</container>
+<unittitle>Miscellaneous Notes and Reminiscences by George Catlin, <unitdate>1869</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">403-408</container>
+<unittitle>Printed, Petition to Congress and Leaflet, <unitdate>circa 1872</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">409-417</container>
+<unittitle>Printed, "Synopsis of the Travels of George Catlin in Gathering His Sketches for His Indian Collection", <unitdate>circa 1872</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">418-442</container>
+<unittitle>Handwritten Partial Book Manuscript, "Travels In Europe" (1 of 3),  <unitdate>undated</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">443-467</container>
+<unittitle>Handwritten Partial Book Manuscript, "Travels In Europe" (2 of 3),  <unitdate>undated</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">468-484</container>
+<unittitle>Handwritten Partial Book Manuscript, "Travels In Europe" (3 of 3), <unitdate>undated</unitdate></unittitle>
+</did></c02>
+</c01>
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Financial Records, <unitdate>1826-1848</unitdate></unittitle>
+<physdesc>(Boxes 2, 6; Reels 5824-5825; 13 folders, 3 bound volumes)</physdesc></did>
+<scopecontent> 
+<p>This series includes bound and loose accounts, receipts, and invoices, primarily those of George Catlin for his travels in Europe associated with the exhibitions, as well as receipts for advertising and space rental for the exhibitions.  One account book is marked on the cover "Clara B. Catlin Account Book", which actually documents book sales. Also found is one very small bound green daybook decorated with metal tabs and a cover label engraved, "Souvenir."  It is unclear who is the author of the entries.  Inside is a handwritten inscription dated 1827 on the title page, along with an illegible name.  The book includes notes, addresses, account entries, and "doodles." Folder headings include all oversize material.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">485-509</container>
+<unittitle>Bound, Miscellaneous Account and Receipt Book (1 of 4), <unitdate>1826-1838</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">510-534</container>
+<unittitle>Bound, Miscellaneous Account and Receipt Book (2 of 4), <unitdate>1826-1838</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">535-559</container>
+<unittitle>Bound, Miscellaneous Account and Receipt Book (3 of 4), <unitdate>1826-1838</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">560-585</container>
+<unittitle>Bound, Miscellaneous Account and Receipt Book (4 of 4), <unitdate>1826-1838</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">586-606</container>
+<unittitle>Bound Daybook, "Souvenir", Unknown Author, <unitdate>1827-1830</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">607-613</container>
+<unittitle>Bound Account Book, Book Sales,<unitdate>undated </unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">614-643</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (1 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">644-673</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (2 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">674-703</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (3 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">704-733</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (4 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">734-763</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (5 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">764-793</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (6 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">794-823</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (7 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">824-853</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (8 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">854-883</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (9 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">884-902</container>
+<unittitle>Bound "Memorandum" and Receipt Notebook (10 of 10), <unitdate>1841 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">903-932</container>
+<unittitle>Bound Paris Hall Receipts (1 of 4), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">933-962</container>
+<unittitle>Bound Paris Hall Receipts (2 of 4), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">963-992</container>
+<unittitle>Bound Paris Hall Receipts (3 of 4), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5824</container>
+<container type="frame">993-1106</container>
+<unittitle>Bound Paris Hall Receipts (4 of 4), <unitdate>1845</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">1107-1127</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>1833-1839</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5824</container>
+<container type="frame">1128-1143</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (1 of 4), <unitdate>1840</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">12-41</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (2 of 4), <unitdate>1840</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">42-71</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (3 of 4), <unitdate>1840</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">72-97</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (4 of 4), <unitdate>1840</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">98-108</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>1841</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">109-110</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>1842</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5825</container>
+<container type="frame">111-140</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (1 of 2), <unitdate>1843</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">141-163</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (2 of 2), <unitdate>1843</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">164-165</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>1844</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5825</container>
+<container type="frame">166-190</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (1 of 2), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">191-205</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts (2 of 2), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">206-207</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>1848</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5825</container>
+<container type="frame">208-223</container>
+<unittitle>Miscellaneous Loose Invoices and Receipts, <unitdate>undated</unitdate></unittitle>
+</did></c02><c02><did>
+<container type="reel">5825</container>
+<container type="frame">224-229</container>
+<unittitle>Miscellaneous Financial Material,<unitdate>1841-1845</unitdate></unittitle>
+</did></c02></c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Catalogs, <unitdate>1837-1871</unitdate></unittitle>
+<physdesc>(Boxes 3-5; Reel 5825; 1.0 linear foot)</physdesc></did>
+<scopecontent> 
+<p>Printed catalogs and duplicates for the Indian Gallery exhibitions in the United States and Europe.  The series is arranged chronologically by publication date. Duplicate copies are grouped together in folders. Folder headings include all oversize material.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">230-253</container>
+<unittitle><emph render="italic">Catalogue of Catlin's Indian Gallery of Portraits, Landscapes, Manners and Customs, Costumes, Etc.</emph> (New York, first edition),<unitdate>1837</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">254-279</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery; Containing Portraits, Landscapes, Costumes, Etc., and Representations of the Manners and Customs of the North American Indians</emph> (London edition, C. &amp; J. Adlard Printers),<unitdate>circa 1840 </unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">280-299</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery; Containing Portraits, Landscapes, Costumes, Etc., and Representations of the Manners and Customs of the North American Indians </emph> (London edition, C. &amp; J. Adlard Printers) (1 of 2),<unitdate>circa 1843</unitdate></unittitle><physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">300-319</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery; Containing Portraits, Landscapes, Costumes, Etc., and Representations of the Manners and Customs of the North American Indians</emph> (London edition, C &amp; J Adlard Printers) (2 of 2),<unitdate>circa 1843</unitdate></unittitle><physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">320-339</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery, Containing Portraits, Landscapes, Costumes, Etc., and Representations of the Manners and Customs of the North American Indians,</emph> (New York, first edition) (1 of 2),<unitdate>1845</unitdate></unittitle>
+</did><scopecontent><p>Includes insert, "Opinions of the English and United States Press on Catlin's North American Indian Museum." </p></scopecontent></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">340-359</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery, Containing Portraits, Landscapes, Costumes, Etc., and Representations of the Manners and Customs of the North American Indians,</emph> (New York, first edition) (2 of 2),<unitdate>1845</unitdate></unittitle>
+</did><scopecontent><p>Includes insert, "Opinions of the English and United States Press on Catlin's North American Indian Museum." </p></scopecontent></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">360-385</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Gallery, Containing Portraits, Landscapes, Costumes, Etc., and Representation of the Manners and Customs of the North American Indians</emph> (London edition, C. &amp; J. Adlard), <unitdate>1845</unitdate></unittitle>
+</did><scopecontent><p>Includes insert, <emph render="italic">Catalogue Raisonné de la Galerie Indienne de Mr. Catlin</emph> (Paris edition, Imprimerie de Wittersheim)</p></scopecontent></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">386-410</container>
+<unittitle><emph render="italic">Catalogue Raisonné de La Galerie Indienne de Mr. Catlin</emph> (Paris edition, Imprimerie de Wittersheim) (1 of 2), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">411-437</container>
+<unittitle><emph render="italic">Catalogue Raisonné de La Galerie Indienne de Mr. Catlin</emph> (Paris edition, Imprimerie de Wittersheim) (2 of 2), <unitdate>1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">438-467</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Collection; Containing Portraits, Landscapes, Costumes, Etc., and Representatives of the Manners and Customs of the North American Indians</emph> (notated London edition, self-published) (1 of 2),<unitdate>1848</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">468-486</container>
+<unittitle><emph render="italic">A Descriptive Catalogue of Catlin's Indian Collection; Containing Portraits, Landscapes, Costumes, Etc., and Representatives of the Manners and Customs of the North American Indians</emph> (notated London edition, self-published) (2 of 2),<unitdate>1848</unitdate></unittitle><physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">487-510</container>
+<unittitle><emph render="italic">Catalogue Descriptive and Instructive of Catlin's Indian Cartoons: Portraits, Types and Customs and LaSalle's Discoveries </emph> (New York edition, Baker and Godwin, printers) (1 of 2), <unitdate>1871</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">511-537</container>
+<unittitle><emph render="italic">Catalogue Descriptive and Instructive of Catlin's Indian Cartoons: Portraits, Types and Customs and LaSalle's Discoveries </emph> (New York edition, Baker and Godwin, printers) (2 of 2), <unitdate>1871</unitdate></unittitle>
+</did></c02>
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Ephemera and Miscellaneous Printed Material, <unitdate>1832-1904, 1946</unitdate></unittitle>
+<physdesc>(Boxes 5, 6, OV 7; Reel 5825; 14 folders)</physdesc></did>
+<scopecontent> 
+<p>This series consists of exhibition announcements, certifications of authenticity for Catlin's portraits and other paintings, miscellaneous broadsides, announcements, clippings, petitions in support of the proposed purchase of the Indian Gallery by Congress,  obituaries for George Catlin, reviews of the exhibitions, photogravures of Catlin, and a handwritten journal belonging to Catlin's son, Theodore, and other miscellaneous handwritten documents and printed matter.   Additional items of interest include a sheet music cover print used to advertise a music and dance performance by North American Indians who accompanied Catlin as part of his Indian Gallery exhibition in Paris and a handpainted mineral chart of previously unknown clay specimens gathered by Catlin during his travels among Indians in Minnesota, later named "Catlinite" in his honor. Folder headings include all oversize material.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">538-544</container>
+<unittitle>Certificates of Authenticity, <unitdate>1832-1836, 1872, undated</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">545-564</container>
+<unittitle>Reviews, <unitdate>circa 1837-1889 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">565-568</container>
+<unittitle>Copyright Registration for <emph render="italic">Letters and Notes on the Manners, Customs, and Condition of the North American Indians,</emph><unitdate>1841</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">569-570</container>
+<unittitle>London Subscription Form for Purchasing <emph render="italic">Letters and Notes on the Manners, Customs, and 	Condition of the North American Indians,</emph> <unitdate>circa 1840-1845</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">571-595</container>
+<unittitle>Rules and Regulations for the Government of the Athenaeum (London) (1 of 3),<unitdate>1840</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">596-615</container>
+<unittitle>Rules and Regulations for the Government of the Athenaeum (London) (2 of 3),<unitdate>1840</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">616-635</container>
+<unittitle>Rules and Regulations for the Government of the Athenaeum (London) (3 of 3),<unitdate>1840</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">636-638</container>
+<unittitle>Handwritten Tickets to Catlin Lecture by George Catlin, <unitdate>undated</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">639-660</container>
+<unittitle>Petitions to U. S. Congress to Authorize Purchase of Catlin's Indian Collection, <unitdate> circa 1840s-1875</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">661-673</container>
+<unittitle>Miscellaneous Announcements, Broadside, and Clippings,  <unitdate> 1840-1850, 1904, 1946 </unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">674-693</container>
+<unittitle>Miscellaneous Printed Matter (1 of 2), <unitdate>circa 1845-1889</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">694-714</container>
+<unittitle>Miscellaneous Printed Matter (2 of 2), <unitdate>circa 1845-1889 </unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">715-723</container>
+<unittitle>Envelopes, Name Cards, and Miscellaneous Collected Items, <unitdate> 1849-1861, undated</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">724-726</container>
+<unittitle>Photocopies of Title Pages for <emph render="italic">Letters by George Catlin Describing the Manners, Customs, and Conditions of the North American Indians</emph> (New York Commercial Advertisers), <unitdate> undated</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">727-732</container>
+<unittitle>Obituaries for George Catlin,  <unitdate> 1872</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">733-753</container>
+<unittitle>Theodore B. Catlin's Miscellaneous Journal (London), <unitdate> 1845</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="reel">5825</container>
+<container type="frame">754-760</container>
+<unittitle>Photographs and Photogravure of George Catlin,  <unitdate> 1868, undated</unitdate></unittitle>
+</did></c02>
+
+
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame"></container>
+<unittitle>Handpainted Mineral Chart, <unitdate>circa 1830s</unitdate></unittitle>
+</did></c02>
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+

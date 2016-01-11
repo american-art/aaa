@@ -1,0 +1,2566 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/webemax.xml">webemax</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Max Weber</titleproper>
+		<subtitle>A Finding Aid to the Max Weber Papers, <date type="inclusive">1902-2008</date>, in the Archives of American Art</subtitle>
+		<author>by Erin Kinhart</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">April 27, 2012</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Kinhart on
+<date>April 27, 2012</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Weber, Max</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Max Weber papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1902-2008</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">11.3 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of New York painter and sculptor Max Weber measure 11.3 linear feet and date from 1902-2008. The collection documents Weber's career as an artist through scattered biographical material; correspondence with artists, curators, universities, arts organizations, and others; exhibition and gallery files; personal business records; writings by Weber and others; exhibition catalogs, news clippings, and other printed material; photographs of Weber, exhibitions, and works of art; and audio and film recordings.  Also included are records maintained by Joy Weber on the exhibition and sale of Weber's work after his death.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>Collection is in English.</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="561" id="a19">
+<head>Provenance</head>
+<p>Material was lent for microfilming in 1959 by Max Weber and in 1969 by Mrs. Max Weber and daughter, Joy Weber. The bulk of the microfilmed material and additional papers were donated in 2011 by Joy Weber.</p>
+</acqinfo>
+
+<separatedmaterial encodinganalog="544 0" id="a7">
+<head>Separated Material</head>
+<p>Material lent for microfilming in 1959 and 1969 which was not included in the 2011 donation is available on microfilm reels NY59-6 to NY59-10, N69-82 to N69-88, and N69-112.</p>
+</separatedmaterial>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also found at the Archives of American Art is an Allen L. Wetmore letter from Max Weber, April 15, 1946.</p>
+</relatedmaterial>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed and a finding aid prepared by Erin Kinhart in 2012.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Max Weber papers, 1902-2008. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment. Use of archival audiovisual recordings with no duplicate access copy requires advance notice.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Max Weber papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Max Weber (1881-1961) was a painter and sculptor in New York City. </p>  
+
+<p>Weber was born in Bialystok, Russia.  When he was ten years old his family moved to Brooklyn, New York.  From 1898 to 1900 he attended Pratt Institute and studied theory and practice of design under Arthur Wesley Dow.  After graduating he briefly taught drawing in Lynchburg, Virginia, and Duluth, Minnesota.  In 1905 he moved to Paris to attend the Acad&#x00E9;mie Julian, studying under Jean-Paul Laurens, and later attended classes at the Acad&#x00E9;mie Colarossi and Acad&#x00E9;mie de la Grande Chaumiere.  In 1907 he attended Henri Matisse's studio class.  The influence of Matisse and friend Henri Rousseau transformed Weber's painting style to include elements of cubism and fauvism.</p>  
+
+<p>Weber returned to New York in 1909, and over the next few years he frequently exhibited at Alfred Stieglitz's gallery 291.   Initially his work was panned by American critics for being too modern.  Despite criticism, Weber exhibited his work extensively in the 1910s, and also began creating abstract sculptures.  In 1914 he helped his friend Clarence H. White open the White School of Photography and taught art history there for four years.  Also in 1914 his <emph render="italic">Cubist Poems</emph> were published in London.  His second book of poetry <emph render="italic">Primitives</emph> was published in 1926.</p>     
+<p>In 1916 Weber married Frances Abrams.  He began to explore narrative subjects in his paintings and in 1918 began carving woodblock prints.  He also taught at the Art Students League for the 1919-1921 and 1926-1927 sessions.  By the early 1920s he was recognized as an important American artist, serving as a leader in art organizations such as the Society of Independent Artists.  In 1930 Weber became the first American modernist to have a retrospective exhibition at the Museum of Modern Art.</p>  
+<p>In the 1930s Weber became more active in political and socialist causes, participating in many organizations throughout the Depression and World War II.  In 1937 he became the National Chairman of the American Artists' Congress.  By the 1940s, his work was widely known and influenced a new generation of American painters.  He continued to exhibit extensively, received many awards, such as the Temple Gold Medal at the Pennsylvania Academy of Fine Arts, and often served on art juries.  In 1955 he was elected to the National Institute of Arts and Letters and received an honorary doctorate from Brandeis University.  He died in Great Neck, New York, in 1961.
+</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of New York painter and sculptor Max Weber measure 11.3 linear feet and date from 1902-2008. The collection documents Weber's career as an artist through scattered biographical material; correspondence with artists, curators, universities, arts organizations, and others; exhibition and gallery files; personal business records; writings by Weber and others; exhibition catalogs, news clippings, and other printed material; photographs of Weber, exhibitions, and works of art; and audio and film recordings.  Also included are records maintained by Joy Weber on the exhibition and sale of Weber's work after his death.</p><p>
+Biographical material includes biographical summaries, obituaries, award certificates, and a small amount of family memorabilia. Weber's personal and professional correspondence includes discussions of exhibitions, sales, and donations of his work, as well was requests to teach, write, or lecture. Also found is correspondence with arts organizations, clubs, and committees in which he participated.  A small amount of family correspondence is also included.  Artists that Weber corresponded with include George Biddle, Arthur Davies, William Gropper, Chaim Gross, Marsden Hartley, Rockwell Kent, Leon Kroll, Barnett Newman, Raphael Soyer, and William Zorach, among many others. Weber also corresponded with many art historians and critics, gallery owners, and art patrons.  Joy Weber's correspondence primarily concerns the exhibition, loan, sale, and authentication of her father's artwork.</p><p>
+Exhibition files document various solo and group exhibitions of Weber's work. Five reels of motion picture film include footage of an exhibition at the Forum Gallery in 1975. Gallery files include correspondence, inventories, sales and loan records, gallery publications, and other documentation. Most files for exhibitions and galleries were created by Joy Weber after Max Weber's death in 1961. Personal business records include documents on sales, loans, and gifts of Max Weber's artwork; scattered financial documents; and mortgage and property records. Also found are files regarding his participation in the American Artists' Congress and art juries. Weber's writings primarily concern art theory, impressions of other artists, and social and political issues.  Additionally there are notes, drafts speeches, and writings by others about Weber.</p><p>
+Printed material is extensive and includes exhibition publications, press releases, and two published booklets written by Weber: "Art Consciousness" and "Things." Also found are news clippings, brochures, newsletters, and publications produced by art organizations, schools, and museums. Photographs include portraits and snapshots of Weber, depicting him working in his studio, participating in art juries, at art openings, and with his family. Photographs also depict installation views of exhibitions and numerous photographs of Weber's artwork. Audiovisual materials include one sound recording of a National Gallery program on Max Weber and five reels of motion picture film that include footage of an exhibition at the Forum Gallery in 1975.
+</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 9 series: </p>
+<list>
+<item>Series 1: Biographical Material, 1905-1995 (Box 1; 10 folders)</item>
+<item>Series 2: Correspondence, 1902-2007 (Box 1-5; 4.2 linear feet)</item>
+<item>Series 3: Exhibition Files, 1919-2003 (Box 5-6; 0.7 linear feet)</item>
+<item>Series 4: Gallery Files, 1926-2005 (Box 6-7; 0.9 linear feet)</item>
+<item>Series 5: Personal Business Records, 1906-2006 (Box 7; 0.8 linear feet)</item>
+<item>Series 6: Writings, circa 1910s-1999 (Box 7-8; 0.6 linear feet)</item>
+<item>Series 7: Printed Material, 1909-2008 (Box 8-10, 12; 2.6 linear feet)</item>
+<item>Series 8: Photographs, 1930s-circa 2000 (Box 10-11; 1.1 linear feet)</item>
+<item>Series 9: Audiovisual Material, 1954-2000 (Box 11; 3 folders)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+<corpname encodinganalog="610" source="lcsh">Forum Gallery (New York, N.Y.)</corpname>
+<corpname encodinganalog="611" source="lcsh">American Artists' Congress</corpname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art, American</subject>
+<subject encodinganalog="650" source="lcsh">Artists' studios--Photographs</subject>
+<subject encodinganalog="650" source="lcsh">Painters--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Painting, American</subject>
+<subject encodinganalog="650" source="lcsh">Sculptors--New York (State)--New York</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Motion pictures (visual works)</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Sound recordings</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Biddle, George, 1885-</persname>
+<persname encodinganalog="700" source="lcsh">Davies, Arthur B. (Arthur Bowen), 1862-1928</persname>
+<persname encodinganalog="700" source="lcsh">Gropper, William, 1897-</persname>
+<persname encodinganalog="700" source="lcsh">Gross, Chaim, 1904-1991</persname>
+<persname encodinganalog="700" source="lcsh">Hartley, Marsden, 1877-1943</persname>
+<persname encodinganalog="700" source="lcsh">Kent, Rockwell, 1882-1971</persname>
+<persname encodinganalog="700" source="lcsh">Kroll, Leon, 1884-1974</persname>
+<persname encodinganalog="700" source="lcsh">Newman, Barnett, 1905-1970</persname>
+<persname encodinganalog="700" source="lcsh">Soyer, Raphael, 1899-1987</persname>
+<persname encodinganalog="700" source="lcsh">Zorach, William, 1887-1966</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Material, <unitdate>1905-1995</unitdate></unittitle>
+<physdesc>(Box 1; 10 folders)</physdesc></did>
+<scopecontent> 
+<p>Biographical material includes award certificates, a copy of Weber's marriage certificate and wedding announcement, Weber's obituaries, and a small amount of family memorabilia.  Also found are biographical summaries, including a chronology, <emph render="italic">Who's Who</emph> articles, and a biographical summary written by art historian Percy North.  Also of interest is a list of public and private art collections containing works by Weber.  Notes for an interview appear to have been written by Joy Weber in preparation for an interview about her father.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Awards, <unitdate>circa 1941-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Biographical Summaries, <unitdate>circa 1926-1995</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Collections Containing Works by Weber, <unitdate>1940s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Family Memorabilia, <unitdate>1905-1923</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Identification Cards, <unitdate>circa 1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Marriage Certificate, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Notes for Interview, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Obituaries, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Papers at Archives of American Art, <unitdate>circa 1960s-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Wedding Announcement, <unitdate>1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+
+<!-- use this format if you have series and subseries -->
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1902-2007</unitdate></unittitle>
+<physdesc>(Box 1-5; 4.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p></p> 
+</scopecontent>
+
+<arrangement><p>The series is arranged as 2 subseries:</p> 
+<p>
+<list> 
+<item>2.1: Max Weber Correspondence, 1902-1969</item> 
+<item>2.2: Joy Weber Correspondence, 1960-2007</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>2.1: </unitid>
+<unittitle>Max Weber Correspondence, <unitdate>1902-1969</unitdate></unittitle></did>
+<scopecontent> 
+<p>Found here is Max Weber's personal and professional correspondence, the bulk of which dates from 1915 to 1961. There is correspondence with many fellow artists, including artists he met in his travels and participation in art organizations and committees. There is also correspondence with students and publishers, requests for him to teach, lecture, or write, and business correspondence regarding exhibitions, sales, and donations. There are also a few early letters written by Weber to his parents and letters written to his wife, Frances, and his children.</p><p>
+Artists that Weber corresponded with include George Biddle, Alvin Coburn, Arthur Davies, Marius de Zayas, Katherine Dreier, William Gropper, Chaim Gross, Marsden Hartley, Zoltan Hecht, Milton Horn, Rockwell Kent, Leon Kroll, Barnett Newman, Raphael Soyer, and William Zorach, among many others.  Weber also corresponded with many art historians and critics, curators, and gallery owners, such as Frank Crowninshield, Emily Genauer, J. B. Neumann, and Harry Salpeter, as well as art patrons Mabel Dodge, Milton and Edith Lowenthal, and Linda Miller. </p><p>
+Also found is correspondence with arts organizations, clubs, and committees in which he participated. This includes the American Federation of Arts, Artists Equity Association, Art in Federal Buildings, Municipal Art Committee of New York, and the National Institute of Arts and Letters, among many others. These files may contain copies of letters between other members as well as printed material sent out to members. Weber also corresponded with schools, galleries, and museums, primarily regarding his participation in events and exhibitions.  Also of note is correspondence and invitations regarding the 1945 inauguration of Franklin Roosevelt and the inauguration of John F. Kennedy. </p><p>
+In general, letters are filed alphabetically by person or corporate name. Names with five or more letters are filed in their own folders, and the remainder of correspondence is filed in miscellaneous alphabetical files. Selected correspondents whose names do not appear in headings are indicated in a note following the folder heading. Some correspondence with individuals may also be filed according to the name of the organization with which they were associated. Where they exist, drafts of Weber's outgoing letters are interfiled with incoming letters. 
+</p>
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Letters to Parents, <unitdate>1902, 1906</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">12-23</container>
+<unittitle>Letters to Frances Weber and Family, <unitdate>1915, 1918-1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">24-35</container>
+<unittitle>Letters to Frances Weber and Family, <unitdate>1925-1928</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">36-42</container>
+<unittitle>Letters to Frances Weber and Family, <unitdate>1929-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">43-44</container>
+<unittitle>Letters to Frances Weber and Family - Undated, <unitdate>circa 1915-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">45</container>
+<unittitle>Letters to Max Weber from Family, <unitdate>1917-1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>A.C.A. Gallery, <unitdate>circa 1936-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>Abbott, Jere (Smith College Museum of Art), <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">48</container>
+<unittitle>Albright Art Gallery, <unitdate>1940-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">49</container>
+<unittitle>American Academy of Arts and Letters, <unitdate>1953-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">50</container>
+<unittitle>American Art Research Council, <unitdate>1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">51</container>
+<unittitle>American Artists School, <unitdate>1936-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>American Federation of Arts, <unitdate>1939-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">53</container>
+<unittitle>American Fund for Palestinian Institutions, <unitdate>1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">54</container>
+<unittitle>American Institute of Graphic Arts, <unitdate>1925-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">55</container>
+<unittitle>American-Israel Cultural Foundation, <unitdate>1959-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">56</container>
+<unittitle>American Society of Painters, Sculptors, and Gravers, <unitdate>1930-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">57</container>
+<unittitle>Archives of American Art, <unitdate>1958-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">58</container>
+<unittitle>Art in Federal Buildings, Inc. (Forbes Watson), <unitdate>1940-1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">59-60</container>
+<unittitle>Art Institute of Chicago, <unitdate>1928-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">61</container>
+<unittitle>Art Students League of New York, <unitdate>1919-1947, 1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">62</container>
+<unittitle>Artists Equity Association, <unitdate>1947-1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">63-65</container>
+<unittitle>A, Miscellaneous, <unitdate>1917-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<scopecontent> 
+<p>(Includes letters from American Artists Group and John Taylor Arms)</p> 
+</scopecontent>
+</c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Bahr, A. W., <unitdate>1948, 1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Baltimore Museum of Art, <unitdate>1941-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Ben-Zion, <unitdate>circa 1949-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Bernheim Jeune et Cie, <unitdate>1923-1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Biddle, George, <unitdate>circa 1949-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Boston Public Library, <unitdate>1955-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Brandeis University, <unitdate>1955-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Brooklyn Museum, <unitdate>1939-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">9-10</container>
+<unittitle>B, Miscellaneous, <unitdate>1918-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Louis Bouche, Peter Bunnell, and Paul Burlin)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">11-12</container>
+<unittitle>Carnegie Institute, <unitdate>1923-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>City of New York Municipal Art Committee, <unitdate>1937-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Cleveland Museum of Art, <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Coburn, Alvin, <unitdate>circa 1916-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>College Art Association, <unitdate>1932-1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Columbia University, <unitdate>1937-1938, 1954-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Corcoran Gallery of Art, <unitdate>1932-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>Crowninshield, Frank, <unitdate>1915-1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">20-21</container>
+<unittitle>C, Miscellaneous, <unitdate>1910-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Dance International, <unitdate>1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Davidson, Israel, <unitdate>1936-1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>Davies, Arthur, <unitdate>circa 1913-1915</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>Davis, Aaron W., <unitdate>1946-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unittitle>Davis, Helen M., <unitdate>1935-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unittitle>De Casseres, Benjamin, <unitdate>circa 1915-1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">28-29</container>
+<unittitle>de Zayas, Marius, <unitdate>1919, 1947-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unittitle>Dirk, Nathaniel, <unitdate>circa 1915-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">31</container>
+<unittitle>Dodge, Mabel, <unitdate>circa 1910s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">32</container>
+<unittitle>Dreier, Katherine (Societe Anonyme), <unitdate>1920-1931</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">33</container>
+<unittitle>Dunoyer de Segonzac, Andre, <unitdate>1950-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unittitle>D, Miscellaneous, <unitdate>1906-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Jo Davidson, Stuart Davis, Terry Dintenfass, and Arthur Dove)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">35</container>
+<unittitle>E. W. Bohannon Scholarship Fund, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">36</container>
+<unittitle>E, Miscellaneous, <unitdate>1915-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Ehrich Galleries and Phillip Evergood)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">37</container>
+<unittitle>Federal Arts Committee, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">38</container>
+<unittitle>Fine Arts Foundation, <unitdate>1933-1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">39</container>
+<unittitle>Fitzpatrick, D. R., <unitdate>1941-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">40</container>
+<unittitle>Ford, Alice, <unitdate>circa 1944-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">41</container>
+<unittitle>Furlong, Thomas, <unitdate>1932-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">42</container>
+<unittitle>F, Miscellaneous, <unitdate>1934-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">43</container>
+<unittitle>George Eastman House, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">44</container>
+<unittitle>Genauer, Emily, <unitdate>1947-1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">45</container>
+<unittitle>Golden Gate International Exposition, <unitdate>1938-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">46</container>
+<unittitle>Grierson, Francis, <unitdate>1916-1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">47</container>
+<unittitle>Gropper, William, <unitdate>circa 1936-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">48</container>
+<unittitle>Gross, Chaim, <unitdate>circa 1950-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">49</container>
+<unittitle>G, Miscellaneous, <unitdate>1915-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from William Glackens, Arshile Gorky, Lena Gurr, and Robert Gwathmey)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">50</container>
+<unittitle>Halpert, Sam, <unitdate>1928-1929</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">51-53</container>
+<unittitle>Harris, Tudor, <unitdate>1927, 1931-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">54</container>
+<unittitle>Hartley, Marsden, <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">55</container>
+<unittitle>Hecht, Zoltan, <unitdate>1916-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">56</container>
+<unittitle>Heydenryk, H., <unitdate>1947-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">57</container>
+<unittitle>High School of Music and Art, <unitdate>1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">58</container>
+<unittitle>Hoppe, E. O., <unitdate>1920-1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">59</container>
+<unittitle>Horn, Milton and Estelle, <unitdate>1945-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">60</container>
+<unittitle>Hubbard, Marjorie, <unitdate>1943-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">61</container>
+<unittitle>H, Miscellaneous, <unitdate>1909-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Robert Henri and Stefan Hirsch)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">62</container>
+<unittitle>I, Miscellaneous, <unitdate>1923-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">63</container>
+<unittitle>Jewish Museum, <unitdate>1947-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">64</container>
+<unittitle>Jewish Survey, <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">65</container>
+<unittitle>John Simon Guggenheim Memorial Foundation, <unitdate>circa 1933-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">66</container>
+<unittitle>Joint Anti-Fascist Refugee Committee, <unitdate>1942-1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">67</container>
+<unittitle>J, Miscellaneous, <unitdate>circa 1933-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes draft letters to Edward Alden Jewell)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">68</container>
+<unittitle>Kennedy, John F., Inauguration, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">69</container>
+<unittitle>Kent, Rockwell, <unitdate>1937-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">70</container>
+<unittitle>Kroll, Leon, <unitdate>circa 1919-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">71</container>
+<unittitle>K, Miscellaneous, <unitdate>circa 1915-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Little Man Press, <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Lowenthal, Milton and Edith, <unitdate>circa 1944-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>L, Miscellaneous, <unitdate>circa 1905-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Isabel Lachaise, <emph render="italic">Life</emph> Magazine, and Louis Lozowick)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Mathews, Elkin, <unitdate>1914-1919</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Medical Bureau to Aid Spanish Democracy, <unitdate>1937-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Meixner, Mary, <unitdate>circa 1952-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Menorah Journal, <unitdate>1925-1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Merrill, Thomas D., <unitdate>1907-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Metropolitan Museum of Art, <unitdate>1934-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">10-12</container>
+<unittitle>Miller, Nathan and Linda, <unitdate>circa 1915-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Montross Gallery, <unitdate>1915-1923</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>Muhlstock, Louis, <unitdate>1956-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">15-17</container>
+<unittitle>Museum of Modern Art, <unitdate>circa 1930-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Museum of Tel-Aviv, <unitdate>1947-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">19-20</container>
+<unittitle>M, Miscellaneous, <unitdate>1915-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from the MacDowell Club, Marie Harriman, and a draft letter to Henri Matisse)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unittitle>National Council of American Soviet Friendship, <unitdate>1942-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>National Institute of Arts and Letters, <unitdate>1955-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">23-25</container>
+<unittitle>Neumann, J. B., <unitdate>1924-1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unittitle>Newark Museum, <unitdate>1928-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unittitle>Newman, Barnett, <unitdate>1938-1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">28</container>
+<unittitle>New York World's Fair, <unitdate>1939-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">29</container>
+<unittitle>North Shore Child Guidance Association, <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">30-31</container>
+<unittitle>N, Miscellaneous, <unitdate>circa 1922-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unittitle>O'Keeffe, Georgia (Photocopies), <unitdate>1926-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unittitle>O, Miscellaneous, <unitdate>1910-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>Paul Rosenberg &amp; Co., <unitdate>1942-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unittitle>Pearson, Ralph M., <unitdate>1939-1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>Pennsylvania Museum of Art, <unitdate>1934, 1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Pitt &amp; Scott, Ltd., <unitdate>1913-1923</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Portland Art Museum, <unitdate>1951-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>Pratt Institute, <unitdate>1955-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">40</container>
+<unittitle>Public Use of Art Committee, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">41</container>
+<unittitle>P, Miscellaneous, <unitdate>1908-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Walter Pach, Waldo Peirce, and George Picken)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>Reichman, Fred, <unitdate>1953-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">43</container>
+<unittitle>Rockefeller, Nelson A., <unitdate>circa 1937-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">44</container>
+<unittitle>Roosevelt, Franklin D., Inauguration, <unitdate>1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">45</container>
+<unittitle>Russian War Relief, Inc., <unitdate>1942-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">46</container>
+<unittitle>Q-R, Miscellaneous, <unitdate>1917-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Walter Quirt and Diego Rivera)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">47</container>
+<unittitle>Salaman (Lowy), Gertrude, <unitdate>1916-1929</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">48</container>
+<unittitle>Salpeter, Harry, <unitdate>1938-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">49-50</container>
+<unittitle>Sarkar, Benoy Kumar, <unitdate>1915-1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">51</container>
+<unittitle>Scholastic Awards, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">52</container>
+<unittitle>Schulte, Antoinette, <unitdate>1949-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">53</container>
+<unittitle>Segal, Samuel M., <unitdate>circa 1960-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">54</container>
+<unittitle>Skowhegan School of Painting and Sculpture, <unitdate>circa 1950-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">55</container>
+<unittitle>Soyer, Raphael, <unitdate>1953-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">56</container>
+<unittitle>Spanish Intellectual Aid, <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">57</container>
+<unittitle>Spingold, Nate and Frances, <unitdate>1955-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">58</container>
+<unittitle>State University of Iowa, <unitdate>1948-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">59-61</container>
+<unittitle>S, Miscellaneous, <unitdate>1906-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from Paul Sachs, John Sloan, Society of Independent Artists, and Maurice Sterne)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">62</container>
+<unittitle>Tucker, Richard, <unitdate>1960-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">63</container>
+<unittitle>T, Miscellaneous, <unitdate>circa 1918-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes letters from the Treasury Department, Procurement Division)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">64</container>
+<unittitle>United American Artists, <unitdate>1938-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">65</container>
+<unittitle>University of Georgia, <unitdate>1957-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">66</container>
+<unittitle>University of Minnesota, <unitdate>1948-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>U, Miscellaneous, <unitdate>1937-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">2-6</container>
+<unittitle>Van Noppen, Leonard and Adah, <unitdate>1911-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Van Noppen, Leonard and Adah - Photographs Included with Letters, <unitdate>circa 1911-1940s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>Virginia Museum of Fine Arts, <unitdate>1938-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>Von Kuirim, Anna, <unitdate>1908-1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>V, Miscellaneous, <unitdate>1937-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>Wadsworth Atheneum, <unitdate>1959-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Walker Art Center, <unitdate>circa 1946-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>Wallace for President, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>Warner, Keith, <unitdate>circa 1944-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Washburn College, <unitdate>1937-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Weichsel, John, <unitdate>1915-1917</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">17-18</container>
+<unittitle>Whitney Museum of American Art, <unitdate>1932-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>William Rockhill Nelson Gallery of Art, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Worcester Art Museum, <unitdate>1933-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Works Progress Administration (Federal Art Project), <unitdate>1936-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>W, Miscellaneous, <unitdate>1917-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>
+<p>(Includes a postcard from Abraham Walkowitz and a letter from Harold Weston)</p> 
+</scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Young, Art, <unitdate>1937-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">24-25</container>
+<unittitle>Zorach, William, <unitdate>1930-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">26</container>
+<unittitle>Y-Z, Miscellaneous, <unitdate>1938-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">27</container>
+<unittitle>Letters in Yiddish (Unidentified), <unitdate>circa 1920s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">28</container>
+<unittitle>Unidentified Correspondence, <unitdate>circa 1916-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+
+
+</c02>
+
+<c02 level="subseries"><did><unitid>2.2: </unitid>
+<unittitle>Joy Weber Correspondence, <unitdate>1960-2007</unitdate></unittitle></did>
+<scopecontent> 
+<p>Joy Weber's correspondence primarily concerns the exhibition, loan, sale, and authentication of her father's artwork.  Correspondence is with art historians, collectors, museums, galleries, universities, and students.  Also found are a few condolence letters addressed to Joy and her mother, Frances, after Weber's death.  Joy Weber maintained both alphabetical and chronological files of correspondence.  Files are arranged alphabetically by name of person or organization followed by general correspondence arranged chronologically.  Researchers should note that additional correspondence can be found in Series 3: Exhibition Files and Series 4: Gallery Files.</p>
+</scopecontent>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">29</container>
+<unittitle>Art Dealers Association of America, <unitdate>1989, 1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">30</container>
+<unittitle>Condolence Letters, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">31</container>
+<unittitle>Ellinger, Richard G., <unitdate>1962-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">32</container>
+<unittitle>Ford, Alice, <unitdate>1968-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">33</container>
+<unittitle>Harry N. Abrams, Inc., <unitdate>1971-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">34</container>
+<unittitle>Kelly, Lionel, <unitdate>1992-2001</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">35</container>
+<unittitle>Moser, Joann, <unitdate>1970-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">36</container>
+<unittitle>National Jewish Hospital, <unitdate>1988-2005</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">37-38</container>
+<unittitle>North, Percy, <unitdate>1969-2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">39</container>
+<unittitle>Requests for Authentification, <unitdate>1994-2004</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">40</container>
+<unittitle>Rubenstein, Daryl (Catalogue Raisonne Project), <unitdate>1974-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">41</container>
+<unittitle>Seeman, Joan, <unitdate>circa 1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">42</container>
+<unittitle>Story, Ala, <unitdate>circa 1968-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">43</container>
+<unittitle>Tarbell, Roberta, <unitdate>1970-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">44</container>
+<unittitle>Tate Modern, <unitdate>2004-2005</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">45</container>
+<unittitle>Torosian, Michael, <unitdate>1998-1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">46</container>
+<unittitle>Tucker, Richard, <unitdate>1964-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">47</container>
+<unittitle>Weber, Maynard J., <unitdate>2003-2004</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">48</container>
+<unittitle>Werner, Alfred, <unitdate>1960-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">49</container>
+<unittitle>White, Maynard, <unitdate>1973-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">50-57</container>
+<unittitle>General Correspondence, <unitdate>1961-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">1-21</container>
+<unittitle>General Correspondence, <unitdate>1975-2007</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle>General Correspondence - Undated, <unitdate>circa 1980s-1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Exhibition Files, <unitdate>1919-2003</unitdate></unittitle>
+<physdesc>(Box 5-6; 0.7 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Exhibition files document various solo and group exhibitions of Max Weber's work.  Most files were maintained by Joy Weber for exhibitions held after Max Weber's death.  Files may include correspondence, planning documents, loan forms, lists of works, press clippings, exhibition catalogs, and photographs.  Researchers should note that additional exhibition materials is filed in additional series, including Series 4: Gallery Files and Series 8: Photographs.  There is also motion picture film in Series 9: Audiovisual Materials that includes footage of a Forum Gallery exhibition in 1975.
+</p>
+</scopecontent>
+
+<arrangement> 
+<p>Files are arranged chronologically.</p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">23-24</container>
+<unittitle>Luxembourg Museum, "Exhibition of American Painting and Sculpture" (1919), <unitdate>1919-
+1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>Fort Worth Art Center, Inaugural Exhibition (1954), <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle>Jewish Museum, "Max Weber" (1956), <unitdate>1955-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">27-29</container>
+<unittitle>University of California Santa Barbara, "Max Weber Retrospective Exhibition" (1968), <unitdate>1967-
+1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">30-32</container>
+<unittitle>Court Galleries, "Five Decades of Pioneering Modern Art by Max Weber" (1970), <unitdate>1969-
+1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">33</container>
+<unittitle>Frame House Gallery, "Max Weber" (1970), <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">34</container>
+<unittitle>Pratt Institute, "Max Weber, 1881-1961: A 10th Year Commemorative" (1971), <unitdate>1971-
+1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle>University of California Santa Barbara (1972), <unitdate>1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">36-37</container>
+<unittitle>Harbor Gallery, "The Collected Woodcuts of Max Weber" (1973), <unitdate>1972-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">38-39</container>
+<unittitle>Forum Gallery, "Max Weber" (1979), <unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">40</container>
+<unittitle>Great Neck Library, "Max Weber" (1980), <unitdate>1979-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">41-43</container>
+<unittitle>Jewish Museum, "Max Weber: American Modern" (1982), <unitdate>1981-1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">44</container>
+<unittitle>Forum Gallery, "Max Weber" (1982), <unitdate>1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">45</container>
+<unittitle>High Museum of Art, "The Advent of Modernism: Post-Impressionism in North American Art, 1900-1918" (1986), 
+<unitdate>1985-1986</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">46</container>
+<unittitle>Santa Fe East Galleries, "Max Weber: An Exhibition of Paintings" (1987), <unitdate>1986-1987</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">47-48</container>
+<unittitle>High Museum of Art, "Max Weber: The Cubist Decade 1910-1920" (1991), <unitdate>1989-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>Jewish Museum, "Painting a Place in America" (1991), <unitdate>1991-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>Museum of New Mexico, "Proto-Modern Photography" (1992), <unitdate>1992-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>Jewish Museum, "Culture and Continuity: The Jewish Journey" (1993), <unitdate>1992-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>Albuquerque Museum, "Georgia O'Keeffe: From 291 to New Mexico" (1997), <unitdate>1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>Metropolitan Museum of Art, "Max Weber" (1999), <unitdate>1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>Albuquerque Museum, "Silent Things, Secret Things: Still Life from Rembrandt to the Millennium" (1999), 
+<unitdate>1999-2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Gerald Peters Gallery, "Max Weber" (2000), <unitdate>1999-2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Georgia O'Keeffe Museum, "Views of the City" (2000-2001), <unitdate>2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>Gerald Peters Gallery, "Max Weber: Early Drawings" (2003), <unitdate>2002-2003</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Gallery Files, <unitdate>1926-2005</unitdate></unittitle>
+<physdesc>(Box 6-7; 1.0 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Gallery files include correspondence, price lists, inventories, artwork sales and loan records, exhibition planning documents, notes, gallery publications, and photographs. After Max Weber's death in 1961, files were maintained by his daughter Joy and include her notes and correspondence with galleries.
+</p>
+</scopecontent>
+
+<arrangement> 
+<p>Files are arranged alphabetically by gallery name. Documents are arranged in rough chronological order within each folder.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>Associated American Artists, <unitdate>1940-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">11-14</container>
+<unittitle>Associated American Artists, <unitdate>1968-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">15-22</container>
+<unittitle>Bernard Danenberg Galleries, <unitdate>1969-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>Downtown Gallery, <unitdate>1926-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">24-34</container>
+<unittitle>Downtown Gallery, <unitdate>1950-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">35-37</container>
+<unittitle>Eva Lee Gallery, <unitdate>1964-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">38-41</container>
+<unittitle>Forum Gallery, <unitdate>1970-1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">1-3</container>
+<unittitle>Forum Gallery, <unitdate>1970-1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>Gerald Peters Gallery, <unitdate>2002-2005</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>Harbor Gallery, <unitdate>1973-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>J. B. Neumann's New Art Circle, <unitdate>1934-1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Personal Business Records, <unitdate>1906-2006</unitdate></unittitle>
+<physdesc>(Box 7; 0.7 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Personal business records include documents on sales and loans of Max Weber's artwork; scattered financial documents, such as cancelled checks, receipts, tax documents, and account books; and mortgage and property records.  Also found are files regarding his participation in the American Artists' Congress, Artists Union, and art juries.  Additional materials include records of gifts of Weber paintings to museums and universities, and numerous lists of works of art.  Most files regarding artwork were maintained and added to by Max Weber's daughter Joy after his death.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Files are arranged alphabetically. Items within folders are arranged in rough chronological order.</p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>Account Books, <unitdate>1938, 1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">8-13</container>
+<unittitle>American Artists' Congress, <unitdate>circa 1935-41</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">14</container>
+<unittitle>Artists' Cooperative Institution Agreement, <unitdate>1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">15</container>
+<unittitle>Artists Union, <unitdate>circa 1936-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">16</container>
+<unittitle>Artwork Framing, <unitdate>1956-1957, 2001-2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">17</container>
+<unittitle>Artwork Labels, <unitdate>1949-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">18</container>
+<unittitle>Artwork Restoration, <unitdate>1966-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">19</container>
+<unittitle>Artwork Sales Records, <unitdate>1919, circa 1939-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">20</container>
+<unittitle>Artwork Sales Records - Krasner Gallery, <unitdate>1957-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">21</container>
+<unittitle>Cancelled Checks, <unitdate>1917-1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">22</container>
+<unittitle>Copyright Registration, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">23</container>
+<unittitle>Donation of Max Weber's Library, <unitdate>1986</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">24</container>
+<unittitle>Estate Tax, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">25</container>
+<unittitle>Gift to Brandeis University, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">26</container>
+<unittitle>Gift to Israel Museum, <unitdate>circa 1966-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">27</container>
+<unittitle>Gift to Jewish Museum, <unitdate>2005</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">28</container>
+<unittitle>Gifts to Metropolitan Museum of Art, <unitdate>1985-1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">29</container>
+<unittitle>Gift to Montclair Art Museum, <unitdate>2002-2003</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">30</container>
+<unittitle>Gift to National Jewish Hospital, <unitdate>circa 1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">31</container>
+<unittitle>Gift to National Museum of American Art, <unitdate>1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">32</container>
+<unittitle>Gift to Newark Museum, <unitdate>1992-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">33</container>
+<unittitle>Gift to Santa Fe Concert Association, <unitdate>1994</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">34</container>
+<unittitle>Gifts to University of Minnesota, <unitdate>1997, 2001</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">35</container>
+<unittitle>Gift to University of New Mexico, <unitdate>1995, 1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">36</container>
+<unittitle>Gift to Yale University Art Gallery, <unitdate>1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">37</container>
+<unittitle>Insurance Certificates, <unitdate>1932-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">38</container>
+<unittitle>Jury Panels, <unitdate>1937-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">39</container>
+<unittitle>Lists of Works of Art, <unitdate>circa 1950s-1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">40</container>
+<unittitle>Loan Agreements, <unitdate>1935-1955, 2001</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">41</container>
+<unittitle>Loan of Matisse Tile, <unitdate>1971-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">42</container>
+<unittitle>Loan of Picasso Painting, <unitdate>1999-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">43</container>
+<unittitle>Loan of Rousseau Painting, <unitdate>1984-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">44</container>
+<unittitle>Loans to Museum of New Mexico, <unitdate>1993-2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">45</container>
+<unittitle>Los Angeles County Museum of Art Electronic Reproductions, <unitdate>2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">46</container>
+<unittitle>Mailing Receipts, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">47</container>
+<unittitle>Pepsi-Cola Art Competitions, <unitdate>1945-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">48-50</container>
+<unittitle>Property Records, <unitdate>1921-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">51</container>
+<unittitle>Receipts, <unitdate>1906-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">52</container>
+<unittitle>Tax Documents, <unitdate>1938, 1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">53</container>
+<unittitle>Whitney Museum of American Art Audio Guide, <unitdate>2000-2001</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">54</container>
+<unittitle>Workshop at Bowling Green State University, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Writings, <unitdate>circa 1910s-1999</unitdate></unittitle>
+<physdesc>(Box 7-8; 0.6 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Writings consist of draft manuscripts and typescripts by Max Weber as well as writings by others.  Weber's writings concern art theory, impressions of other artists such as Matisse, Rousseau, and Cezanne, as well as social and political issues.  Miscellaneous writings by Weber include untitled essays, fragments, notes, draft lectures and speeches, and lists.  Writings by others include essays about Weber as well as writings by his friend Temple Scott and poetry by his wife Frances.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Writings by Weber are filed first followed by writings by others which are arranged alphabetically by author.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">55</container>
+<unittitle>"Adult Dolls", <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">56</container>
+<unittitle>"Art Consciousness", <unitdate>1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">57</container>
+<unittitle>"Art Eternal", <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">58</container>
+<unittitle>"At the Tomb of Mrs. L. R. Miller", <unitdate>circa 1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">59</container>
+<unittitle>"The Matisse Class", <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">60</container>
+<unittitle>"Statement to National Gallery", <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder">61</container>
+<unittitle>"Whither American Art?", <unitdate>1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">1-3</container>
+<unittitle>Annotated Proofs of Essays, <unitdate>circa 1940s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>Letters to the Editor, <unitdate>1917-1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>Pocket Notebook, <unitdate>circa 1910s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>Writings on Cezanne, <unitdate>circa 1920s-1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>Writings on Plastic Art, <unitdate>circa 1940s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>Writings on Rousseau and Matisse, <unitdate>circa 1940s-1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">9-15</container>
+<unittitle>Miscellaneous Writings and Notes, <unitdate>1910s-1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>Notes Taken by Students in Life-Class at Art Students League, <unitdate>1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>Katherine Coffey, "Max Weber", <unitdate>circa 1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>Percy North, "Max Weber, Pablo Picasso, and the Introduction of Cubism to America", 
+<unitdate>1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>O. John Rogge, "An Appeal to Moderates", <unitdate>circa 1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>Temple Scott, "The Faubourg Saint Bronnex: A Study of a Post-Impressionist Artist", <unitdate>1911-
+1912</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">21</container>
+<unittitle>Temple Scott, "The Lady and the Singing Bird", <unitdate>circa 1910s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">22</container>
+<unittitle>Frances Weber, Poetry, <unitdate>circa 1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">23</container>
+<unittitle>Alfred Werner, Manuscript for "Max Weber", <unitdate>1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">24</container>
+<unittitle>Unknown Author, "Hyphenated American Modernists: Mark Rothko's Peers", <unitdate>circa 
+1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">25</container>
+<unittitle>Unknown Author, "Max Weber", <unitdate>circa 1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Printed Material, <unitdate>1909-2008</unitdate></unittitle>
+<physdesc>(Box 8-10, 12; 2.6 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Printed material is extensive and includes exhibition catalogs, announcements, and invitations for solo and group shows of Weber's work, press releases, and two published booklets written by Weber: "Art Consciousness" and "Things."   Also found are news clippings, magazines, brochures, newsletters, and publications produced by art organizations, schools, and museums.  Also of note are four volumes of <emph render="italic">Artlover</emph> published by J. B. Neumann.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Folders are arranged alphabetically. Items within each folder are arranged in rough chronological order.</p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">26</container>
+<unittitle>American Federation of Art Publications, <unitdate>1950-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">27</container>
+<unittitle><emph render="italic">Artlover: J. B. Neumann's Bilderhefte</emph>, <unitdate>circa 1935-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">28</container>
+<unittitle>Auction Catalogs, <unitdate>1970-1988, 2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">29</container>
+<unittitle>Book, <emph render="italic">Le Neo-Plasticisme</emph> by Piet Mondrian, <unitdate>1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">30</container>
+<unittitle>Booklet, "Art Consciousness" by Max Weber, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">31</container>
+<unittitle>Booklet, "Reminiscences" by Christian Bucheit, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">32</container>
+<unittitle>Booklet, "The Story of the Armory Show" by Walt Kuhn, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">33</container>
+<unittitle>Booklet, "Things" by Max Weber, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">34</container>
+<unittitle>Booklet, "Triumphs and Slavery of Modern Art" by Alice Garrett, <unitdate>circa 1932</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">35</container>
+<unittitle>Brandeis University Publications, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">36</container>
+<unittitle>Brochures and Catalogs for Newly Published Books, <unitdate>1914-circa 2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">37</container>
+<unittitle>"The Bulletin of the Museum of Modern Art", <unitdate>1933-1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">38</container>
+<unittitle>Congressional Publications, <unitdate>1937-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">39</container>
+<unittitle>Essays on Art (Not by Max Weber), <unitdate>1916-2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">40</container>
+<unittitle>Event Announcements and Programs, <unitdate>circa 1920s-2005</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">41-44</container>
+<unittitle>Exhibition Announcements and Invitations, <unitdate>1930-2008</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">45</container>
+<unittitle>Exhibition Catalogs - Lists of Catalogs, <unitdate>circa 1959, 1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container>
+<container type="folder">1-27</container>
+<unittitle>Exhibition Catalogs, <unitdate>1909-2004</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">1</container>
+<unittitle>Exhibition Catalogs - Undated, <unitdate>circa 1930s-1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">2</container>
+<unittitle>Exhibition Entry Forms and Membership Forms, <unitdate>circa 1930s-1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">3</container>
+<unittitle>Forum Magazine Excerpts, "The Artists Point of View", <unitdate>1936-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">4</container>
+<unittitle>International Institute of Arts and Letters Publications, <unitdate>1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">5</container>
+<unittitle>Museum Calendars, <unitdate>1983-2002</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">6</container>
+<unittitle>Museum Publications, <unitdate>circa 1930s-2001</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">7</container>
+<unittitle>Magazines, <unitdate>1929, 1940-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">8-17</container>
+<unittitle>News Clippings, <unitdate>1910s-2000s</unitdate></unittitle>
+<physdesc>(Oversize items housed in Box 12)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">18</container>
+<unittitle>News Clippings - Undated, <unitdate>circa 1920s-2000s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">19-21</container>
+<unittitle>Newsletters, <unitdate>1935-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">22</container>
+<unittitle>Pratt Institute Publications, <unitdate>1958-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">23</container>
+<unittitle>Press Releases, <unitdate>1937-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">24</container>
+<unittitle>Printed Material regarding Activism, <unitdate>1930s-1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">25</container>
+<unittitle>Printed Material regarding Benjamin De Casseres, <unitdate>circa 1920s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">26</container>
+<unittitle>Printed Material regarding Richard Tucker, <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">27</container>
+<unittitle>"Ralph M. Pearson's Design Workshop Courses by Mail", <unitdate>circa 1940-1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">28</container>
+<unittitle>Reproductions of Artwork, <unitdate>circa 1930s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">29</container>
+<unittitle>School Publications, <unitdate>1930s, 1950</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">30</container>
+<unittitle>Miscellaneous Printed Material, <unitdate>circa 1930s-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">12</container>
+<container type="folder"></container>
+<unittitle>News Clippings, <unitdate>1910s-1950s</unitdate></unittitle>
+<physdesc>(Oversize items from Box 10, Folders 8-17)</physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 8: </unitid><unittitle>Photographs, <unitdate>1930s-circa 2000</unitdate></unittitle>
+<physdesc>(Box 10-11; 1.1 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Photographs include portraits and snapshots of Max Weber, depicting him working in his studio, participating in art juries, at art openings, and with his family.  Also found are photographs of Weber giving a lecture at the Skowhegan School, and photographs of him at home with his family taken by International News Photo.  Photographs also depict installation views of exhibitions and numerous photographs of Weber's artwork.  Slides depict Weber giving lectures and exhibition installations.
+</p>
+</scopecontent>
+
+<arrangement> 
+<p>Photographs are arranged by subject.</p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">10</container>
+<container type="folder">31-33</container>
+<unittitle>Max Weber, <unitdate>circa 1930s-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">34</container>
+<unittitle>Max Weber in His Studio, <unitdate>circa 1950s-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">35</container>
+<unittitle>Max Weber with Others, <unitdate>circa 1940s-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">36</container>
+<unittitle>Max Weber at Whitney Museum of Art Exhibition, <unitdate>1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">37</container>
+<unittitle>Max Weber at Art Juries, <unitdate>circa 1950-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">38</container>
+<unittitle>Max Weber at Skowhegan School, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">39</container>
+<unittitle>Max Weber in Ft. Lauderdale, <unitdate>1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">40</container>
+<unittitle>Weber Family, <unitdate>circa 1940s-1950s, 2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">41</container>
+<unittitle>House in Great Neck, New York, <unitdate>circa 1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container>
+<container type="folder">42</container>
+<unittitle>Photographs Taken by International News Photos, <unitdate>1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">1</container>
+<unittitle>Exhibition Opening, University of California, Santa Barbara, <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">2-3</container>
+<unittitle>Exhibition Installations, Bernard Danenberg Galleries, <unitdate>1969-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">4-7</container>
+<unittitle>Exhibiiton Installations, Forum Gallery, <unitdate>circa 1987-1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">8</container>
+<unittitle>Exhibition Installations, Gerald Peters Gallery, <unitdate>circa 2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">9</container>
+<unittitle>Exhibition Installation, Joan Avnet Galleries, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">10</container>
+<unittitle>Exhibition Installations, Miscellaneous, <unitdate>circa 1931-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">11-19</container>
+<unittitle>Photographs of Artwork, <unitdate>circa 1940s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">20</container>
+<unittitle>Photographs of Artwork used in Abrams Book, <unitdate>circa 1940s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">21</container>
+<unittitle>Miscellaneous Photographs, <unitdate>circa 1940s, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">22</container>
+<unittitle>Color Transparencies, <unitdate>circa 1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">23</container>
+<unittitle>Negatives, <unitdate>circa 1960s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">27-28</container>
+<unittitle>Slides, <unitdate>1957-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 9: </unitid><unittitle>Audiovisual Materials, <unitdate>1954-2000</unitdate></unittitle>
+<physdesc>(Box 11; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>Found here is one sound recording of a National Gallery program, "This Week at the National Gallery" which disucsses Max Weber.  Also found is one unidentified film reel (8 mm.) from 1954 and four film reels (Super 8 mm.) from an exhibition at the Forum Gallery in 1975.</p>
+</scopecontent>
+
+<arrangement> 
+<p></p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">11</container>
+<container type="folder">24</container>
+<unittitle>"This Week at the National Gallery: Charlie Ritchie Discusses Max Weber", <unitdate>2000 January 
+1</unitdate></unittitle>
+<physdesc>(1 sound cassette)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">25</container>
+<unittitle>Unidentified Film, <unitdate>1954</unitdate></unittitle>
+<physdesc>(1 film reel)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11</container>
+<container type="folder">26</container>
+<unittitle>Forum Gallery Exhibition, "Max Weber", <unitdate>1975</unitdate></unittitle>
+<physdesc>(4 film reels)</physdesc>
+</did></c02>
+
+</c01>
+
+
+</dsc>
+
+
+</archdesc>
+</ead>
+
+

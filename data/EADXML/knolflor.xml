@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/knolflor.xml">knolflor</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Florence Knoll Bassett</titleproper>
+		<subtitle>A Finding Aid to the Florence Knoll Bassett Papers, <date type="inclusive">1932-2000</date>, in the Archives of American Art</subtitle>
+		<author>by Stephanie Ashley</author>
+<sponsor>Funding for the digitization of this collection was provided by the Terra Foundation for American Art.</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">2001</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Apex Data Services; revised by Stephanie Ashley, 
+<date>November, 2001</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>October 2005</date>
+<item>Finding aid updated from EAD v. 1.0 to v. 2002 by Stephanie Ashley</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Knoll, Florence (Florence Knoll Bassett)</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Florence Knoll Bassett papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1932-2000</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2.5 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of
+architect and designer Florence Knoll Bassett, measure approximately 2.5 linear
+feet dating from 1932 to 2000. Through correspondence, sketches, drawings,
+designs, subject files, photographs, and printed material, the collection
+selectively documents Knoll Bassett's education, her work with Knoll Associates
+from the 1940s until her resignation in 1965, and projects undertaken since her
+retirement. It is an important source of information on the development of
+interior architecture and design from the 1940s to the 1970s.</abstract>
+</did>
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The collection was donated to the Archives of American Art by
+Florence Knoll Bassett in 2000.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. Use requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Florence Knoll Bassett papers are owned by the Archives of
+American Art, Smithsonian Institution. Literary rights as possessed by the
+donor have been dedicated to public use for research, study, and scholarship.
+The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Florence Knoll Bassett papers, 1932-2000. Archives of American Art,
+Smithsonian Institution.</p>
+</prefercite>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The collection was digitized in 2007 and is available online via the Archives of American Art website.</p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>Florence Knoll Bassett arranged the papers and designed their storage units
+before donating them to the Archives of American Art. Stephanie Ashley
+conducted minimal processing work on the collection in 2001, retaining the
+original order of the papers, the labels, and the containers provided by the donor. The collection was digitized in 2007 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Florence Knoll Bassett was born Florence Schust in 1917 and was
+affectionately known as Shu by her colleagues and friends. She was orphaned at
+age 12 and then cared for by Emile Tessin, a friend of the family whom her
+mother had appointed as Florence's legal guardian in the event of her death.
+When arrangements were being made for Florence to attend boarding school she
+was given the opportunity to make the selection. Kingswood School in Bloomfield
+Hills, Michigan, held a strong aesthetic appeal for her and she "made an
+immediate decision that it was the right place for me," beginning her
+architectural studies under the school's art director, Rachel de Wolfe
+Raseman.</p> 
+<p>At Kingswood Knoll Bassett met the Saarinen family, studying under
+Eliel Saarinen and developing her interest in texture and color through her
+friendship with Loja Saarinen who supervised the school's weaving studio.
+Following Florence's graduation from Kingswood in 1934, Eliel Saarinen
+encouraged her to spend some time at Cranbrook Academy of Art before attending
+an accredited architecture school. She spent the next two years at Cranbrook
+working closely with advanced students and artists such as the Saarinens and
+Carl Milles, and gaining experience in all aspects of design.</p> 
+<p>Knoll Bassett then studied for two years at the Architectural
+Association in London, spending summers with the Saarinens in Europe. She
+completed her formal training at the Illinois Institute of Technology where she
+studied under Mies van der Rohe, whom she credits with having "a profound
+effect on my design approach and the clarification of design."</p> 
+<p>After graduation Knoll Bassett worked for architecture firms in Boston
+and New York where she met Hans Knoll who was then in the process of
+establishing a furniture business. In 1943 she began working for him in her
+spare time as an interior space planner and designer. In 1946 the two were
+married and formed Knoll Associates, Inc.</p> 
+<p>As director of the Knoll Planning Unit, Knoll Bassett established
+herself as one of the most important and influential interior planners and
+designers of the second half of the twentieth century. Believing that
+intelligent design "strikes at the root of living requirements and changing
+habits," she established the practice of working closely with the corporate
+sector to determine the needs of the people who would actually use the spaces
+that her company designed. Her connections with leading contemporary architects
+and designers, and the company's commitment to crediting designers by name and
+paying them royalties, laid the foundations for the strong working
+relationships upon which the commercial success of Knoll Associates was built.
+Drawing on a pool of top architects and designers, many of whom were personal
+friends, Knoll Bassett directed the company's Bauhaus approach, incorporating
+design excellence, technological innovation, and mass production in a seamless
+package of "total design."</p> 
+<p>While Knoll Bassett oversaw the creative process of the Planning
+Unit's operations in its entirety, she was also directly responsible for many
+of the individual elements used in the Unit's projects. During the war years,
+she worked with her designers to overcome the scarcity of materials,
+establishing Knoll Textiles in response to the dearth of available fabrics and
+textile colors, and developing the company's hallmark style of spare clean
+lines and vibrant colors in a functional, comfortable, and aesthetically
+appealing space. Finding that much of the "fill-in" furniture, primarily
+cabinetry, that she envisaged in many of her plans was not available, Knoll
+Bassett designed the pieces herself. She used the Knoll showrooms as "experimental laboratories" to convince clients to use modern ideas and
+materials, showcasing and putting into production the classic designs of people
+such as Eero Saarinen, Mies van der Rohe, Jens Risom, Harry Bertoia, Isamu
+Noguchi, and Marcel Breuer.</p> 
+<p>After the war Knoll Associates expanded to Europe through a series of
+government contracts which resulted ultimately in the formation of Knoll
+International. When Hans Knoll died suddenly in an automobile accident in 1955
+Florence became president of the company. She married Harry Hood Bassett in
+1958 and began to divide her time between New York and Florida. In 1959 she
+sold her interest in Knoll Associates to Art Metal and retired as President of
+the company the following year, while continuing to work as a consultant and
+serving as Design Director. In 1961 she became the first woman to be awarded
+the Gold Medal for Industrial Design by the American Institute of Architects,
+one of many awards received over the course of her career. In 1965 she resigned
+from Knoll Associates entirely after completing the interior design for the CBS
+headquarters in New York.</p> 
+<p>Following her retirement Knoll Bassett devoted more time to private
+commissions and other interests such as her campaign against billboards in
+Miami in the mid 1980s. She spent summers in Vermont and winters in Florida
+with her husband, until his death in 1991. In July 2001, <emph
+render="italic">Metropolis </emph>magazine published a rare interview with
+Knoll Bassett in which she reflects upon the life she so skillfully documented
+in the extraordinary gift of her archival papers to the Archives of American
+Art.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of architect, and interior designer and planner Florence
+Knoll Bassett, measure approximately 2.5 linear feet dating from 1932 to 2000.
+The collection selectively documents Knoll Bassett's education and her career
+at Knoll Associates, Inc. from the 1940s until her resignation in 1965, in
+addition to personal design projects and other activities after leaving the
+company. It is an important source of information on the development of
+interior architecture and design from the 1940s to the 1970s, chronicling the
+Knoll mission to synthesize space, furniture, and design by creating interiors
+based on practical use, comfort, and aesthetics.</p> 
+<p>The collection documents the growth of Knoll's international
+reputation for its modern furnishings and interiors and the impact of a
+business philosophy that encompassed design excellence, technological
+innovation, and mass production. The material includes a chronology of Knoll
+Bassett's career; a portfolio of sketches, drawings and designs; photographs of
+Knoll Bassett and others; subject files containing sketches and photographic
+material; letters from friends, colleagues, clients and others; awards received
+by Knoll Bassett throughout her career; and printed material.</p> 
+<p>Much of the material is annotated with historical and biographical
+notes written by Knoll Bassett which provide invaluable contextual information
+for the materials found therein. The notes are dated 1999 in the Container
+Listing, under the assumption that they were written by Florence Knoll Bassett
+as she was arranging her archival papers.</p> 
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>Before donating her papers to the Archives of American Art, Knoll
+Bassett organized the material in portfolios and color-coded files and designed
+four containers for them. Because the method of arrangement in itself provides
+insight into Knoll Bassett's style and creativity the collection has been
+minimally processed with the addition of acid-free materials for preservation
+reasons and the transcription of labels which may, over time, become detached.
+The original order of the collection has been retained throughout.</p> 
+<p>The collection was organized into what Bassett termed "storage units,"
+the first container being divided into three units and the collection as a
+whole being divided into six units. Knoll Bassett supplied a detailed inventory
+of the contents of each container and the subjects represented in each porfolio
+or folder. Subject headings from this inventory have been used in the Series Description/Container Listing. Knoll Bassett also supplied a vita summarizing her career and copies
+of this, and her original container inventory are enclosed with the collection
+and can be consulted at AAA's research center in Washington D.C.</p> 
+<p>The collection is arranged as seven series. These series represent
+the categories into which Knoll Bassett organized the material, with the
+exception that Letters and Awards are presented as two series in the finding
+aid. Most of the items in Series 1 to 4 are presented as portfolios in
+spiral-bound notebooks and the remainder of the collection is organized in
+folders.</p> 
+<list> 
+<item>Series 1: Biographical Material, 1932-1999 (Box 1; 1
+portfolio)</item> 
+<item>Series 2: Selected Publications, 1946-1990, 1999 (Box 1; 1
+portfolio)</item> 
+<item>Series 3: Drawings, Sketches, and Designs, 1932-1984, 1999 (Boxes
+1-2; 2 portfolios)</item> 
+<item>Series 4: Photographs and Printed Material, 1956-1997, 1999 (Box
+2; 1 portfolio)</item> 
+<item>Series 5: Subject Files, circa 1930s-1999 (Box 3; 1.0 linear
+ft.)</item> 
+<item>Series 6: Letters, circa 1930s-2000 (Box 4; 7 folders)</item> 
+<item>Series 7: Awards, 1954-1999 (Box 4; 6 folders)</item> 
+</list> 
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Saarinen, Eero, 1910-1961</persname>
+<corpname encodinganalog="610" source="lcsh">Cranbrook Academy of Art</corpname>
+<corpname encodinganalog="610" source="lcsh">Knoll Associates, inc.</corpname>
+<corpname encodinganalog="610" source="lcsh">Cranbrook Kingswood School (Bloomfield Hills, Mich.)</corpname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Architects</subject>
+<subject encodinganalog="650" source="lcsh">Women architects</subject>
+<subject encodinganalog="650" source="lcsh">Interior decoration</subject>
+<subject encodinganalog="650" source="lcsh">Interior decoration firms</subject>
+<subject encodinganalog="650" source="lcsh">Interior decorators</subject>
+<subject encodinganalog="650" source="lcsh">Design, Industrial</subject>
+<subject encodinganalog="650" source="lcsh">Furniture designers</subject>
+<subject encodinganalog="650" source="lcsh">Women designers</subject>
+<subject encodinganalog="650" source="lcsh">Designers</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head> 
+<genreform encodinganalog="655" source="lcsh">Drawings</genreform>
+<genreform encodinganalog="655" source="lcsh">Sketches</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Sketchbooks</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Miller, R. Craig</persname>
+<persname encodinganalog="700" source="lcsh">Slavin, Maeve</persname>
+<persname encodinganalog="700" source="lcsh">Saarinen, Eero, 1910-1961</persname>
+<persname encodinganalog="700" source="lcsh">Saarinen, Eliel, 1873-1950</persname>
+<persname encodinganalog="700" source="lcsh">Milles, Carl, 1875-1955</persname>
+<persname encodinganalog="700" source="lcsh">Cheek, Leslie, 1908-</persname>
+<persname encodinganalog="700" source="lcsh">Eames, Charles</persname> 
+<persname encodinganalog="700" source="lcsh">Gandhi, Indira, 1917-1984</persname>
+<persname encodinganalog="700" source="lcsh">Graham, Katharine, 1917-</persname>
+<persname encodinganalog="700" source="lcsh">Johnson, Philip, 1906-</persname>
+<persname encodinganalog="700" source="lcsh">Reagan, Nancy, 1923-</persname>
+<persname encodinganalog="700" source="lcsh">Helm, John</persname>
+<persname encodinganalog="700" source="lcsh">Knoll, Walter C.</persname>
+<persname encodinganalog="700" source="lcsh">Raseman, Rachel de Wolfe</persname>
+<corpname encodinganalog="710" source="lcsh">Hans G. Knoll Furniture Company</corpname>
+<corpname encodinganalog="710" source="lcsh">Knoll Associates, inc.</corpname>
+<corpname encodinganalog="710" source="lcsh">Knoll International, inc.</corpname>
+</controlaccess>
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series"> 
+<did> 
+<unitid>Series 1:</unitid> 
+<unittitle>Biographical Material, 
+<unitdate>1932-1999</unitdate></unittitle> 
+<physdesc>(Box 1; 1 portfolio)</physdesc> 
+</did> 
+<scopecontent> 
+<p>This series comprises a spiral-bound portfolio designed and
+compiled by Knoll Bassett to "briefly chart the direction of my life from 1932
+onward." The portfolio documents her artistic development during her years at
+Kingswood School and Cranbrook Academy of Art; her work at Knoll Associates
+including the presentation of Knoll showrooms and work undertaken for a variety
+of corporate clients; and personal architecture projects in Vermont and
+Florida. Included are copies of designs from all periods of her career, and
+copies of letters and photographs of individuals and significant events
+throughout her life. Biographical text, written by Knoll Bassett, accompanies
+the material.</p> 
+</scopecontent> 
+<arrangement>
+<p>Included are copies of designs from all periods of her career, and
+copies of letters and photographs of individuals and significant events
+throughout her life. Biographical text, written by Knoll Bassett, accompanies
+the material.</p>
+</arrangement> 
+<c02> 
+<did> 
+<container type="box">1</container> 
+<container type="folder">1</container> 
+<unittitle>Portfolio: A Chronology of Florence Knoll Bassett from
+1932 Onward, compiled 
+<unitdate>1999</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 2:</unitid> 
+<unittitle>Selected Publications, 
+<unitdate>1946-1990, 1999</unitdate></unittitle> 
+<physdesc>(Box 1; 1 portfolio)</physdesc> 
+</did> 
+<scopecontent> 
+<p>This series comprises a spiral-bound portfolio of copies of
+articles documenting Knoll Bassett's career in various art and design
+publications, newspapers, and encyclopedias. See Series 4 for additional printed material.</p> 
+</scopecontent> 
+<c02> 
+<did> 
+<container type="box">1</container> 
+<container type="folder">2</container> 
+<unittitle>Portfolio: Selected Publications from 1946 until 1990,
+compiled 
+<unitdate>1999</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 3:</unitid> 
+<unittitle>Drawings, Sketches, and Designs, 
+<unitdate>1932-1984, 1999</unitdate></unittitle> 
+<physdesc>(Boxes 1-2; 2 portfolios)</physdesc> 
+</did> 
+<scopecontent> 
+<p>The first item in this series is a portfolio of original, and
+copies of, drawings, sketches, plans, and miscellany, such as two greeting
+cards designed by Hans and Florence Knoll, in addition to copies of printed
+matter and photographs of projects undertaken by Knoll Associates. The majority
+of the designs were executed by Knoll Bassett for her own use or as more formal
+presentations for clients, but there are also copies of sketches by others
+including Hans Knoll and Andy Warhol. The material includes the original
+drawing for Knoll Bassett's first house design at Kingswood School, executed in
+1932. Material relating to Knoll projects illustrate Knoll Bassett's practice
+of using three-dimensional models with fabric swatches applied to furniture
+layout plans for client presentations, a technique which later became a
+standard in the profession. The portfolio is annotated by Knoll Bassett.</p> 
+<p>A spiral-bound portfolio containing sketches by Knoll Bassett of a
+cruise of the Greek Islands in 1967 can also be found here.</p> 
+</scopecontent> 
+<c02> 
+<did> 
+<container type="box">1</container>
+<container type="folder">3</container>  
+<unittitle>Portfolio: Drawings and Sketches, 
+<unitdate>1932-1984, compiled 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">2</container> 
+<container type="folder">1</container> 
+<unittitle>Portfolio: Greek Islands, 
+<unitdate>1967</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 4:</unitid> 
+<unittitle>Photographs and Printed Material, 
+<unitdate>1956-1997, 1999</unitdate></unittitle> 
+<physdesc>(Box 2; 1 portfolio, 1 book)</physdesc> 
+</did> 
+<scopecontent> 
+<p>This series contains a spiral-bound portfolio of six photographic
+prints of Knoll Bassett with clients and colleagues, including Eero Saarinen,
+from the 1950s and 1960s, followed by printed material from 1959 to 1997
+documenting her career. A copy of the book, <emph render="italic">Knoll
+Design</emph>, can also be found here. See Series 2 for additional printed material.</p> 
+</scopecontent> 
+<c02> 
+<did> 
+<container type="box">2</container> 
+<container type="folder">2</container> 
+<unittitle>Portfolio: Photographs of Florence Knoll and Others and
+Articles in Newspapers and Magazines, 
+<unitdate>1956-1997, compiled 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">2</container>
+<container type="folder">3</container>  
+<unittitle>Book: <emph render="italic">Knoll Design, </emph>by Eric
+Larrabee and Massimo Vignelli, Harry N. Abrams Inc., New York, 
+<unitdate>1985</unitdate></unittitle> 
+<physdesc>(not scanned)</physdesc></did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 5:</unitid> 
+<unittitle>Subject Files, 
+<unitdate>circa 1930s-1999</unitdate></unittitle> 
+<physdesc>(Box 3; 1.0 linear ft.)</physdesc> 
+</did> 
+<scopecontent> 
+<p>The series contains original, and copies of notes, letters,
+drawings, sketches, plans, photographic material, and printed matter, as well
+as historical notes written by Knoll Bassett. Originals of some of the material
+in Series 1 can be found here.</p> 
+<p>Folders 1 and 2 contain material relating to Knoll Bassett's
+education and her relationship with the Saarinen family, including original
+illustrated letters from Eero Saarinen. The majority of the material relates to
+projects undertaken by the Knoll Planning Unit, including showroom designs and
+some of the company's most important and innovative projects for corporate
+clients. The files typically contain annotated plans and sketches in addition
+to photographs, transparencies, and negatives of each project. Specific aspects
+of the Planning Unit's operations, such as the development of textiles and
+graphics, are also documented here, as are the individual contributions of
+early Knoll designers. Material relating to personal projects undertaken by
+Knoll Bassett in Vermont and Florida is also included here.</p> 
+<p>This series was arranged by Knoll Bassett in numbered folders,
+some of which contain two or more related sub folders which are indicated by
+an indent in the Container Listing.</p> 
+</scopecontent> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">1</container> 
+<unittitle>Kingswood; Cranbrook Academy of Art,
+<unitdate>circa 1930s, 1983-1994, undated</unitdate></unittitle> 
+</did> 
+<scopecontent><p>(Kingswood includes photographs of
+Rachel de Wolfe Raseman, taken 1936; Cranbrook includes photos of Eliel and Eero Saarinen and Carl Milles)</p></scopecontent>
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">2</container> 
+<unittitle>Eero Saarinen, Letters and "Architecture History Lesson"
+Drawings; Loja Saarinen, Original Model and Photographs of Model
+of Dress, 
+<unitdate>1935-1936, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">3</container> 
+<unittitle>Coral Gables, Florida; New York City, 
+<unitdate>circa 1950s, undated</unitdate></unittitle> 
+</did>
+<scopecontent><p>(includes photographs of Sutton Place and Manhattan house residences)</p></scopecontent> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">4</container>  
+<unittitle>Vermont House: Main House, Guest House, Farm Buildings and View, Tennis Barn and Studio, <unitdate>circa 1980s-circa 1990s</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">5</container>  
+<unittitle>Florence Knoll Furniture Designs: Article by Craig Miller, Seating and Tables, Storage Units, Office Furniture and Dormitory Design, <unitdate>circa 1940s-1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">6</container> 
+<unittitle>Early Knoll Designers, Furniture, 
+<unitdate>circa 1930s-circa 1940s, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">7</container> 
+<unittitle>Knoll Graphics, Herbert Matter, 
+<unitdate>circa 1950s-circa 1960s, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">8</container>  
+<unittitle>Knoll Textiles, 
+<unitdate>circa 1950s-circa 1960s, 1988, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">9</container> 
+<unittitle>Knoll Exhibitions: Mies van der Rohe; Knoll au Louvre; Dow Chemical and Detroit Institute of Arts; Textilien aus U.S.A., <unitdate>circa 1940s-1999, undated</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">10</container>  
+<unittitle>Knoll Showroom, 601 Madison Avenue, New York, 
+<unitdate>1948, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">11</container> 
+<unittitle>Knoll Showrooms, Dallas, Paris, and Miami, 
+<unitdate>1947-1959</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">12</container> 
+<unittitle>Knoll Showroom, 575 Madison Avenue, New York, 
+<unitdate>1951, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">13</container> 
+<unittitle>Knoll Showroom, Chicago, 
+<unitdate>1953, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">14</container> 
+<unittitle>Knoll Showroom, San Francisco, 
+<unitdate>1954</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">15</container> 
+<unittitle>Knoll Showroom, Milan, 
+<unitdate>1956</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">16</container> 
+<unittitle>Knoll Showroom, Los Angeles, 
+<unitdate>1960</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">17</container>  
+<unittitle>Columbia Broadcasting Systems, Inc. (CBS), Madison Avenue,
+<unitdate>1952-1954, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">18</container> 
+<unittitle>Look Publications, 
+<unitdate>circa 1962</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">19</container>  
+<unittitle>Connecticut General Building, 
+<unitdate>circa 1950s, 1984</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">20</container> 
+<unittitle>H. J. Heinz Company, 
+<unitdate>1999, undated</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container> 
+<container type="folder">21</container> 
+<unittitle>First National Bank of Miami and Southeast Bank, 
+<unitdate>1957, 1982, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">22</container>  
+<unittitle>Columbia Broadcasting Systems, Inc. (CBS): General, 35th Floor, Frank Stanton's Office Suite, <unitdate>1964</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">3</container>
+<container type="folder">23</container>  
+<unittitle>Knoll Bassett's Inventory of Box 3, <unitdate>1999</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 6:</unitid> 
+<unittitle>Letters, 
+<unitdate>circa 1930s-2000</unitdate></unittitle> 
+<physdesc>(Box 4; 7 folders)</physdesc> 
+</did> 
+<scopecontent> 
+<p>This series contains letters selected by Knoll Bassett to document
+significant events throughout her life and career. As in Series 5, the
+originals for some of the material in Series 1 can be found here.
+Correspondents include Carl Milles, Eero and Loja Saarinen, David Rockefeller,
+Katharine Graham, Nancy Reagan, Indira Ghandi, Frank Stanton, and Isamu
+Noguchi. In addition to letters the series also contains printed matter and
+other material of interest, such as an original invitation with a guest list
+and photographs from a 1947 party given by Howard Meyers, Editor-in-Chief of
+<emph render="italic">Architectural Forum</emph> a wedding card made by Charles
+and Ray Eames on the occasion of Florence Knoll's marriage to Harry Hood
+Bassett in 1958; and an invitation from the White House from 1976.</p> 
+<p>The letters are arranged by decade.</p> 
+</scopecontent>
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">1</container> 
+<unittitle>Knoll Bassett's Inventory of Box 4, Letters,
+<unitdate>1999</unitdate></unittitle> 
+</did> 
+</c02>  
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">2</container> 
+<unittitle>Letters (1930s-1940s), 
+<unitdate>1936-1947, 1999</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">3</container> 
+<unittitle>Letters (1950s), 
+<unitdate>1953-1959</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">4</container> 
+<unittitle>Letters (1960s), 
+<unitdate>1961-1968</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">5</container> 
+<unittitle>Letters (1970s), 
+<unitdate>1972-1978</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">6</container> 
+<unittitle>Letters (1980s), 
+<unitdate>1980-2000</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">7</container> 
+<unittitle>Letters (1990s), 
+<unitdate>1984, 1991-1999</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+<c01 level="series"> 
+<did> 
+<unitid>Series 7:</unitid> 
+<unittitle>Awards, 
+<unitdate>1954-1999</unitdate></unittitle> 
+<physdesc>(Box 4; 6 folders)</physdesc> 
+</did> 
+<scopecontent> 
+<p>This series documents some of the awards and honorary degrees
+presented to Knoll Bassett over the course of her career, including the Gold
+Medal for Industrial Design awarded by the American Institute of Architects in
+1961 and the Total Design Award given by the American Society of Interior
+Designers in 1977. Materials include award certificates with related
+correspondence and printed material. In some cases there are also notes for, or
+the text of, remarks given by Knoll Bassett upon acceptance of an award.</p> 
+<p>The material is arranged by decade.</p> 
+</scopecontent> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">8</container> 
+<unittitle>Knoll Bassett's Inventory of Box 4, Awards,
+<unitdate>1999</unitdate></unittitle> 
+</did> 
+</c02>
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">9</container> 
+<unittitle>Awards (1950s), 
+<unitdate>1954-1956</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">10</container> 
+<unittitle>Awards (1960s), 
+<unitdate>1961-1965</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">11</container> 
+<unittitle>Awards (1970s), 
+<unitdate>1976-1979</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">12</container> 
+<unittitle>Awards (1980s), 
+<unitdate>1982-1989</unitdate></unittitle> 
+</did> 
+</c02> 
+<c02> 
+<did> 
+<container type="box">4</container> 
+<container type="folder">13</container> 
+<unittitle>Awards (1990s), 
+<unitdate>1990-1999</unitdate></unittitle> 
+</did> 
+</c02> 
+</c01> 
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+
+

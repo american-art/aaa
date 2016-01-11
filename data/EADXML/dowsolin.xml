@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/dowsolin.xml">dowsolin</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Olin Dows</titleproper>
+		<subtitle>A Finding Aid to the Olin Dows Letters, <date type="inclusive">1938-1949</date> <date type="bulk"></date>, in the Archives of American Art</subtitle>
+		<author>by Erin Kinhart</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">October 31, 2011</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Kinhart on
+<date>October 31, 2011</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Dows, Olin</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Olin Dows letters</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1938-1949</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.2 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">This small collection of letters to and from painter and arts administrator Olin Dows measures 0.2 linear feet and dates from 1938 to 1949. The letters primarily document his work as director of the Treasury Relief Art Project, as an admistrator for the American Federation of Arts, and his work as a war artist. Much of the correspondence is with arts administrators Edward Bruce and Forbes Watson.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>Collection is in English.</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="561" id="a19">
+<head>Provenance</head>
+<p>Letters were donated in 1962 by Olin Dows; the provenance of one letter (on microfilm reel 2803) is unknown.</p>
+</acqinfo>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also at the Archives of American Art is an interview of Olin Dows conducted on October 31, 1963, by Harlan Phillips.</p>
+</relatedmaterial>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The collection is available on 35 mm microfilm reels NDA 14 and 2803 at Archives of American Art offices, and through interlibrary loan.</p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was microfilmed upon receipt on reel NDA 14.  One additional letter was microfilmed on reel 2803.  The collection was processed in 2011 by Erin Kinhart.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Olin Dows letters, 1938-1949. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Olin Dows letters are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Olin Dows (1904-1981) was a painter and arts administrator; he primarily lived and worked in Rhinebeck, New York.  Dows was born in Irvington-on-Hudson, NY.  He graduated from Harvard University in 1926 and also studied at the Yale School of Fine Arts.  In 1935 he was appointed director of the Treasury Relief Art Project, funded by the Works Progress Administration.  In 1938 he painted a series of murals for the post office in Rhinebeck, NY, and in 1941 painted murals for the post office in Hyde Park, NY.  From 1938 to 1941 Dows was on the Board of Directors of the American Federation of Arts. In 1942 he enlisted in the Army Engineers Corps and was commissioned as a war artist, covering the European Theater of Operations. An exhibit of works produced by this project was held in 1944, entitled "The Army at War."  Dows was discharged from the army in 1945.  A book of his watercolors, <emph render="italic">Franklin Roosevelt at Hyde Park</emph>, was published in 1949.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>This small collection of letters to and from painter and arts administrator Olin Dows measures 0.2 linear feet and dates from 1938 to 1949. The letters primarily document his work as director of the Treasury Relief Art Project, as an admistrator for the American Federation of Arts, and his work as a war artist. Much of the correspondence is with arts administrators Edward Bruce and Forbes Watson.</p>
+<p>Much of the correspondence is from 1941.  Also of note is correspondence relating to the controversy over one of Maurice Sterne's murals for the Justice Department in 1940 and efforts to form a "Corps of Pictorial War Correspondents" in 1942.  Some letters include attached documents including exhibition lists, announcements, news clippings, and reports.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 1 series: </p>
+<list>
+<item>Series 1: Olin Dows Letters, 1938-1949 (Box 1; 0.2 linear feet)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcsh">Sterne, Maurice, 1878-1957</persname>
+
+<corpname encodinganalog="610" source="lcsh">Treasury Relief Art Project</corpname>
+<corpname encodinganalog="610" source="lcsh">United States.--Dept. of the Treasury</corpname>
+<corpname encodinganalog="610" source="lcsh">American Federation of Arts</corpname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Federal aid to the arts</subject>
+<subject encodinganalog="650" source="lcsh">Art and state</subject>
+<subject encodinganalog="650" source="lcsh">Mural painting and decoration, American--Washington (D.C.)</subject>
+<subject encodinganalog="650" source="lcsh">Arts administrators</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Watson, Forbes, 1880-1960</persname>
+<persname encodinganalog="700" source="lcsh">Bruce, Edward, 1879-1943</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Olin Dows Letters, <unitdate>1938-1949</unitdate></unittitle>
+<physdesc>(Box 1; 0.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Personal and official correspondence relating to such matters as the controversy over one of Maurice Sterne's murals for the Justice Department in 1940; financial problems of the American Federation of Arts; art exhibitions; efforts to form a "Corps of Pictorial War Correspondents" in 1942; activities of the Treasury Department Section for Fine Arts; artists in the war effort; mutual friends; and personal matters. Included are incoming letters as well as a few copies of outgoing letters written by Dows.  One undated letter concerns criticism of the National Gallery of Art, particularly by Forbes Watson and Dean Hudnut. Correspondents include Edward Bruce, Forbes Watson, Thomas C. Parker, George Hewitt Myers, Robert Woods Bliss, Bartlett H. Hayes, Jr. and others. Some letters include attached documents including exhibition lists, announcements, news clippings, and reports.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Letters are arranged chronologically.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Letters, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2-3</container>
+<unittitle>Letters, <unitdate>1939-1940</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4-10</container>
+<unittitle>Letters, <unitdate>1941</unitdate></unittitle>
+<physdesc>(7 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Letters, <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Letters, <unitdate>1943-1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Letters, <unitdate>1945-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Undated Letters, <unitdate>circa 1938-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+
+</dsc>
+
+<!-- END OPTIONAL DSC ELEMENTS -->
+
+
+</archdesc>
+</ead>
+
+

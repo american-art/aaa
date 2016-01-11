@@ -1,0 +1,1744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/ivinwill.xml">ivinwill</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>William Mills Ivins</titleproper>
+		<subtitle>A Finding Aid to the William Mills Ivins Papers, <date type="inclusive">1878-1964</date>, in the Archives of American Art</subtitle>
+		<author>by Cathy Stover</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">1988</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Apex Data Services; revised by Stephanie Ashley,
+<date>January 2002</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>October 2005</date>
+<item>Finding aid updated from EAD v. 1.0 to v. 2002 by Stephanie Ashley</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">William Mills Ivins</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">William Mills Ivins papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1878-1964</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">20.6 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers, 1878-1964 (20.6 linear feet) of museum curator, director, and art scholar William Mills Ivins (1881-1961) consist of correspondence, writings, notes, photographs, and Ivins family papers. Ivins was Curator of Prints, 1916-1946, Assistant Director, 1933-1938, and Acting Director, 1938-1940 at the Metropolitan Museum of Art. The collection contains professional and personal correspondence with art historians, art dealers, museum curators, print and book collectors, and artists concerning the history of print making, book design and illustration, print collectors and collecting, exhibitions, and museum administration. Also found are Ivins' published and unpublished writings and lectures, and notes. The collection contains some Ivins' family papers including family correspondence, genealogies, and photographs.</abstract>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>William Mills Ivins, Jr. (1881-1961), a lawyer, first became interested in collecting prints and illustrated books while an undergraduate at Harvard. He studied the history of printmaking through self-directed reading, by looking at prints in the major European libraries and museums, and tried his hand at many of the printmaking processes. While practicing law, he wrote articles and organized some small exhibitions of prints as early as 1908. In 1916, the Metropolitan Museum of Art appointed its first Curator of Prints to organized a Department of Prints and Drawings and to develop its small existing collection. Upon the recommendation of Paul J. Sachs who was unable to accept the position, Ivins was selected. He held the post until his retirement some thirty years later.</p><p>During his tenure as Curator of Prints, Ivins became one of the most highly respected individuals in the profession. Under Ivins the collection grew in scope, size, and quality; he acquired materials by cultivating potential donors, and through systematic purchase of pieces not likely to come into the collection by bequest. The department's active exhibition schedule included some especially noteworthy shows, such as The Arts of the Book in 1924.</p><p>Ivins was knowledgeable and shared information by writing several books on prints and the history of printmaking, and by writing large numbers of articles for the educated layman. His articles often highlighted items in the permanent collection, and frequently appeared in the museum's <emph
+render="italic">Bulletin. </emph>He was interested in perspective, psychology of perception, aesthetics, mathematics and modern philosophy, and wrote on these topics, as well.</p><p>He was an accomplished speaker and was in much demand as a lecturer. Of particular note were his series on Illustrated Books of the Renaissance at the Morgan Library in 1936, and the 1950 Lowell Lectures (subsequently published under the title <emph
+render="italic">Prints and Visual Communication).</emph></p><p>In addition to his curatorial duties, Ivins served as Assistant Director of the Metropolitan Museum of Art between 1933 and 1938, and was its Acting Director from 1938 until 1940.
+Francis Henry Taylor was appointed Director in 1940, and Ivins was named to the newly created post of Counselor; failure to attain the directorship was a bitter disappointment, which many attributed to his lack of tact and generally difficult disposition.</p><p>Ivins retired in 1946, and continued to write and publish until the mid-1950's. During this period he was awarded an honorary doctorate by Yale University (1946), made an honorary fellow of the Metropolitan Museum of Art (1946), named a fellow of the American Academy of Arts and Sciences (1950), and invited to deliver the annual lectures at the Lowell Institute (1950). He died at the age of eighty in 1961, after several years of declining health.</p><p>Ivins' private collection of prints and illustrated books, which he had continue to amass through the 1930's, was partially dispersed during his lifetime through gifts to the Metropolitan Museum and to a number of university and special libraries. The portion remaining in his estate was sold at auction by Parke Bernet between 1962 and 1964.</p>
+<chronlist>
+<listhead>
+<head01>Date</head01>
+<head02>Event</head02>
+</listhead>
+<chronitem><date>1881</date><event>born to William Mills Ivins and Emma Yard Ivins, Flatbush, N.Y.</event></chronitem><chronitem><date>1890-1893</date><event>attended King's School, Stamford, Conn.</event></chronitem><chronitem><date>1896</date><event>trip to South America with father</event></chronitem><chronitem><date>1897</date><event>graduation from St. Paul's School, Concord, N.H.</event></chronitem><chronitem><date>1901</date><event>graduation from Harvard (A.B.)</event></chronitem><chronitem><date>1901-1902</date><event>travelled in Europe with Paul Haviland, and studied economics at University of Munich</event></chronitem><chronitem><date>1902-1904</date><event>employed by <emph
+render="italic">The World's Work, </emph>writing articles on economic and artistic subjects</event></chronitem><chronitem><date>1907</date><event>graduation from Columbia School of Law</event></chronitem><chronitem><date>1907-1916</date><event>practiced law in New York City: Ivins, Wolff and Houget for New York Public Service Commission, 1907-1908; Strong and Cadwallader, 1908-1909; Cravath, Henderson, and der Gersdorff, 1909-1916</event></chronitem><chronitem><date>1908</date><event>arranged first exhibition of prints, Keppel &amp; Co,</event></chronitem><chronitem><date>1910</date><event>marriage to Florence Wyman, an illustrator</event></chronitem><chronitem><date>1916</date><event>appointed first Curator of Prints, Metropolitan Museum of Art</event></chronitem><chronitem><date>c. 1927-1935</date><event>served on editorial board of <emph
+render="italic">Metropolitan Museum Studies</emph></event></chronitem><chronitem><date>1933-1938</date><event>Assistant Director, Metropolitan Museum of Art</event></chronitem><chronitem><date>1937</date><event>Morgan Library Lectures</event></chronitem><chronitem><date>1938</date><event>Honorary Curator of Prints and Drawings, Morgan Library</event></chronitem><chronitem><date>1938-1940</date><event>Acting Director, Metropolitan Museum of Art (Note: Mr. Ivins continued to act as Curator of Prints during periods when he was assigned other major administrative responsibilities at the museum)</event></chronitem><chronitem><date>1940</date><event>Counselor, Metropolitan Museum of Art</event></chronitem><chronitem><date>1946</date><event>Honorary Fellow, Metropolitan Museum of Art; retirement from Metropolitan Museum of Art; Honorary Doctorate, Yale University</event></chronitem><chronitem><date>1950</date><event>Fellow, American Academy of Arts and Sciences; Lowell Lectures (published in 1953 under the title <emph
+render="italic">Prints and Visual Communication)</emph></event></chronitem><chronitem><date>1961</date><event>death</event></chronitem><chronitem><date>1962-1964</date><event>Ivins Collection of Prints and Illustrated Books sold at auction by Parke Bernet</event></chronitem><chronitem><date>1977-1983</date><event>William M. Ivins, Jr. Papers donated to the Archives of American Art by his daughter, Barbara Ivins</event></chronitem></chronlist>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers, 1878-1964 (20.6 linear feet) of museum curator, director, and art scholar William Mills Ivins (1881-1961) consist of personal and professional correspondence, writings, notes, photographs, and Ivins family papers. Ivins was Curator of Prints, 1916-1946, Assistant Director, 1933-1938, and Acting Director, 1938-1940 at the Metropolitan Museum of Art. The collection contains professional and personal correspondence with art historians, art dealers, museum curators, print and book collectors, and artists concerning the history of print making, book design and illustration, print collectors and collecting, exhibitions, and museum administration. Correspondence files appear to be complete, and correspondence is of substantive content. Also found are Ivins' published and unpublished writings and lectures, and notes. 
+Of particular interest are the letters from Bernard Berenson, Paul J. Sachs, and Theodore Sizer, each of whom corresponded with Ivins freqently over extended periods about both personal and professional and matters.</p>
+<p>Ivins' family papers include family correspondence, genealogies, and photographs. The papers of Ivin's wife, illustrator Florence Wyman Ivins (1881-1948), and the correspondence of several other relatives, can be found here augmented by family photographs.</p>
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection has been arranged into six series. The contents and organization are noted in the individual series descriptions.</p>
+<list>
+<item>Series 1: Professional and Personal Papers, 1906-1961 (boxes 1-7; 7 linear ft.)</item>
+<item>Series 2: Writings, 1896-1964, undated (boxes 8-14; 7 linear ft.)</item>
+<item>Series 3: Miscellaneous, 1915, undated (box 15; 1 linear ft.)</item>
+<item>Series 4: Ivins Family Papers, 1878-1964, undated (boxes 16-19; 4 linear ft.)</item>
+<item>Series 5: Photographs (boxes 20-21; 1 linear ft.)</item>
+<item>Series 6: Oversized Material, 1897-1950 (1 OV folder)</item>
+</list>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following index terms. People, families and organizations are listed under "Names" when they are creators or contributors and under "Subjects" when they are the topic of collection contents.</p>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Aesthetics</subject>
+<subject encodinganalog="650" source="lcsh">Art museums</subject>
+<subject encodinganalog="650" source="lcsh">Book collectors and collecting</subject>
+<subject encodinganalog="650" source="lcsh">Engraving -- History</subject>
+<subject encodinganalog="650" source="lcsh">Etching -- History</subject>
+<subject encodinganalog="650" source="lcsh">Illustrated books -- History</subject>
+<subject encodinganalog="650" source="lcsh">Medicine and art -- History</subject>
+<subject encodinganalog="650" source="lcsh">Museums -- Acquisitions</subject>
+<subject encodinganalog="650" source="lcsh">Perspective</subject>
+<subject encodinganalog="650" source="lcsh">Prints -- History</subject>
+<subject encodinganalog="650" source="lcsh">Art historians</subject>
+<subject encodinganalog="650" source="lcsh">Designers</subject>
+<subject encodinganalog="650" source="lcsh">Illustrators</subject>
+<subject encodinganalog="650" source="lcsh">Museum curators</subject>
+<subject encodinganalog="650" source="lcsh">Museum directors</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Ames, Winslow</persname>
+<persname encodinganalog="700" source="lcsh">Arensberg, Walter, 1878-1954</persname>
+<persname encodinganalog="700" source="lcsh">Arms, John Taylor, 1887-1953</persname>
+<persname encodinganalog="700" source="lcsh">Berenson, Bernard, 1865-1959</persname>
+<persname encodinganalog="700" source="lcsh">Boas, George, 1891-</persname>
+<persname encodinganalog="700" source="lcsh">Burroughs, Bryson, 1869-1934</persname>
+<persname encodinganalog="700" source="lcsh">Carrington, Fitz Roy, 1869-1954</persname>
+<persname encodinganalog="700" source="lcsh">Cockerell, Sydney Carlyle, Sir, 1867-1962</persname>
+<persname encodinganalog="700" source="lcsh">Constable, W. G. (William George), 1887-</persname>
+<persname encodinganalog="700" source="lcsh">Dodgson, Campbell, 1867-1948</persname>
+<persname encodinganalog="700" source="lcsh">Frankfurter, Felix, 1882-1965</persname>
+<persname encodinganalog="700" source="lcsh">Friedländer, Max J., 1867-1958</persname>
+<persname encodinganalog="700" source="lcsh">Greene, Belle da Costa, 1883-1950</persname>
+<persname encodinganalog="700" source="lcsh">Holmes, Margaret Ivins, 1882-1954</persname>
+<persname encodinganalog="700" source="lcsh">Ivins, Barbara</persname>
+<persname encodinganalog="700" source="lcsh">Ivins, Emma Yard, 1857-1940</persname>
+<persname encodinganalog="700" source="lcsh">Ivins, Florence Wyman, 1881-1948</persname>
+<persname encodinganalog="700" source="lcsh">Ivins, Katherine</persname>
+<persname encodinganalog="700" source="lcsh">Ivins, William Mills, 1851-1915</persname>
+<persname encodinganalog="700" source="lcsh">Käsebier, Gertrude, 1852-1934 photographer</persname>
+<persname encodinganalog="700" source="lcsh">Lay, Charles Downing, 1877-1956</persname>
+<persname encodinganalog="700" source="lcsh">Rogers, Bruce, 1870-1957</persname>
+<persname encodinganalog="700" source="lcsh">Ruzicka, Rudolph, 1883-</persname>
+<persname encodinganalog="700" source="lcsh">Sachs, Paul J. (Paul Joseph), 1878-1965</persname> 
+<persname encodinganalog="700" source="lcsh">Sarton, George, 1884-1956</persname>
+<persname encodinganalog="700" source="lcsh">Simonson, Lee, 1888-</persname>
+<persname encodinganalog="700" source="lcsh">Sizer, Theodore, 1892-1967</persname>
+<persname encodinganalog="700" source="lcsh">Webster, Herman A. (Herman Armour), 1878-1970</persname>
+<persname encodinganalog="700" source="lcsh">Wind, Edgar, 1900-</persname>
+<persname encodinganalog="700" source="lcsh">Winter, Carl, 1906 Jan. 10-</persname>
+<corpname encodinganalog="710" source="lcsh">Metropolitan Museum of Art (New York, N.Y.)</corpname>
+<corpname encodinganalog="710" source="lcsh">Century Association (New York, N.Y.)</corpname>
+<corpname encodinganalog="710" source="lcsh">Grolier Club</corpname>
+<corpname encodinganalog="710" source="lcsh">Pierpont Morgan Library</corpname>
+</controlaccess>
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The William Mills Ivins, Jr., papers were donated to the Archives of American Art by his daughter, Barbara Ivins, in several installments between 1977 and 1983.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of unmicrofilmed material in the holdings of the Archives of American Art requires an appointment and is limited to the Washington, D.C., facility.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The William Mills Ivins papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>William Mills Ivins papers, 1878-1964. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed and the finding aid written by Cathy Stover in 1988. The finding aid was modified during EAD conversion by Stephanie Ashley in 2002.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01
+level="series"><did><unitid>Series 1: </unitid><unittitle>Professional and Personal Papers, <unitdate>1908-1961</unitdate></unittitle><physdesc>(Boxes 1-6; 6 linear ft.)</physdesc></did>
+<scopecontent><p>This series contains the personal and professional correspondence of William M. Ivins, Jr., consisting mainly of letters addressed to Ivins, with copies of his replies amounting to about five percent of the total. Correspondence with relatives can be found with the Ivins Family Papers (pgs. 28-32).</p>
+<p>Of particular interest are the letters of Bernard Berenson, Paul J. Sachs, and Theodore Sizer, each of whom correspondend with Ivins frequently over extended periods; their letters pertain to both professional and personal matters. Very few copies of Ivins' letters to them are contained in the collection; however, Ivins' letters to Sizer (approximately 110 items, dated 1926-1959) are in the collection of Yale University Library.</p>
+<p>Also included are letters of condolence upon the death of his wife, Florence Wyman Ivins, in 1948, and correspondence and receipts from print dealers and booksellers concerning purchases for Ivins' personal collection.</p></scopecontent>
+<arrangement><p>This series is organized into three subseries:
+<list>
+<item>1.1: Correspondence, A-Z, 1908-1961</item>
+<item>1.2: Metropolitan Museum of Art, General Office Files and Correspondence, 1919-1947</item>
+<item>1.3: Correspondence With Publishers, 1932-1958</item></list></p></arrangement>
+<c02 level="subseries"><did><unitid>1.1: </unitid>
+<unittitle>Correspondence, A-Z, <unitdate>1908-1961</unitdate></unittitle></did>
+<arrangement><p>
+The correspondence is arranged alphabetically, usually by the author's name rather than the institution or firm represented. There are a very small number of files titled by subject (e.g., "Woodbury, Conn. property") included in the alphabetical sequence. The correspondents listed below are represented by at least ten letters each, with a separate folder for each individual. All others are in general files for each letter of the alphabet, with selected correspondents noted.</p></arrangement><c03><did>
+<container type="box">1</container>
+<container type="folder">1-2</container>
+<unittitle>Correspondence, A </unittitle></did>
+<scopecontent><p>(including Elmer Adler)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Alford, Roberta Fansler, <unitdate>1933-1959</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Ames, Adelbert, Jr., <unitdate>1940-1947</unitdate></unittitle></did>
+<scopecontent><p>(about physiology of vision and psychology of perception)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Ames, Winslow, <unitdate>1947-1958</unitdate></unittitle></did>
+<scopecontent><p>(about WMI writings, particularly <emph
+render="italic">Art and Geometry; </emph>family news; announcement of departure from Springfield Art Museum)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Arensberg, Walter, <unitdate>1909-1930</unitdate></unittitle></did>
+<scopecontent><p>(recommending Marcel Duchamp and Walter Pach as assistants in Print Department; symbolism in "The Melancholia"; WMI's reminiscences of Arensberg [classmate, Harvard, 1090], in response to a request from Fiske Kimball)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Arms, John Taylor, <unitdate>1930-1948</unitdate></unittitle></did>
+<scopecontent><p>(tribute on the occasion of WMI's retirement; invitations; letters about juries, Brooklyn Society of Etchers, and other organizations for printmakers)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Atcheson, Topeka &amp; Santa Fe Railway, <unitdate>1911</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">9-13</container>
+<unittitle>Correspondence, B</unittitle></did>
+<scopecontent><p>(includes Barr, Alfred Hamilton, 1937; Beal, Gifford. 1935)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Baerwald, Emil, <unitdate>1917-1949</unitdate></unittitle></did>
+<scopecontent><p>(about print collecting and recent sales; comments on WMI writings; Max Friedlander)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Barlow, T. D., <unitdate>1927-1953</unitdate></unittitle></did>
+<scopecontent><p>(about print collecting and books)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Benson, John, <unitdate>1952-1956</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">17-36</container>
+<unittitle>Berenson, Bernard and Nicky, <unitdate>1925-1961</unitdate></unittitle></did>
+<scopecontent><p>(about visitors to I Tatti; travels, with descriptions of landscapes and light; news of mutual friends; family news; health; reading and writing; projects)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">37-40</container>
+<unittitle>Boas, George</unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">41-43</container>
+<unittitle>Born, Kay, <unitdate>1956-1961</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">44</container>
+<unittitle>Brooks, Van Wyck, and Gladys, <unitdate>1951-1959</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">45</container>
+<unittitle>Burroughs, Alan, <unitdate>1934-1957</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>Burroughs, Bryson, <unitdate>1922-1934</unitdate></unittitle></did>
+<scopecontent><p>(MMA news, including death of E. Robinson; family news; charicatures of Acting Director Reily and unknown)</p></scopecontent></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>Burroughs, Louise [Mrs. Bryson], <unitdate>1948-1961</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">1-5</container>
+<unittitle>Correspondence, C</unittitle></did>
+<scopecontent><p>(includes: Clarke, Kenneth, 1929; Cleland, Thomas; Cortissoz, Royal, 1916-1935)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Carrington, FitzRoy, <unitdate>1908-1955</unitdate></unittitle></did>
+<scopecontent><p>(about print collecting; WMI writings for <emph
+render="italic">Print Collectors Quarterly </emph>Print Dept., Museum of Fine Arts, Boston; recent books about prints; ts of article by FC, "Some Designs by Florence Wyman Ivins")</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Century Association, <unitdate>1934-1949</unitdate></unittitle></did>
+<scopecontent><p>(includes: Beal, Gifford; Tack, Augustus Vincent)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Champion, Librarie Ancienne, <unitdate>1921-1927</unitdate></unittitle></did>
+<scopecontent><p>(correspondence, receipts and invoices regarding purchases by WMI for personal collection)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Chase, Beulah Dimmick, and Julian, <unitdate>1946-1958</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Cockerell, Sydney Carlyle, <unitdate>1921-1956</unitdate></unittitle></did>
+<scopecontent><p>(about WMI's writings; calligraphy; books and collecting; Fitzilliam Museum; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">11-12</container>
+<unittitle>Cohn, Alfred E., and Aggie Lockwood (Mrs. Manus [daughter?]),  <unitdate>1920-1959</unitdate></unittitle></did>
+<scopecontent><p>(about art; philosophy; opinions of recently published books; comments on WMI's writings, particularly <emph
+render="italic">Art and Geometry; </emph>news of mutual friends; reports on health of AEC; also included are WMI's letters to AEC, removed from AEC's files and sent to WMI by the Executor of the estate)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">13-14</container>
+<unittitle>Constable, William George, <unitdate>1932-1961</unitdate></unittitle></did>
+<scopecontent><p>(about his own writings and speeches, and those of WMI; Bernard Berenson; collection of Museum of Fine Arts, Boston; travels; fakes)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">15-17</container>
+<unittitle>Correspondence, D</unittitle></did>
+<scopecontent><p>(includes: Davies, Arthur B. 1921; Dillyae, Blanche, 1908-1909; duBois, Guy Pene, undated; Duchamp, Marcel, 1926-1927)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Dana, John Cotton, <unitdate>1917-1925</unitdate></unittitle></did>
+<scopecontent><p>(about organization of the Newark Public Library, recordkeeping, and curatorial practices)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>DeForest, Robert W., <unitdate>1918-1930</unitdate></unittitle></did>
+<scopecontent><p>(about WMI writins; MMA administrative matters; invitations)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Dodgson, Campbell, <unitdate>1918-1943</unitdate></unittitle></did>
+<scopecontent><p>(about Contemporary Art Society, Museum of Fine Arts, Boston; and <emph
+render="italic">Print Collectors Quarterly</emph>)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Correspondence, E</unittitle></did>
+<scopecontent><p>(includes Easby, Dudley T, 1948-1958)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Elliott, Huger, and Elizabeth Shippen Green, <unitdate>1927-1949</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Emmett, Burton, <unitdate>1921-1929</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>Erlich, Evelyn, <unitdate>1948-1950</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">25-26</container>
+<unittitle>Correspondence, F</unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unittitle>Firuski, Maurice, <unitdate>1953-1960</unitdate></unittitle></did>
+<scopecontent><p>(books offered and purchased for WMI collection at Housatonuc Bookshop, Salisbury, Conn.; some news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unittitle>Frankfurter, Felix, <unitdate>1940-1960</unitdate></unittitle></did>
+<scopecontent><p>(about Bernard Berenson; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unittitle>Frick Collection, <unitdate>1939-1947</unitdate></unittitle></did>
+<scopecontent><p>(about WMI lectures there)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unittitle>Friedlander, Max J. <unitdate>1927-1945</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">31</container>
+<unittitle>Fulton, John E. <unitdate>1947-1948</unitdate></unittitle></did>
+<scopecontent><p>(about Vesalius)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">32-33</container>
+<unittitle>Correspondence, G</unittitle></did>
+<scopecontent><p>(includes: Gabo, Miriam [Mrs. Naum], and Nina [daughter], 1942-1953; Gallatin, A. E., 1943-1947)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unittitle>Ginsberg, Jekuthiel, <unitdate>1942-1953</unitdate></unittitle></did>
+<scopecontent><p>(about WMI articles for <emph
+render="italic">Scripta Mathematica</emph>)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">35</container>
+<unittitle>Greene, Belle da Costa, <unitdate>1917-1947</unitdate></unittitle></did>
+<scopecontent><p>(about mutual friends; Bernard Berenson see also: Grolier Club Morgan Library)</p></scopecontent></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">36-39</container>
+<unittitle>Grolier Club, <unitdate>1916-1959</unitdate></unittitle></did>
+<scopecontent><p>(arrangements for exhibitions and other club business; includes letters from Cassatt, Mary, 1919, 1924; Greene, Belle da Costa, 1921; Havemeyer, Mrs. H.O., 1919; Pennell, Joseph, 1918-1921; Woodbury, Charles H. C., 1921; Young, Mahonri. undated; miscellaneous printed matter, notes, drafts and catalog text)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">1-4</container>
+<unittitle>Correspondence, H</unittitle></did>
+<scopecontent><p>(includes: Haviland, Paul, 1908; Hind, Arthur M., 1920-1953; Hopkinson, Charles, 1946-1952)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Harvard Club</unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>Harvard University</unittitle></did>
+<scopecontent><p>(includes Class of 1901; general)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>Hauser, Walter, <unitdate>1946-1956</unitdate></unittitle></did>
+<scopecontent><p>(about MMA staff)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Hofer, Philip, <unitdate>1935-1950</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Howard, Ros, <unitdate>1945-1948</unitdate></unittitle></did>
+<scopecontent><p>(about <emph
+render="italic">Art and Geometry; </emph>psychology and physiology of perception; Bernard Berenson)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>Howson, Roger, <unitdate>1953-1956</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>Correspondence, I</unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>Iconophiles, <unitdate>1926-1953</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Correspondence, J</unittitle></did>
+<scopecontent><p>(includes: Janson, H. W)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">14-17</container>
+<unittitle>Correspondence, K</unittitle></did>
+<scopecontent><p>(includes: Kepple, Frederick 1911-1913)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Kelley, Nicholas, <unitdate>1920-1960</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">19-20</container>
+<unittitle>Kent, Henry W., <unitdate>1910-1948</unitdate></unittitle></did>
+<scopecontent><p>(comments on writings and speeches of WMI; MMA administration)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">21-22</container>
+<unittitle>Correspondence, L</unittitle></did>
+<scopecontent><p>(includes: Lehmann-Haupt, Hellmut, 1930; Loewy, Raymond, 1934)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">23</container>
+<unittitle>Lay, Charles Downing, <unitdate>1926-1960</unitdate></unittitle></did>
+<scopecontent><p>(about C. Goodhue Memorial Exhibition; WMI's writings; calligraphy; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">24</container>
+<unittitle>Lefferts, Helen Lambert, <unitdate>1957-1958</unitdate></unittitle></did>
+<scopecontent><p>(about Daumier exhibition)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">25</container>
+<unittitle>Library of Congress, <unitdate>1945-1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unittitle>Lockwood, Will, and Louise, <unitdate>1955-1960</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unittitle>Lowell Institute, <unitdate>1949</unitdate></unittitle></did>
+<scopecontent><p>(regarding Annual Lectures)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">28-33</container>
+<unittitle>Correspondence, M</unittitle></did>
+<scopecontent><p>(includes MacBride, Henry, 1929; Mielziner, Leo, and Ella F. 1917-1955)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>McMahon, A. Philip, <unitdate>1928-1947</unitdate></unittitle></did>
+<scopecontent><p>(about own writings and those of WMI)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unittitle>Malloch, Archibald, <unitdate>1932-1953</unitdate></unittitle></did>
+<scopecontent><p>(about Vesalian essays)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>Mansfield, Howard, and Helen, <unitdate>1917-1948</unitdate></unittitle></did>
+<scopecontent><p>(comments on WMI's writings; exhibitions and acquisitions of MMA; biographical notes on HM)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Mather, Frank Jewett, <unitdate>1921-1946</unitdate></unittitle></did>
+<scopecontent><p>(lists of printmakers for his book; about WMI review of Gabriel book)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Mayor, A. Hyatt, and Virginia, <unitdate>1940-1960</unitdate></unittitle></did>
+<scopecontent><p>(about MMA; writings of WMI)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>Merriman, Daniel, <unitdate>1947-1956</unitdate></unittitle></did>
+<scopecontent><p>(about Davenport College, Yale University)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">40</container>
+<unittitle>Moe, Henry Allen, <unitdate>1938-1955</unitdate></unittitle></did>
+<scopecontent><p>(about perspective and geometry; applicants for Guggenheim Fellowships)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">41</container>
+<unittitle>Morgan, Junius Spencer, </unittitle></did>
+<scopecontent><p>(about his collection and new acquisitions)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>Morgan Library, <unitdate>1922-1958</unitdate></unittitle></did>
+<scopecontent><p>(appointment of WMI as Honorary Curator of Prints and Drawings; acquisitions; invitations; see also: Greene, Belle da Costa)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">43</container>
+<unittitle>Mosenthal &amp; Sons Insurance, </unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">44</container>
+<unittitle>Morison, Stanley, <unitdate>1925-1934</unitdate></unittitle></did>
+<scopecontent><p>(about books and prints; printing; <emph
+render="italic">The Fleuron </emph>(journal of typography); news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">45</container>
+<unittitle>Munroe, Vernon, <unitdate>1923-1957</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">46</container>
+<unittitle>Munson, Ida, <unitdate>1960-1961</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">1-3</container>
+<unittitle>Correspondence, N</unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Newlin, Alice, <unitdate>1924</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, O</unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>Oppenheimer, Henry, <unitdate>1919-1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>Osborne, William Church, <unitdate>1925-1946 </unitdate></unittitle></did>
+<scopecontent><p>(about MMA administration and policy; writings of WMI; WMI's recommendations for <emph
+render="italic">Bulletin</emph>)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">8-13</container>
+<unittitle>Correspondence, P</unittitle></did>
+<scopecontent><p>(includes: Pach, Walter, 1921-1955; Phillips, Duncan, 1929-1930; Print Club of Cleveland, 1923-1945; Print Club (of Philadelphia Pa.), 1925-1926; Print Club of Rochester, 1931-1932; Print Collectors Quarterly, 1922-1924; Print Makers Society of California, 1921)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>Panofsky, Erwin, <unitdate>1932-1935</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Pease, Murray, <unitdate>1945-1950</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Quartich, Bernard, <unitdate>1918-1934</unitdate></unittitle></did>
+<scopecontent><p>(invoices and letters concerning purchases of books for WMI personal library)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">17-20</container>
+<unittitle>Correspondence, R</unittitle></did>
+<scopecontent><p>(includes: Rorimer, James, 1934-1961; Rosenbach, A.S.W., 1931; Rosenberg, Jakob, 1927-1953)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Redmond, Rollin, <unitdate>1944-1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>Riggs, Lawrason, <unitdate>1933-1960</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Robinson, Edward, <unitdate>1917-1941</unitdate></unittitle></did>
+<scopecontent><p>(about MMA Print Dept.; other museum business, including loans and exhibitions; travels)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle>Rogers, Bruce, <unitdate>1919-1956</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">25</container>
+<unittitle>Rollins, Carl Purington, and Margaret, <unitdate>1931-1955</unitdate></unittitle></did>
+<scopecontent><p>(about WMI writings; samples of printing; and news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">26-28</container>
+<unittitle>Rosenthal, [Rabbi] Henry M., <unitdate>1945-1955</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">29</container>
+<unittitle>Rous, Peyton. <unitdate>1945-1953</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">30</container>
+<unittitle>Ruzicka, Rudolph, <unitdate>1917-1960</unitdate></unittitle></did>
+<scopecontent><p>(about his exhibitions; travels; printing; exhibition design; WMI's writings; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">31-37</container>
+<unittitle>Correspondence, S</unittitle></did>
+<scopecontent><p>(includes Schniewind, Carl O., 1930-1946; Sheeler, Charles. undated; Spicer-Simson, Theodore, 1944; Stieglitz, Alfred, 1928-1929)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">38-39</container>
+<unittitle>Sachs, Paul J., and Meta, <unitdate>1910-1955</unitdate></unittitle></did>
+<scopecontent><p>(about Fogg Art Museum; Museum of Fine Arts, Boston; acquisitions; PJS lectures; WMI writings and lectures; prints and drawings on the market; travels)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">40</container>
+<unittitle>Sarton, George, <unitdate>1942-1951</unitdate></unittitle></did>
+<scopecontent><p>(about philosophy, ancient and modern; books; <emph
+render="italic">Isis </emph>(Review of the History and Philosophy of Science); WMI's writings)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">41</container>
+<unittitle>Saunders, A.P., <unitdate>1942-1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">42</container>
+<unittitle>Savile Club, <unitdate>1933-1954</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">43</container>
+<unittitle>Simkhovitch, Vladimir G., <unitdate>1918-1960</unitdate></unittitle></did>
+<scopecontent><p>(about art; history of ancient Greece; WMI's writings)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">44</container>
+<unittitle>Simonson, Lee, <unitdate>1929-1956</unitdate></unittitle></did>
+<scopecontent><p>(about books and reading; WMI's writings; teaching; opera set designs; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">4</container>
+<container type="folder">45</container>
+<unittitle>Singer, Charles Joseph, <unitdate>1949-1954</unitdate></unittitle></did>
+<scopecontent><p>(WMI criticism of CS writings on Vesalius; books; anatomy; writings of WMI)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">1-4</container>
+<unittitle>Sizer, Theodore, <unitdate>1922-1960</unitdate></unittitle></did>
+<scopecontent><p>(WMI lectures to Cleveland Print Club; travels; news of mutual friends; exhibitions; Yale University Art Gallery; TS lectures and book on Trumbull)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Southold [Long Island] property, <unitdate>1919</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>Stechert, G.E. &amp; Co., <unitdate>1909-1929</unitdate></unittitle></did>
+<scopecontent><p>(invoices and letters regarding purchase of books for WMI library)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">7-8</container>
+<unittitle>Stowaways, <unitdate>1921-1933</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">9-12</container>
+<unittitle>Correspondence, T</unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>Taylor, Francis Henry, <unitdate>1933-1948</unitdate></unittitle></did>
+<scopecontent><p>(about MMA business; WMI lectures)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">14-15</container>
+<unittitle>Troxell, Janet, <unitdate>1954-1959</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>Correspondence, U</unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>University of Chicago, <unitdate>1932-1945</unitdate></unittitle></did>
+<scopecontent><p>(includes U.C. Press)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">18-19</container>
+<unittitle>Correspondence, V</unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle>Vasari Society, <unitdate>1922-1933</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">21-27</container>
+<unittitle>Correspondence, W</unittitle></did>
+<scopecontent><p>(includes: Watrous, Harry W., 1925; Watson, Forbes, 1926)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle>Wallace, Ed, <unitdate>1954-1958</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle>Warburg, Felix M., <unitdate>1919-1935</unitdate></unittitle></did>
+<scopecontent><p>(about acquisitions for FMW collection)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">30-31</container>
+<unittitle>Webster, Herman A., and Mounette, <unitdate>1910-1959</unitdate></unittitle></did>
+<scopecontent><p>(about travels; prints for sale in Europe; WMI's writings; exhibitions of HAW work in
+U.S.; German occupation of France)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">32</container>
+<unittitle>Weil, Ernst, <unitdate>1932-1955</unitdate></unittitle></did>
+<scopecontent><p>(about WMI book purchases; see also: Tauber &amp; Weil)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">33</container>
+<unittitle>Wetmore, Edith, <unitdate>1928-1956</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">34</container>
+<unittitle>Weyhe, E., <unitdate>1948-1959</unitdate></unittitle></did>
+<scopecontent><p>(about WMI book purchases)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle>Wilkinson, Charles, <unitdate>1946-1961</unitdate></unittitle></did>
+<scopecontent><p>(about MMA staff; travels; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">36</container>
+<unittitle>Wind, Edgar, <unitdate>1945-1952</unitdate></unittitle></did>
+<scopecontent><p>(about Vesalius; translations; Greek art; aesthetics; his own writings and those of WMI; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">37</container>
+<unittitle>Winlock, Herbert Eustis, <unitdate>1931-1948</unitdate></unittitle></did>
+<scopecontent><p>(about MMA staff; MMA Egyptian expedition; acquisitions; MMA administration)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">38</container>
+<unittitle>Winter, Carl, <unitdate>1939-1943</unitdate></unittitle></did>
+<scopecontent><p>(about Elizabethan miniatures; World War II; book about Nicholas Hilliard; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">39</container>
+<unittitle>Winternitz, Emanuel, <unitdate>1945-1961</unitdate></unittitle></did>
+<scopecontent><p>(about MMA staff; MMA Musical Instrument Collection; news of mutual friends)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">40</container>
+<unittitle>Woodbury, Conn. property, <unitdate>1941-1956</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">41</container>
+<unittitle>Woodhouse, Betty Burroughs, <unitdate>1935-1959</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">42</container>
+<unittitle>Correspondence, Y</unittitle></did>
+<scopecontent><p>(includes Young, Art, undated)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">43</container>
+<unittitle>Yale University, <unitdate>1942-1958</unitdate></unittitle></did>
+<scopecontent><p>(includes Art GalleryConvocation, 1946; Elizabethan Club; Library; Y.U. Press; Yale Review)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">44</container>
+<unittitle>Z</unittitle></did>
+<scopecontent><p>(includes Zigrosser, Carl, 1932-1959)</p></scopecontent></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">45</container>
+<unittitle>Correspondence, unknown and illegible</unittitle></did></c03></c02>
+<c02 level="subseries"><did><unitid>1.2: </unitid>
+<unittitle>Metropolitan Museum of Art, Correspondence and Office Files, <unitdate>1919-1947</unitdate></unittitle></did>
+<scopecontent><p>The file on European travels contains letters of introduction to curators and collectors, miscellaneous notes, and expense records for museum business. Files on gifts and loans refer to those from WMI's personal collection to the museum. Metropolitan Museum Studies files include records of the Editorial board meetings, 1927-1936; circulation records, 1933; general records, 1931; Vol 4 and 5, 1933-1935; correspondence with and about contributors, including Burroughs, Alan, Cooke, Walter W.S., Cumont, Diamond, W., Dinsmore, William B., Frick, Colin G., Jacobsthal, Lewis, W.S., Morgan, John Hill, Panofsky, Erwin, Planiscig, L., Richter, Gisela A.M., Tietze, Hans, Updike, D.B., and Wehle, H; and rejected articles. Printed matter does not include exhibition catalogs from the museum.</p></scopecontent><c03><did>
+<container type="box">6</container>
+<container type="folder">1-3</container>
+<unittitle>Addresses</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>Calendar, <unitdate>1931</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>Employees' Association, <unitdate>1937-1947</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>European Travels, <unitdate>1919, 1922</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Gifts, <unitdate>1922-1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>Loans, <unitdate>1923-1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>Miscellaneous letters, notes, etc., <unitdate>1923-1935</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>Pension</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>Printed matter issued by Metropolitan Museum, </unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>Print Department</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>Publications, notes about</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>Restaurant bills</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">15-17</container>
+<unittitle>Durer collection of Junius Spencer Morgan, <unitdate>circa 1919</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">18-38</container>
+<unittitle>Metropolitan Museum Studies 
+</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">39</container>
+<unittitle>Clippings</unittitle></did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">40</container>
+<unittitle>History of Metropolitan Museum of Art by Winifred E. Howe, <unitdate>1905-1941</unitdate></unittitle></did>
+<scopecontent><p>(galley sheets annotated by WMI)</p></scopecontent></c03></c02><c02 level="subseries"><did>
+<unitid>1.3: </unitid>
+<unittitle>Correspondence with publishers, <unitdate>1932-1954</unitdate></unittitle></did>
+<arrangement><p>This subseries relates to major publications and is filed by title in chronological order. Additional correspondence regarding Ivins' publications is included in the alphabetical sequence, usually filed under the name of editor, rather than publisher or periodical.</p></arrangement>
+<c03><did>
+<container type="box">7 (hol)</container>
+<container type="folder">1</container>
+<unittitle><emph
+render="italic">On the Rationalization of Sight, </emph>Metropolitan Museum of Art, <unitdate>1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">7 (hol)</container>
+<container type="folder">2-3</container>
+<unittitle><emph
+render="italic">Three Vesalian Essays, </emph>University of Chicago and New York Academy of Medicine, <unitdate>1932-1951</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">7 (hol)</container>
+<container type="folder">4-5</container>
+<unittitle><emph
+render="italic">Art &amp; Geometry, </emph>Harvard University Press and Routledge &amp; Kegan Paul, Ltd., <unitdate>1945-1951</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">7 (hol)</container>
+<container type="folder">6-7</container>
+<unittitle><emph
+render="italic">Prints and Visual Communication, </emph>Harvard University Press and Routledge &amp; Kegan Paul, Ltd., <unitdate>1950-1958</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">7 (hol)</container>
+<container type="folder">8</container>
+<unittitle><emph
+render="italic">What Makes a Masterpiece?, </emph>Harry N. Abrams, Inc., <unitdate>1953-1945</unitdate></unittitle></did></c03></c02></c01><c01
+level="series"><did><unitid>Series 2: </unitid><unittitle>Writings, <unitdate>1896-1964, undated</unitdate></unittitle><physdesc>(Boxes 8-14; 7 linear ft.)</physdesc></did>
+<arrangement><p>The series is organized into two subseries:
+<list>
+<item>2.1: Notes, Drafts, and Manuscripts, circa 1913-1956, undated </item>
+<item>2.2: Publications, 1896-1964</item></list></p></arrangement>
+<c02 level="subseries">
+<did><unitid>2.1: </unitid>
+<unittitle>Notes, Drafts, and Manuscripts, <unitdate>circa 1913-1961</unitdate></unittitle></did>
+<scopecontent><p>This subseries consists of notes, drafts, manuscripts, and corrected galley sheets for books, articles, reviews, lectures, etc., by William M. Ivins, Jr., both published and unpublished. Some are in notebooks spanning several years and covering a range of topics, in no apparent order within the volumes. Also included are autobiographical notes, c. 1925-1950's, and leaves from diaries dated 1919 and 1943-1945. Many are untitled and undated.</p></scopecontent> 
+<arrangement><p>As far as possible, the records are arranged in rough chronological order.</p></arrangement>
+<c03><did>
+<container type="box">8</container>
+<container type="folder">1-28</container>
+<unittitle>Notes, Drafts, and Manuscripts, <unitdate>circa 1913-1935</unitdate></unittitle></did>
+<scopecontent><p>(includes five notebooks)</p></scopecontent>
+</c03>
+<c03><did>
+<container type="box">9</container>
+<container type="folder">1-26</container>
+<unittitle>Notes, Drafts, and Manuscripts, <unitdate>1936-1943</unitdate></unittitle></did>
+<scopecontent><p>(includes  Morgan Library lectures, "Aspects of Renaissance Book Illustration"; <emph
+render="italic">On the Rationalization of Sight; </emph>and <emph
+render="italic">How Prints Look</emph>)</p></scopecontent></c03>
+<c03><did>
+<container type="box">10</container>
+<container type="folder">1-25</container>
+<unittitle>Notes, Drafts, and Manuscripts, <unitdate>1945-1953</unitdate></unittitle></did>
+<scopecontent><p>(includes: University of Chicago lectures, "Mathematics and the Imagination"; <emph
+render="italic">Art and Geometry; "</emph>Fallacies About Art"; "What About the <emph
+render="italic">Fabrica </emph>of Vesalius" for <emph
+render="italic">Three Vesalian Essays</emph>)</p></scopecontent></c03>
+<c03><did>
+<container type="box">11</container>
+<container type="folder">1-25</container>
+<unittitle>Notes, Drafts, and Manuscripts, <unitdate>1953-1956</unitdate></unittitle></did>
+<scopecontent><p>(includes  Lowell Lectures, <emph
+render="italic">Prints and Visual Communication</emph>; <emph
+render="italic">What Makes a Masterpiece?</emph>; <emph
+render="italic">Prints: Technique and Expression</emph>; and autobiographical notes, circa 1925-1950)</p></scopecontent></c03>
+<c03><did>
+<container type="box">12</container>
+<container type="folder">1-32</container>
+<unittitle>Notes, Drafts, and Manuscripts, undated </unittitle></did>
+<scopecontent><p>(includes seven notebooks on geometry, perspective, book illustration, and early etching; articles for Metropolitan Museum of Art <emph
+render="italic">Bulletin, </emph>c. 1917-c.1925)</p></scopecontent></c03></c02><c02 level="subseries"><did><unitid>2.2: </unitid><unittitle>Publications, <unitdate>1896-1954</unitdate></unittitle></did><scopecontent>
+<p>This subseries contains an incomplete set of publications by Ivins including books, articles, lectures, exhibition catalogs, and reviews. Many are marked copies, corrected or otherwise annotated by the author. When available, reviews of books and exhibitions are filed with the corresponding volume. The first folder in the subseries contains Ivins' first published work, consisting of letters written to his mother while in South America.</p></scopecontent>
+<arrangement><p>The publications are arranged in chronological order by date of publication, with later editions and reprints filed by date of first publication.</p></arrangement><c03><did>
+<container type="box">13</container>
+<container type="folder">1</container>
+<unittitle>"A Trip Worth Describing, Letters from a Lad While Travelling," <emph
+render="italic">Monmouth Democrat </emph>[Freehold, N.J.], <unitdate>Dec. 3, 1896</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">2</container>
+<unittitle>"Catalogue of an Exhibition of Prints by Albrecht Durer, With an Introduction by William M. Ivins, Jr.," Frederick Keppel &amp; Co., <unitdate>Nov. 5-31, 1917</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">3</container>
+<unittitle><emph
+render="italic">Wood Engravings by Rudolph Ruzicka, </emph>Newark Public Library, Marcj 5-31, <unitdate>1917</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">4</container>
+<unittitle><emph
+render="italic">Exhibition of Painter Etchings and Engravings of the XIX Century, Consisting Mainly of Loans From Private Collections, </emph>Metropolitan Museum of Art, <unitdate>April 1917</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">5</container>
+<unittitle><emph
+render="italic">The Wood Engravings of Rudolph Ruzicka, </emph>The Newark Museum Association, <unitdate>1917</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">6</container>
+<unittitle><emph
+render="italic">A Catalogue of Italian Renaissance Woodcuts, </emph>Metropolitan Museum of Art, <unitdate>1927</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">7</container>
+<unittitle>"Of Museums," <emph
+render="italic">The Arts, </emph>vol. III, no. 1, <unitdate>Jan. 1923</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">8</container>
+<unittitle>"Daumier - The Man of His Time," <emph
+render="italic">The Arts, </emph>vol. III, no. 2</unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">9</container>
+<unittitle><emph
+render="italic">Loan Exhibition of the Italian Renaissance, </emph>Metropolitan Museum of Art, <unitdate>May 7-Sept. 9, 1923</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">10</container>
+<unittitle>"<emph
+render="italic">A History of Engraving and Etching </emph>by Arthur M. Hind," reviewed by Ivins in <emph
+render="italic">The Literary Review, </emph><unitdate>July 21, 1935</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">11</container>
+<unittitle>"A Note on Claude Garamond, Punch-Cutter &amp; Type-Founder," in <emph
+render="italic">Monotype, </emph>vol. 9, no. 6, <unitdate>1923</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">12</container>
+<unittitle><emph
+render="italic">A Guide to an Exibition of The Arts of the Book, </emph>Metropolitan Museum of Art, <unitdate>May 12-Sept. 14, 1924</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">13</container>
+<unittitle>"Goya's Disasters of War," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XIX, no. 9, <unitdate>Sept. 1924</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">14</container>
+<unittitle>"A Gift of Prints," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XX, no. 8</unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">15</container>
+<unittitle>"Joseph Pennell," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXI, no. 11, <unitdate>Aug. 1925</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">16</container>
+<unittitle>Prints and Books, Informal Papers, <unitdate>1926</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">17</container>
+<unittitle>"Photography and the `Modern' Point of View, A Speculation in the History of Taste," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol. I, pt. l <unitdate>[1928?]</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">18</container>
+<unittitle>"A Note Apropos of Two Anniversaries," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXII, no. 1, <unitdate>Jan. 1928</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">19</container>
+<unittitle>"A Collection of English Trading Cards," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXIII, no. 2, <unitdate>Feb. 1928</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">20</container>
+<unittitle>"Beauty in Architecture," <emph
+render="italic">The Arts, </emph>vol. XIV, no. 3, <unitdate>Sept. 1928</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">21</container>
+<unittitle>"Philbert de l'Orme's Premiere Tome de l'architecture," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXIV, no. 5, <unitdate>May 1929</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">22</container>
+<unittitle>"Notes on Three Durer Woodblocks," <emph
+render="italic">Metropolitan Museum Studies, </emph>vo. II, pt. 1, <unitdate>Nov. 1929</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">23</container>
+<unittitle>"Kleiner's <emph
+render="italic">Residences Memorables," </emph><emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXIV, no. 12, <unitdate>Dec. 1929</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">24</container>
+<unittitle>"Vasari's Lives," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>1930</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">25</container>
+<unittitle>"Notes on Two Woodcuts of the Nuremberg School," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol. II, pt. 3, <unitdate>May 1930</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">26</container>
+<unittitle><emph
+render="italic">Notes on Prints, Being the Text of Labels Prepared for a Sepcial Exhibition of Prints from the Museum Collection, </emph>Metropolitan Museum of Art, <unitdate>1930</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">27</container>
+<unittitle>"French Eighteenth-Century Engravings," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXVI, no. 2, <unitdate>Feb. 1931</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">28</container>
+<unittitle>Daumier, <unitdate>March 1931</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">29</container>
+<unittitle>"An Exhibition of Reproductive Prints," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXVI. no.10, <unitdate>Oct. 1931</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">30</container>
+<unittitle>"Early Woodcuts," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXVII, no. 2, <unitdate>Feb. 1932</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">31</container>
+<unittitle>"Address at the Cooper Union, <unitdate>Tuesday, 25th of February 1932"</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">32</container>
+<unittitle><emph
+render="italic">Hugh Thompson - His Art, His Letters, His Humor, and His Charm </emph>by M.H. Spielmann and Walter Jerrold, reviewed by Ivins in <emph
+render="italic">The Saturday Review of Literature, </emph>vol. IX, no. 1, <unitdate>July 23, 1932</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">33</container>
+<unittitle>"Artistic Aspects of Fifteenth-Century Printing," <emph
+render="italic">Papers of the Bibliographical Society of America, </emph>vol. XXVI, <unitdate>1932</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">34</container>
+<unittitle>"An undescribed Schongauer Trial Proof," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol. IV, pt. 2, <unitdate>March 1933</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">35</container>
+<unittitle>"Two Woodcuts of the Virgin," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXVII, no. 4, <unitdate>April 1932</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">36</container>
+<unittitle>"A Woodblock by Brueghel," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol. V, pt. 1, <unitdate>June 1934</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">37</container>
+<unittitle>"On Education in a Museum," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXIX, no. 9, <unitdate>Sept. 1934</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">38</container>
+<unittitle><emph
+render="italic">Bryson Burroughs, Catalogue of a Memorial Exhibition of his Works, </emph>Metropolitan Museum of Art, <unitdate>March 25-May 5, 1935</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">39</container>
+<unittitle><emph
+render="italic">Francisco Goya, His Paintings, Drawings, and Prints, </emph>Metropolitan Museum of Art, <unitdate>Jan. 27-March 8, 1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">40</container>
+<unittitle>"The Woodcuts to Vesalius," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXXI, no. 7, <unitdate>July 1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">41</container>
+<unittitle>"The Lovers by the Master b × g, An Undescribed Early German Engraving," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol. V, pt. 2, <unitdate>Sept. 1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">42</container>
+<unittitle>"Goya's Giant," <emph
+render="italic">Metropolitan Museum Studies, </emph>vol V, pt. 2, <unitdate>Sept. 1936</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">43</container>
+<unittitle>"Italian Renaissance Prints and Illustrated Books," <emph
+render="italic">Bulletin of the Metropolitan Museeum of Art, </emph>vol. XXXII, no. 12, <unitdate>Dec. 1937</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">44</container>
+<unittitle>"Italian Baroque Prints," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXXIII, no. 7, <unitdate>July 1938</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">45</container>
+<unittitle><emph
+render="italic">On the Rationalization of Sight: With an Examination of Three Renaissance Texts on Perspective. </emph>Metropolitan Museum of Art Papers, No. 8, <unitdate>1938</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">46</container>
+<unittitle>"Address given at the Opening of the Exhibition of Metropolitan Museum Printing held in the Pierpont Morgan Library on 24 October 1938," <unitdate>1939</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">47</container>
+<unittitle>"The Ketham of 1490," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXXVI, no. 2, <unitdate>Feb., 1939</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">48</container>
+<unittitle>The Artist and the Fifteenth Century Printer, <unitdate>1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">49</container>
+<unittitle>"The Art of Rembrandt," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph>vol. XXXVII, no. 1, <unitdate>Jan. 1942</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">50</container>
+<unittitle><emph
+render="italic">The Unseen Rembrandt </emph>by Ivins, reviewed by Jakob Rosenberg, <emph
+render="italic">College Art Journal, </emph>vol. 1, no. 4, <unitdate>May 1942</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">13</container>
+<container type="folder">51</container>
+<unittitle>"Renaissance Books on Architecture," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Dec. 1942</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">1</container>
+<unittitle>"Free Thought in the Country," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Feb. 1943</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">2</container>
+<unittitle>"A Breugel Exhibition in the Print Galleries," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>March 1943</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">3</container>
+<unittitle>"Ignorance, the End," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Summer 1943</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">4</container>
+<unittitle>"A Note on Girard Desargues," <emph
+render="italic">Scripta Mathematica, </emph><unitdate>March 1943</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">5</container>
+<unittitle>"A Propos the <emph
+render="italic">Fabrica </emph>of Vesalius," <emph
+render="italic">Bulletin of the History of Medicine, </emph><unitdate>Dec. 1943</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">6</container>
+<unittitle>How Prints Look, <unitdate>1943, 1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">7</container>
+<unittitle>"The Hebal of `Pseudo-Apuleius'," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>March 1944</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">8</container>
+<unittitle>"Early Florentine Illustrated Books," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Summer 1944</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">9</container>
+<unittitle>"But It's Not a Cimabue!," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Dec. 1944</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">10</container>
+<unittitle>"French XVI Century Prints," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>June 1945</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">11</container>
+<unittitle>"Goya," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>June 1945</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">12</container>
+<unittitle>"In the Beginning was the Word," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Summer 1945</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">13</container>
+<unittitle>"The Art Museum Library," <emph
+render="italic">The Museum News, </emph>vol. 23, no. 8, <unitdate>Oct. 15, 1954</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">14</container>
+<unittitle>Preface to an American Philosophy of Art, by A. Philip McMahon, reviewed by Ivins, Gazette des Beaux-Arts, <unitdate>[c. 1945]</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">15</container>
+<unittitle>"Tiresome and Baroque," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Feb. 1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">16</container>
+<unittitle>"The Aix Lantern," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>March 1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">17</container>
+<unittitle>"The 'Field' of Prints, Objects vs. Meanings," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>May 1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">18</container>
+<unittitle>"The Dead Hand," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>June 1946; </unitdate><emph
+render="italic">Buffalo Academy of Fine Arts Albright Gallery Notes, </emph><unitdate>Jan. 1947; </unitdate><emph
+render="italic">PSA [Photographic Society of America] Journal, </emph><unitdate>Nov. 1947</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">19</container>
+<unittitle>"Address by William Mills Ivins, Jr. in the Yale Art Gallery, Friday evening," <unitdate>18 October 1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">20</container>
+<unittitle><emph
+render="italic">"The Dances of Death" Printed in Paris in 1490. A Reproduction made from the copy in the Lessing J. Rosenwald Collection, Library of Congress, </emph>with an introduction by Ivins, <unitdate>1946</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">21</container>
+<unittitle>Art &amp; Geometry: A Study in Space Intuition, <unitdate>1946, 1964</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">22</container>
+<unittitle>"A Few Fallacies About Art," <emph
+render="italic">Harper's, </emph><unitdate>Aug. 1947</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">23</container>
+<unittitle>"More Fallacies About Art," <emph
+render="italic">Harper's, </emph><unitdate>Sept. 1947</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">24</container>
+<unittitle>"A Note on Desargues' Theorum," <emph
+render="italic">Scripta Mathematica, </emph><unitdate>Sept./Dec. 1947</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">25</container>
+<unittitle>"Some Notes on Fakes," <emph
+render="italic">Magazine of Art, </emph><unitdate>May 1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">26</container>
+<unittitle>"A Note on Ipseity," <emph
+render="italic">The Journal of Aesthetics and Art Criticism, </emph><unitdate>Sept. 1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">27</container>
+<unittitle>"A Neglected Aspect of Early Print-Making," <emph
+render="italic">Bulletin of the Metropolitan Museum of Art, </emph><unitdate>Oct. 1948</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">28</container>
+<unittitle>Leonardo da Vinci: Paragone. A Comparison of the Arts, by Irma A. Richter, reviewed by Ivins, Times Literary Supplement, <unitdate>June 10, 1949</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">29</container>
+<unittitle>"Some Disconnected Notes About Drawing," <emph
+render="italic">Harper's, </emph><unitdate>Dec. 1949</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">30</container>
+<unittitle><emph
+render="italic">Three Vesalian Essays to Accompany the Icones Anatomicae of 1934, </emph>with Samuel W. Lambert and Willy Wiegand, <unitdate>1952</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">31</container>
+<unittitle>Symmetry by Herman Weyl, reviewed by Ivins, Magazine of Art, <unitdate>April 1953</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">32</container>
+<unittitle>Prints and Visual Communication, <unitdate>1953</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">33</container>
+<unittitle>What Makes a Masterpiece?, 1953; reprinted in Art Digest, <unitdate>March 15, 1954</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">14</container>
+<container type="folder">34</container>
+<unittitle>Prints: Technique and Expression, <unitdate>1954</unitdate></unittitle></did></c03>
+</c02></c01>
+<c01 level="series"><did><unitid>Series 3: </unitid><unittitle>Miscellaneous, <unitdate>1915, undated</unitdate></unittitle><physdesc>(box 15; 1 linear ft.)</physdesc></did>
+<scopecontent><p>This series consists mainly of printed matter (neither by nor about William M. Ivins, Jr.). Most are presentation copies of articles, and other appear to have been saved by Ivins for research purposes. These cover a wide variety of topics, including: book arts, history of medicine, history of science and technology, calligraphy, history of printmaking, psychology of perception, physiology of vision, philosophy, and the U.S. legal and judicial systems.</p><p>Additional miscellaneous materials include non-printed items relating to Ivins' personal life, such as banking records, receipts and invoices for personal purchases (excluding prints and books), drawings by Ivins, and notes and clippings regarding his legal career.</p></scopecontent>
+<arrangement><p>Material is arranged alphabetically by author.</p></arrangement>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">1-48</container>
+<unittitle>Miscellaneous printed matter, mainly articles on diverse subjects</unittitle></did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">49-50</container>
+<unittitle>Clippings, advertising circulars, etc., no author</unittitle></did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">51</container>
+<unittitle>Receipts and invoices for purchases other than prints and books</unittitle></did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">52</container>
+<unittitle>Banking records</unittitle></did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">53-54</container>
+<unittitle>Clippings and miscellaneous items regarding Ivins' legal career, including Barnes vs. Roosevelt, <unitdate>1915</unitdate></unittitle></did></c02></c01>
+<c01 level="series"><did><unitid>Series 4: </unitid>
+<unittitle>Ivins Family Papers, <unitdate>1878-1964, undated</unitdate></unittitle><physdesc>(boxes 16-19; 4 linear ft.)</physdesc></did>
+<scopecontent><p>The Ivins Family Papers consist mainly of correspondence between relatives and friends of the Ivins, 1878-1964, and also include drawings, clippings, genealogies, and miscellaneous items.</p>
+<p>Correspondence between William M. Ivins, Jr., and his mother, Emma Yard Ivins, is extensive and wide-ranging. Included are letters from boarding school, c. 1890-1897, with childhood memorabilia such as grade reports, homework papers, a silhouette, and printed programs from school concerts and athletic events. His letters written while an undergraduate at Harvard, 1897-1901, and during his European trip of 1901-1902, reflect a growing interest in art. During some periods, mother and son corresponded almost daily. He frequently wrote in detail about progress with work, news of the museum, opinions about art, and activities of friends and colleagues, as well as commenting on daily life at home.</p> 
+<p>Florence Wyman Ivins (Mrs. William M. Ivins) also wrote to her mother-in-law regularly, mainly family news which often included details of her husband's professional activities.</p></scopecontent>
+<arrangement><p>The series is organized into eight subseries by individual:<list>
+<item>4.1: Genealogy, undated</item>
+<item>4.2: William M. Ivins, Jr., 1890-1964</item>
+<item>4.3: Barbara Ivins, 1923-1949, undated</item>
+<item>4.4: Emma Yard Ivins, 1878-1940</item>
+<item>4.5: Florence Wyman Ivins, circa 1911-1948, undated</item>
+<item>4.6: Katharine Ivins, 1890s-1962, undated</item>
+<item>4.7: Margaret Ivins Holmes, 1890s-1954</item>
+<item>4.8: Sarah Mills Ivins, 1890s-1910</item>
+<item>4.9: William M. Ivins, Sr., 1891-1924</item>
+</list></p></arrangement>
+<arrangement><p>Letters addressed to each particular person for whom a subseries exists are arranged alphabetically by sender and filed in chronological order within each name. Related clippings, estate papers, and miscellaneous items are filed with the papers of the person to whom they pertain. There are a few exceptions in this filing system: in cases where there is but one letter addressed to an individual, the item is filed with the papers of the sender, and the authorship clearly indicated in the description.</p></arrangement>
+<c02 level="subseries"><did><unitid>4.1: </unitid><unittitle>Genealogy, <unitdate>undated</unitdate></unittitle></did>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">1-2</container>
+<unittitle>Genealogy, notes on family history, and clippings about Ivins/Mills/Perrine families, and Ivins/Yard/Swift families, <unitdate>undated</unitdate></unittitle></did></c03></c02>
+<c02 level="subseries"><did><unitid>4.2: </unitid>
+<unittitle>William M. Ivins, Jr., <unitdate>1890-1964</unitdate></unittitle></did>
+<scopecontent><p>Letters from relatives in box 16 include those from Barbara Ivins [daughter], 1922-1961; Emma Yard Ivins [mother], 1892-1939; Florence Wyman Ivins [wife], 1908-1941; and James Sterling Yard Ivins [brother], 1897-1959. Letters from relatives in box 17 include those from (Katharine Ivins [sister], 1909-1961; Margaret Ivins Holmes [sister], 1890's-1954; Sarah Ivins [neice or cousin], 1947-1958; William M. Ivins, Sr., [father], 1893-1915; Willaim T. Mills [grandfather], 1910; Annie Perrine [cousin], 1929-1931; Loraine Wyman Painter [sister-in-law], 1922; Walter C. Wyman [father-in-law], 1916-1924; and Addie Yard [grandmother], 1898.</p>
+<p>Records concerning the estate of Ivins' estate include obituary, memorials and tributes; letters of condolence, A-Z (addressed to Barbara); and Ivins Collection of Prints and Illustrated Books, sales records and auction catalogs, 1962-1964.</p></scopecontent>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">3-38</container>
+<unittitle>Letters from relatives, <unitdate>1892-1961</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">17</container>
+<container type="folder">1-27</container>
+<unittitle>Letters from relatives, <unitdate>1890-1961</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">17</container>
+<container type="folder">28-34</container>
+<unittitle>Estate of William M. Ivins, Jr., <unitdate>1961-1964</unitdate></unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.3: </unitid><unittitle>Barbara Ivins <unitdate>1923-1949, undated</unitdate></unittitle></did><scopecontent><p>
+Barbara Ivins (1913-), daughter of William M. Ivins, Jr., and Florence Wyman Ivins, was the donor of the William M. Ivins, Jr. Papers. She is sometimes addressed as Barbi, Bubbles, Bubsey. Letters found here include those from Florence Wyman Ivins [mother], 1944 ; Katharine Ivins [aunt], undated; and William M. Ivins, Jr., [father], 1932-1939.</p></scopecontent><c03><did>
+<container type="box">18</container>
+<container type="folder">1-4</container>
+<unittitle>Letters from relatives and artwork, <unitdate>1923-1949, undated</unitdate></unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.4: </unitid><unittitle>Emma Yard Ivins, <unitdate>1878-1940</unitdate></unittitle></did>
+<scopecontent>
+<p>Emma Yard Ivins (1857-1940) was the mother of William M. Ivins, Jr. She was an amateur photographer whose work was exhibited at the turn of the century. She was active in the woman's suffrage movement from circa 1900 to 1915. She was sometimes addressed as Nem or Bammie.</p>
+<p>Correspondence between William M. Ivins, Jr., and his mother, Emma Yard Ivins, is extensive and wide-ranging. Included are letters from boarding school, c. 1890-1897, with childhood memorabilia such as grade reports, homework papers, a silhouette, and printed programs from school concerts and athletic events. His letters written while an undergraduate at Harvard, 1897-1901, and during his European trip of 1901-1902, reflect a growing interest in art. During some periods, mother and son corresponded almost daily. He frequently wrote in detail about progress with work, news of the museum, opinions about art, and activities of friends and colleagues, as well as commenting on daily life at home.</p>
+<p>Material relating to the woman's suffrage movement includes letters from Susan B. Anthony, 1900-1906, with a photographic portrait and a printed silhouette. Also included are letters from Ida Husted Harper, 1909 and Anna H. Shaw, 1906-1915. In addition, there is miscellaneous printed matter, 1900-1906, and undated impressions of the suffrage movement in England by an author unknown.</p>
+<p>Miscellaneous records include Christmas lists, 1900-1929; constitution and by-laws of the Wednesday Afternoon Club, 1917-1918, with lists of officers and programs since its establishment in 1888; a certificate from the Woodrow Wilson Foundation, 1922; and clippings about Emma Yard Ivins, 1921.</p>
+<p>Letters from relatives in box 18 include those from James S. Y. Ivins [son], 1897-1940; Katharine Ivins [daughter], circa 1917-1937; Margaret Ivins Holmes and Jonathan Holmes [daughter and grandson], 1909-1937; Sarah Mills Ivins [mother-in-law], 1910's; William M. Ivins, Jr. [son], 1889-1909; and William M. Ivins, Jr., and Florence Wyman Ivins [son and daughter-in-law].</p>
+<p>Letters from relatives in box 19 includes continued correspondence from William M. Ivins, Jr., and Florence Wyman Ivins, 1926-1940; and letters from William M. Ivins, Sr. [husband], 1883-1915; and James Sterling Yard [EYI to father], 1878.</p></scopecontent><c03><did>
+<container type="box">18</container>
+<container type="folder">5-6</container>
+<unittitle>Letters from friends and business correspondence, <unitdate>1906-1935</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">7</container>
+<unittitle>Financial correspondence, <unitdate>1920-1930</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">8-12</container>
+<unittitle>Woman's suffrage movement, <unitdate>1900-1915</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">13-16</container>
+<unittitle>Miscellaneous</unittitle></did>
+</c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">17-60</container>
+<unittitle>Letters from relatives, <unitdate>1889-1940</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">1-19</container>
+<unittitle>Letters from relatives, <unitdate>1878-1940</unitdate>
+</unittitle></did></c03>
+</c02><c02 level="subseries"><did><unitid>4.5: </unitid>
+<unittitle>Florence Wyman Ivins, <unitdate>circa 1911-1948, undated</unitdate></unittitle></did>
+<scopecontent><p>
+Florence Wyman Ivins was the wife of William M. Ivins, Jr., and an illustrator, primarily of children's books, and a painter of children's portraits. Many of her letters to family members are illustrated with pen and ink drawings or watercolors. She was addressed as Flossie of Flo.</p>
+<p>Letters from family and friends include those from Emma Yard Ivins [mother-in-law]; Katharine Ivins [sister-in-law]; Sarah Ivins; William M. Ivins, Jr. [husband], 1917-1928; Margaret Orr; Margaret Wind; Helen and Herbert Winlock; Wyman Family [letters from FWI to her father and sister], circa 1911-1914 </p>
+<p>Artwork includes a sketchbook, Southold [L. I.], from the summer of 1922, containing watercolor and pencil sketches of local scenery, Barbara, WMI, Jr., Loraine Wyman, and Paderewski. Also found here are portraits of William M. Ivins, Jr, (2), Bruce Rogers, and Marion Stone; miscellaneous prints and drawings; Christmas and other greeting cards designed by FWI, circa 1910-1937, including a 1937 New Year's greeting, "A Parable of Artists and Art Critics" by Hans Christian Andersen, illustrated by FWI with calligraphy by WMI, Jr.</p>
+<p>Miscellaneous material includes notes about E.S. [Elizabeth Sears?]; a flyer advertising children's portraits by FWI, with snapshots of children [used for paintings?]; a marriage announcement and related clippings, 1910; and Wyman family obituaries, including FWI.</p>
+<p>Writings include childhood reminiscences and principles of art instruction at Brearly School.</p></scopecontent><c03><did>
+<container type="box">19</container>
+<container type="folder">20-23</container>
+<unittitle>Letters from family and friends, <unitdate>circa 1911-1948</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">24-28</container>
+<unittitle>Artwork</unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">29-31</container>
+<unittitle>Miscellaneous Material</unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">32-33</container>
+<unittitle>Writings, undated</unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.6: </unitid><unittitle>Katharine Ivins <unitdate>1890s-1962, undated</unitdate></unittitle></did>
+<scopecontent><p>Katharine Ivins (circa 1888-) was the sister of William M.Ivins, Jr. A music teacher, she lived with mother in the Yard family home, in Freehold, N.J. She was addressed as Kate or Katti.</p>
+<p>Letters from relatives include those from Barbara Ivins [niece], 1926, 1962; Florence Wyman Ivins [sister-in-law], circa 1918-1947; Margaret Ivins Holmes [sister], undated; and William M. Ivins, Jr. [brother], 1928-1961. Writings include an essay [school homework], circa 1890's?], and a notebook, including childhood reminiscences with mention of mother's photography, schooling etc. </p></scopecontent><c03><did>
+<container type="box">19</container>
+<container type="folder">34-46</container>
+<unittitle>Letters from relatives, <unitdate>1890's-1962</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">47</container>
+<unittitle>Letters from friends, business, <unitdate>1910's, undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">48-49</container>
+<unittitle>Writings, undated</unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.7: </unitid><unittitle>Margaret Ivins Holmes, <unitdate>1890s-1954</unitdate></unittitle></did>
+<scopecontent><p>Margaret Ivins Holmes, (1882-1954), sister of William M. Ivins, Jr., lived in Freehold, N.J. and ran an antique store there with her husband, William Holmes. She was addressed as Margie or Peggy. Letters from relatives include those from Florence W. Ivins [sister-in-law]; William M. Ivins, Jr. [brother]; and William M. Ivins, Sr. [father].</p></scopecontent><c03><did>
+<container type="box">19</container>
+<container type="folder">50</container>
+<unittitle>Letters from relatives, <unitdate>1890's-1954</unitdate></unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.8: </unitid><unittitle>Sarah Mills Ivins, <unitdate>1890s-1910</unitdate></unittitle></did><c03><did>
+<container type="box">19</container>
+<container type="folder">51</container>
+<unittitle>Letters from Emma Yard Ivins [daughter-in-law], and William M. Ivins, Jr. [grandson], <unitdate>1890's-1910</unitdate></unittitle></did>
+</c03></c02><c02 level="subseries"><did><unitid>4.9: </unitid><unittitle>William M. Ivins, Sr., <unitdate></unitdate>1891-1924</unittitle></did>
+<scopecontent><p>William M. Ivins, Sr., (1851-1915), father of William M. Ivins, Jr., was a lawyer and politician and was addressed as Will. He spent a great deal of time in Europe and South America as a corporate lawyer. In 1905, he ran unsuccessfully for mayor of New York City. Business correspondence includes a letter from Mme. Blavatsky, with clippings and photographic portrait. Letters from relatives include those from Emma Yard Ivins [wife], 1904; Katharine Ivins [daughter], 1901; Margaret Ivins Holmes [daughter], 1901; Sarah Mills Ivins [mother]; William M. Ivins, Jr. [son], 1891-1902; Annie Perrine [cousin]; James S. Yard [father-in-law]. Miscellaneous material includes biographical notes; clippings by and about WMI Sr., 1897-1915, including an obituary; and miscellaneous notes copied from an unidentified publication.</p></scopecontent><c03><did>
+<container type="box">19</container>
+<container type="folder">52-53</container>
+<unittitle>Business correspondence, <unitdate>1897-1901</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">54-59</container>
+<unittitle>Letters from relatives, <unitdate>1891-1915</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">60-62</container>
+<unittitle>Miscellaneous</unittitle></did>
+</c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">63</container>
+<unittitle>Estate correspondence, <unitdate>1914-1924</unitdate></unittitle></did></c03></c02></c01><c01
+level="series"><did><unitid>Series 5: </unitid><unittitle>Photographs, <unitdate>circa 1890-1940, undated</unitdate></unittitle>
+<physdesc> (boxes 21-21; 2 linear ft.)</physdesc></did><scopecontent><p>In addition to portraits of family members this series includes interior and exterior views of homes, and pictures of friends and events.</p></scopecontent>
+<arrangement><p>
+The series is organized into three subseries:
+<list>
+<item>5.1: Family Photographs, circa 1890-1905</item>
+<item>5.2: Photographs of Architecture by WMI, Jr., circa 1930-1940</item>
+<item>5.3: Miscellaneous Photographs, undated</item>
+</list></p></arrangement>
+<c02 level="subseries"><did><unitid>5.1: </unitid><unittitle>Family Photographs</unittitle></did>
+<scopecontent><p>The Ivins Family photographs represent many processes from tintypes to silver gelatin prints. A number were taken by accomplished amateur photographer Emma Yard Ivins of her children, circa 1890-1905; a few of her children are purported to be the work of Gertrude Kasebier (possibly an acquaintance of Emma Yard Ivins?).</p></scopecontent>
+<arrangement><p>Family photographs folders are labelled with the name of an individual or family, and arranged alphabetically; within each folder, photographs are arranged in rough chronological order. Portraits of individuals are filed by name and group shots are filed by the name of the family; childhood pictures are filed under the parents' family. (For example, pictures of Emma Yard Ivins as a child are filed under the name Yard and any group shots she appears in will be found under the name James S. and Adaline Swift Yard Family; group shots of her after marriage are included with the pictures of the William M. Jr. and Emma Yard Ivins Family).</p>
+<p>Photographs of William M. Ivins, Jr., and the Florence Wyman family include their New York City apartment, summer house in Westport, Conn., and their Woodbury, Conn. home in addition to photographs of them with friends Bryson Burroughs, Naum Gabo, Walter Hauser, A. Hyatt Mayor, Peyton Rous, Rudolph Ruzicka, Mahonri Young, and unidentified.</p></arrangement><c03><did>
+<container type="box">20</container>
+<container type="folder">1-2</container>
+<unittitle>Ivins, Barbara (1913-), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">3-4</container>
+<unittitle>Ivins, Emma Yard (1857-1940), <unitdate>circa 1890-1905</unitdate></unittitle></did>
+<scopecontent><p>(includes Yard Family home, Freehold, N.J.)</p></scopecontent></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">5-7</container>
+<unittitle>Ivins, Florence Wyman (1881-1948), <unitdate>circa 1890-1905</unitdate></unittitle></did>
+<scopecontent><p>(includes photos of illustrations by FWI)</p></scopecontent></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">8</container>
+<unittitle>Ivins, Katharine (c. 1888-), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">9</container>
+<unittitle>Ivins, Margaret [Holmes] (1882-1954), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">10</container>
+<unittitle>Ivins, Sarah Mills (1832-1914), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">11-12</container>
+<unittitle>Ivins, William M., Jr. (1881-1961), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">13-20</container>
+<unittitle>Ivins, William M., Jr. and Florence Wyman Family, <unitdate>circa 1890-1905</unitdate></unittitle></did>
+</c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">21</container>
+<unittitle>Ivins, William M., Sr. (1851-1915), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">22-24</container>
+<unittitle>Ivins, William M., Sr. and Emma Yard Family, <unitdate>circa 1890-1905</unitdate></unittitle></did>
+<scopecontent><p>(including views of The Hut and The Breezes, Narragansett Pier, R.I.)</p></scopecontent></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">25</container>
+<unittitle>Mills, William T. (1811-), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">26</container>
+<unittitle>Wyman, Loraine (-1937), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">27</container>
+<unittitle>Yard, James Sterling (1826-1900) and Adaline Swift (1837-1912) Family (1826-1912), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">28</container>
+<unittitle>Yard, Mary Sterling (1805-1863), <unitdate>circa 1890-1905</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">29-30</container>
+<unittitle>Unidentified People, <unitdate>circa 1890-1905</unitdate></unittitle></did></c03></c02>
+
+<c02 level="subseries"><did><unitid>5.2: </unitid><unittitle>Architecture Photographs, <unitdate>circa 1930-1940</unitdate></unittitle></did>
+<scopecontent><p>Architecture photographs mainly consist of photographs of colonial architecture, apparently taken by William M. Ivins circa 1930-1940. These are unidentified, except for location, and arranged by state. Also included are a few scenes of Europe from the same period, featuring buildings.</p></scopecontent><c03><did>
+<container type="box">21</container>
+<container type="folder">1</container>
+<unittitle>Europe, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">2</container>
+<unittitle>Connecticut, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">3</container>
+<unittitle>Maryland, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">4</container>
+<unittitle>Massachussetts, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">5</container>
+<unittitle>New Hampshire, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">6</container>
+<unittitle>New York, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">7</container>
+<unittitle>Pennsylvania, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">8</container>
+<unittitle>Rhode Island, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">9-10</container>
+<unittitle>South Carolina (Charleston), <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">11</container>
+<unittitle>Vermont, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">12</container>
+<unittitle>Virginia, <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">13-14</container>
+<unittitle>Unidentified locations [New England and elsewhere], <unitdate>circa 1930-1940</unitdate></unittitle></did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>5.3: </unitid><unittitle>Miscellaneous Photographs, <unitdate>undated</unitdate></unittitle></did>
+<scopecontent><p>Miscellaneous photographs include those used as illustrations for <emph render="italic">How Prints Look</emph> and pictures of the Alberti Model for <emph render="italic">On the Rationalization of Sight</emph> (which may have been used to illustrate other writings, as well). The subseries also includes additional subjects such as a view of the Swarthmore College campus [Barbara's alma mater] and painting conservation [Metropolitan Museum of Art?].</p></scopecontent><c03><did>
+<container type="box">21</container>
+<container type="folder">15-18</container>
+<unittitle>Illustrations for <emph
+render="italic">How Prints Look</emph>, <unitdate>undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">19</container>
+<unittitle>Alberti Model, illustration for <emph
+render="italic">On the Rationalization of Sight</emph>, <unitdate>undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">20</container>
+<unittitle>Miscellaneous Subjects, <unitdate>undated</unitdate></unittitle></did></c03></c02></c01>
+
+<c01 level="series"><did><unitid>Series 6: </unitid><unittitle>Oversize Material, 1897-1950</unittitle><physdesc>(1 OV folder)</physdesc></did><c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>St. Paul's School Diploma, <unitdate>July 9, 1897</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>Harvard College Diploma, <unitdate>June 27, 1901</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>Columbia College School of Law Diploma, <unitdate>June 12, 1907</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>Yale University, Honorary Doctorate Diploma, <unitdate>Nov. 14, 1946</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>St. Paul's School, achievement award, <unitdate>July 9, 1897</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>Metropolitan Museum of Art, honorary fellow, <unitdate>May 20, 1946</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>American Academy of Arts and Sciences, fellow, <unitdate>May 1, 1950</unitdate></unittitle></did></c02>
+<c02><did>
+<container type="box">22 (ov)</container>
+<unittitle>U.S. Passport, <unitdate>September 24, 1901</unitdate></unittitle></did></c02></c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+

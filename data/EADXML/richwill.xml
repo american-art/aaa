@@ -1,0 +1,770 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/richwill.xml">richwill</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>William Trost Richards</titleproper>
+		<subtitle>A Finding Aid to the William Trost Richards Papers, <date type="inclusive">1848-1920</date>, in the Archives of American Art</subtitle>
+		<author>by Erin Corley</author>
+<sponsor>Funding for the processing and digitization of this collection was provided by the Terra Foundation for American Art.</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">October 28, 2005</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Corley on
+<date>October 28, 2005</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+<revisiondesc>
+<change>
+<date>October 2005</date>
+<item>Finding aid updated from EAD v. 1.0 to v. 2002 by Stephanie Ashley</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">William Trost Richards</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">William Trost Richards papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1848-1920</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.8 cubic feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The William Trost Richards papers measure 1.8 linear feet and date from 1848-1920.  The collection documents Richards' personal life and his career as a landscape and seascape painter.  The collection consists of correspondence, writings, business files, printed material, photographs, and other miscellaneous materials.</abstract>
+
+	<langmaterial>The records are in English<language></language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>William Trost Richards was born in Philadelphia, Pennsylvania, in 1833.  From 1850 to 1858 he worked as a designer and illustrator of ornamental metalwork, and briefly studied draughtsmanship and painting with the German artist Paul Weber.  Richards was also an active member of the Forensic and Literary Circle of Philadelphia during the early 1850s.  In 1852 he had his first exhibition at the Pennsylvania Academy of Fine Arts and a year later was elected a full Academician.  He had great interest in landscapes and geological subjects, and spent summers sketching in the Catskills and Adirondacks.  From 1855 to 1856 Richards toured Europe with William Stanley Haseltine and Alexander Lawrie, and was influenced by the Dusseldorf school of landscape painters.</p>
+
+<p>Richards married aspiring poetess Anna Matlack in 1856, and they settled in Germantown, Pennsylvania, where they had eight children, five of which survived to adulthood.  In 1858 he attended an exhibition of British art in Philadelphia, and was greatly influenced by the works of Pre-Raphaelite painters.  He began painting outdoors, executing precise, naturalistic, yet atmospheric, landscapes.  In 1862 he joined the National Academy of Design, and in 1863 joined the Society for the Advancement of Truth in Art, an American Pre-Raphaelite organization.  From 1868 to 1874, Richards spent summers on the East Coast and began focusing on marine subjects painted in watercolor, exhibiting often with the American Watercolor Society.  Richards also traveled to Europe several times, and lived there from 1879-1880 while trying to find a new direction for his artwork.  In 1881 he built a summer house for his family in Newport, Rhode Island and moved there permanently in 1890.  His wife Anna died in 1900, and he continued to paint landscapes and seascapes until his death in 1905.
+</p>
+<!-- add additional <p></p> tags as necessary -->
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The William Trost Richards papers measure 1.8 linear feet and date from 1848-1920.  The collection documents Richards' personal life and his career as a landscape and seascape painter.  The collection consists of correspondence, writings, business files, printed material, photographs, and other miscellaneous materials.</p>
+<p>Correspondence files date from 1851 to 1917 and include family correspondence between Richards and his wife Anna as well as with their children.  Of note are letters written by William Trost Richards to his wife while he was in Europe, which include many illustrations of his travels. Also found is general correspondence of a personal and professional nature between Richards and friends, artists, art dealers, and collectors, many of whom played a prominent role in Philadelphia society. Writings include essays written by Richards, homemade magazines written and illustrated by the Richards family, and writings by his wife Anna and others.  Business files contain financial, legal, and real estate records, and printed material contains an exhibition catalog from 1976, news clippings, and event programs.  Miscellany found in this collection include artwork by others, and inventory of paintings by others, compiled by Richards, and an interview transcript with Miriam Thayer Richards.  Photographs include images of Richards, his wife Anna, and their home in Newport, Rhode Island.</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged into 6 series: </p>
+<list>
+<item>Series 1: Correspondence, 1851-1917, undated (Box 1-2; 0.7 linear feet)</item>
+<item>Series 2: Writings, 1849-1905, undated (Box 2-4; 0.8 linear feet)</item>
+<item>Series 3: Business Files, 1865-1920, undated (Box 4; 3 folders)</item>
+<item>Series 4: Printed Material, 1850-1906, 1976, undated (Box 4-5; 5 folders)</item>
+<item>Series 5: Miscellany, 1848-1876, undated (Box 5; 5 folders)</item>
+<item>Series 6: Photographs, circa 1850-1900 (Box 5; 7 folders)</item>
+</list>
+</arrangement>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also available on microfilm at the Archives are the Geoge Whitney papers relating to William Trost Richards, 1875-1885, which includes 112 watercolors and an oil painting by William Trost Richards.  These items were lent anonymously in 1979 and returned to the lender after they were filmed. They are available on reels 1497.</p>
+</relatedmaterial>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following index terms. People, families and organizations are listed under "Subjects" when they are the topic of collection contents and under "Names" when they are creators or contributors.</p>
+<controlaccess>
+<head>Subjects-Topical:</head> 
+<subject encodinganalog="650" source="lcsh">Landscape painting -- 19th century -- Pennsylvania -- Germantown</subject>
+<subject encodinganalog="650" source="lcsh">Marine painting -- 19th century -- Rhode Island -- Newport</subject>
+<subject encodinganalog="650" source="lcsh">Landscape painters -- Pennsylvania -- Germantown</subject>
+<subject encodinganalog="650" source="lcsh">Marine painters -- Rhode Island -- Newport</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Daguerreotypes</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head> 
+<persname encodinganalog="700" source="lcsh">Wilcox, William H.</persname>
+<persname encodinganalog="700" source="lcsh">
+Avery, Samuel Putnam, 1822-1904</persname> 
+<persname encodinganalog="700" source="lcsh">Coates, Edward Hornor, 1846-1921</persname>
+<persname encodinganalog="700" source="lcsh">Eakins, Thomas, 1844-1916</persname>
+<persname encodinganalog="700" source="lcsh">Lambdin, George Cochran, 1830-1896</persname>
+<persname encodinganalog="700" source="lcsh">Lanman, Charles, 1819-1895</persname>
+<persname encodinganalog="700" source="lcsh">Whitney, George, D. 1885</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The bulk of the collection was donated in 1980 by Mrs. James B. Conant, Richards's granddaughter. The Archives microfilmed this portion of the collection on reels 2296-2299 upon receipt.  The inventory of paintings by others was donated by Victor Spark in 1954 and filmed on reel 3470.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The William Trost Richards papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The collection was digitized in 2010 and is available via the Archives of American Art's website.</p>
+</altformavail>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>William Trost Richards papers, 1848-1920. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The entire collection was fully processed, arranged, and described by Erin Corley in 2005 and scanned in 2010 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Correspondence, <unitdate>1851-1917, undated</unitdate></unittitle>
+<physdesc>(Box 1-2; 0.7 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains Richards' incoming and outgoing correspondence with family, friends, artists, dealers, and collectors, and is divided into family and general correspondence.  Files arranged alphabetically by name of correspondent and chronologically within each folder.</p> 
+</scopecontent>
+
+<arrangement><p>The Correspondence series is arranged into 2 subseries:</p> 
+<p>
+<list> 
+<item>1.1: Family Correspondence, 1878-1905, undated</item> 
+<item>1.2: General Correspondence, 1851-1917</item> 
+</list> 
+</p>
+<p>This series has been scanned in its entirety.</p></arrangement>
+
+<c02 level="subseries"><did><unitid>1.1:</unitid>
+<unittitle>Family Correspondence, <unitdate>1878-1905, undated</unitdate></unittitle></did>
+<scopecontent> 
+<p>Family Correspondence includes letters from William Trost Richards or his wife, Anna M. Richards, to family members.  The bulk of this subseries are intimate and detailed letters to their daughter Eleanor (Nelly) Richards Price concerning things such as the family, travels throughout Europe, raising children, clothing, and societal issues.  Also found are letters to their son-in-law, William Price, one letter to their son Herbert, letters to their son Theodore and his wife, Miriam Thayer Richards, and letters to Anna's brother, Charles Matlack.  Also of note are letters written by William Trost Richards to his wife while he was in Europe, which include many illustrations of his travels.  Researchers should note that much of the correspondence was originally undated and was dated much later based on the content of the letter.</p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>William T. Richards to wife Anna, <unitdate>circa 1878-1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Charles Matlack, <unitdate>1878-1879, 1896-1905, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">3-20</container>
+<unittitle>Eleanor Richards Price, <unitdate>circa 1880-1905, undated</unitdate></unittitle>
+<physdesc>(18 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>William Price, <unitdate>circa 1880-1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Herbert Richards, <unitdate>1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">23-26</container>
+<unittitle>Mr. and Mrs. Theodore W. Richards, <unitdate>1887-1905, undated</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+ 
+
+</c02>
+<c02 level="subseries"><did><unitid>1.2:</unitid>
+<unittitle>General Correspondence, <unitdate>1851-1917</unitdate></unittitle></did>
+<scopecontent> 
+<p>General Correspondence is with friends, fellow artists, collectors, and others and includes letters to and from William Trost Richards.  Correspondence is with artists Fidelia Bridges, George Cochran Lambdin, and William H. Willcox, art dealer Samuel Putnam Avery, and Edward H. Coates, President of the Pennsylvania Academy of Fine Arts.  Also found are numerous letters to and from his major patron and collector, George Whitney, and from his friend and patron, Elias Lyman Magoon.  Items of note in the miscellaneous correspondence include, an 1877 letter from Thomas Eakins, an 1881 letter from Alexander Lawrie, and an 1883 letter from Charles Lanman.  </p> 
+</scopecontent>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Charlotte Augusta Astor, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Samuel P. Avery, <unitdate>1869-1904, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Fidelia Bridges, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>Edward H. Coates, 1886-1905, <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>George Cochran Lambdin, <unitdate>1885-1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>Elias Lyman Magoon, <unitdate>1871-1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">1-2</container>
+<unittitle>James T. Mitchell, <unitdate>1851-1853</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Harrison S. Morris, <unitdate>1898-1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Daniel Neall, <unitdate>1876, 1885, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>A. E. Outerbridge, <unitdate>1887, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>George W. Outerbridge, <unitdate>1894-1902</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>John R. Sheridan, <unitdate>1892-1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>George F. Shrady, <unitdate>1900-1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Hannah W. Smith, <unitdate>1866</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">10-22</container>
+<unittitle>George Whitney, <unitdate>circa 1860-1885</unitdate></unittitle>
+<physdesc>(13 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>William H. Willcox, <unitdate>1854, 1879, 1885, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">24-28</container>
+<unittitle>Miscellaneous, <unitdate>1853, 1864-1917, undated</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c03>
+</c02>
+</c01>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Writings, <unitdate>1849-1905, undated</unitdate></unittitle>
+<physdesc>(Box 2-4; 0.8 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Writings include essays written by Richards in the early 1950s including "Flowers" and "The Spirit of Toil," as well as several essays for the Forensic and Literary Circle of Philadelphia.  Also found are unpublished, homemade magazines, created by Richards, Anna, and their children.  "London Days: A Homemade Magazine of Literature, Art, Science and Fun" was created while the family lived in London from 1879 to 1880, and upon their return the series was called "Our Own Monthly."  Anna home schooled all of their children and these were made as part of their education.  All of the magazines are illustrated by William and Anna.</p> 
+<p>Writings also include works by Anna, such as an edited manuscript of her poem "Chemistry" and annotated editions of her published work, <emph render="italic">Dramatic Sonnets</emph>. Also found is Anna's "commonplace book" filled with quotations, literary excerpts, and her own thoughts.  This series also includes writings by others, including an "In Memoriam" poem for Richards by Esther Morton Smith.</p>
+</scopecontent>
+<arrangement><p>The bulk of this series has been scanned.  Three volumes of "London Days" are fragile and have not been scanned.</p></arrangement>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unittitle>"Flowers," <unitdate>1850</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unittitle>Forensic Literary Circle, <unitdate>1850-1851</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Humbly Dedicated to Marie by Her Friend Will," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>"London Days," Vol.1, Part I, <unitdate>1879</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>"London Days," Vol.1, Part II, <unitdate>1880</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>"London Days," Vol.1, Part III, <unitdate>1880</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>"London Days," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">6</container>
+<unittitle>"Our Own Monthly," Vol. 2, No. 18, <unitdate>March 5, 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle>"Our Own Monthly," Vol. 2, No. 19, <unitdate>April 2, 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>"Our Own Monthly," Vol. 2, No. 20, <unitdate>May 7, 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>"Our Own Monthly," Vol. 2, No. 23, <unitdate>January 7, 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>"Our Own Monthly," No. 25, <unitdate>circa 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 26, <unitdate>April 1, 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 27, <unitdate>December 9, 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 28, <unitdate>January 7, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 29, <unitdate>Feburary 3, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 30, <unitdate>March 3, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 31, <unitdate>April 7, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 32, <unitdate>May 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 33, <unitdate>November 3, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 34, <unitdate>December 1, 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 35, <unitdate>January 5, 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 36, <unitdate>February 2, 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>"Our Own Monthly," Vol. 3, No. 38, <unitdate>April 5, 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 39, <unitdate>January 3, 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 40, <unitdate>February 7, 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">6</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 41, <unitdate>April 4, 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">7</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 42, <unitdate>November 7, 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">8</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 43, <unitdate>December 5, 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">9</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 44, <unitdate>January 2, 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 46, <unitdate>March 6, 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>"Our Own Monthly," Vol. 4, No. 47, <unitdate>April 3, 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>"Our Own Monthly," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>"The Spirit of Toil," <unitdate>1852</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle>"Sunlight," <unitdate>1851</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Miscellaneous writings by Richards, <unitdate>1852, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Anna M. Richards, "Chemistry," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>Anna M. Richards, Commonplace Book, Vol. 4, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>Anna M. Richards, <emph render="italic">Dramatic Sonnets</emph>, <unitdate> 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>Writings by Others, <unitdate>1849-1860, 1905, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Business Files, <unitdate>1865-1920, undated</unitdate></unittitle>
+<physdesc>(Box 4; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>Business files include various financial statements for the sale of artwork, purchase of materials, and shipping expenses.  Also found are three copies of legal documents concerning Richards' artwork while living in London, and various real estate documents for his property in Pennsylvania and Rhode Island.</p> 
+</scopecontent>
+<arrangement><p>This series has been scanned in its entirety.</p></arrangement>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Financial Statements, <unitdate>1865-1920, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Legal Documents, <unitdate>1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>Real Estate Documents, <unitdate>1874-1890, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Printed Material, <unitdate>1850-1906, 1976, undated</unitdate></unittitle>
+<physdesc>(Box 4-5; 5 folders)</physdesc></did>
+<scopecontent> 
+<p>Printed material includes an exhibition catalog for a Richards exhibition at the Art Association of Newport and numerous clippings concerning Richards' artwork, his death, and a major auction of his work in 1906.  Also found are event programs for gatherings of the Forensic and Literary Circle.</p> 
+</scopecontent>
+<arrangement><p>This series has been scanned in its entirety.</p></arrangement>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Catalog, <emph render="italic">William Trost Richards,</emph> <unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>Event Programs, Forensic and Literary Circle, <unitdate>1850-1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">2-4</container>
+<unittitle>News Clippings, <unitdate>1871-1906, undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Miscellany, <unitdate>1848-1876, undated</unitdate></unittitle>
+<physdesc>(Box 5; 5 folders)</physdesc></did>
+<scopecontent> 
+<p>This series contains artwork by others, including small paintings and prints, an award to Richards from the United State Centennial Commission, and a handwritten list of paintings by others, including painter, title, and dimensions of each work.  Also found is a transcript of an interview with Mrs. Theodore (Miriam) Richards, primarily discussing her memories of Anna M. Richards.</p> 
+</scopecontent>
+<arrangement><p>This series has been scanned in its entirety.</p></arrangement>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Artwork by Others, <unitdate>1848, 1873, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>Award Certificate, <unitdate>1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>Inventory of Paintings by Others, undated<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>Transcript, Mrs. Theodore Richards, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>Unidentified Sketch, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Photographs, <unitdate>circa 1850-1900</unitdate></unittitle>
+<physdesc>(Box 5; 7 folders)</physdesc></did>
+<scopecontent> 
+<p>Photographs include portraits of William Trost Richards as a young man, as well as later in his life.  Two photographs of note are a daguerreotype of Richards from the 1850s, and a photograph of Richards painting in his studio.  Also found are portraits of Anna Richards, two of Richards' children, possibly Theodore and Anna, a pendant with photographs of William and Anna, and photographs of the Richards family home on Conanicut Island.</p> 
+</scopecontent>
+<arrangement><p>This series has been scanned in its entirety except for negatives.</p></arrangement>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">10-11</container>
+<unittitle>William Trost Richards, <unitdate>circa 1850-1900</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle>William Trost Richards, Daguerreotype, <unitdate>circa 1850</unitdate></unittitle>
+<physdesc>(See Black Cabinet, Drawer 8: Cased Photographs)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>Anna Matlack Richards, <unitdate>circa 1880s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle>Portrait Pendant of W. T. Richards and wife Anna, <unitdate>circa 1860</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">15</container>
+<unittitle>Two Richards children, <unitdate>circa 1860s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>Conanicut House, <unitdate>circa 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>Negatives, William Trost Richards, <unitdate>circa 1850-1900</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+
+</c01>
+
+
+
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+
+
+
+

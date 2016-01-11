@@ -1,0 +1,4036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/veddelih.xml">veddelih</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Elihu Vedder</titleproper>
+		<subtitle>A Finding Aid to the Elihu Vedder Papers, <date type="inclusive">1804-1969</date> <date type="bulk"> (bulk 1840-1923)</date>, in the Archives of American Art</subtitle>
+		<author>by Jennifer Meehan</author>
+		<sponsor>Funding for the processing and digitization of this collection was provided by the Terra Foundation for American Art</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">September 12, 2006</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Stephanie Ashley on
+<date>September 07, 2007</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Vedder, Elihu</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Elihu Vedder papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1804-1969 (bulk 1840-1923)</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">9.0 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of painter and illustrator Elihu Vedder measure approximately 9.0 linear feet and date from 1804-1969, with the bulk of the material dating from 1840-1923. The collection documents Vedder's personal life and work. Best known for his illustrations of the 1884 edition of <emph render="italic">The Rubaiyat of Omar Khayyam</emph>, Vedder's papers include correspondence, writings, diaries, photographs, a limited number of drawings, books and printed material, legal and financial papers, and scattered personal and family papers.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The bulk of the collection was donated in 1962-1964 by Lawrence Fleischman and Harold Love (who bought the papers in 1926 from Mrs. Nadia Tomassi, a Vedder family friend who had held the papers since Vedder's death in 1923). Several books were donated by Irving Burton in 1964 and 1977. Some correspondence, writings, notes, and printed material were donated in 1981 by Mrs. John Breck.</p>
+</acqinfo>
+
+<separatedmaterial encodinganalog="544 0" id="a7">
+<head>Separated Material</head>
+<p>Four originals drawings (filmed on Reel 671: 608-610 and 612) were returned to the donor and are not described in the Container Listing.</p>
+</separatedmaterial>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Related material found in the Archives of American Art includes 3 letters written by Elihu Vedder that comprise a small collection donated by Charles E. Feinberg.</p>
+</relatedmaterial>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The microfilm of this collection was digitized in 2007 and original photographs were digitized in 2009.  Digitized materials are available via the Archives of American Art website.</p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was largely processed before being partially microfilmed in 1962-1964 on reels 515-529 and 671, and in 1981 on reel 2323. Two drawings, study for "The Rubaiyat" and "The Artist's  Daughter," received conservation treatment at the Conservation Center for Art and Historic Artifacts in 1986. The entire collection was fully processed, arranged and described by Jennifer Meehan in 2006, and the collection was digitized in 2007 and 2009 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Elihu Vedder papers, 1804-1969 (bulk 1840-1923). Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The bulk of this collection has been digitized. Use of material not digitized requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Elihu Vedder papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Elihu Vedder was born in New York in 1836. He grew up in Cuba, where his father worked as a dentist, and on his grandfather's farm in Brooklyn. He was educated in boarding schools and by tutors, and showed an interest in drawing at an early age. He began his formal training with T. H. Matteson in New York, and went on to study with Francois-Edouard Picot in Paris and Raffaello Bonaiuti in Florence.</p>
+<p>After studying in Europe for several years, Vedder returned to the U.S. in 1860 and settled in New York, where he worked as a commercial illustrator during the Civil War. In 1864, he was one of the artists who illustrated the first American edition of Tennyson's <emph render="italic">Enoch Arden</emph>, which was published by Ticknor and Fields. During this time, he became associated with a bohemian group of artists and writers that regularly met at Pfaff's coffee shop. Some of the earliest exhibitions of his work took place at the annual spring exhibits at the National Academy of Design from 1863 to 1865. He became a member of the American Academy of Arts and Letters in 1865. After the war he returned to Europe, eventually settling permanently in Italy. </p>
+<p>In 1869 Vedder married Elizabeth Caroline Beach Rosekrans (Carrie). They lived in Rome, where Vedder earned his living by undertaking commissioned work (what he termed "duty painting") while also producing paintings on original themes and subjects, such as <emph render="italic">The Cumaean Sibyl</emph> (1875-1878) which became one of his most celebrated paintings. Vedder's wife aided him in his work by cultivating patrons and carrying out all the business correspondence. Over the years he exhibited his work in London, Paris, New York and Boston (where it was especially well-received). While achieving a certain degree of success, he struggled throughout his career to make a living as an artist.</p>
+<p>Vedder also carried out work on commission, designing covers for <emph render="italic">Century Magazine</emph> in 1881 and illustrations for various other publications such as <emph render="italic">Harper's</emph>. He experimented in other decorative arts also, designing glass ringwork, firebacks, and tiles; apart from some commissions for glass work from Tiffany's, these other projects never really got off the ground.</p>
+<p>Vedder made his biggest contribution to American commercial art in 1884 with his illustrations of <emph render="italic">The Rubaiyat of Omar Khayyam</emph>. Exhibitions of the original drawings followed, which were well-attended by the public; he also painted and sold several pictures from the Rubaiyat drawings. In the 1890s he undertook several mural projects, including ones for the Walker Art Building at Bowdoin College and the Library of Congress.</p>
+<p>In the early 1900s, Vedder built a villa on the island of Capri, where he spent the summers and falls while continuing to live the rest of the year in Rome. From this point on, he didn't undertake any new major paintings, but instead turned to writing and illustrating books of autobiography and verse. His books include <emph render="italic">The Digressions of V</emph> (1910), <emph render="italic">Miscellaneous Moods</emph> (1915), and <emph render="italic">Doubt and Other Things</emph> (1922).</p>
+<p>Vedder died on January 29, 1923, at the age of 87.</p>
+<p>This biographical note draws from Regina Soria's biography, <emph render="italic">Elihu Vedder: American Visionary Artist in Rome</emph> (Rutherford: Fairleigh Dickinson University Press, 1970). </p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The Elihu Vedder papers measure approximately 9 linear feet and date from 1804 to 1969, with the bulk of the material dating from 1840 to 1923. The collection documents the life and work of the painter and illustrator, who was perhaps best known for his illustrations of the 1884 edition of <emph render="italic">The Rubaiyat of Omar Khayyam</emph>. Papers include correspondence, writings, diaires, photographs, a limited number of drawings, books and printed material, legal and financial papers, and scattered personal and family papers.</p>
+<p>Correspondence consists of incoming and drafts of outgoing letters concerning both personal and professional matters. The majority of the business correspondence was written by Vedder's wife, Caroline R. Vedder, on his behalf and documents the sale and exhibition of Vedder's work, commissions for paintings, and his illustrations for books. Also found is corresondence between and amongst various members of Vedder's immediate and extended family (including early letters between his parents, Elizabeth and Elihu Vedder, Sr.), and between Caroline R. Vedder and her immediate family (including her mother, sisters, and nieces).</p>
+<p>Writings consist of drafts, manuscripts, typescripts, and illustrations for various books that Vedder wrote late in his career after he had stopped painting, and for various other poems, essays, and stories, as well as some writings by others. Also found are several diaries belonging to Vedder and Caroline R. Vedder, which record some of the daily activities and travels of Vedder and his wife. Photographs include ones of Vedder, his studio, his friends and family, and his artwork, as well as ones of various residences, from various trips, and of an unidentified exhibition of Vedder's work. Drawings include a study for "The Rubaiyat" and "The Artist's Daughter," along with scattered sketches, plans, and bookplates. Also found are copies of Vedder's published books, and clippings, catalogs, art reproductions, and other printed material.</p>
+<p>Also in the collection are scattered legal papers (wills, deeds, and agreements of various family members), finanical papers (such as receipts and statements), notes on family history and other family papers, miscellaney, and numerous annotated envelopes and enclosures that once housed some of Vedder's papers.</p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as seven series: </p>
+<list>
+<item>Series 1: Miscellaneous Personal Papers, 1811-1938 (Boxes 1, 10; 1.0 linear foot)</item>
+<item>Series 2: Correspondence, 1804-1951 (Boxes 2-5; 3.6 linear feet)</item>
+<item>Series 3: Diaries, 1878-1890 (Box 5; 0.1 linear feet)</item>
+<item>Series 4: Writings, 1848-1923, 1969 (Boxes 5-7, 10; 1.7 linear feet)</item>
+<item>Series 5: Books and Printed Material, 1864-1939 (Boxes 7-8; 0.9 linear feet)</item>
+<item>Series 6: Drawings, 1888-1912 (Box 8, OV 12; 0.2 linear feet)</item>
+<item>Series 7: Photographs, 1840s-1920s (Boxes 8-9, 11, OV 13; 1.5 linear feet)</item>
+</list>
+</arrangement>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Artists' Writings</subject>
+<subject encodinganalog="650" source="lcsh">Painting, Modern --19th century -- Italy -- Rome</subject>
+<subject encodinganalog="650" source="lcsh">Painters -- Italy -- Rome</subject>
+<subject encodinganalog="650" source="lcsh">Illustrators -- Italy -- Rome </subject>
+</controlaccess>
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Works of art</genreform>
+<genreform encodinganalog="655" source="lcsh">Diaries</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Vedder, Caroline Rosenkrans</persname></controlaccess>
+</controlaccess>
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Miscellaneous Personal Papers, <unitdate>1811-1938</unitdate></unittitle>
+<physdesc>(Boxes 1, 10; 1.0 linear foot)</physdesc></did>
+<scopecontent> 
+<p>This series consists of miscellaneous personal and family papers, including notes on the genealogy of the Vedder family, legal and financial papers, notes on the sale and disposition of Vedder's artwork, miscellany, and a significant amount of empty envelopes and enclosures that once housed some of Vedder's papers and that are annotated with notes about the former contents. Legal papers are primarily those of Vedder's extended family and consist of the last wills and testaments of various family members (including his brother and father), deeds, agreements, and insurance policies, as well as Vedder's contract with Houghton Mifflin for <emph render="italic">The Digressions of V</emph>. Also found are various folders of miscellany, consisting of invitations, notices of Vedder's election to the National Academy of Design and The Century Association, sketches and notes,  programs, report cards for Enoch Vedder (his son), business and calling cards, pages from an address book, a lock of Vedder's hair, writings, maps, a tentative catalog of Vedder's papers, and other printed material. The bulk of the series is comprised of empty envelopes and enclosures, including some empty envelopes from Vedder's correspondence, which were annotated by various members of Vedder's family and by various custodians and/or users of Vedder's papers and which suggest how the papers may have been originally organized.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">759-776</container>
+<unittitle>Family History Notes, <unitdate>1845-1862, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">499-550</container>
+<unittitle>Family Legal Papers, <unitdate>1811-1909</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">551-610</container>
+<unittitle>Family Legal Papers, <unitdate>1811-1909</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">612-649</container>
+<unittitle>Financial Papers, Caroline R. Vedder's Notebook of Sales, <unitdate>1856-1907</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">650-699</container>
+<unittitle>Financial Papers, Statements, <unitdate>1868-1912, 1938</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">700-722</container>
+<unittitle>Financial Papers, Statements, <unitdate>1868-1912, 1938</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">723-769</container>
+<unittitle>Financial Papers, Receipts, <unitdate>1865-1910, 1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">770-810</container>
+<unittitle>Financial Papers, <unitdate>1874-1915, undated</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">811-850</container>
+<unittitle>Financial Papers, <unitdate>1874-1919, undated</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">852-902</container>
+<unittitle>Artwork Sales and Disposition Notes, <unitdate>1856-1938</unitdate></unittitle>
+<physdesc>(1 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">903-956</container>
+<unittitle>Artwork Sales and Disposition Notes, <unitdate>1856-1938</unitdate></unittitle>
+<physdesc>(2 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">957-1001</container>
+<unittitle>Artwork Sales and Disposition Notes, <unitdate>1856-1938</unitdate></unittitle>
+<physdesc>(3 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">1002-1045</container>
+<unittitle>Artwork Sales and Disposition Notes, <unitdate>1856-1938</unitdate></unittitle>
+<physdesc>(4 of 4; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">769-813</container>
+<unittitle>Miscellany, <unitdate>1857-1915, undated</unitdate></unittitle>
+<physdesc>(1 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">814-856</container>
+<unittitle>Miscellany, <unitdate>1857-1915, undated</unitdate></unittitle>
+<physdesc>(2 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">857-892</container>
+<unittitle>Miscellany, <unitdate>1857-1915, undated</unitdate></unittitle>
+<physdesc>(3 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Miscellany, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Annotated Envelopes and Enclosures, <unitdate>undated</unitdate></unittitle>
+<physdesc>(16 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Oversized, Miscellaneous Family Papers, Diplomas and License of Enoch H. Rosekrans (father-in-law), <unitdate>1831-1867</unitdate></unittitle>
+<physdesc>(see Box 10)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1804-1951</unitdate></unittitle>
+<physdesc>(Boxes 2-5; 3.6 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Series consists of Vedder's personal, professional, and family correspondence, comprised mostly of incoming letters as well as some copies or drafts of outgoing letters. Correspondents include family, friends, artists, dealers, collectors, admirers, and publishers. The bulk of the business correspondence was written by Caroline R. Vedder on behalf of her husband, including correspondence with collectors, people who commissioned work, dealers, and publishers.</p> 
+<p>Earliest correspondence consists of letters sent and received by various members of Vedder's immediate and extended family, including his parents, Elizabeth and Elihu Vedder, Sr., his brother, Alexander V., his maternal grandparents, Alexander and Agnes Vedder, his maternal aunt, Eveline Caister, and his paternal uncles, Levi and John Vedder. Early letters document the time the family spent apart while Elihu, Sr., was living and working in Cuba and later while the boys were living with their grandparents for a time. Of particular note is an 1850 letter from Vedder to his mother expressing his interest in drawing.</p>
+<p>Family correspondence consists primarily of letters between and amongst Vedder, his father, and his brother (Vedder's letters to his father detail his travels in Europe from 1857 to 1860 and his first attempts to earn a living by drawing); letters between Caroline R. Vedder, her mother, sisters, and nieces; letters between Vedder and his wife when either one of them was away from home, traveling or conducting business; and letters between Caroline R. Vedder and the children: Enoch, when he was away at a school and then living in the U.S. and Anita, when she was traveling and away from home.</p>
+<p>Personal correspondence concerns matters such as Vedder's engagement and marriage to Caroline Rosekrans, the death and settling the estate of his brother, Alexander, his travels, including a trip up the Nile in 1889-1890, and his friendship with other artists. Professional correspondence concerns: his illustrations and engravings of his work for various books and poems, including <emph render="italic">Enoch Arden</emph> (1863) and <emph render="italic">The Rubaiyat of Omar Khayyam</emph> (1884); the exhibiiton of his work (for instance, in the Paris International Exposition of 1878; in gallery shows in Boston and New York in 1880 and in London in 1899; and at the Architectural League of New York in 1895) as well as the unsuccessful attempt to show in the Royal Academy Exhibition of 1876; the sale of his work to private individuals and commissions for work; the reproduction and copyright of his work; Vedder's published protest in the December 1878 issue of <emph render="italic">L'Art</emph>; his award of first prize in the Competition of Christmas Cards at the American Art Gallery, and the subsequent reproduction and sale of his Christmas cards; a mural project for the Chicago World's Fair in 1892; a proposed mural project for the Boston Public Library; his book <emph render="italic">The Digressions of V</emph> (1910); and various other financial and business matters.</p>
+<p>Also found is some posthumous correspondence sent and received by Anita Vedder, concerning gifts, sales, and exhibitions of Vedder's work.</p>
+<note><p><ref target="seriesindex2">See Index for List of Selected Correspondents from Series 2.</ref></p></note></scopecontent>
+<arrangement><p>Correspondence is arranged chronologically. Undated correspondence is arranged alphabetically at the end of the series.</p></arrangement>
+
+
+<odd encodinganalog="500" id="seriesindex2">
+<head>Index: Selected List of Correspondents from Series 2: Correspondence</head>
+<p>This list does not include the names of family members. Unless otherwise noted, date entries refer to correspondence found on Reels 515-526. When correspondence can also be found on Reel 2323, it is noted with a "see" or "see also" reference after the appropriate date.</p>
+<p>
+<list>
+<head><emph render="bold">A</emph></head>
+<item>Abbott, Mrs.: 1895</item>
+<item>Abbott, Sam A. B: 1894</item>
+<item>Abbey, Edwin A.: undated (see also Reel 2323)</item>
+<item>Adams, Elizabeth: undated (see Reel 2323)</item>
+<item>Adsit, Mary J.: undated</item>
+<item>Advisory Committee on Art of the Paris Exhibition: 1878</item>
+<item>Agnew, Mary: undated</item>
+<item>Ainger, Alfred: 1893 (see Reel 2323)</item>
+<item>Aldrich, T. B.: 1875 (see Reel 2323), 1878, 1880 (see Reel 2323)</item>
+<item>Aldrich, Lilian: undated</item>
+<item>Allen, Earl Heron: 1885, 1896 (see Reel 2323)</item>
+<item>Allen, Fanny B.: 1893, undated</item>
+<item>Allen, Henry F.: undated (see Reel 2323)</item>
+<item>American Academy of Arts and Letters: 1922, 1935, 1937, 1938, 1947, 1949</item>
+<item>American Art Gallery: 1881</item>
+<item>American Consul, Alexandria, Egypt: 1910</item>
+<item>American Federation of Arts: 1930</item>
+<item>American Library in Paris: 1934</item>
+<item>Anderson, L---: 1894</item>
+<item>Andrea (?), J. W.: 1876</item>
+<item>Appleton, F. G.: 1880</item>
+<item>Apolloni, A.: 1898 (see Reel 2323)</item>
+<item>Archibald, J. W.: undated</item>
+<item>Architectural League of New York: 1895</item>
+<item>Armstrong, D. M.: 1872, 1873, 1878, 1879, undated</item>
+<item>Armstrong, Helen M.: 1938</item>
+<item>Armstrong, Helen N.: 1871, 1872, undated</item>
+<item>Armstrong, T.: 1892 (see Reel 2323)</item>
+<item>Arnold, Edwin: undated</item>
+<item>Arts and Crafts Exhibition Society: 1890 (see Reel 2323)</item>
+<item>Ashbarton, Lady: 1876</item>
+<item>Ashley, M. Harry: 1872</item>
+<item>Ashley, O. D.: 1866</item>
+<item>Athenaeum Club: 1863</item>
+<item>Atkinson, Agnes D.: undated</item>
+<item>Augustine Heard and Co.: 1871</item>
+<item>Ault, Charles H.: 1895, 1898 (see Reel 2323)</item>
+<item>Austin, Alys: 1885, 1886, 1887</item>
+<item>Avery, Sam P.: 1879, 1893</item>
+</list>
+<list>
+<head><emph render="bold">B</emph></head>
+<item>Babcock, Maltbie Davenport: undated (see Reel 2323)</item>
+<item>Bale, Edwin: 1884, 1885, undated</item>
+<item>Bale, Jake D.: undated</item>
+<item>Ballard, Laura: 1869</item>
+<item>Ballue, P. W.: 1878</item>
+<item>Banks, Isabella: 1871</item>
+<item>Barrett, S. E.: 1898, undated</item>
+<item>Bartlett, [Truman H.?]: 1871</item>
+<item>Beale, Jessie Fremont: 1898 (see Reel 2323)</item>
+<item>Benedict, Bessy G.: 1889, 1890, 1891, 1894</item>
+<item>Benedict, Frank Lee: 1882</item>
+<item>Benson, Arthur: 1888 (see Reel 2323)</item>
+<item>Benson, Eugene: 1878, 1881</item>
+<item>Benson, H. M.: 1880</item>
+<item>Bicknell, Albion H. (Bic): 1866</item>
+<item>Bigelow, W. B.: 1878</item>
+<item>Bishop, Hattie: 1893, 1894, 1895, 1898, 1905, undated</item>
+<item>Black, F. C.: 1865</item>
+<item>Blake, Franklin: 1871</item>
+<item>Blythe, Isabella: 1889</item>
+<item>Bode, William: 1912</item>
+<item>Booth, George: 1884</item>
+<item>Bossi, Enrico: 1898 (see Reel 2323)</item>
+<item>Boughton, G. H.: 1878</item>
+<item>Bourget, Mr. and Mrs. Paul: undated (see Reel 2323)</item>
+<item>Bradbury, K.: undated</item>
+<item>Braden, Robert: 1893, 1895, 1896</item>
+<item>Breck, George W.: 1900, 1902, undated</item>
+<item>Breck, Katherine: 1903</item>
+<item>Bretschneider, Dora: 1905</item>
+<item>Brewster, Anne Hampton: 1891 (see Reel 2323)</item>
+<item>Briggs, Allan Lindsay: 1896</item>
+<item>Brimmer, Martin: 1880, 1894</item>
+<item>Brinkerhoff, E. A.: 1910</item>
+<item>Brooklyn Institute of Arts and Sciences: 1938</item>
+<item>Brown, Alice E.: 1874</item>
+<item>Brown, Florinda: 1889, 1891, 1893, undated</item>
+<item>Bruce, W. J.: 1888, 1889</item>
+<item>Burrows, Elizabeth M.: 1891</item>
+<item>Burton, Grace Harvey: 1898 (see Reel 2323)</item>
+<item>Butler, George: 1881, 1882</item>
+<item>Butler, J. H.: 1877</item>
+<item>Butler, Samuel: 1877 (see Reel 2323)</item>
+</list>
+<list>
+<head><emph render="bold">C</emph></head>
+<item>California State Library, Sutro Branch: 1919</item>
+<item>Carnegie Institute: 1923</item>
+<item>Carpenter, H. Bernard: undated</item>
+<item>Carpenter, Horace T.: 1912</item>
+<item>Carter, Jesse Benedict (American Academy in Rome): 1915</item>
+<item>Carter, June Benedict: 1910</item>
+<item>Cary, William M.: 1909</item>
+<item>Cave, Daniel C. A.: 1893 (see Reel 2323)</item>
+<item>Chanix, S. Whitney: 1865</item>
+<item>Chanler, Amelie: 1891 (Reel 2323)</item>
+<item>Chapin, H. A.: 1866</item>
+<item>Chapin, Mrs.: 1895</item>
+<item>Charles Scribner's Sons: 1887, 1888, 1892</item>
+<item>Chase, William L.: undated</item>
+<item>Churchill (?), S. H.: 1919</item>
+<item>Clarke, S.: undated</item>
+<item>Clemens, S. L.: 1883 (telegram)</item>
+<item>Cleveland Art Association: 1895</item>
+<item>Clute, Henry J.: 1887</item>
+<item>Cochrane, Jessie: undated</item>
+<item>Cole, J.: 1886</item>
+<item>Cole, Timothy: 1914, 1915 (see Reel 2323)</item>
+<item>Coleman, Caryl: 1871, 1878, 1885</item>
+<item>Coleman, Charles: 1865, 1866, 1871, 1880, 1882, 1883, 1886, 1893, 1904, 1905, 1910, undated</item>
+<item>Collins, Charles: 1885, 1886, undated</item>
+<item>Colnaghi, Messrs.: 1876</item>
+<item>Conti (?), Joan: 1886 (see Reel 2323)</item>
+<item>Coolidge, J. Randolph: 1888, 1889</item>
+<item>Corcoran Gallery of Art: 1949</item>
+<item>Corliss, George F: 1889, 1891</item>
+<item>Corell, W. S.: 1897 (see Reel 2323)</item>
+<item>Cortissoz, Royal: 1937, 1938</item>
+<item>Cromwell, Anna B.: 1894</item>
+<item>Crook, John: 1870</item>
+<item>Crowninshield, Frederic: 1910 (see Reel 2323)</item>
+<item>Crowninshield, Helen: 1878</item>
+<item>Curtis, Kate De F.: 1893</item>
+<item>Curtis, Lois: 1894</item>
+</list>
+<list>
+<head><emph render="bold">D</emph></head>
+<item>Daly, Augustus: 1880 (see Reel 2323)</item>
+<item>Daniel, P. A.: 1872</item>
+<item>Daniels, Cora Louise: 1885</item>
+<item>Davies, Robert: 1892</item>
+<item>Davies, William: 1876, 1878</item>
+<item>Day, Ben: 1866, 1882, 1892, 1900, 1910</item>
+<item>Dean, Sarah Fairchild: 1872</item>
+<item>Dickinson, Lavinia: 1892 (see Reel 2323)</item>
+<item>Dielman, Frederick: 1898 (see Reel 2323)</item>
+<item>Dixey, Ellen Sturgis: undated</item>
+<item>Dodd, Mead and Company: 1906 (see Reel 2323)</item>
+<item>Dodge, Anna Sheldon: undated</item>
+<item>Doll and Richards: 1880, 1889, 1890, 1938</item>
+<item>Donaldson, Andrew B.: 1870</item>
+<item>Douglas, George William: 1888</item>
+<item>Drake, A. W.: 1884, 1894</item>
+<item>Draper, Ada A.: 1871, 1873</item>
+<item>Drexel, Mrs. M.: 1940</item>
+<item>Duckworth, H.T.F.: 1891 (see Reel 2323)</item>
+<item>Dumaresq, J. S.: 1876-1878</item>
+<item>Dunham, Charles A.: 1896</item>
+<item>Dunthorne, Robert: 1897</item>
+<item>Durand, Mr.: 1880</item>
+<item>Dwight, Theodore F.: 1892 (see Reel 2323)</item>
+<item>Dyer, Margaret: 1889</item>
+<item>Dyer, Stella M.: undated (see Reel 2323)</item>
+<item>D'Ysette, Contessa: 1912 (see Reel 2323)</item>
+</list>
+<list>
+<head><emph render="bold">E</emph></head>
+<item>Earle, Charles: 1872, 1878, undated</item>
+<item>Edwards, Amelia B.: 1872, 1873, 1875-1880, 1882-1884, 1886-1891, 1909, undated</item>
+<item>Ellsworth, James W.: 1892</item>
+<item>Ellsworth, W. W.: 1884</item>
+<item>Eustaphiere, Emiy: 1871</item>
+<item>Ewer, F. C.: 1863</item>
+</list>
+<list>
+<head><emph render="bold">F</emph></head>
+<item>Fairbanks (?), A. A.: 1872</item>
+<item>Fairchild, Charles: 1872, 1880</item>
+<item>Fairchild, Lucius: 1875</item>
+<item>Farr, Edward L.: 1911</item>
+<item>Farrell, Eva Ingersoll: undated</item>
+<item>Fawcett, Edgar: undated (see Reel 2323)</item>
+<item>Fennel, A. J.: 1875</item>
+<item>Ferguson, Henry A.: 1878</item>
+<item>Field, Kate: 1863, 1865, 1867, 1869, 1871, 1878, 1879, 1887, undated</item>
+<item>Filmer, John: undated</item>
+<item>Finney, J. N.: 1909</item>
+<item>Fiske, Fannie L.: 1872, undated</item>
+<item>Fiske, J. N.: 1876, 1877</item>
+<item>Fiske, Maria: 1874, 1875</item>
+<item>Ford, Paul Leceister: undated</item>
+<item>Frampton, George: 1913 (see Reel 2323)</item>
+<item>Francis, Fanny Long: undated</item>
+<item>Frank A. Munsey and Co. (Munsey's Magazine): 1894</item>
+<item>Frisell, A. S.: 1897</item>
+<item>Frisell, S. S.: 1922 (see Reel 2323)</item>
+<item>Frothingham, Ellen: 1871</item>
+<item>Fuller, James: 1866</item>
+</list>
+<list>
+<head><emph render="bold">G</emph></head>
+<item>Galton, Mary: 1886, 1889, 1890, undated</item>
+<item>Garrett, Mary: 1892</item>
+<item>Gautier, Florence: undated (see Reel 2323)</item>
+<item>Gifford, R. Swain (?): 1880 (see Reel 2323)</item>
+<item>Gilbert, Alfred: 1898 (see Reel 2323)</item>
+<item>Gilder, Helena de Kay: undated</item>
+<item>Gilder, R. W.: 1883</item>
+<item>Glackmore, Mary: 1871</item>
+<item>Glackmore, William: 1871</item>
+<item>Goodman, Walter: 1876</item>
+<item>Gottschalk, Felix: 1887, 1888, 1891, 1892</item>
+<item>Graham, Louise: 1867, 1871</item>
+<item>Graham, William: 1878, 1881-1883, 1889-1892, 1900, 1903, 1904, 1907, 1908, 1910, 1911, undated</item>
+<item>Grant, ----: 1877</item>
+<item>Gray, David: 1870, 1878, 1879 (see Reel 2323)</item>
+<item>Green, Josiah: 1866, undated</item>
+<item>Greenwood, Grace (Mrs. S. J. Lippincott): 1876</item>
+<item>Griswold, Casimir Clayton (Cass.): 1866, 1871, 1872, 1892-1894</item>
+<item>Grover, Frances: undated</item>
+<item>Guckin, William G. M.: 1912</item>
+<item>Guerry, Prosper (Prosper Guerry Studios): 1945, 1946</item>
+<item>Gurnee, William B.: 1872, 1878</item>
+<item>Gutman, Joseph: 1866, 1867, 1870, 1871, 1874, 1880, 1885, 1887-1889, undated</item>
+</list>
+<list>
+<head><emph render="bold">H</emph></head>
+<item>Haggin, Ali Ben: 1910</item>
+<item>Haggin, B. B.: undated</item>
+<item>Hall, George Henry: 1887</item>
+<item>Hall, J. Frederick: 1875, 1879, 1889, undated</item>
+<item>Hallock, Mary: 1869</item>
+<item>Hallowell, Anna: undated</item>
+<item>Hare, Augustus: undated (see Reel 2323)</item>
+<item>Harper and Brothers: 1882, 1885, 1886, 1888, 1890, 1896, 1907</item>
+<item>Harper, J. Abner: undated</item>
+<item>Harvey, James Clarence: 1895</item>
+<item>Haskell, Celia: 1878, 1883, 1885, 1886, 1889, 1892, 1894, undated</item>
+<item>Haskell, E. B.: 1878, 1880-1885, 1887, 1890-1894, 1902</item>
+<item>Hathaway, M. J.: 1878</item>
+<item>Hawthorne, Julian: 1892, undated (see Reel 2323)</item>
+<item>Head, Barclay R.: 1883</item>
+<item>Hearn, George: 1909</item>
+<item>Heath, L. B.: undated</item>
+<item>Helbig, Nadine: undated (see Reel 2323)</item>
+<item>Henderson, Isaac: 1886</item>
+<item>Henderson, J. W.: 1888, 1889, 1891, 1893, 1895-1901, undated</item>
+<item>Hendrickson, Doll and Richards: 1866</item>
+<item>Herkomer, Herbert: 1898 (see Reel 2323)</item>
+<item>Herriman, Elizabeth (Lizzie): 1862, 1872, 1873-1875, 1878-1880, 1882, 1884, 1889, 1890, undated</item>
+<item>Herriman, William H.: 1879, 1880, 1892, 1910</item>
+<item>Hess, Selmar: 1890</item>
+<item>Hitchcock, DeWitt C.: 1865, 1866, undated</item>
+<item>Hitchcock, Linda: 1865</item>
+<item>Holland, Alex: 1867</item>
+<item>Home, D. D.: 1881 (see Reel 2323)</item>
+<item>Hooker, J. C.: 1876</item>
+<item>Hooper, C.----: 1866</item>
+<item>Hooper, Mary: 1874</item>
+<item>Houghton Mifflin Company: 1890 (see Reel 2323), 1935</item>
+<item>How, Charles: 1871, 1872, 1874, 1875</item>
+<item>Howe, Mrs.: 1874</item>
+<item>Howells, William Dean: 1908</item>
+<item>Hulton, Lawrence: undated</item>
+<item>Hunt, Richard H.: 1892</item>
+<item>Hutchins, Mary Hurd: undated</item>
+</list>
+<list>
+<head><emph render="bold">I</emph></head>
+<item>Ives, E. H.: 1889</item>
+<item>Ives, H. Davis: 1898</item>
+</list>
+
+<list>
+<head><emph render="bold">J</emph></head>
+<item>J. B. Lippincott Company: 1886</item>
+<item>Jackson, Helen Hunt: 1880 (see Reel 2323)</item>
+<item>James, Olive B.: 1936</item>
+<item>Jarves, James J.: 1878, 1891</item>
+<item>Jarves, Mrs. James J.: undated</item>
+<item>Johnson, Laura Winthrop: 1880, 1884</item>
+<item>Johnson, R. N.: 1886, 1915</item>
+<item>Johnson, Virginia H.: 1888, undated</item>
+</list>
+
+<list>
+<head><emph render="bold">K</emph></head>
+<item>Kale, ----: 1878</item>
+<item>Keed, Caroline G.: 1895</item>
+<item>Keen, Ida E.: 1889</item>
+<item>Keene, Francis B.: 1921</item>
+<item>Kellogg, Mrs. Frank: 1891</item>
+<item>Kelly, Eugene: undated (see Reel 2323)</item>
+<item>Kelly, Sarita: undated (see Reel 2323)</item>
+<item>Kennedy, E. G. (?) (H. Wunderlich and Co.): 1886, 1892, undated</item>
+<item>Kingsley, Rose: 1896 (see Reel 2323)</item>
+<item>Kingston, William Beatty: 1883-1885, 1888 (see also Reel 2323)</item>
+<item>Kinnicutt, Lincoln N.: 1897 (see Reel 2323)</item>
+<item>Klapp, Laura E.: 1898, undated</item>
+<item>Knowlton, D. R.: 1874, 1876</item>
+<item>Koehler, S. R.: 1880, 1886</item>
+<item>Kollops (?), T. E.: 1884</item>
+</list>
+<list>
+<head><emph render="bold">L</emph></head>
+<item>L. Prang and Co.: 1881</item>
+<item>LaFarge, John: 1884, 1894, undated (see Reel 2323)</item>
+<item>Lagata, Emma: undated</item>
+<item>Laffan, William: 1884, 1885, 1891</item>
+<item>Langley, S. P.: 1894 (see Reel 2323)</item>
+<item>Lasell, Mary K.: undated</item>
+<item>Lathrop, Kate S.: 1898 (see Reel 2323)</item>
+<item>Lathrop, S. P.: 1883</item>
+<item>Lay, Oliver J.: 1866</item>
+<item>Lewis, Ethel Black: 1913</item>
+<item>Library of Congress: 1915</item>
+<item>Lieber, Henrietta: 1893</item>
+<item>Linton, W. J.: 1880, 1884, 1887</item>
+<item>Lloyd, David D.: 1885</item>
+<item>Lloyd, H. D.: 1887, undated</item>
+<item>Lloyd, Jessie B.: 1885-1887, 1889, 1890, 1893, undated</item>
+<item>Loder, John: 1884</item>
+<item>Long, G. W.: 1866</item>
+<item>Long, George A.: 1892, 1894</item>
+<item>Long, Mary E.: 1867, undated</item>
+<item>Lord, Austin W.: 1896, 1898</item>
+<item>Low, John J.: 1885</item>
+<item>Lowell, Georgina: 1869</item>
+<item>Lowell, J. R.: 1875 (see Reel 2323)</item>
+<item>Lubin, David: 1908</item>
+<item>Ludlow, Anna D.: 1894 (see Reel 2323)</item>
+</list>
+
+<list>
+<head><emph render="bold">M</emph></head>
+<item>Macantrey, C.H.H.: undated</item>
+<item>Macbeth, Wiliam: 1910</item>
+<item>MacMillan, Amy B.: 1896</item>
+<item>MacMillan, George C.: 1894</item>
+<item>MacNeil, H. A.: 1900</item>
+<item>Madonough, A. R.: undated</item>
+<item>Malloy, Edward C.: 1951</item>
+<item>Matterson, T. H.: 1879, 1880</item>
+<item>Matthew, Frank: 1897 (see Reel 2323)</item>
+<item>Matthew, Leah: 1897 (see Reel 2323)</item>
+<item>Matthews, Brandon: 1904 (see Reel 2323)</item>
+<item>Marburg, Theodore: 1877</item>
+<item>Marks, H. Stacy: 1876</item>
+<item>Marrs, Kingsmill: undated</item>
+<item>Marshal, J. B.: 1863</item>
+<item>Mauley, F.: undated</item>
+<item>Maynard, George W.: 1910</item>
+<item>McClurg, Mary Virginia: 1889, undated</item>
+<item>McGraw, Jennie: undated</item>
+<item>McKim, Charles F.: 1894, 1895, undated (see Reel 2323)</item>
+<item>McLeish, Fannie: 1872</item>
+<item>Mead, Olga: 1893</item>
+<item>Melville, E. S. (Mrs. Herman Melville): 1896 (see Reel 2323)</item>
+<item>Merriman, Daniel: 1892</item>
+<item>Merriman, Helen B.: 1892, 1893, undated</item>
+<item>Metropolitan Museum of Art: 1883, 1912, 1938</item>
+<item>Meyer, Rose: 1890 (see also Reel 2323), 1891, undated</item>
+<item>Miller, (Hepburn), Edith: 1891, undated</item>
+<item>Millet, Emily: undated</item>
+<item>Millet, Francis D.: 1878, 1891, 1894, 1896, 1897, 1899, 1907, 1910, undated (see also Reel 2323)</item>
+<item>Millet, Geraldine: undated (see Reel 2323)</item>
+<item>Millet, J. B. (Houghton Mifflin and Co.): 1882, 1888, 1889, 1891, 1895</item>
+<item>Millet, Lily M.: undated</item>
+<item>Moen, H.A.R.: 1880, 1881</item>
+<item>Morgan, George O.: 1901</item>
+<item>Morgan, Harriet M.: undated</item>
+<item>Monks, George H.: 1887</item>
+<item>Moore, Mr.: 1881</item>
+<item>Morgan, E. D.: 1874</item>
+<item>Morgan, J. Pierpont: 1875-1877</item>
+<item>Moulton, Louise Chandler: undated (see also Reel 2323)</item>
+<item>Munroe (?), John: 1878</item>
+<item>Mural Painters Society: 1895</item>
+<item>Murrar, W.H.H.: 1889</item>
+<item>Musgrave, George: undated</item>
+</list>
+
+<list>
+<head><emph render="bold">N</emph></head>
+<item>Nardi, Gunhild: 1947</item>
+<item>Nevin (?), B. J.: 1882</item>
+<item><emph render="italic">New England Magazine</emph>: 1895</item>
+<item><emph render="italic">New York Times</emph>: 1900</item>
+<item>Noyes, Emily M.: 1886-1891, undated</item>
+<item>Noyes, Walter B.: 1884</item>
+</list>
+<list>
+<head><emph render="bold">O</emph></head>
+<item>Osgood, J. R.: 1865, 1883</item>
+<item>Otis, F. N.: 1875</item>
+</list>
+<list>
+<head><emph render="bold">P</emph></head>
+<item>Paige, J. W.: 1876-1878, undated</item>
+<item>Parkesmith, Mina: 1890 (see Reel 2323)</item>
+<item>Parsons, Alfred: 1889, undated (see Reel 2323)</item>
+<item>Parsons, Anna: undated</item>
+<item>Partridge, Augusta: 1889</item>
+<item>Partridge, William Ordway: undated</item>
+<item>Patterson, Emily: 1892 (see Reel 2323)</item>
+<item>Paul, Daniel: 1880</item>
+<item>Peard, F. M.: undated (see Reel 2323)</item>
+<item>Pearson, John C.: 1911</item>
+<item>Peck, Tracy: 1915</item>
+<item>Penfield, Mr.: 1896</item>
+<item>Pennington (?), Harper: 1911 (see Reel 2323)</item>
+<item>Perkins, Clara Crawford: 1895 (see Reel 2323)</item>
+<item>Phillips, C. H.: 1891</item>
+<item><emph render="italic">Pittsburgh Dispatch</emph>: 1894</item>
+<item>Powers, Mrs: 1910</item>
+<item>Putnam, Elizabeth Munroe: undated (see Reel 2323)</item>
+</list>
+<list>
+<head><emph render="bold">Q</emph></head>
+<item>Quaritch, Bernard: 1886, 1907</item>
+<item>Quartley, Arthur: 1882</item>
+</list>
+<list>
+<head><emph render="bold">R</emph></head>
+<item>Reinhardt (?), Charles S.: undated (see Reel 2323)</item>
+<item>Rhead, Louis: undated (see Reel 2323)</item>
+<item>Richmond, Clara: 1880, 1881, 1894, undated</item>
+<item>Richmond, N. B.: 1897, undated</item>
+<item>Rinehart, William H.: undated</item>
+<item>Rives, G. L. (The Century Club): 1892, 1893</item>
+<item>Robinson, Frank J.: 1883, 1884, 1888</item>
+<item>Rodin, A.: 1909 (see Reel 2323)</item>
+<item>Rogers, Elizabeth B.: 1877-1879, 1885, undated</item>
+<item>Rogers, P. V.: 1877, 1878, 1884</item>
+<item>Rogers, Sherman (?) S.: 1892</item>
+<item>Rollins, Alice H.: undated</item>
+<item>Rollins, D. M.: 1898 (see Reel 2323)</item>
+<item>Ruggles, H. M.: 1881, undated</item>
+</list>
+<list>
+<head><emph render="bold">S</emph></head>
+<item>St. Augustine Historical Society: 1930</item>
+<item>Saint-Gaudens, August: 1878, undated</item>
+<item>Sampson, Henry: 1875, 1876, undated</item>
+<item>Sargent, Amy (Mrs. John): undated</item>
+<item>Sargent, John: undated</item>
+<item>Sartorio, G. A.: undated (see Reel 2323)</item>
+<item>Schoff, ----: 1880</item>
+<item>Schuyler, Eugene: 1880 (see Reel 2323)</item>
+<item>Scott, Charles E.: 1910</item>
+<item>Scott, V. C.: 1909</item>
+<item>Scribner and Co.: 1881</item>
+<item>Scudder, Winthrop: undated (see Reel 2323)</item>
+<item>Sellstadt, Lars: 1884</item>
+<item>Sharp, William: undated</item>
+<item>Shaw, Louisa: 1872</item>
+<item>Sheldon, George William: 1889</item>
+<item>Sherman, Florence Bagley: 1895, undated</item>
+<item>Shillaber, Cynthia H.: 1877, 1878, 1879, undated</item>
+<item>Simmons, Franklin: 1876</item>
+<item>Simonds, George: 1869, 1871, 1877, 1884</item>
+<item>Simonds, Gertrude: 1893, undated</item>
+<item>Skillman, Jenny: undated (see Reel 2323)</item>
+<item>Skinner, Charles M.: 1880</item>
+<item>Smith, Anna Leigh: 1889, undated</item>
+<item>Smith, Robert M.: 1914</item>
+<item>South Carolina Inter-State and West Indian Exposition: 1901, 1902</item>
+<item>Special Committee on Casts, Metropolitan Museum of Art: 1895</item>
+<item>Speed, Hattina: 1938</item>
+<item>Stearns, J.: undated</item>
+<item>Stetson, Grace Elly Chaning: 1907, 1934</item>
+<item>Stewardson, T.: 1881</item>
+<item>Stillman, H. J.: 1878</item>
+<item>Stillman, W.: undated</item>
+<item>Stimson, D. M.: undated</item>
+<item>Stimson, Edith: undated</item>
+<item>Stoddard, Charles Warren: 1877 (see Reel 2323)</item>
+<item>Stoddard, R. H.: 1882</item>
+<item>Stokes, Whitley: 1905 (see Reel 2323)</item>
+<item>Stone, M. A.: 1880</item>
+<item>Story, Evelyn: undated</item>
+<item>Story, W. W.: 1877 (see Reel 2323)</item>
+<item>Srokosch, Clara Louise Kellog: 1913 (see Reel 2323)</item>
+<item>Strong, Alonzo P.: 1887</item>
+</list>
+<list>
+<head><emph render="bold">T</emph></head>
+<item>Tappan, Caroline: 1896, undated</item>
+<item>Tarkington, Louise (Mrs. Booth): 1905</item>
+<item>Thaxter, Celia: 1880 (see Reel 2323)</item>
+<item>Thaxter, L. L.: undated</item>
+<item>Thomas, Mary: undated</item>
+<item>Thompson, E.A.M.: undated</item>
+<item>Thompson, Eden Frances: 1887, 1889</item>
+<item>Thompson, Launt: 1878</item>
+<item>Thorndike, Mary and Henry A.: 1902, undated</item>
+<item>Ticknor and Fields: 1863</item>
+<item>Tildes, L----: 1878</item>
+<item>Tracy (Roudebush), Agnes: 1879, 1886-1888, 1891-1893, 1899, undated</item>
+<item>Tracy, Francis W.: 1879</item>
+<item>Turner, Russ: 1888, 1889</item>
+<item>Tuthill, William H.: 1914</item>
+<item>Tuttle, Mrs. B. B.: 1905</item>
+</list>
+<list>
+<head><emph render="bold">U</emph></head>
+<item>Underwood, M. Flora: 1898 (see Reel 2323)</item>
+<item>University Prints: 1938</item>
+</list>
+<list>
+<head><emph render="bold">V</emph></head>
+<item>Vanderbilt, Edith Stuyvesant: 1890 (see Reel 2323)</item>
+<item>Vaughan, Virginia: 1894, undated</item>
+<item>Vertunni, A.: 1878</item>
+<item>Volpi, E.: 1923</item>
+</list>
+<list>
+<head><emph render="bold">W</emph></head>
+<item>W. H. Smith: 1876, 1877</item>
+<item>Wagstaff, Ede: 1880</item>
+<item>Walters, W. J. (?): 1882</item>
+<item>Wakeman, Stephen H.: 1906 (see Reel 2323)</item>
+<item>Walthius, H. G.: undated (see Reel 2323)</item>
+<item>Ward, Edmund A.: 1871</item>
+<item>Warner, Charles Dudley: 1871</item>
+<item>Watrous, Harry W. (National Academy of Design): 1915</item>
+<item>Webb, Annie Bertram: undated (see Reel 2323)</item>
+<item>Welling, Genevieve: undated</item>
+<item>Wells, Clara L.: 1875, 1876</item>
+<item>Weston, Karl E.: 1938</item>
+<item>Wheatland, Maria: 1898, undated</item>
+<item>White, Bessie S. (Mrs. Stanford): 1937, undated</item>
+<item>White, Stanford: 1891 (see Reel 2323), undated</item>
+<item>Whiteford, Sidney J.: 1907</item>
+<item>Whitehouse, Remsen: undated (see Reel 2323)</item>
+<item>Whiting, Lilian: 1914</item>
+<item>Whittier, Charles A.: 1884, 1885, undated</item>
+<item>Willart, Laura: undated</item>
+<item>Williams, Henry D. (Williams and Everett): 1880, 1881</item>
+<item>Williams and Everett: 1891</item>
+<item>Wilmarth, Anna H.: undated</item>
+<item>Wilmarth, Mary H.: 1897</item>
+<item>Wilson, Anna: undated</item>
+<item>Wilson, M. B.: undated</item>
+<item>Winter, William: 1880 (see Reel 2323)</item>
+<item>Wood, Miles: 1880</item>
+<item>Woodhouse, Emma: 1878, 1879, undated</item>
+<item>Woodruff, Edith: undated (see Reel 2323)</item>
+<item>World's Fair, St. Louis: 1904</item>
+<item>Wright, Helen Keeps (Mrs. Orville B. Wright): 1938</item>
+<item>Wright, Mary Francis: 1890</item>
+</list>
+<list>
+<head><emph render="bold">Y</emph></head>
+<item>Yale University: 1930</item>
+<item>Yewell, George: 1870, 1871, 1872, 1872 (illustrated), 1881</item>
+<item>Yewell, Mollie: 1872, 1879</item>
+<item>Young, Mrs. Edward: 1938</item>
+</list>
+</p>
+</odd>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">780-784</container>
+<unittitle>Correspondence, <unitdate>1804</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">785-792</container>
+<unittitle>Correspondence, <unitdate>1826</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">793-796</container>
+<unittitle>Correspondence, <unitdate>1835</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">797-803</container>
+<unittitle>Correspondence, <unitdate>1842</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">804-837</container>
+<unittitle>Correspondence, <unitdate>January-April 1843</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">838-872</container>
+<unittitle>Correspondence, <unitdate>May-December 1843</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">873-907</container>
+<unittitle>Correspondence, <unitdate>1844</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">908-942</container>
+<unittitle>Correspondence, <unitdate>1845-1849</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">944-976</container>
+<unittitle>Correspondence, <unitdate>1850</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">977-993</container>
+<unittitle>Correspondence, <unitdate>1851</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">994-1065</container>
+<unittitle>Correspondence, <unitdate>1852-1859</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1066-1086</container>
+<unittitle>Correspondence, <unitdate>1860</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1087-1105</container>
+<unittitle>Correspondence, <unitdate>1861</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1106-1141</container>
+<unittitle>Correspondence, <unitdate>1862</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1142-1196</container>
+<unittitle>Correspondence, <unitdate>1863-1864</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1197-1253</container>
+<unittitle>Correspondence, <unitdate>1865</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">515</container>
+<container type="frame">1254-1287</container>
+<unittitle>Correspondence, <unitdate>January-February 1866</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1-62</container>
+<unittitle>Correspondence, <unitdate>March-December 1866</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">63-130</container>
+<unittitle>Correspondence, <unitdate>January-June 1867</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">131-192</container>
+<unittitle>Correspondence, <unitdate>July-December 1867</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">193-259</container>
+<unittitle>Correspondence, <unitdate>1868</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">260-332</container>
+<unittitle>Correspondence, <unitdate>1869</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">334-393</container>
+<unittitle>Correspondence, <unitdate>January-July 1870</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">394-456</container>
+<unittitle>Correspondence, <unitdate>August-December 1870</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">127</container>
+<unittitle>Correspondence, <unitdate>1870</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">457-509</container>
+<unittitle>Correspondence, <unitdate>January-February 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">510-582</container>
+<unittitle>Correspondence, <unitdate>March-April 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">583-629</container>
+<unittitle>Correspondence, <unitdate>May-June 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">630-689</container>
+<unittitle>Correspondence, <unitdate>July-August 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">690-735</container>
+<unittitle>Correspondence, <unitdate>September 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">736-774</container>
+<unittitle>Correspondence, <unitdate>October 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">775-821</container>
+<unittitle>Correspondence, <unitdate>November-December 1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">128-129</container>
+<unittitle>Correspondence, <unitdate>1871</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">822-868</container>
+<unittitle>Correspondence, <unitdate>January-February 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">869-934</container>
+<unittitle>Correspondence, <unitdate>March-April 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">935-1006</container>
+<unittitle>Correspondence, <unitdate>May-June 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1007-1071</container>
+<unittitle>Correspondence, <unitdate>July 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1072-1167</container>
+<unittitle>Correspondence, <unitdate>August 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1168-1240</container>
+<unittitle>Correspondence, <unitdate>September 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1241-1264</container>
+<unittitle>Correspondence, <unitdate>October 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1265-1309</container>
+<unittitle>Correspondence, <unitdate>November 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1310-1357</container>
+<unittitle>Correspondence, <unitdate>December 1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1358-1410</container>
+<unittitle>Correspondence, <unitdate>January-April 1873</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1411-1445</container>
+<unittitle>Correspondence, <unitdate>May-September 1873</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1446-1479</container>
+<unittitle>Correspondence, <unitdate>October 1873</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1480-1522</container>
+<unittitle>Correspondence, <unitdate>November-December 1873</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1523-1584</container>
+<unittitle>Correspondence, <unitdate>January-February 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1585-1617</container>
+<unittitle>Correspondence, <unitdate>March-April 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1618-1656</container>
+<unittitle>Correspondence, <unitdate>May 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">516</container>
+<container type="frame">1657-1685</container>
+<unittitle>Correspondence, <unitdate>June 1-6, 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1-34</container>
+<unittitle>Correspondence, <unitdate>June 7-30, 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">35-73</container>
+<unittitle>Correspondence, <unitdate>August-September 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">74-116</container>
+<unittitle>Correspondence, <unitdate>October-December 1874</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">117-160</container>
+<unittitle>Correspondence, <unitdate>January-April 1875</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">161-206</container>
+<unittitle>Correspondence, <unitdate>May-September 1875</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">207-266</container>
+<unittitle>Correspondence, <unitdate>October-November 1875</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">267-286</container>
+<unittitle>Correspondence, <unitdate>December 1875</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">130-136</container>
+<unittitle>Correspondence, <unitdate>1875</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">287-341</container>
+<unittitle>Correspondence, <unitdate>January-March 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">342-388</container>
+<unittitle>Correspondence, <unitdate>April-May 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">389-453</container>
+<unittitle>Correspondence, <unitdate>June 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">454-488</container>
+<unittitle>Correspondence, <unitdate>July 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">489-526</container>
+<unittitle>Correspondence, <unitdate>August-September 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">527-573</container>
+<unittitle>Correspondence, <unitdate>October-November 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">574-598</container>
+<unittitle>Correspondence, <unitdate>December 1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">137-138</container>
+<unittitle>Correspondence, <unitdate>1876</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">599-651</container>
+<unittitle>Correspondence, <unitdate>January-February 1877</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">652-699</container>
+<unittitle>Correspondence, <unitdate>March-August 1877</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">700-745</container>
+<unittitle>Correspondence, <unitdate>September-November 1877</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">746-772</container>
+<unittitle>Correspondence, <unitdate>December 1877</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">139-147</container>
+<unittitle>Correspondence, <unitdate>1877</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">773-836</container>
+<unittitle>Correspondence, <unitdate>January 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">837-872</container>
+<unittitle>Correspondence, <unitdate>February-March 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">873-917</container>
+<unittitle>Correspondence, <unitdate>April 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">918-961</container>
+<unittitle>Correspondence, <unitdate>May 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">962-1017</container>
+<unittitle>Correspondence, <unitdate>June-July 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1018-1065</container>
+<unittitle>Correspondence, <unitdate>August-October 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1066-1106</container>
+<unittitle>Correspondence, <unitdate>November 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1107-1168</container>
+<unittitle>Correspondence, <unitdate>1-15 December 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1169-1225</container>
+<unittitle>Correspondence, <unitdate>16-30 December 1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1226-1267</container>
+<unittitle>Correspondence, <unitdate>January 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">517</container>
+<container type="frame">1268-1310</container>
+<unittitle>Correspondence, <unitdate>February-20 March 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1-47</container>
+<unittitle>Correspondence, <unitdate>22 March-April 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">48-102</container>
+<unittitle>Correspondence, <unitdate>May-July 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">103-158</container>
+<unittitle>Correspondence, <unitdate>August-September 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">159-187</container>
+<unittitle>Correspondence, <unitdate>October 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">188-257</container>
+<unittitle>Correspondence, <unitdate>November 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">258-292</container>
+<unittitle>Correspondence, <unitdate>1-15 December 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">293-330</container>
+<unittitle>Correspondence, <unitdate>16-30 December 1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">148-151</container>
+<unittitle>Correspondence, <unitdate>1879</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">332-382</container>
+<unittitle>Correspondence, <unitdate>1-16 January 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">383-444</container>
+<unittitle>Correspondence, <unitdate>17-31 Janauary 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">445-499</container>
+<unittitle>Correspondence, <unitdate>1-14 February 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">500-540</container>
+<unittitle>Correspondence, <unitdate>15-28 February 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">541-604</container>
+<unittitle>Correspondence, <unitdate>March 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">605-649</container>
+<unittitle>Correspondence, <unitdate>1-15 April 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">650-684</container>
+<unittitle>Correspondence, <unitdate>16-30 April 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">685-732</container>
+<unittitle>Correspondence, <unitdate>1-15 May 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">733-768</container>
+<unittitle>Correspondence, <unitdate>16-31 May 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">769-817</container>
+<unittitle>Correspondence, <unitdate>June 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">818-880</container>
+<unittitle>Correspondence, <unitdate>July 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">881-937</container>
+<unittitle>Correspondence, <unitdate>August-October 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">938-987</container>
+<unittitle>Correspondence, <unitdate>November-December 1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">152-175</container>
+<unittitle>Correspondence, <unitdate>1880</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">988-1017</container>
+<unittitle>Correspondence, <unitdate>January-February 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1018-1067</container>
+<unittitle>Correspondence, <unitdate>March-April 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1068-1108</container>
+<unittitle>Correspondence, <unitdate>May-June 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1109-1157</container>
+<unittitle>Correspondence, <unitdate>July-October 1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1158-1197</container>
+<unittitle>Correspondence, <unitdate>November-December 1881
+</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">176-177</container>
+<unittitle>Correspondence, <unitdate>1881</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1198-1249</container>
+<unittitle>Correspondence, <unitdate>January-March 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1250-1293</container>
+<unittitle>Correspondence, <unitdate>April-May 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1294-1347</container>
+<unittitle>Correspondence, <unitdate>June-August 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1348-1403</container>
+<unittitle>Correspondence, <unitdate>September-October 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1404-1442</container>
+<unittitle>Correspondence, <unitdate>November 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1443-1489</container>
+<unittitle>Correspondence, <unitdate>December 1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">178-180</container>
+<unittitle>Correspondence, <unitdate>1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1490-1552</container>
+<unittitle>Correspondence, <unitdate>January-February 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1553-1610</container>
+<unittitle>Correspondence, <unitdate>March-December 1883</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1611-1655</container>
+<unittitle>Correspondence, <unitdate>January-June 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1656-1683</container>
+<unittitle>Correspondence, <unitdate>July-October 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1684-1728</container>
+<unittitle>Correspondence, <unitdate>November 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1729-1765</container>
+<unittitle>Correspondence, <unitdate>1-14 December 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1766-1810</container>
+<unittitle>Correspondence, <unitdate>15-30 December 1884</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1811-1847</container>
+<unittitle>Correspondence, <unitdate>January-March 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">518</container>
+<container type="frame">1848-1865</container>
+<unittitle>Correspondence, <unitdate>April-16 May 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1-46</container>
+<unittitle>Correspondence, <unitdate>17 May-June 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">47-71</container>
+<unittitle>Correspondence, <unitdate>July 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">72-121</container>
+<unittitle>Correspondence, <unitdate>August-September 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">122-171</container>
+<unittitle>Correspondence, <unitdate>October-November 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">172-198</container>
+<unittitle>Correspondence, <unitdate>December 1885</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">199-246</container>
+<unittitle>Correspondence, <unitdate>January-March 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">247-299</container>
+<unittitle>Correspondence, <unitdate>April-May 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">300-364</container>
+<unittitle>Correspondence, <unitdate>June-August 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="reel">519</container>
+<container type="frame">365-420</container>
+<unittitle>Correspondence, <unitdate>September-November 1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">183-184</container>
+<unittitle>Correspondence, <unitdate>1886</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">421-468</container>
+<unittitle>Correspondence, <unitdate>January 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">469-512</container>
+<unittitle>Correspondence, <unitdate>February 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">513-568</container>
+<unittitle>Correspondence, <unitdate>1-15 March 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">569-636</container>
+<unittitle>Correspondence, <unitdate>16-31 March 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">637-677</container>
+<unittitle>Correspondence, <unitdate>1-11 April 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">678-726</container>
+<unittitle>Correspondence, <unitdate>12-30 April 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">727-769</container>
+<unittitle>Correspondence, <unitdate>1-18 May 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">770-812</container>
+<unittitle>Correspondence, <unitdate>19-31 May 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">813-865</container>
+<unittitle>Correspondence, <unitdate>June 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">866-918</container>
+<unittitle>Correspondence, <unitdate>July 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">919-966</container>
+<unittitle>Correspondence, <unitdate>August 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">967-1035</container>
+<unittitle>Correspondence, <unitdate>September 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1036-1077</container>
+<unittitle>Correspondence, <unitdate>October 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1078-1119</container>
+<unittitle>Correspondence, <unitdate>November-December 1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">181-182</container>
+<unittitle>Correspondence, <unitdate>1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">185-186</container>
+<unittitle>Correspondence, <unitdate>1887</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1120-1153</container>
+<unittitle>Correspondence, <unitdate>January-February 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1154-1216</container>
+<unittitle>Correspondence, <unitdate>March-April 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1217-1258</container>
+<unittitle>Correspondence, <unitdate>May-June 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1259-1283</container>
+<unittitle>Correspondence, <unitdate>July-September 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1284-1321</container>
+<unittitle>Correspondence, <unitdate>October 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1322-1387</container>
+<unittitle>Correspondence, <unitdate>November-December 1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">187-192</container>
+<unittitle>Correspondence, <unitdate>1888</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1388-1429</container>
+<unittitle>Correspondence, <unitdate>January 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1430-1465</container>
+<unittitle>Correspondence, <unitdate>February 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1466-1485</container>
+<unittitle>Correspondence, <unitdate>March 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1486-1535</container>
+<unittitle>Correspondence, <unitdate>April 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">519</container>
+<container type="frame">1536-1582</container>
+<unittitle>Correspondence, <unitdate>May-10 June 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1-33</container>
+<unittitle>Correspondence, <unitdate>11-30 June 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">34-83</container>
+<unittitle>Correspondence, <unitdate>July 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">84-136</container>
+<unittitle>Correspondence, <unitdate>August-September 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">137-178</container>
+<unittitle>Correspondence, <unitdate>October 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">179-219</container>
+<unittitle>Correspondence, <unitdate>November 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">220-278</container>
+<unittitle>Correspondence, <unitdate>1-11 December 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">279-309</container>
+<unittitle>Correspondence, <unitdate>12-22 December 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">310-361</container>
+<unittitle>Correspondence, <unitdate>23-31 December 1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">193</container>
+<unittitle>Correspondence, <unitdate>1889</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">363-414</container>
+<unittitle>Correspondence, <unitdate>1-21 January 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">415-447</container>
+<unittitle>Correspondence, <unitdate>22-31 January 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">448-503</container>
+<unittitle>Correspondence, <unitdate>February 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">504-575</container>
+<unittitle>Correspondence, <unitdate>March 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">576-623</container>
+<unittitle>Correspondence, <unitdate>April 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">624-669</container>
+<unittitle>Correspondence, <unitdate>May-June 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">670-706</container>
+<unittitle>Correspondence, <unitdate>July 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">707-750</container>
+<unittitle>Correspondence, <unitdate>August 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">751-796</container>
+<unittitle>Correspondence, <unitdate>September 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">797-827</container>
+<unittitle>Correspondence, <unitdate>October 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">828-880</container>
+<unittitle>Correspondence, <unitdate>November 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">881-923</container>
+<unittitle>Correspondence, <unitdate>December 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">194-213</container>
+<unittitle>Correspondence, <unitdate>1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">924-981</container>
+<unittitle>Correspondence, <unitdate>January 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">982-1042</container>
+<unittitle>Correspondence, <unitdate>February 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1043-1104</container>
+<unittitle>Correspondence, <unitdate>March 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1105-1163</container>
+<unittitle>Correspondence, <unitdate>April 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1164-1215</container>
+<unittitle>Correspondence, <unitdate>May 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1216-1266</container>
+<unittitle>Correspondence, <unitdate>June 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1267-1305</container>
+<unittitle>Correspondence, <unitdate>July 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1306-1350</container>
+<unittitle>Correspondence, <unitdate>1-14 August 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1351-1397</container>
+<unittitle>Correspondence, <unitdate>15-31 August 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1398-1443</container>
+<unittitle>Correspondence, <unitdate>1-10 September 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1444-1480</container>
+<unittitle>Correspondence, <unitdate>11-30 September 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1481-1518</container>
+<unittitle>Correspondence, <unitdate>October 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1519-1557</container>
+<unittitle>Correspondence, <unitdate>November 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1558-1594</container>
+<unittitle>Correspondence, <unitdate>December 1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">214-226</container>
+<unittitle>Correspondence, <unitdate>1891</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">520</container>
+<container type="frame">1595-1664</container>
+<unittitle>Correspondence, <unitdate>1-25 January 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1-33</container>
+<unittitle>Correspondence, <unitdate>31 January-February 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">34-90</container>
+<unittitle>Correspondence, <unitdate>March-April 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">91-134</container>
+<unittitle>Correspondence, <unitdate>May 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">135-184</container>
+<unittitle>Correspondence, <unitdate>June-July 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">185-246</container>
+<unittitle>Correspondence, <unitdate>August 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">247-287</container>
+<unittitle>Correspondence, <unitdate>September 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">288-333</container>
+<unittitle>Correspondence, <unitdate>October 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">334-371</container>
+<unittitle>Correspondence, <unitdate>November-December 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">227-257</container>
+<unittitle>Correspondence, <unitdate>1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">372-445</container>
+<unittitle>Correspondence, <unitdate>January-February 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">446-510</container>
+<unittitle>Correspondence, <unitdate>March-May 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">511-571</container>
+<unittitle>Correspondence, <unitdate>June-August 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">572-624</container>
+<unittitle>Correspondence, <unitdate>September-October 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">625-663</container>
+<unittitle>Correspondence, <unitdate>November 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">664-713</container>
+<unittitle>Correspondence, <unitdate>December 1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">258-266</container>
+<unittitle>Correspondence, <unitdate>1893</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">714-750</container>
+<unittitle>Correspondence, <unitdate>1-20 January 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">751-809</container>
+<unittitle>Correspondence, <unitdate>21-31 January 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">810-859</container>
+<unittitle>Correspondence, <unitdate>1-10 February 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">860-909</container>
+<unittitle>Correspondence, <unitdate>11-18 February 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">910-965</container>
+<unittitle>Correspondence, <unitdate>19-28 February 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">966-1004</container>
+<unittitle>Correspondence, <unitdate>1-20 March 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1005-1067</container>
+<unittitle>Correspondence, <unitdate>20-31 March 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1068-1136</container>
+<unittitle>Correspondence, <unitdate>April 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1137-1195</container>
+<unittitle>Correspondence, <unitdate>May 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1196-1262</container>
+<unittitle>Correspondence, <unitdate>June 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1263-1307</container>
+<unittitle>Correspondence, <unitdate>1-10 July 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1308-1357</container>
+<unittitle>Correspondence, <unitdate>11-31 July 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1358-1419</container>
+<unittitle>Correspondence, <unitdate>August-September 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1420-1475</container>
+<unittitle>Correspondence, <unitdate>October 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1476-1525</container>
+<unittitle>Correspondence, <unitdate>November 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1526-1594</container>
+<unittitle>Correspondence, <unitdate>December 1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">267-277</container>
+<unittitle>Correspondence, <unitdate>1894</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">521</container>
+<container type="frame">1595-1644</container>
+<unittitle>Correspondence, <unitdate>January-10 February 1895</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1-52</container>
+<unittitle>Correspondence, <unitdate>11 February-April 1895</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">53-102</container>
+<unittitle>Correspondence, <unitdate>May-August 1895</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">103-131</container>
+<unittitle>Correspondence, <unitdate>October-December 1895</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">278-287</container>
+<unittitle>Correspondence, <unitdate>1895</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">132-178</container>
+<unittitle>Correspondence, <unitdate>January-February 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">179-239</container>
+<unittitle>Correspondence, <unitdate>March 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">240-275</container>
+<unittitle>Correspondence, <unitdate>April 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">276-339</container>
+<unittitle>Correspondence, <unitdate>May-June 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">340-406</container>
+<unittitle>Correspondence, <unitdate>July-August 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">407-450</container>
+<unittitle>Correspondence, <unitdate>September-November 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">451-496</container>
+<unittitle>Correspondence, <unitdate>December 1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">288-297</container>
+<unittitle>Correspondence, <unitdate>1896</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">497-552</container>
+<unittitle>Correspondence, <unitdate>January-February 1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">553-606</container>
+<unittitle>Correspondence, <unitdate>March-June 1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">607-646</container>
+<unittitle>Correspondence, <unitdate>July-September 1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">647-702</container>
+<unittitle>Correspondence, <unitdate>October-December 1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">298-311</container>
+<unittitle>Correspondence, <unitdate>1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">703-741</container>
+<unittitle>Correspondence, <unitdate>January-April 1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">742-797</container>
+<unittitle>Correspondence, <unitdate>May-June 1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">798-845</container>
+<unittitle>Correspondence, <unitdate>July-August 1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">846-873</container>
+<unittitle>Correspondence, <unitdate>September-October 1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">874-904</container>
+<unittitle>Correspondence, <unitdate>November-December 1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">312-340</container>
+<unittitle>Correspondence, <unitdate>1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">905-948</container>
+<unittitle>Correspondence, <unitdate>January-March 1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">949-1044</container>
+<unittitle>Correspondence, <unitdate>April 1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1045-1116</container>
+<unittitle>Correspondence, <unitdate>May 1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1117-1152</container>
+<unittitle>Correspondence, <unitdate>June-October 1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1153-1213</container>
+<unittitle>Correspondence, <unitdate>November-December 1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">341-359</container>
+<unittitle>Correspondence, <unitdate>1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1215-1306</container>
+<unittitle>Correspondence, <unitdate>January 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1307-1351</container>
+<unittitle>Correspondence, <unitdate>February 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1352-1394</container>
+<unittitle>Correspondence, <unitdate>March-May 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1395-1413</container>
+<unittitle>Correspondence, <unitdate>June 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1414-1477</container>
+<unittitle>Correspondence, <unitdate>July 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1478-1527</container>
+<unittitle>Correspondence, <unitdate>August 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1528-1581</container>
+<unittitle>Correspondence, <unitdate>September-November 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1582-1632</container>
+<unittitle>Correspondence, <unitdate>December 1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">522</container>
+<container type="frame">1633-1661</container>
+<unittitle>Correspondence, <unitdate>1-20 January 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1-50</container>
+<unittitle>Correspondence, <unitdate>22 January-February 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">51-111</container>
+<unittitle>Correspondence, <unitdate>March 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">112-165</container>
+<unittitle>Correspondence, <unitdate>April 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">166-235</container>
+<unittitle>Correspondence, <unitdate>May 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">236-269</container>
+<unittitle>Correspondence, <unitdate>1-8 June 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">270-322</container>
+<unittitle>Correspondence, <unitdate>9-30 June 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">323-355</container>
+<unittitle>Correspondence, <unitdate>August-October 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">356-381</container>
+<unittitle>Correspondence, <unitdate>November-December 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">382-413</container>
+<unittitle>Correspondence, <unitdate>January-June 1902</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">414-445</container>
+<unittitle>Correspondence, <unitdate>September-December 1902</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">446-497</container>
+<unittitle>Correspondence, <unitdate>1-14 January 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">498-540</container>
+<unittitle>Correspondence, <unitdate>15-31 January 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">541-578</container>
+<unittitle>Correspondence, <unitdate>February 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">579-610</container>
+<unittitle>Correspondence, <unitdate>March-April 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">611-665</container>
+<unittitle>Correspondence, <unitdate>May-December 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">360-361</container>
+<unittitle>Correspondence, <unitdate>1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">666-702</container>
+<unittitle>Correspondence, <unitdate>January-October 1904</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">703-747</container>
+<unittitle>Correspondence, <unitdate>November 1904</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">748-792</container>
+<unittitle>Correspondence, <unitdate>December 1904</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">362-363</container>
+<unittitle>Correspondence, <unitdate>1904</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">793-814</container>
+<unittitle>Correspondence, <unitdate>January-April 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">815-871</container>
+<unittitle>Correspondence, <unitdate>1-7 May 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">872-926</container>
+<unittitle>Correspondence, <unitdate>8-17 May 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">927-962</container>
+<unittitle>Correspondence, <unitdate>18-25 May 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">963-1005</container>
+<unittitle>Correspondence, <unitdate>26-31 May 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1006-1059</container>
+<unittitle>Correspondence, <unitdate>1-8 June 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1060-1101</container>
+<unittitle>Correspondence, <unitdate>9-17 June 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1102-1151</container>
+<unittitle>Correspondence, <unitdate>18-30 June 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1152-1182</container>
+<unittitle>Correspondence, <unitdate>September-December 1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">364-365</container>
+<unittitle>Correspondence, <unitdate>1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1183-1220</container>
+<unittitle>Correspondence, <unitdate>January-March 1906</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1221-1278</container>
+<unittitle>Correspondence, <unitdate>July-December 1906</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">366-368</container>
+<unittitle>Correspondence, <unitdate>1906</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1279-1327</container>
+<unittitle>Correspondence, <unitdate>January-June 1907</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1328-1396</container>
+<unittitle>Correspondence, <unitdate>July-December 1907</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1397-1416</container>
+<unittitle>Correspondence, <unitdate>January-March 1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02> 
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1417-1487</container>
+<unittitle>Correspondence, <unitdate>April 1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1488-1564</container>
+<unittitle>Correspondence, <unitdate>May 1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">523</container>
+<container type="frame">1565-1615</container>
+<unittitle>Correspondence, <unitdate>1-25 June 1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1-21</container>
+<unittitle>Correspondence, <unitdate>25 June-December 1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">22-75</container>
+<unittitle>Correspondence, <unitdate>1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">369-372</container>
+<unittitle>Correspondence, <unitdate>1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">77-153</container>
+<unittitle>Correspondence, <unitdate>1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">373-378</container>
+<unittitle>Correspondence, <unitdate>1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">154-161</container>
+<unittitle>Correspondence, <unitdate>1911</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">379-382</container>
+<unittitle>Correspondence, <unitdate>1911</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">162-172</container>
+<unittitle>Correspondence, <unitdate>1912</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">383-385</container>
+<unittitle>Correspondence, <unitdate>1912</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">173-190</container>
+<unittitle>Correspondence, <unitdate>1913-1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">386-390</container>
+<unittitle>Correspondence, <unitdate>1913</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">191-212</container>
+<unittitle>Correspondence, <unitdate>1915-1919</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">391-392</container>
+<unittitle>Correspondence, <unitdate>1915, 1919</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">213-226</container>
+<unittitle>Correspondence, <unitdate>1920-1923</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">393-395</container>
+<unittitle>Correspondence, <unitdate>1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">227-234</container>
+<unittitle>Correspondence, <unitdate>1930</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">396-402</container>
+<unittitle>Correspondence, <unitdate>1932</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">235-248</container>
+<unittitle>Correspondence, <unitdate>1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">249-263</container>
+<unittitle>Correspondence, <unitdate>1935-1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">264-310</container>
+<unittitle>Correspondence, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">311-335</container>
+<unittitle>Correspondence, <unitdate>1940-1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">338-383</container>
+<unittitle>Correspondence A, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">384-432</container>
+<unittitle>Correspondence B, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">434-474</container>
+<unittitle>Correspondence, Butler, Annie, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">475-529</container>
+<unittitle>Correspondence, Butler, Annie, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">530-586</container>
+<unittitle>Correspondence, Butler, Annie, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">587-625</container>
+<unittitle>Correspondence, Butler, Annie, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">626-670</container>
+<unittitle>Correspondence, Butler, Annie, <unitdate>undated</unitdate></unittitle>
+<physdesc>(5 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">671-719</container>
+<unittitle>Correspondence, C, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">720-750</container>
+<unittitle>Correspondence, D-E, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">765-822</container>
+<unittitle>Correspondence, F-G, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">823-888</container>
+<unittitle>Correspondence, Ha-Hep, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">751-764</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">890-947</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">948-1000</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1001-1059</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1060-1117</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(5 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1118-1164</container>
+<unittitle>Correspondence, Herriman, Elizabeth, <unitdate>undated</unitdate></unittitle>
+<physdesc>(6 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1166-1194</container>
+<unittitle>Correspondence, Hi-K, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1195-1272</container>
+<unittitle>Correspondence, L, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1273-1312</container>
+<unittitle>Correspondence, M, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1313-1369</container>
+<unittitle>Correspondence, M, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1370-1385</container>
+<unittitle>Correspondence, N-P, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1386-1433</container>
+<unittitle>Correspondence, R, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1434-1477</container>
+<unittitle>Correspondence, R, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1478-1512</container>
+<unittitle>Correspondence, R, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1513-1571</container>
+<unittitle>Correspondence, S, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1572-1621</container>
+<unittitle>Correspondence, S, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1622-1685</container>
+<unittitle>Correspondence, T, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">524</container>
+<container type="frame">1686-1697</container>
+<unittitle>Correspondence, Va-Ved, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">2-73</container>
+<unittitle>Correspondence, Vedder, Anita H., <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">75-80</container>
+<unittitle>Correspondence, Vedder, Caroline E., <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">82-136</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">137-187</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">188-247</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">248-292</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">293-328</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(5 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">329-376</container>
+<unittitle>Correspondence, Vedder, Caroline R., <unitdate>undated</unitdate></unittitle>
+<physdesc>(6 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">378-422</container>
+<unittitle>Correspondence, Vedder, Elihu, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">423-475</container>
+<unittitle>Correspondence, Vedder, Elihu, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">476-532</container>
+<unittitle>Correspondence, Vedder, Elihu, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">533-599</container>
+<unittitle>Correspondence, Vedder, Elihu, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">601-609</container>
+<unittitle>Correspondence, Vedder, Elihu, Sr., <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">611-662</container>
+<unittitle>Correspondence, Vedder, Enoch, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">663-712</container>
+<unittitle>Correspondence, Vedder, Enoch, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">713-764</container>
+<unittitle>Correspondence, Vedder, Enoch, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">765-811</container>
+<unittitle>Correspondence, Vedder, Enoch, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">813-848</container>
+<unittitle>Correspondence, W, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">525</container>
+<container type="frame">849-913</container>
+<unittitle>Correspondence, Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">1-44</container>
+<unittitle>Correspondence, Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">45-95</container>
+<unittitle>Correspondence, Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">6-28</container>
+<unittitle>Correspondence, Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">30-62</container>
+<unittitle>Correspondence, A-H, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">63-108</container>
+<unittitle>Correspondence, I-R, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">109-126</container>
+<unittitle>Correspondence, S-Z, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Diaries, <unitdate>1878-1890</unitdate></unittitle>
+<physdesc>(Box 5; 0.1 folders)</physdesc></did>
+<scopecontent> 
+<p>Series consists of several diaries belonging to Caroline R. Vedder and Elihu Vedder. Caroline Vedder's diaries record daily activities in the Vedder household during 1878 and her travels in the United States in 1882. Vedder's diaries record his trip down the Nile in 1889-1890 and include some sketches.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">98-189</container>
+<unittitle>Daily Diary (Caroline R. Vedder), <unitdate>1878</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">191-195</container>
+<unittitle>Travel Notes (Caroline R. Vedder), <unitdate>1882</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">197-270</container>
+<unittitle>Travel Diary (Elihu Vedder), <unitdate>1889-1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">272-278</container>
+<unittitle>Nile Journey and Dates (Elihu Vedder), <unitdate>1889-1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Writings, <unitdate>1848-1923, 1969</unitdate></unittitle>
+<physdesc>(Boxes 5-7, 10; 1.7. linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series consists of drafts, manuscripts, typescripts, and illustrations for various books that Vedder wrote late in his career after he had stopped painting, including his autobiographical book, <emph render="italic">The Digressions of V</emph> (1910), and his books of verses, <emph render="italic">Miscellaneous Moods</emph> (privately printed in 1915), <emph render="italic">Thoughts While Dressing and Undressing</emph> (seemingly never published), and <emph render="italic">Doubt and Other Things</emph> (1922). Also found are drafts and manuscripts of various poems, essays, and stories, some of which may have been incorporated into his books, as well as notebooks and fragments; and some writings by others, including poems by Henry W. Austin, Florinda Brown, and others, and a copy of Nola Tutag's dissertation on Vedder, "A Reconstruction of the Career of Elihu Vedder" (1969).</p> 
+</scopecontent>
+
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">361-410</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(1 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">411-456</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(2 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">457-504</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(3 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">505-542</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(4 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">543-621</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(5 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">622-667</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(6 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">668-708</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(7 of 10)</physdesc>
+</did></c02> 
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">709-759</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(8 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">760-818</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(9 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">819-877</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Loose Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(10 of 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">878-1059</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Manuscripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(bound volume)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Typescripts, <unitdate>circa 1910</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">1061-1208</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Manuscript, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(bound volume)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1-71</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(1 of 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">72-122</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(2 of 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">123-182</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(3 of 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">183-207</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(4 of 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">208-265</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(5 of 7; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">266-314</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(6 of 7; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">315-321</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(7 of 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, Set of Stage Proofs, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">323-370</container>
+<unittitle>"Thoughts While Dressing and Undressing," Manuscripts, <unitdate>1907-1910, undated</unitdate></unittitle>
+<physdesc>(1 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">371-423</container>
+<unittitle>"Thoughts While Dressing and Undressing," Manuscripts, <unitdate>1907-1910, undated</unitdate></unittitle>
+<physdesc>(2 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">424-477</container>
+<unittitle>"Thoughts While Dressing and Undressing," Manuscripts, <unitdate>1907-1910, undated</unitdate></unittitle>
+<physdesc>(3 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">478-533</container>
+<unittitle>"Thoughts While Dressing and Undressing," Manuscripts, <unitdate>1907-1910, undated</unitdate></unittitle>
+<physdesc>(4 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">534-581</container>
+<unittitle>"Thoughts While Dressing and Undressing," Manuscripts, <unitdate>1907-1910, undated</unitdate></unittitle>
+<physdesc>(5 of 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">582-660</container>
+<unittitle>"Thoughts While Dressing and Undressing," Typescript Copy, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">662-711</container>
+<unittitle>Stories, <unitdate>1872-1913, undated</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">712-769</container>
+<unittitle>Stories, <unitdate>1872-1913, undated</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">771-825</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(1 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">826-888</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(2 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">889-941</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(3 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">942-993</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(4 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">994-1047</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(5 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1048-1101</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(6 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1102-1135</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(7 of 16; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1136-1186</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(8 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1187-1233</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(9 of 16; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1234-1287</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(10 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1288-1337</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(11 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">527</container>
+<container type="frame">1338-1406</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(12 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">1-52</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(13 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">53-109</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(14 of 16; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">110-163</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(15 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">164-228</container>
+<unittitle>Poems and Essays, <unitdate>circa 1907-1923</unitdate></unittitle>
+<physdesc>(16 of 16)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">230-313</container>
+<unittitle>Notebook, <unitdate>1915</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">354-368</container>
+<unittitle>Notebook, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">314-353</container>
+<unittitle>Fragments, <unitdate>1909-1914, undated</unitdate></unittitle>
+<physdesc>(1 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">369-424</container>
+<unittitle>Fragments, <unitdate>1909-1914, undated</unitdate></unittitle>
+<physdesc>(2 of 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">425-496</container>
+<unittitle>Fragments, <unitdate>1909-1914</unitdate></unittitle>
+<physdesc>(3 of 3; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">281-307</container>
+<unittitle>Poems by Henry W. Austin and Others, <unitdate>1848-1895</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">526</container>
+<container type="frame">308-359</container>
+<unittitle>Poems by Henry W. Austin and Others, <unitdate>1848-1895</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">438-488</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(1 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">489-539</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(2 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">540-590</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(3 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">591-640</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(4 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">641-710</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(5 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">711-749</container>
+<unittitle>Dissertation on  Elihu Vedder by Nola Tutag, <unitdate>1969</unitdate></unittitle>
+<physdesc>(6 of 6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">406-421</container>
+<unittitle>Miscellaneous Notes and Writings (by others?), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel"></container>
+<container type="frame"></container>
+<unittitle>Oversize, <emph render="italic">Doubt and Other Things</emph>, Typescripts and Illustrations, <unitdate>circa 1922</unitdate></unittitle>
+<physdesc>(see also Box 10; see Reel 527: 266-314)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Books and Printed Material, <unitdate>1864-1939</unitdate></unittitle>
+<physdesc>(Boxes 7-8; 0.9 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series consists of Vedder's published books, clippings (concerning his artwork, exhibitions, and published works, and obituaries for family and friends), exhibition catalogs, various catalogs with works by Vedder, reproductions of Vedder's artwork, uncut copies of his printed story, "The Story of Medusa," and an announcement of Vedder's first prize in the Christmas Card Competition held by L. Prang and Company.</p> 
+</scopecontent>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Books<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Volume I, Autograph Copy Number 199,<unitdate>1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">The Digressions of V</emph>, Volume II, <unitdate>1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">Miscellaneous Moods</emph>, Limited Edition, <unitdate>1915</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle><emph render="italic">Doubt and Other Things</emph>, <unitdate>1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">1047-1100</container>
+<unittitle>Clippings, <unitdate>1864-1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">528</container>
+<container type="frame">1101-1152</container>
+<unittitle>Clippings, <unitdate>1900-1923</unitdate></unittitle>
+<physdesc>(partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">0-9</container>
+<unittitle>Clippings, <unitdate>1924-1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">10-59</container>
+<unittitle>Clippings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(1 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">60-112</container>
+<unittitle>Clippings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 of 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">113-154</container>
+<unittitle>Clippings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 of 4; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">155-189</container>
+<unittitle>Clippings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 of 4; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">190-227</container>
+<unittitle>Exhibition Catalogs, <unitdate>1901-1929</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">228-277</container>
+<unittitle>Exhibition Catalogs, <unitdate>1930-1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">278-325</container>
+<unittitle>Exhibition Catalogs, <unitdate>1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">326-384</container>
+<unittitle>Exhibition Catalogs, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">385-392</container>
+<unittitle>Exhibition Catalogs, <unitdate>1939, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">394-436</container>
+<unittitle>Catalogs, <unitdate>1899-1903, undated</unitdate></unittitle>
+<physdesc>(3 folders; partially microfilmed)</physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">2323</container>
+<container type="frame">422-432</container>
+<unittitle>Miscellaneous Printed Material, <unitdate>1889, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Reproductions of Artwork, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Color Reproductions of Artwork, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Copies of "The Story of Medusa," <unitdate>1872</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="reel">unfilmed</container>
+<container type="frame">unfilmed</container>
+<unittitle>Announcement of First Prize Christmas Card by Elihu Vedder, <unitdate>1881?</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Drawings, <unitdate>1888-1912</unitdate></unittitle>
+<physdesc>(Box 8, OV 12; 0.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series includes scattered drawings by Elihu Vedder, including a floor plan of his studio and other plans, sketches of cups, vases, and a wall display, copies of various bookplates (which may or may not have been designed by Vedder), and six original drawings, four of which are on microfilm only.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="reel">529</container>
+<container type="frame">751-768</container>
+<unittitle>Plans, Sketches, and Bookplates, <unitdate>1888-1912, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="reel">671</container>
+<container type="frame">608-613</container>
+<unittitle>Oversize, Drawings, Study for "The Rubaiyat" and "The Artist's Daughter," <unitdate>undated</unitdate></unittitle>
+<physdesc>(see OV 12; four of six drawings on microfilm only)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Photographs, <unitdate>1840s-1920s</unitdate></unittitle>
+<physdesc>(Boxes 8-9, 11, OV 13; 1.5 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series consists primarily of photographs of Vedder, his studio, his family and friends, and his artwork, including tintypes, 11 daguerreotypes, cartes-de-visite, cabinet cards, and silver gelatin, albumen, and platinum prints. Photographs of Vedder include a portrait of him as a young boy (daguerreotype), portraits of him as a young man and later in life, and ones of him in his studio (including in his San Basilio studio). Family photos include ones of Vedder's wife, Caroline R. Vedder, and children, Philip, Enoch and Anita; ones of Vedder with his wife and children, ones of Vedder and his wife with her family around the time they were married; and ones of Vedder's and Caroline R. Vedder's extended families (many of these can be found in Caroline R. Vedder's cartes-de-visite album, which was disassembled at some point after microfilming). Photos of friends include ones of Charles Caryl Coleman, Kate Field, and Amelia B. Edwards, and ones of Vedder and George Simonds in costume.</p>
+<p>Other photos include: ones from a trip to America in 1901, ones of various residences (including the Vedder home outside St. Augustine, Florida and Vedder's villa in Italy), ones from an unidentified exhibition of Vedder's artwork, and various snapshots (including Italian scenes, and views from a hotel window in Pittsburgh and a from a window in St. Augustine.</p> 
+</scopecontent>
+
+<arrangement> 
+<p>This series has been scanned from the original photographs rather than microfilm.  Items not scanned include photographs artwork and duplicates.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">7-10</container>
+<unittitle>Photographs of Elihu Vedder, <unitdate>circa 1860s-1920s</unitdate></unittitle>
+<physdesc>(4 folders; oversized items housed in Box 11, Folders 1-2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>Portrait of Elihu Vedder, Hand-Colored Photographic Print of Painting, "Artist's Studio" by Charles Coleman, <unitdate>circa 1900</unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 11, Folder 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>Photographs of Elihu Vedder, Duplicates, <unitdate>circa 1890s-1920s</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>Photographs of Family, Daguerreotypes, <unitdate>1840s-1860s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>Photographs of Family, Copy Prints of Daguerreotypes, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">15-20</container>
+<unittitle>Caroline R. Vedder's Carte-de-Visite Album, <unitdate>late 1800s</unitdate></unittitle>
+<physdesc>(6 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">21-22</container>
+<unittitle>Photographs of Caroline R. Vedder, <unitdate>circa 1869-1880s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">23</container>
+<unittitle>Photographs of Caroline R. Vedder, Duplicates, <unitdate>1880s</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">24</container>
+<unittitle>Photographs of Philip Vedder, <unitdate>early 1870s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">25</container>
+<unittitle>Photographs of Enoch Vedder, <unitdate>1870s-1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">26</container>
+<unittitle>Photographs of Anita Vedder, <unitdate>1880s-1890s</unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 11, Folder 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">27-29</container>
+<unittitle>Photographs of Family, <unitdate>1850s-1890s</unitdate></unittitle>
+<physdesc>(3 folders; oversized items housed in Box 11, Folders 5-6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">30</container>
+<unittitle>Photographs from Trip to America, <unitdate>1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">31</container>
+<unittitle>Photograph Album, San Basilio Studio and Viareggio, <unitdate>1900</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">32-34</container>
+<unittitle>Photographs of Friends, <unitdate>1880s-early 1900s</unitdate></unittitle>
+<physdesc>(3 folders; oversized items housed in OV 13)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">35-36</container>
+<unittitle>Photographs of Elihu Vedder and George Simonds in Costume, <unitdate>circa 1870</unitdate></unittitle>
+<physdesc>(2 folders; oversized items housed in Box 11, Folder 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">37</container>
+<unittitle>Photographs of Unidentified People, <unitdate>late 1800s-early 1900s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">38</container>
+<unittitle>Photographs of Various Residences, Interiors and Exteriors, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">39</container>
+<unittitle>Photographs of Elihu Vedder's Villa in Italy, <unitdate>1907</unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 11, Folder 8)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">40-42</container>
+<unittitle>Various Snaphots, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">43</container>
+<unittitle>Exhibition Photographs, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container>
+<container type="folder">44</container>
+<unittitle>Photograph of Vedder Fountain, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Oversized items housed in OV 13)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9 (hol)</container>
+<container type="folder">1-6</container>
+<unittitle>Photographs of Works of Art, <unitdate>undated</unitdate></unittitle>
+<physdesc>(6 folders; not scanned; oversized items housed in Box 11, Folder 9 and OV 13)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9 (hol)</container>
+<container type="folder">7</container>
+<unittitle>Photographs of Works of Art by Others, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9 (hol)</container>
+<container type="folder">8-9</container>
+<unittitle>Photographs of Works of Art, Duplicates, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 folders; not scanned; oversized items housed in Box 11, Folder 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9 (hol)</container>
+<container type="folder">10</container>
+<unittitle>Negatives, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">1-2</container>
+<unittitle>Oversize, Photographs of Elihu Vedder, <unitdate>circa 1860s-1920s</unitdate></unittitle>
+<physdesc>(2 folders; Items scanned with Box 8, Folder 10)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">3</container>
+<unittitle>Portrait of Elihu Vedder, Hand-Colored Photographic Print of Painting, "Artist's Studio" by Charles Coleman, <unitdate>circa 1900</unitdate></unittitle>
+<physdesc>(Item scanned with Box 8, Folder 11)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">4</container>
+<unittitle>Oversize, Photographs of Anita Vedder, <unitdate>1880s-1890s</unitdate></unittitle>
+<physdesc>(Items scanned with Box 8, Folder 26)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">5-6</container>
+<unittitle>Oversize, Photographs of Family, <unitdate>1850s-1890s</unitdate></unittitle>
+<physdesc>(2 folders; Items scanned with Box 8, Folder 29)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">7</container>
+<unittitle>Oversize, Photograph of Elihu Vedder and George Simonds in Costume, <unitdate>circa 1870</unitdate></unittitle>
+<physdesc>(Items scanned with Box 8, Folder 36)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">8</container>
+<unittitle>Oversize, Photographs of Elihu Vedder's Villa in Italy, <unitdate>1907</unitdate></unittitle>
+<physdesc>(Items scanned with Box 8, Folder 39)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">9</container>
+<unittitle>Oversize, Photographs of Works of Art, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 9, Folders 1-6, OV 13; not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">11 (sol)</container>
+<container type="folder">10</container>
+<unittitle>Oversize, Photographs of Works of Art, Duplicates, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 9, Folders 8-9; not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 13</container>
+<container type="folder"></container>
+<unittitle>Oversize, Photographs of Friends, <unitdate>1880s-early 1900s</unitdate></unittitle>
+<physdesc>(Items scanned with Box 8, Folder 34)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 13</container>
+<container type="folder"></container>
+<unittitle>Oversize, Photographs of Vedder Fountain, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Items scanned with Box 8, Folder 44)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 13</container>
+<container type="folder"></container>
+<unittitle>Oversize, Photographs of Works of Art, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 9, Folders 1-6, Box 11; not scanned)</physdesc>
+</did></c02>
+</c01>
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<!-- OPTIONAL ARCHDESC ELEMENTS -->
+
+<!-- use odd for indexes -->
+
+
+
+<!-- END OPTIONAL ARCHDESC ELEMENTS -->
+
+
+</archdesc>
+</ead>
+
+
+
+
+
+
+

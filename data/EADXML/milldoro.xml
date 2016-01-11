@@ -1,0 +1,5714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/milldoro.xml">milldoro</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Dorothy C. Miller</titleproper>
+		<subtitle>A Finding Aid to the Dorothy C. Miller Papers, <date type="inclusive">circa 1912-1992, </date> <date type="bulk">bulk 1959-1984</date>, in the Archives of American Art</subtitle>
+		<author>by Stephanie Ashley and Barbara Aikens</author>
+		<sponsor>Funding for the processing of this collection was provided by the Terra Foundation for American Art</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">March 2011</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Ambika Sankaran and Stephanie Ashley,
+<date>2006-2008</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Miller, Dorothy Canning</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Dorothy C. Miller papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">circa 1912-1992, bulk 1959-1984</unitdate>
+
+<physdesc label="Quantity:" encodinganalog="300$a">24.7 linear feet</physdesc>	
+
+<abstract encodinganalog="520$a" label="Abstract:">The papers of contemporary art curator, historian, and consultant Dorothy C. Miller measure 24.7 linear feet and date from circa 1912-1992, with the bulk of the material dating from 1959 to 1984. The papers primarily concern Miller's career after retiring from the Museum of Modern Art in New York City.  Found are scattered biographical materials, extensive correspondence and subject files, and project files for her art advisory and committee work for the Rockefeller family, Rockefeller University, Chase Manhattan Bank, the Port Authority of New York and New Jersey, the World Trade Center, and other miscellaneous corporate and private clients. Miller's work as a trustee and committee member of various public and private boards and commissions is also represented here. Additionally, the papers contain Miller's research files on Edward Hicks and folk art, and a small number of files of her husband Holger Cahill  about his work as Director of the Federal Art Project.  There is a scattered documentation of Miller's early curatorial work with Holger Cahill on the <emph render="italic">First Municipal Art Exhibition </emph>(1934) held at the RCA Building in Rockefeller Center.  Also found is Dorothy Miller's collection of artists' Christmas cards and photographs of Miller and others. </abstract>
+
+
+</did>
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The collection was donated by Dorothy C. Miller via Wendy Jeffers between 1986 and 1997, and Reid White, Executor of Miller's estate, in 2004. </p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Dorothy C. Miller papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The Archives of American Art holds two oral history interviews with Dorothy C. Miller. The first was conducted by Paul Cummings between May 26, 1970 and September 28, 1971, and details Miller's life from childhood up to, and including, her years at the Museum of Modern Art. The second was conducted by Avis Berman on May 14, 1981 and covers Miller's relationships with Mark Rothko and Clyfford Still.  Also found among the holdings of the Archives are the papers of Holger Cahill, Dorothy Miller's husband and colleague.  </p><p>The Museum of Modern Art Achives holds Dorothy Miller's papers related to her curatorial work at the museum. </p>
+</relatedmaterial>
+
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Dorothy C. Miller papers, circa 1912-1992, bulk 1959-1984. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>Portions of the Dorothy C. Miller papers were initially microfilmed in separate accretions upon receipt on reels NDA 15, 1105-1110, 3482, and 5285-5299, no longer in circulation.  All accessions were merged and the papers were processed to a preliminary level by Ambika Sankaran in 2006 and to an intermediate level by Stephanie Ashley in 2008 with funding provided by the Terra Foundation for American Art.  The finding aid was prepard by Stephanie Ashley and Barbara Aikens in 2010-2011.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Dorothy Canning Miller (1904-2003) worked in New York City as a highly influential curator of contemporary art and was the first curator of the Museum of Modern Art. Later, she worked as as an art advisor and consultant to Nelson A. Rockefeller, the Rockefeller family, Rockefeller University, Chase Manhattan Bank, and the Port Authority of and New Jersey.  Dorothy Miller was also married to Holger Cahill, director of the WPA Federal Art Project.</p>   
+
+
+<p>Dorothy C. Miller was born in Hopedale, Massachusetts in 1904 and received her Bachelor of Arts from Smith College in 1925. She was first introduced to modern art through classes at the Newark Museum taught by John Cotton Dana and Holger Cahill.  Miller joined the curatorial staff of the Newark Museum in 1926.  The museum was one of the first to organize exhibitions of American folk art, <emph render="italic">American Primitives</emph> (1930-1931) and <emph render="italic">American Folk Sculpture</emph> (1931-1932). Miller worked with Cahill and others on the exhibition and developed a life-long interest in folk art.</p> 
+
+<p>After four years at the Newark Museum, Miller moved to New York city, hoping to get involved with the newly opened Museum of Modern Art (MOMA), and, likely, to be with Holger Cahill, with whom she lived with on 8th Street prior to their marriage in 1938.  Between 1930 and 1932 she took odd jobs and worked with Mrs. Henry Lang cataloging, researching and installing Lang's collection of Native American art Lang donated to the Montclair Art Museum.  At the same time, Holger Cahill was serving as Acting Director of the Museum of Modern Art during an absence of Director Alfred H. Barr.  In 1932, Cahill asked Miller to assist him with curating the <emph render="italic">American Painting and Sculpture, 1862-1932</emph> exhibition at MOMA, and together they also curated the <emph render="italic">First Municipal Art Exhibition,</emph> 1934 at the Rockefeller Center.</p> 
+
+<p>In 1934, Barr hired Miller as his assistant and one year later appointed her as MOMA's first curator.  Miller spent the next 35 years organizing many of this country's most important exhibitions of contemporary art and building personal relationships with new artists and photographers, as well as the collections of MOMA.  Some of her more important shows included New Horizons in American Art, 1936; Calder: 19 Gifts from the Artists, 1967; and Twentieth Century Art from the Nelson Aldrich Rockefeller Collection, 1969.  As a curator, Miller enjoyed close friendships with contemporary artists of all ages, such as AlCopley, Alexander Calder, Chryssa, Arshile Gorky, Will Horwitt, Loren MacIver, and Louise Nevelson, among many others.  Miller retired from MOMA in 1969 but continued to have an influential career as art consultant and advisor.</p>
+
+<p>Dorothy Miller assisted and advised Nelson A. Rockefeller in building his vast personal collection of modern art, much of which ended up in the permanent collection of the Museum of Modern Art.  Just prior to her retirement, Miller organized a large exhibition of Rockefeller's collection.  The exhibition catalog written by Miller was the basis for the book she worked on following Rockefeller's death in 1979, ultimately published as <emph render="italic">The Nelson A. Rockefeller Collection: Masterpieces of Modern Art</emph>. In the preface, Rockefeller credited Miller with being one of the four people to whom he was indebted "for the understanding and endless joy I have found in the collecting of modern art in all forms." </p>
+
+<p>Miller also served as the primary art consultant for projects to furnish federal spaces, including Henry Kissinger's State Department office suite, and the official Vice-Presidential residence at the Admiral's House in Washington D.C. </p>
+
+<p>In 1959 Miller was invited to join the art collection committee of the Chase Manhattan Bank and served on the committee until the mid-1980s, contributing her expertise to the development of one of this country's oldest and largest corporate collections of modern and contemporary art.  She was also hired as an art advisor to First National City Bank, now Citibank.</p>
+
+<p>Miller was also an advisor to other members of the Rockefeller family, including David Rockefeller, and assisted with developing the art collections of Rockefeller Institute/University. From 1960 through the late 1980s Miller was a member of the art committee for the Port Authority of New York and New Jersey (PANJY) and was responsible for selecting much of the artwork for the World Trade Center in the 1970s. She served on numerous boards, committees, and commissions, including the Hancock Shaker Village, the Smithsonian Institution's Hirshhorn Museum and Sculpture Garden, the Empire State Plaza in Albany, and the Smith College Museum of Art.  She also became a member of the Mark Rothko Foundation Board of Directors after the litigation following Rothko's death between Rothko's executors and his daughter. </p>
+
+<p>In the mid-1970s Miller assisted the Whitney Museum of American with planning an exhibition and supporting catalog of the work of folk artist Edward Hicks.  Although the exhibition and catalog were only partially realized in 1980, Miller and Eleanore Price Mather compiled and published a book on Hicks, <emph render="italic">Edward Hicks: His Peaceable Kingdoms and Other Paintings,</emph> published in 1983. </p>
+
+<p>In 1982-1983 Miller received the Art Dealers Association Special Award, an honorary degree from Williams College, and the Skowhegan School of Painting and Sculpture governor's award. In 1984 she was named honorary trustee of the Museum of Modern Art. In 1985 the Smith College Museum of Art honored her important contributions to museum connoisseurship with the exhibition <emph render="italic">Dorothy C. Miller: With An Eye to American Art</emph>.</p>
+<p>Dorothy Miller died in 2003 at the age of 99 at her home in Greenwich Village in New York City. </p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of contemporary art curator, historian, and consultant Dorothy C. Miller measure 24.7 linear feet and date from circa 1912-1992, with the bulk of the material dating from 1959 to 1984. The papers primarily concern Miller's career after retiring from the Museum of Modern Art in New York City.  Found are scattered biographical materials, extensive correspondence and subject files, and project files for her art advisory and committee work for the Rockefeller family, Rockefeller University, Chase Manhattan Bank, the Port Authority of New York and New Jersey, the World Trade Center, and other miscellaneous corporate and private clients.  Files documenting Miller's published catalog <emph render="italic">Masterpieces of Modern Art, The Nelson A. Rockefeller Collection </emph>are also found. Miller's work as a trustee and committee member of various public and private boards and commissions is also represented here. Additionally, the papers contain Miller's research files on Edward Hicks and folk art, and a small number of files of her husband Holger Cahill  about his work as Director of the Federal Art Project.  There is a scattered documentation of Miller's early curatorial work with Holger Cahill on the <emph render="italic">First Municipal Art Exhibition </emph>(1934) held at the RCA Building in Rockefeller Center.  Also found are Dorothy Miller's collection of artists' Christmas cards and photographs of Miller and others.</p>
+<p>Scattered biographical material mostly concerns Miller's education at Smith College and  awards and honorary degrees that she received. Extensive correspondence and subject files document her professional and personal relationships with family, friends, colleagues, museums, art dealers and artists, as well as her research interests.  Individual files may contain a mix of correspondence with, as well as about, the person or subject, compiled research documents, printed materials, and scattered photographs.  Files are found for Lewin Alcopley, Alfred Barr, Betty Parsons Gallery, Cahill family members, Lee Bontecou, James Byars, Holger Cahill, Alexander Calder, Christo, Chryssa, Calvert Coggeshall, John Canaday, Maryette Charlton, Stuart Davis, Jay DeFeo, Lorser Feitelson, Arshile Gorky, Peggy Guggenheim, Grace Hartigan, Will Horwitt, Jasper Johns, Julien Levy, Pierre Matisse, Louise Nevelson, Barnett Newman, Isamu Nauchi, Georgia O'Keefe, Pablo Picasso, Robert Rauschenberg, Ad Reinhardt, Kay Sage, Charles Sheeler, Hedda Sterne, travel, Clyfford Still, William Scharf, among many others.</p>
+<p>Detailed records of Miller's art advisory work for the Rockefeller family include correspondence with Nelson A. Rockefeller and David Rockefeller about building their personal collections of contemporary and folk art, meeting notes and minutes, research notes and writings, and printed materials.  The largest group of records concerns the writing and publication of <emph render="italic">Masterpieces of Modern Art, The Nelson A. Rockefeller Collection.</emph> Miller's curatorial work for David Rockefeller and the Rockefeller University's Abby Aldrich Rockefeller Hall art collection is documented in Series 4 through curatorial files, correspondence, printed materials, photographs and slides, artists files, and design records.</p>
+<p>Series 5 contains files relating to Miller's work as art consultant to the Chase Manhattan Bank and the building of the corporation's extensive collection of contemporary art.  There is a draft of Miller's text for the bank's published catalog, <emph render="italic">Art At Work:  Chase Manhattan Bank Collection</emph>. A smaller set of records is found in Series 6 documenting Miller's work on the Art Committee of the Port Authority of New York and New Jersey, including files about selecting artwork for the World Trade Center during the early 1970s. Files concerning Miller's advisory work with additional public and private clients, boards, and commissions are arranged in Series 7 and 8 and concern the Amstar Corporation, Fidelity International Bank, First National Bank of Tampa, First National City Bank (Citibank), Inmont Corporation, Pepsico, United Mutual Savings Bank, the Empire State Plaza Art Commission, the Hancock Shaker Village, the Hirshhorn Museum and Sculpture Garden, the Mark Rothko Foundation, the Museum of American Folk Art, and the Smith College Museum of Art. </p>
+
+<p>Miller's papers include a small group of files relating to the WPA Federal Art Project (FAP)created by her husband Holger Cahill when he was director of the FAP, Holger Cahill.  A small series is devoted to Miller's work with Eleanore Price Mather researching and writing <emph render="italic">Edward Hicks: His Peaceable Kingdom and Other Paintings</emph>. A series of general research files contain miscellaneous research notes and photographs related to Miller's interests in early American art and folk art.  Series 12 contains important documentation of Miller's early curatorial work with Holger Cahill on the <emph render="italic">First Municipal Art Exhibition </emph>(1934) held at the RCA Building in Rockefeller Center.    </p>
+<p>Works of art are primarily in the form of Christmas cards sent to Miller by various artists including Elise Asher, Lyonel Feininger, Bernard Karpel, and Irene Rice Pereira. A small group of photographs includes photographs of Miller from 1926-circa 1950 and a few photographs of others.</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 14 series: </p>
+<list>
+<item>Series 1: General Biographical Material, 1917-1986 (Box 1; 0.3 linear ft.)</item>
+<item>Series 2: Correspondence and Subject Files, circa 1912-1992 (Boxes 1-8, OV 27; 7.2 linear ft.)</item>
+<item>Series 3: Rockefeller Family Art Collections, circa 1949-1985 (Boxes 8-12, 25; 3.9 linear ft.)</item>
+<item>Series 4: Rockefeller University Collection, 1923-1984 (Boxes 12-13, OV 27; 1.0 linear ft.)</item>
+<item>Series 5: Chase Manhattan Bank Collection, 1959-circa 1985 (Boxes 13-14, 26; 1.4 linear ft.)</item>
+<item>Series 6: Port Authority of New York and New Jersey Art Committee, circa 1965-1987 (Boxes 14-15, OV 27; 0.8 linear ft.) </item>
+<item>Series 7: Other Corporate and Private Clients, 1968-1984 (Boxes 15-16; 1.3 linear ft.) </item>
+<item>Series 8: Other Boards, Committees and Commissions, 1925, 1949-1985 (Boxes 16-20; 3.6 linear ft.)</item>
+<item>Series 9: Works Project Administration Federal Art Project Files, 1935-1979 (Box 20, OV 27; 0.5 linear ft.)</item>
+<item>Series 10: Edward Hicks Catalog, 1934-1984 (Boxes 20-22; 1.5 linear ft.)</item>
+<item>Series 11: Research Files, 1930s-1980 (Boxes 22-23; 0.8 linear ft.)</item>
+<item>Series 12: Exhibition Files, 1932-1986 (Box 23; 0.6 linear ft.)</item>
+<item>Series 13: Works of Art, circa 1924-circa 1982 (Boxes 23-25; 1.5 linear ft.)</item>
+<item>Series 14: Photographs, 1926-circa 1970s (Boxes 24-25; 0.3 linear ft.)</item>
+</list>
+</arrangement>
+
+
+
+
+<!-- use odd for appendixes -->
+
+
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Hicks, Edward, 1780-1849</persname>
+<persname encodinganalog="600" source="lcsh">Rockefeller, Nelson A. (Nelson Aldrich), 1908-1979</persname>
+<persname encodinganalog="600" source="lcsh">Rothko, Mark, 1903-1970</persname>
+<persname encodinganalog="600" source="lcsh">Cahill, Holger, 1887-1960</persname>
+
+<corpname encodinganalog="610" source="lcsh">Chase Manhattan Bank -- Art collections</corpname>
+<corpname encodinganalog="610" source="lcsh">Port Authority of New York and New Jersey -- Art collections</corpname>
+<corpname encodinganalog="610" source="lcsh">World Trade Center (New York, N.Y.) -- Art collections</corpname>
+<corpname encodinganalog="610" source="lcsh">Federal Art Project</corpname>
+<corpname encodinganalog="610" source="lcsh">Smith College -- Students</corpname>
+
+<corpname encodinganalog="611" source="lcsh">Municipal Art Exhibition (1st, 1934, New York, N.Y.)</corpname>
+<corpname encodinganalog="611" source="lcsh"></corpname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art, Modern -- 20th century</subject>
+<subject encodinganalog="650" source="lcsh">Art -- Private collections</subject>
+<subject encodinganalog="650" source="lcsh">Corporations -- Private collections</subject>
+<subject encodinganalog="650" source="lcsh">Art museum curators -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Art, Modern -- 20th century -- Exhibitions</subject>
+<subject encodinganalog="650" source="lcsh">Artists -- United States</subject>
+<subject encodinganalog="650" source="lcsh">Art historians -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Folk art</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="aat">Christmas cards</genreform>
+<genreform encodinganalog="655" source="aat">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Drawings</genreform>
+<genreform encodinganalog="655" source="lcsh">Sketches</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Copley, Alfred L.</persname>
+<persname encodinganalog="700" source="lcsh">Calder, Alexander, 1898-1976</persname>
+<persname encodinganalog="700" source="lcsh">Canady, John</persname>
+<persname encodinganalog="700" source="lcsh">Byars, James Lee</persname>
+<persname encodinganalog="700" source="lcsh">Barr, Alfred Hamilton, 1902-</persname>
+<persname encodinganalog="700" source="lcsh">Cahill, Holger, 1887-1960</persname>
+<persname encodinganalog="700" source="lcsh">Bontecou, Lee, 1931-</persname>
+<persname encodinganalog="700" source="lcsh">Christo, 1935-</persname>
+<persname encodinganalog="700" source="lcsh">Coggeshall, Calvert, 1907-1990</persname>
+<persname encodinganalog="700" source="lcsh">Feitelson, Lorser, 1898-1978</persname>
+<persname encodinganalog="700" source="lcsh">Gorky, Arshile, 1904-1948</persname>
+<persname encodinganalog="700" source="lcsh">Guggenheim, Peggy, 1898-</persname>
+<persname encodinganalog="700" source="lcsh">DeFeo, Jay, 1929-1989</persname>
+<persname encodinganalog="700" source="lcsh">Charlton, Maryette</persname>
+<persname encodinganalog="700" source="lcsh">Chryssa, 1933-</persname>
+<persname encodinganalog="700" source="lcsh">Davis, Stuart, 1892-1964</persname>
+<persname encodinganalog="700" source="lcsh">Noguchi, Isamu, 1904-1988</persname>
+<persname encodinganalog="700" source="lcsh">Nevelson, Louise, 1899-1988</persname>
+<persname encodinganalog="700" source="lcsh">Hartigan, Grace</persname>
+<persname encodinganalog="700" source="lcsh">Horwitt, Will</persname>
+<persname encodinganalog="700" source="lcsh">Newman, Barnett, 1905-1970</persname>
+<persname encodinganalog="700" source="lcsh">Matisse, Pierre, 1900-1989</persname>
+<persname encodinganalog="700" source="lcsh">O'Keeffe, Georgia, 1887-1986</persname>
+<persname encodinganalog="700" source="lcsh">Johns, Jasper, 1930-</persname>
+<persname encodinganalog="700" source="lcsh">Levy, Julien</persname>
+<persname encodinganalog="700" source="lcsh">Picasso, Pablo, 1881-1973</persname>
+<persname encodinganalog="700" source="lcsh">Reinhardt, Ad, 1913-1967</persname>
+<persname encodinganalog="700" source="lcsh">Sheeler, Charles, 1883-1965</persname>
+<persname encodinganalog="700" source="lcsh">Still, Clyfford, 1904-</persname>
+<persname encodinganalog="700" source="lcsh">Rauschenberg, Robert, 1925-2008</persname>
+<persname encodinganalog="700" source="lcsh">Sterne, Hedda, 1910-</persname>
+<persname encodinganalog="700" source="lcsh">Scharf, William, 1927-</persname>
+<persname encodinganalog="700" source="lcsh">Sage, Kay</persname>
+<persname encodinganalog="700" source="lcsh">Karpel, Bernard, 1911-</persname>
+<persname encodinganalog="700" source="lcsh">Mather, Eleanore Price, 1910-</persname>
+<persname encodinganalog="700" source="lcsh">Pereira, I. Rice (Irene Rice), 1902-1971</persname>
+<persname encodinganalog="700" source="lcsh">Feininger, Lyonel, 1871-1956</persname>
+<persname encodinganalog="700" source="lcsh">Asher, Elise, 1914-</persname>
+<corpname encodinganalog="710" source="lcsh">Rockefeller University</corpname>
+<corpname encodinganalog="710" source="lcsh">Betty Parsons Gallery</corpname>
+<corpname encodinganalog="710" source="lcsh">Hirshhorn Museum and Sculpture Garden</corpname>
+<corpname encodinganalog="710" source="lcsh">PepsiCo, inc.</corpname>
+<corpname encodinganalog="710" source="lcsh">Mark Rothko Foundation</corpname>
+<corpname encodinganalog="710" source="lcsh">Smith College. Museum of Art</corpname>
+</controlaccess>
+
+</controlaccess>
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>General Biographical Material, <unitdate>1917-1986 </unitdate></unittitle>
+<physdesc>(Box 1; 0.3 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Scattered biographical materials primarily document Miller's education, awards, degrees, honors, and family history. </p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1-2</container>
+<unittitle>Awards and Honorary Degrees, <unitdate>1917-1986</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc></did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Bills and Receipts, <unitdate>1947-1987</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Christmas Lists, <unitdate>1970-1971</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Family History Notes and Item of Doll's Underwear, <unitdate>circa 1932, 1965</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Passport, <unitdate>1927</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Printed Material About Miller, <unitdate>circa 1942-1981</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Printed Material About Newark Museum Apprentice Class, <unitdate>1934</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Record of Miller's Trip to Williamsburg, Virginia, <unitdate>1947</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Rental Property Records, <unitdate>1969-1973</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Smith College Art Exams, <unitdate>1923-1925</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Smith College Art History Notes, <unitdate>circa 1920s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Smith College Commencement Books, <unitdate>1925</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Smith College Miscellaneous Printed Material, <unitdate>circa 1925</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Smith College Report Card, <unitdate>1925</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Smith College Yearbook, <unitdate>1925</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle><emph render="italic">Who's Who in American Art</emph>, <unitdate>1981</unitdate></unittitle>
+</did></c02>
+
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid>
+<unittitle>Correspondence and Subject Files, <unitdate>circa 1912-1992</unitdate></unittitle>
+<physdesc>(Boxes 1-8, OV 27; 7.2 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains Miller's personal and professional correspondence and subject files on individuals or subjects.  Individual files may contain correspondence, photographs, printed materials, research notes, essays and other writings, and scattered artwork. There is correspondence with galleries, museums, art associations, artists and other individuals from the art world, including Alfred Barr, Alexander Calder, John Canaday, Chryssa, Grace Hartigan, Will Horwitt, Ray Johnson, Miller and Cahill family members, Louise Nevelson, William Scharf, Hedda Sterne, Clyfford Still, and many others. Correspondence includes sketches and drawings by Lewin Alcopley, Will Horwitt, Gaston Gerreaud, Ray Johnson, Fred Martin, and Robert Osborn. Files on Louise Nevelson include photographs of Miller and Nevelson, including ones taken at the dedication of Nevelson's sculpture at the World Trade Center in January 1979. The files on Chryssa contain photographs of the artist's studio.</p>
+</scopecontent>
+<arrangement><p>Files are arranged alphabetically by name or subject. For each letter of the alphabet, individually named files are followed by "Miscellaneous" files containing scattered correspondence with multiple correspondents.</p></arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Abash, Cecile,
+<unitdate>1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Abbott, Berenice,
+<unitdate>1979-1983</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Abrams, Charles,
+<unitdate>1972-1980</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Abrams Original Editions,
+<unitdate>1971</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Adolph and Esther Gottlieb Foundation, Inc.,
+<unitdate>1976-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>African American Artists, 
+<unitdate>1968-1971</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>African Art,
+<unitdate>circa 1950, 1973</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>Ahlander, Leslie Judd,
+<unitdate>1973-1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>Alcopley, Lewin (Alfred L. Copley),
+<unitdate>1955, 1960, 1971</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Aldrich Museum of Contemporary Art,
+<unitdate>1969</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Alexander, C. Marie,
+<unitdate>1974-1978</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Allen, C. Edmonds,  
+<unitdate>1974-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>Allentown Art Museum,
+<unitdate>1976-1979</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>American Art,
+<unitdate>1961-1967</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>American Indians,
+<unitdate>1976-circa 1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Andrews, Benny,
+<unitdate>1960-1969</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Andrews, Dorothy,
+<unitdate>1958</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Antique Dealers,
+<unitdate>1958-1974</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>Archives of American Art,
+<unitdate>1961-1982</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>Artco,
+<unitdate>circa 1974-1975</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">38</container>
+<unittitle>Arts Funding, 
+<unitdate>1969-1981</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">39</container>
+<unittitle>Association of Professional Art Advisors, Inc.,
+<unitdate>1978-1983</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">40</container>
+<unittitle>Association of the Bar,
+<unitdate>1970</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">41</container>
+<unittitle>Auctions,
+<unitdate>circa 1973-circa 1981</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">42</container>
+<unittitle>Automobile Crashes,
+<unitdate>1961-1965</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">43</container>
+<unittitle>A, Miscellaneous: Abbott, Jere -- Avnet, Joan, 
+<unitdate>1966-1983</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">44</container>
+<unittitle>Baizerman, Saul, 
+<unitdate>1967-1972</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">45</container>
+<unittitle>Baker, Mildred,
+<unitdate>1969-1971</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>Ball, George,
+<unitdate>1971</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>Baltrusaites, Helene,
+<unitdate>circa 1965-circa 1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">48</container>
+<unittitle>Barr, Alfred, Margaret, and Victoria,
+<unitdate>1967-1985</unitdate></unittitle>
+</did>
+<scopecontent><p>(includes photos of Alfred Barr's retirement)</p></scopecontent>
+</c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">49</container>
+<unittitle>Berkshire Museum Exhibition (1976),
+<unitdate>1974-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">50</container>
+<unittitle>Best, Peggy Worthington,
+<unitdate>1973</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">51</container>
+<unittitle>Betty Parsons Gallery,
+<unitdate>1979</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>Biala,
+<unitdate>1950-1980</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">53</container>
+<unittitle>Biesel, Fred and Frances,
+<unitdate>circa 1961-1962</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">54</container>
+<unittitle>Binning, Robin,
+<unitdate>1977-1978</unitdate></unittitle>
+</did></c02> 
+
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">55</container>
+<unittitle>Bladen, Ronald, 
+<unitdate>1970-1972</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">56</container>
+<unittitle>Blank Postcards, 
+<unitdate>circa 1960s-circa 1980s</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">57-58</container>
+<unittitle>Blumenfeld, Jane (Holger Cahill's Daughter),
+<unitdate>1960-1984</unitdate></unittitle>
+<physdesc> (2 folders)</physdesc>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">59</container>
+<unittitle>Bolotowsky, Ilya,
+<unitdate>1972-1980</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">60</container>
+<unittitle>Bona, Ivo,
+<unitdate>1975-1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">61</container>
+<unittitle>Bonino, Fernanda,
+<unitdate>1974</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">62</container>
+<unittitle>Bontecou, Lee,
+<unitdate>1963-1982</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">63</container>
+<unittitle>Boris, Bessie (Basha Klein),
+<unitdate>1969-1987</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">64</container>
+<unittitle>Boterf, Chester,
+<unitdate>1974-1981</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">65</container>
+<unittitle>Botero, Fernando,
+<unitdate>1970-1980</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">66</container>
+<unittitle>Bourgeois, Louise,
+<unitdate>1967-1970</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">67</container>
+<unittitle>Bowdoin College Museum of Art,
+<unitdate>1978-1979</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">68</container>
+<unittitle>Bradshaw-Smith, Gillian,
+<unitdate>1976-1979</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">69</container>
+<unittitle>Braman, Gladys, 
+<unitdate>1972-1975</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Brett, Catherine: see Spencer, Niles and Catherine Brett
+<unitdate></unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">70</container>
+<unittitle>Brodie, Gandy,
+<unitdate>1974-1978</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">71</container>
+<unittitle>Brody, Myron,
+<unitdate>1974-1975</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">72</container>
+<unittitle>Bronowski, Jacob,
+<unitdate>1969</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">73</container>
+<unittitle>Brooks, James, 
+<unitdate>1977-1980</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">74</container>
+<unittitle>Brown, Jean,
+<unitdate>1973-1981</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">75</container>
+<unittitle>Burrage, Mildred, 
+<unitdate>1973-1978</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">76</container>
+<unittitle>Bush, Doris Proctor,
+<unitdate>1968-1978</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">77</container>
+<unittitle>Buxton, Mary (Mrs. Gordon Cain; Museum of Fine Arts, Houston),
+<unitdate>1969-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">78</container>
+<unittitle>Byars, James Lee,
+<unitdate>1969-1981</unitdate></unittitle>
+</did></c02> 
+
+<!-- END BOX 1 78 folders-->
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>B, Miscellaneous</unittitle>
+</did>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Bacon-Westlake, Alice -- Bartlett, Fred, 
+<unitdate>1963-1985</unitdate></unittitle>
+</did></c03> 
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Bartlett, Jennifer -- Bertoia, Harry,
+<unitdate>1974-1985</unitdate></unittitle>
+</did></c03> 
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">3</container>
+<unittitle>Bhavasar, Natvar -- Briggs, Ernest, 
+<unitdate>1969-1980</unitdate></unittitle>
+</did></c03> 
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">4</container>
+<unittitle>Broida, Edward R. -- Bush, Jack, 
+<unitdate>1967-1983</unitdate></unittitle>
+</did></c03> 
+</c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Cahill, Holger,
+<unitdate>circa 1934-1988</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">6-8</container>
+<unittitle>Calder, Alexander,
+<unitdate>1963-1982</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did>
+<scopecontent><p>(includes photos of Miller, Calder and others)</p></scopecontent></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Canaday, John,
+<unitdate>1961-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">10-11</container>
+<unittitle>Carpenter, Leonard,
+<unitdate>1951-1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Chace, Happy,
+<unitdate>1973-1983</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Charles Alan Company,
+<unitdate>1973</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Charlton, Maryette,
+<unitdate>1959-1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Childs, Bernard,
+<unitdate>1973-1978</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Chirino, Martin,
+<unitdate>1973-1974</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Christmas Cards,
+<unitdate>circa 1938-circa 1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Christo and Jeanne-Claude,
+<unitdate>1968-1975</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">19-24</container>
+<unittitle>Chryssa,
+<unitdate>1961-1989</unitdate></unittitle>
+<physdesc>(6 folders; see also OV 27)</physdesc>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>Coggeshall, Calvert,
+<unitdate>circa 1955-circa 1990</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unittitle>Committee for the Visual Arts Inc., 
+<unitdate>1974-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unittitle>Cook, Howard and Barbara,
+<unitdate>1973-1976</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Copley, Alfred L.: see Alcopley, Lewin</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unittitle>Cornell, Joseph,
+<unitdate>1961, 1972, 1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unittitle>Currier Gallery of Art,
+<unitdate>1973-1977</unitdate></unittitle>
+</did></c02> 
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unittitle>Cyril,
+<unitdate>circa 1973-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>C, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">31</container>
+<unittitle>Cady, Sam -- Claflin, A.,
+<unitdate>circa 1967-circa 1982</unitdate></unittitle>
+</did></c03> 
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">32</container>
+<unittitle>Clara Diament Gallery -- Cole, Joyce,
+<unitdate>1970-1982</unitdate></unittitle>
+</did></c03>  
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">33</container>
+<unittitle>Copley, A. Phillip -- Craft, Douglas,
+<unitdate>1947-1994</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unittitle>Cramer, Gerald -- Cuyler, Mrs. Gordon,
+<unitdate>1938-1979</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">35</container>
+<unittitle>Danton, Edith (Miller's niece),
+<unitdate>1947, 1970-1985</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">36</container>
+<unittitle>Davis, Stuart,
+<unitdate>1940-1989</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">37</container>
+<unittitle>DeFeo, Jay,
+<unitdate>1961-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">38</container>
+<unittitle>De Kooning, Willem,
+<unitdate>1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">39</container>
+<unittitle><emph render="italic">Delineator</emph> Clippings,
+<unitdate>1916-1921</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">40</container>
+<unittitle>D'Harnoncourt, Rene, Sarah and Anne Rishel,
+<unitdate>circa 1968-circa 1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">41</container>
+<unittitle>Dia Art Foundation,
+<unitdate>circa 1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">42</container>
+<unittitle>Dickinson, Edwin,
+<unitdate>1961-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">43</container>
+<unittitle>Dienes, Ben,
+<unitdate>1975-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">44</container>
+<unittitle>Diller, Burgoyne,
+<unitdate>1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">45</container>
+<unittitle>Domoto, Hisao,
+<unitdate>1967-1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">46</container>
+<unittitle>Dubinsky, George,
+<unitdate>1974</unitdate></unittitle>
+<physdesc>(includes original print)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">47</container>
+<unittitle>Dudley, Dorothy,
+<unitdate>1969-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>D, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">48</container>
+<unittitle>Dana, John Cotton -- Davis, Warren,
+<unitdate>1958-1984</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">49</container>
+<unittitle>Dawson, Maniere -- Dienes, Dr. Louis,
+<unitdate>1959-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">2</container>
+<container type="folder">50</container>
+<unittitle>Dieringer, E. -- Dwinger, Jonna,
+<unitdate>1967-1976</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">51</container>
+<unittitle>Eddy Family Association,
+<unitdate>1966-1977</unitdate></unittitle>
+</did></c02>
+
+<!-- END BOX 2 51 folders-->
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Employment Requests and Recommendations,
+<unitdate>1951-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Evans, Walker,
+<unitdate>1968-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>E, Miscellaneous: Earnest, Adele -- Eversley, Fred, 
+<unitdate>1918-1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Fairbanks, Polly,
+<unitdate>circa 1969-circa 1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">5-6</container>
+<unittitle>Farmanfarmaian, Monir,
+<unitdate>circa 1975-1982</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">7</container>
+<unittitle><emph render="italic">Federal Art Patronage Notes</emph>, 
+<unitdate>1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Feininger, Julia,
+<unitdate>1961</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Feitelson, Lorser, and Helen Lunderberg,
+<unitdate>1961-1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>Feminism,
+<unitdate>1974, 1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">11</container>
+<unittitle>Field, Julie,
+<unitdate>1966-1969</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">12</container>
+<unittitle>Fiscbach Gallery,
+<unitdate>1968</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">13</container>
+<unittitle>Fish, Janet,
+<unitdate>circa 1971-1986</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">14</container>
+<unittitle>Fitzgerald, Astrid, 
+<unitdate>1973-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">15</container>
+<unittitle>Flannagan, John,
+<unitdate>circa 1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">16</container>
+<unittitle>Frankenstein, Alfred, 
+<unitdate>1972</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>Fraudulent Art,
+<unitdate>1965-1966</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>Friess, Constance, M. D.,
+<unitdate>1972-1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>Fuller, Edmund L. (re: research on William Edmonson),
+<unitdate>1968-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>F, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">3</container>
+<container type="folder">20</container>
+<unittitle>Faison, S. L. -- Forakis, Peter,
+<unitdate>1937-1985</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">3</container>
+<container type="folder">21</container>
+<unittitle>Forester, Russell -- Fuller, R. Buckminster, 
+<unitdate>1969-1980</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>Galerie Espace NV, Netherlands,
+<unitdate>1969-1970</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">23</container>
+<unittitle>Garreaud, Gaston,
+<unitdate>1982-1985</unitdate></unittitle>
+<physdesc>(includes 4 ink sketches by Garreaud)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">24</container>
+<unittitle>Godwin, Judith, 
+<unitdate>1976-1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">25</container>
+<unittitle>Gorky, Arshile,
+<unitdate>1942-1986</unitdate></unittitle>
+<physdesc>(see also Box 20, F 11-13)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">26</container>
+<unittitle>Gourevitch, Jacqueline,
+<unitdate>1971-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">27</container>
+<unittitle>Grandmother of Miller,
+<unitdate>circa 1930</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">28</container>
+<unittitle>Graves, Bradford,
+<unitdate>1973-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">29</container>
+<unittitle>Graves, Morris,
+<unitdate>1963-1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">30</container>
+<unittitle>Guggenheim, Peggy,
+<unitdate>1972-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>G, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">3</container>
+<container type="folder">31</container>
+<unittitle>Gablik, Suzi -- Gomen, John,
+<unitdate>1969-1983</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unittitle>Good, Robert -- Guston, Philip,
+<unitdate>1970-1980</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unittitle>Hague, Raoul,
+<unitdate>1964-1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">34-35</container>
+<unittitle>Hartigan, Grace,
+<unitdate>1957-1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>Hatcher, Doris,
+<unitdate>circa 1960s-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Herbst, Josephine,
+<unitdate>circa 1964-circa 1967</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Hiltunen, Eila,
+<unitdate>circa 1962-circa 1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">39-41</container>
+<unittitle>Holt, Elizabeth,
+<unitdate>circa 1957-circa 1987</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>Hood, Dorothy,
+<unitdate>circa 1972-circa 1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">43-44</container>
+<unittitle>Horwitt, Will,
+<unitdate>1970-1985</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<!-- END BOX 3 44 folders-->
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>H, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Haas, Elise -- Heller, Dorothy,
+<unitdate>circa 1966-circa 1981</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">2</container>
+<unittitle>Helmsley, Harry -- Hiss, Alger,
+<unitdate>circa 1969-circa 1982</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">3</container>
+<unittitle>Hitchcock, Henry-Russell -- Hogue, Alexander,
+<unitdate>circa 1961-circa 1981</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">4</container>
+<unittitle>Hokanson, Hans -- Hurtubise, Jacques,
+<unitdate>circa 1967-circa 1985</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">5</container>
+<unittitle>Iceland,
+<unitdate>circa 1960s-circa 1970</unitdate></unittitle>
+<physdesc>(includes negatives and slides of Miller and others in Iceland)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">6-7</container>
+<unittitle>Interests,
+<unitdate>circa 1930s-circa 1980s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">8-9</container>
+<unittitle>International Council of the Museum of Modern Art, 
+<unitdate>1956-1988</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">10</container>
+<unittitle>Isaacs, Julius, Will of,
+<unitdate>1984-1985</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>I, Miscellaneous, Indiana, Robert -- Israel, Margaret,
+<unitdate>circa 1963-circa 1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Japanese Art,
+<unitdate>1972-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">13-14</container>
+<unittitle>John Simon Guggenheim Memorial Foundation,
+<unitdate>1964-1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle>Johns, Jasper, 
+<unitdate>1965-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle>Johnson, Anna (Holger Cahill's sister),
+<unitdate>1960-1969</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle>Johnson, Floyd,
+<unitdate>1970-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle>Johnson, Philip,
+<unitdate>circa 1960s-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle>Johnson, Ray, 
+<unitdate>1966-1973</unitdate></unittitle>
+</did>
+<scopecontent><p>(includes mail art)</p></scopecontent>
+</c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle>Josephson, Hannah and Matthew,
+<unitdate>circa 1961-circa 1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle>Joslyn Art Museum,
+<unitdate>1973-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Julien Levy Gallery: see Levy, Julien
+<unitdate></unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle>J, Miscellaneous: Jaci Canning Enterprises -- Junior Council of the Museum of Modern Art, 
+<unitdate>circa 1967-circa 1986</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle>Kawashima, Takeshi,
+<unitdate>circa 1972-circa 1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle>Keck, Caroline and Sheldon,
+<unitdate>circa 1961-circa 1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Klein, Basha: see Boris, Bessie
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">25</container>
+<unittitle>Knowlton, Grace,
+<unitdate>circa 1972-circa 1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">26</container>
+<unittitle>Kornblee,
+<unitdate>circa 1968-circa 1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">27</container>
+<unittitle>Kruger, Louise,
+<unitdate>circa 1975-circa 1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>K, Miscellaneous</unittitle>
+</did>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">28</container>
+<unittitle>Kahnweiler, Daniel-Henry -- Klavun, Betty,
+<unitdate>1972-1983</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">29</container>
+<unittitle>Kline, Franz -- Kusama, Yayoi,
+<unitdate>1956-1980</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">30</container>
+<unittitle>Lambie, Elizabeth Litchfield,
+<unitdate>circa 1952-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">31</container>
+<unittitle>Larrain, Emilio Rodriguez,
+<unitdate>1975-1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">32</container>
+<unittitle>Lekakis, Michael,
+<unitdate>circa 1960s-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">33</container>
+<unittitle>Levy, Julien,
+<unitdate>1976-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">34</container>
+<unittitle>Liebmann, Gerhardt,
+<unitdate>circa 1972-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">35</container>
+<unittitle>Lindley, Frances (Stronsky),
+<unitdate>circa 1950s-1987</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">36</container>
+<unittitle>Livingstone, Biganess,
+<unitdate>circa 1969-circa 1972</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Lundeberg, Helen: see Feitelson, Lorser
+<unitdate></unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">37</container>
+<unittitle>Lynes, Russell, 
+<unitdate>circa 1970-circa 1972</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>L, Miscellaneous
+</unittitle>
+</did>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">38</container>
+<unittitle>Lamagna Gallery -- Lejwa, M.,
+<unitdate>circa 1962-circa 1984</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">4</container>
+<container type="folder">39</container>
+<unittitle>Leonid, L. -- Lytle, R.,
+<unitdate>1956-1984</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<!-- END BOX 4 39 folders-->
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">1-3</container>
+<unittitle>MacIver, Loren,
+<unitdate>1939-1987</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">4</container>
+<unittitle>Maine Articles, 
+<unitdate>1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">5</container>
+<unittitle>Martin, Fred,
+<unitdate>circa 1960-circa 1973</unitdate></unittitle>
+<physdesc>(includes original artwork)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">6</container>
+<unittitle>Matisse, Pierre,
+<unitdate>1972-1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">7</container>
+<unittitle>Mayan Art,
+<unitdate>1974, 1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">8</container>
+<unittitle>McAndrew, John and Betty (see also: Save Venice),
+<unitdate>circa 1961-circa 1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">9</container>
+<unittitle>Meadmore, Clement,
+<unitdate>1968-1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">10-11</container>
+<unittitle>Metropolitan Museum of Art,
+<unitdate>1973-1981</unitdate></unittitle>
+<physdesc>(2 folders of clippings)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">12</container>
+<unittitle>Meyerhoff, Jane,
+<unitdate>1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">13</container>
+<unittitle>Miller, A. Barrett (Miller's brother),
+<unitdate>circa 1970-circa 1972</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">14</container>
+<unittitle>Miller, Dorothy C., Early Correspondence,
+<unitdate>circa 1912-circa 1918</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">15-16</container>
+<unittitle>Miller, Dorothy C., Letters from Smith College, 
+<unitdate>circa 1921-1922</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>Miller, Dorothy C., Letters to Family,
+<unitdate>1923-1925</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle>Moore, Henry,
+<unitdate>1955, 1980-1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder"></container>
+<unittitle>Museum of Fine Arts, Houston: see Buxton, Mary
+<unitdate></unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle>Museum of Fine Arts, Springfield, Massachusetts, 
+<unitdate>1973-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">20-21</container>
+<unittitle>Museum of Modern Art,
+<unitdate>1960-1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder"></container>
+<unittitle>M, Miscellaneous</unittitle>
+</did>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">22</container>
+<unittitle>Mabry, Thomas -- Mangione, Jerre,
+<unitdate>circa 1959-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle>Mantegna, Andrea -- Marlowe, Sylvia,
+<unitdate>circa 1962-circa 1981</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle>Maron, Jeffrey -- McSherry, Fred,
+<unitdate>1959-1985</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>Meiss, Millard -- Meyerowitz, Patricia,
+<unitdate>1967-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">26</container>
+<unittitle>Michener, James A. -- Montclair Art Museum,
+<unitdate>1965-1984</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">5</container>
+<container type="folder">27</container>
+<unittitle>Morgan, Elizabeth -- Mystic Seaport, Inc.,
+<unitdate>1966-1979</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle>Nantucket Articles,
+<unitdate>1965-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle>National Gallery of Victoria, Australia,
+<unitdate>1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">30</container>
+<unittitle>National Museum of Women's Art,
+<unitdate>1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">31</container>
+<unittitle>Naylor, J. Geoff,
+<unitdate>1974-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">32-34</container>
+<unittitle>Nevelson, Louise,
+<unitdate>1942-1990</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">35</container>
+<unittitle>Newark Museum and Tours,
+<unitdate>1928, circa 1957-1983</unitdate></unittitle>
+</did></c02>
+
+<!-- END BOX 5 35 folders-->
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>Newman, Barnett,
+<unitdate>1959</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>Niizuma, Minoru,
+<unitdate>1970-1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>Noguchi, Isamu,
+<unitdate>1969-1988</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>North Carolina Museum of Art,
+<unitdate>circa 1950s-circa 1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>N, Miscellaneous: Nagare, George -- Novros, David
+<unitdate>1958-circa 1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>O'Keeffe, Georgia, 
+<unitdate>1945, 1970-1987</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>Oldenburg, Claes,
+<unitdate>1972-1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">8-9</container>
+<unittitle>Osborn, Robert and Elodie,
+<unitdate>circa 1964-circa 1982</unitdate></unittitle>
+<physdesc>(includes illustrated letters; 2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>O, Miscellaneous: O'Connor, Francis -- Ownby, Haynes
+<unitdate>1950-1989</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle><emph render="italic">Particular Passions: Talks with Women Who Have Shaped Our Times</emph> by Lynn Gilbert and Gaylen Moore (New York: Clarkson N. Potter-Crown, 1981),
+<unitdate>1980-1981</unitdate></unittitle>
+</did>
+<scopecontent><p>(includes text of Miller's contribution)</p></scopecontent>
+</c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>Paule Anglim Associates,	
+<unitdate>circa 1970-circa 1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>Pei, I. M.,
+<unitdate>1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">14</container>
+<unittitle>Picasso, Pablo,
+<unitdate>circa 1970s-circa 1980s</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">15</container>
+<unittitle>Poetry,
+<unitdate>undated</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">16</container>
+<unittitle>Pollock, Jackson,
+<unitdate>1967-1990</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder"></container>
+<unittitle>P, Miscellaneous
+</unittitle>
+</did>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">17</container>
+<unittitle>Paar, Sarah -- Penn, Arthur,
+<unitdate>circa 1965-circa 1982</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">18</container>
+<unittitle>Pereira, Irene Rice -- Phoenix Gallery,
+<unitdate>1948-1983</unitdate></unittitle>
+<physdesc>(includes artwork by Pereira)</physdesc></did></c03>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">19</container>
+<unittitle>PHP Institute -- Porter, Aline,
+<unitdate>1969-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">20</container>
+<unittitle>Porter, Liliana -- Putnam, Wallace,
+<unitdate>1968-1980</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">21</container>
+<unittitle>Quaytman,
+<unitdate>1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">22</container>
+<unittitle>Rauschenberg, Robert,
+<unitdate>1977-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">23</container>
+<unittitle>Reder, Ronnie,
+<unitdate>1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">24</container>
+<unittitle>Reichek, Jesse,
+<unitdate>1967-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">25</container>
+<unittitle>Reineking, James,
+<unitdate>circa 1973-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">26</container>
+<unittitle>Reinhardt, Ad,
+<unitdate>1959-1967</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">27</container>
+<unittitle>Requests to Miller for Information,
+<unitdate>1973-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">28</container>
+<unittitle>Rickey, George,
+<unitdate>1977-1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">29</container>
+<unittitle>Rockwell, Norman,
+<unitdate>1967, 1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">30</container>
+<unittitle>Roerick, William,
+<unitdate>circa 1966-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">31</container>
+<unittitle>Rosenblum, Jay,
+<unitdate>1972-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">32</container>
+<unittitle>Rosevear, Cora
+<unitdate>1969, 1972</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">33</container>
+<unittitle>Rowan, Herman,
+<unitdate>1975-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">34</container>
+<unittitle>Rowlinson, Eric,
+<unitdate>1971-1973</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">35</container>
+<unittitle>Russell, John,
+<unitdate>1965-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder"></container>
+<unittitle>R, Miscellaneous </unittitle>
+</did>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">36</container>
+<unittitle>Rabkin, Leo -- Rivers, Haywood Bill,
+<unitdate>1961-1983</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">6</container>
+<container type="folder">37</container>
+<unittitle>Robus, Hugo -- Rutgers University,
+<unitdate>circa 1966-1985</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">38</container>
+<unittitle>Sage, Kay (Tanguy) (research on),
+<unitdate>1976-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">39</container>
+<unittitle>Sarah Lawrence College,
+<unitdate>1971-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">40</container>
+<unittitle>Save Venice (see also: McAndrew, John and Betty),
+<unitdate>1970-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">41-42</container>
+<unittitle>Scharf, William,
+<unitdate>circa 1969-1985</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">43</container>
+<unittitle>Schulte, Antoinette,
+<unitdate>1965-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">44-45</container>
+<unittitle>Southeastern Center of Contemporary Arts (SECCA), 
+<unitdate>1975-1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc></did></c02>
+
+<!-- END BOX 6 45 folders-->
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">1</container>
+<unittitle>Segal, George,
+<unitdate>1971, 1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">2</container>
+<unittitle>Seley, Jason,
+<unitdate>1974-1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">3</container>
+<unittitle>Shahn, Ben,
+<unitdate>circa 1948, 1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">4</container>
+<unittitle>Shaw, Charles,
+<unitdate>1970-1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">5</container>
+<unittitle>Sheeler, Charles,
+<unitdate>1971-1985</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">6</container>
+<unittitle>Sihvonen, Oli and Clay Spohn, 
+<unitdate>1967-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">7</container>
+<unittitle>Simkovich, Helena,
+<unitdate>1973-1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">8</container>
+<unittitle>Sims, Patterson, 
+<unitdate>circa 1972-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">9</container>
+<unittitle>Skowhegan School of Painting and Sculpture,
+<unitdate>1971-1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">10</container>
+<unittitle>Smith, David,
+<unitdate>circa 1969-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">11</container>
+<unittitle>Smith, Margery,
+<unitdate>circa 1962-1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">12</container>
+<unittitle>Smith, Susan,
+<unitdate>circa 1972-1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">13</container>
+<unittitle>Soby, Jim,
+<unitdate>1969-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">14</container>
+<unittitle>Soloman, Syd,
+<unitdate>circa 1973</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">15</container>
+<unittitle>Spencer, Niles and Catherine Brett,
+<unitdate>circa 1939-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder"></container>
+<unittitle>Spohn, Clay: see Sihvonen, Oli and Clay Spohn
+<unitdate></unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">16</container>
+<unittitle>Stankiewicz, Richard,
+<unitdate>1972-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">17</container>
+<unittitle>Stanton, Eleanor,
+<unitdate>circa 1965-circa 1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">18</container>
+<unittitle>Steinberg, Saul,
+<unitdate>circa 1963-circa 1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">19</container>
+<unittitle>Stella, Frank,
+<unitdate>1976-1989</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">20</container>
+<unittitle>Sterne, Hedda,
+<unitdate>1962-1982</unitdate></unittitle>
+<physdesc>(includes 2 pencil sketches)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">21</container>
+<unittitle>Sterne, Marietta,
+<unitdate>1967-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">22</container>
+<unittitle>Stifler, Francis McIlhenny,
+<unitdate>1956-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">23-24</container>
+<unittitle>Still, Clyfford,
+<unitdate>1951-1986</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">25</container>
+<unittitle>Stockbridge, Massachusetts,
+<unitdate>circa 1965-1985</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">26</container>
+<unittitle>Sunami, Soichi,
+<unitdate>1964-1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder"></container>
+<unittitle>S, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">7</container>
+<container type="folder">27</container>
+<unittitle>Saarinen, Aline -- Schueler, Jon,
+<unitdate>1957-1985</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">7</container>
+<container type="folder">28</container>
+<unittitle>Schultz, Antoinette -- Severni, Gino,
+<unitdate>1962-1983</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">7</container>
+<container type="folder">29</container>
+<unittitle>Shapiro, David and Cecile -- SITE, Inc. (Sculpture in the Environmnent, Inc.),
+<unitdate>circa 1963-circa 1979</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">7</container>
+<container type="folder">30</container>
+<unittitle>Slaughter, C. D. -- Stark, Shirley,
+<unitdate>1959-1982</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">7</container>
+<container type="folder">31</container>
+<unittitle>Steegmuller, Francis -- Sz, John,
+<unitdate>1958-1982</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">32</container>
+<unittitle>Taft, Edgar and Piri,
+<unitdate>circa 1959-1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">33</container>
+<unittitle>Tajiri, Shinkichi,
+<unitdate>1969-1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">34</container>
+<unittitle>Tampa, Gasparilla Sidewalk Art Festival (1979),
+<unitdate>1973-1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">35</container>
+<unittitle>Tampa Museum of Art,
+<unitdate>1979</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">36</container>
+<unittitle>Tanglewood Lenox Massachusetts, Sculpture Exhibition,
+<unitdate>1973-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">37</container>
+<unittitle>Theater, Music and Dance, 
+<unitdate>1959-1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">38</container>
+<unittitle>Tippett, Bruce,
+<unitdate>1972-1989</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">39</container>
+<unittitle>Tobey, Mark,
+<unitdate>1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">40</container>
+<unittitle>Tomlin, Bradley Walker,
+<unitdate>circa 1954-circa 1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">41</container>
+<unittitle>Travel, California,
+<unitdate>1976</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">42</container>
+<unittitle>Travel, California 1981 (Newark Museum Trip),
+<unitdate>1980-1981</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container>
+<container type="folder">43-44</container>
+<unittitle>Travel Correspondence,
+<unitdate>circa 1945-circa 1975</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc></did></c02>
+
+<!-- END BOX 7 44 folders-->
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">1-2</container>
+<unittitle>Travel, Miscellaneous, 
+<unitdate>circa 1956-circa 1983</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc></did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">3</container>
+<unittitle>Travel, New Mexico,
+<unitdate>circa 1979-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">4</container>
+<unittitle>Travel to Tulsa, Philbrook Art Center,
+<unitdate>1975</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">5</container>
+<unittitle>Tworkov, Jack,
+<unitdate>circa 1967-circa 1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">6</container>
+<unittitle>Tyler Graphico,
+<unitdate>1976-1977</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">7</container>
+<unittitle>Typescript of Panel Discussion: The Club - "What Is the New Academy,"
+<unitdate>1959</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">8</container>
+<unittitle>T, Miscellaneous: Tavenner, Patricia -- Turturro, Domenick,
+<unitdate>circa 1958-circa 1982</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">9</container>
+<unittitle>U, Miscellaneous: Umlauf, Karl -- Union Theological Seminary,
+<unitdate>1973-1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">10</container>
+<unittitle>Unidentified Surnames,
+<unitdate>1956-1970</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">11</container>
+<unittitle>Van Dalen, Anton,
+<unitdate>1970-1971</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">12</container>
+<unittitle>V, Miscellaneous: Vallila, Marja -- Vreeland, Frederick,
+<unitdate>circa 1958-circa 1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">13</container>
+<unittitle>White, Alice Miller (Miller's sister),
+<unitdate>1924, 1967-1992</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">14</container>
+<unittitle>White, Reid (Miller's nephew),
+<unitdate>circa 1964-circa 1984</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">15</container>
+<unittitle>Whitechapel Art Gallery,
+<unitdate>1969</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">16</container>
+<unittitle>Williams, Hiram,
+<unitdate>1966-1974</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">17</container>
+<unittitle>Wilson, Eleanor (Siddy),
+<unitdate>circa 1963-circa 1983</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">18</container>
+<unittitle>Wohl, Helmut and Alice,
+<unitdate>circa 1968-circa 1978</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">19</container>
+<unittitle>Wolff, Robert J.,
+<unitdate>1969</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder"></container>
+<unittitle>W, Miscellaneous
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">8</container>
+<container type="folder">20</container>
+<unittitle>Waddell, Chauncey -- Weber, Max,
+<unitdate>1962-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">8</container>
+<container type="folder">21</container>
+<unittitle>Wechter, Vivienne -- White, Robert,
+<unitdate>1970-1980</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">8</container>
+<container type="folder">22</container>
+<unittitle>Whitney Museum of American Art -- Willard, Howard,
+<unitdate>1965-1977</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">8</container>
+<container type="folder">23</container>
+<unittitle>Willard, Marian J. -- Wurzburger, Janet,
+<unitdate>circa 1964-circa 1984</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">24</container>
+<unittitle>Y, Miscellaneous: Yaddo -- Young, Ruth,
+<unitdate>1978-1980</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">8</container>
+<container type="folder">25</container>
+<unittitle>Z, Miscellaneous: Zabriskie Gallery -- Zeisler, Claire,
+<unitdate>1969-1977</unitdate></unittitle>
+</did></c02>
+
+<!-- End series 25 folders --> 
+
+<c02><did>
+<container type="box">27 (OV)</container>
+<container type="folder"></container>
+<unittitle>Oversized Letters, Chryssa,
+<unitdate>1961-1989</unitdate></unittitle>
+<physdesc>(Oversized letters from Chryssa from Box 2; 2 photos of the artist's studio and copies of 5 sketches of artwork)</physdesc>
+</did></c02>
+</c01>
+
+
+<!-- use this format if you have series and subseries -->
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Rockefeller Family Art Collections, <unitdate>circa 1949-1985</unitdate></unittitle>
+<physdesc>(Boxes 8-12, 25; 3.9 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series documents Miller's consulting work with members of the Rockefeller family, primarily Nelson A. Rockefeller.</p> 
+</scopecontent>
+
+<arrangement><p>This series is arranged as 2 subseries:</p> 
+<p>
+<list> 
+<item>3.1: Nelson A. Rockefeller, circa 1949-1985</item>
+<item>3.2: Other Rockefeller Family Members, 1956-1981</item>
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>3.1: </unitid>
+<unittitle>Nelson A. Rockefeller, <unitdate>circa 1949-1985</unitdate></unittitle></did>
+<scopecontent><p>Found here is signficant documentation of Miller's private curatorial and advisory work for Nelson Rockfeller, including the building his private collection  and furnishing  modern art work in public offices associated with Rockefeller.  Also found here are files relating to the writing and publication of Miller's extensive catalog, <emph render="italic">Masterpieces of Modern Art, The Nelson A. Rockefeller Collection </emph> (New York: Hudson Hills Press, 1981.)</p>
+<p>There is general correspondence between Miller and Rockefeller concerning building the collection, often including Miller's handwritten notes, printed material related to artists and occasional photographs of artwork. Personal correspondence consists primarily of letters from Rockefeller to Miller thanking her for advice, assistance and gifts.  Additional correspondence documents Miller's difficulties in securing payment for her years of work on the published catalog because Rockefeller died before the book was completed without having signed a formal contract with Miller. </p>
+<p>Additional files document federal government projects Miller completed for Rockefeller, including offering a selection of paintings to the Shah of Iran; a loan of artwork from the Museum of Modern Art to display in Secretary of State Henry Kissinger's State Department office; and providing artwork to furnish the nation's first official Vice-Presidential residence at the Admiral's House in Washington D.C. during Rockefeller's tenure as Vice President. Additionally, files document Miller's work with the Curatorial Committee for the Rockefeller collection at Kykuit and the family's home in Tarrytown, New York.</p>
+<p>There are files related to the 1969 exhibitions of Rockefeller collections at the Museum of Modern Art and the Museum of Primitive Art, and Rockefeller gifts to the Museum of Modern Art. Records relating to sculpture by Frederick Kiesler and tapestries by Joan Miró and Alexander Calder which Rockefeller considered for purchase are also included here.</p>
+<p>Most of the files in this subseries document Miller's work writing, compiling, and publishing <emph render="italic">The Nelson A. Rockefeller Collection: Masterpieces of Modern Art</emph>, which was based on the earlier catalog she wrote for the exhibition at the Museum of Modern Art in 1969. Records include correspondence, printed material, photos and photocopies of artwork, detailed information about individual works of art, meeting notes, drafts of the foreword and preface by Miller, and book copy text by John Russell, Alfred Barr, and Rockefeller. Additional files concern copy layout and illustrations for the book. </p>
+
+</scopecontent>
+
+<c03><did>
+<container type="box">8</container>
+<container type="folder">26-31</container>
+<unittitle>Correspondence, General, <unitdate>1964-1972</unitdate></unittitle>
+<physdesc>(6 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">8</container>
+<container type="folder">32</container>
+<unittitle>Correspondence, General, <unitdate>1973-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">8</container>
+<container type="folder">33</container>
+<unittitle>Correspondence, General, <unitdate>1975-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">8</container>
+<container type="folder">34</container>
+<unittitle>Correspondence, General, <unitdate>1976-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">8</container>
+<container type="folder">35</container>
+<unittitle>Correspondence, General, <unitdate>1978-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">8</container>
+<container type="folder">36-37</container>
+<unittitle>Correspondence, Personal, <unitdate>circa 1949-1977</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">8</container>
+<container type="folder">38</container>
+<unittitle>Illustrated Art Lecture Transcript, New School for Social Research, New York, <unitdate>1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">1</container>
+<unittitle>Iranian Artists, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">2-4</container>
+<unittitle>Iranian Resort, Selections For, <unitdate>1976</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">5-6</container>
+<unittitle>Kykuit, Pocantico Hills, Curatorial Committee, <unitdate>1975-1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">9</container>
+<container type="folder">7</container>
+<unittitle>Museum of Modern Art Exhibition (1969), and Gift to Museum, <unitdate>1968-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">8</container>
+<unittitle>Museum of Primitive Art Exhibition (1969) and Gift to Museum of Modern Art, Printed Material, <unitdate>1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">9</container>
+<unittitle>Sculpture by Frederick Kiesler, <unitdate>1967-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">10-15</container>
+<unittitle>Secretary of State Offices, <unitdate>1973-1977</unitdate></unittitle>
+<physdesc>(6 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">16</container>
+<unittitle>Tapestries by Miró and Calder, <unitdate>1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">17</container>
+<unittitle>Vice Presidential Inaugural Medal Committee, <unitdate>1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">18-25</container>
+<unittitle>Vice Presidential Residence, <unitdate>1975-1977</unitdate></unittitle>
+<physdesc>(8 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">26</container>
+<unittitle>Vice Presidential Residence, Photographs of Interior, <unitdate>circa 1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">27</container>
+<unittitle>News Clippings, <unitdate>1962-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">28</container>
+<unittitle>News Clippings, <unitdate>1976-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">29-30</container>
+<unittitle>News Clippings, <unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder">31</container>
+<unittitle>News Clippings, <unitdate>1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">9</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Nelson A. Rockefeller Collection</emph> Book</unittitle>
+<physdesc></physdesc>
+</did>
+<c04><did>
+<container type="box">9</container>
+<container type="folder">32</container>
+<unittitle>Acknowledgments and Introduction Drafts (by Rockefeller), <unitdate>1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">9</container>
+<container type="folder">33-34</container>
+<unittitle>Artwork Files A-C, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">9</container>
+<container type="folder">35-36</container>
+<unittitle>Artwork Files D-F, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">9</container>
+<container type="folder">37-38</container>
+<unittitle>Artwork Files G-J, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">9</container>
+<container type="folder">39-40</container>
+<unittitle>Artwork Files K-L, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04>
+<c04><did>
+<container type="box">10</container>
+<container type="folder">1-2</container>
+<unittitle>Artwork Files M, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04>
+<c04><did>
+<container type="box">10</container>
+<container type="folder">3-4</container>
+<unittitle>Artwork Files N-P, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">5-6</container>
+<unittitle>Artwork Files R-S, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">7</container>
+<unittitle>Artwork Files T-Z, <unitdate>circa 1950-circa 1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">8-13</container>
+<unittitle>Artwork, Photocopies of, <unitdate>circa 1979</unitdate></unittitle>
+<physdesc>(6 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">14</container>
+<unittitle>Artwork, Photographs of, <unitdate>circa 1963</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c04>
+<c04><did>
+<container type="box">10</container>
+<container type="folder">15</container>
+<unittitle>Auction Catalog, Sotheby Park Bernet, Inc., <emph render="italic">Property of Nelson A. Rockefeller removed from his residences in Washington, D.C., New York, and Seal Harbor, Maine, </emph><unitdate>1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">16-17</container>
+<unittitle>Catalog Cancellation Lists, <unitdate>circa 1971-1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">18</container>
+<unittitle>Catalog Draft, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">19</container>
+<unittitle>Catalog Draft, <unitdate>1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>  
+<c04><did>
+<container type="box">10</container>
+<container type="folder">20</container>
+<unittitle>Catalog Draft, <unitdate>1977-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">21</container>
+<unittitle>Catalog Draft, Working Copy 1, <unitdate>1977-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">22</container>
+<unittitle>Catalog Draft, Working Copy 2, <unitdate>1977-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">23-28</container>
+<unittitle>Catalog Sheets, <unitdate>circa 1969</unitdate></unittitle>
+<physdesc>(6 folders; see also Artwork Files)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">29</container>
+<unittitle>Catalog Sheets for 19th Century Artwork, <unitdate>1977</unitdate></unittitle>
+<physdesc>(includes photos of artwork)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">10</container>
+<container type="folder">30-34</container>
+<unittitle>Correspondence and Notes, <unitdate>1969-1982</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">1-3</container>
+<unittitle>Correspondence and Notes, <unitdate>1969-1982</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">4</container>
+<unittitle>Correspondence, Copyright Issues, <unitdate>1976-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, John Russell, <unitdate>1970-1979 </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">6-7</container>
+<unittitle>Correspondence, Miller's Request for Payment, <unitdate>1979-1985</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">8</container>
+<unittitle>Essay Drafts (by Barr), <unitdate>1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">9-13</container>
+<unittitle>Final Color Spread, Volume I, #1-47,  <unitdate>1979</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">14-16</container>
+<unittitle>Final Color Spread, Volume II, #48-97, <unitdate>1979</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">17</container>
+<unittitle>Final Meeting on Book, <unitdate>1979, 1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<scopecontent><p></p></scopecontent>
+</c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">18</container>
+<unittitle>Foreword and Preface Draft by Miller, <unitdate>1978-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">19</container>
+<unittitle>Invoices for Research Work on Book, <unitdate>1971-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">20</container>
+<unittitle>Notes, <unitdate>circa 1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">21</container>
+<unittitle>Notes, Layout of Book, <unitdate>1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">22</container>
+<unittitle>Notes, Questions about Artwork, <unitdate>1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">23</container>
+<unittitle>Notes, Research,  <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">11</container>
+<container type="folder">24</container>
+<unittitle>Records of Acquisitions of Artwork Since 1970, <unitdate>1970-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">25</container>
+<unittitle>Records of Color Transparencies of Artwork in Rockefeller Collection, <unitdate>circa 1977-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">26-27</container>
+<unittitle>Records of Illustrations for Book, <unitdate>circa 1977-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">28-31</container>
+<unittitle>Records of Photo Requests for Book, <unitdate>1968-1978</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">32</container>
+<unittitle>Records of Photos to Accompany Text, <unitdate>circa 1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+<c04><did>
+<container type="box">11</container>
+<container type="folder">33</container>
+<unittitle>Text Drafts (by Russell), <unitdate>1971, circa 1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Artwork, Photographs of, <unitdate>circa 1963</unitdate></unittitle>
+<physdesc>(From Box 10, F 14)</physdesc>
+</did></c04>
+</c03>
+</c02>
+<c02 level="subseries"><did><unitid>3.2: </unitid>
+<unittitle>Other Rockefeller Family Members, <unitdate>1956-1981</unitdate></unittitle></did>
+<scopecontent> 
+<p>Miller's consulting work with Blanchette Rockefeller (Mrs. John D. Rockefeller, III) and David and Peggy Rockefeller is documented here. Files relating to Blanchette Rockefeller primarily concern her purchases from the Museum of Modern Art's 1965 exhibition <emph render="italic">The New Japanese Painting and Sculpture</emph>.</p>
+<p>Miller's notes and correspondence with David and Peggy Rockefeller are about her suggestions for acquisitions.  Of particular interest is Miller's 1976 letter to David Rockefeller in which she recalls her first encounter with Morris Graves and seeing his artwork for the first time.  Rockefeller purchased Graves's painting <emph render="italic">Shore Birds</emph> in 1977.</p>
+<p>Also found here is correspondence relating to David Rockefeller's acquisitions from the Edith G. Halpert collection sold at auction in 1973 by Parke-Bernet. Additional files document Miller's research into acquisitions of folk art for the Rockefellers and the Abby Aldrich Rockefeller Folk Art Collection. Additional documentation of Miller's work for David Rockefeller in relation to the Rockefeller University Collection is found in the next subseries. </p>
+
+</scopecontent>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">1</container>
+<unittitle>Abby Aldrich Rockefeller Folk Art Collection, <unitdate>1956-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container>
+<container type="folder">2-3</container>
+<unittitle>Rockefeller, Blanchette (Mrs. John D., III), <unitdate>1965-1976</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container>
+<container type="folder">4-5</container>
+<unittitle>Rockefeller, David, Correspondence and Notes, <unitdate>1973-1981</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container>
+<container type="folder">6-7</container>
+<unittitle>Rockefeller, David, Edith G. Halpert Collection Acquisitions, <unitdate>1972-1973</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container>
+<container type="folder">8-9</container>
+<unittitle>Rockefeller, David, Weathervane Acquisitions, <unitdate>1972-1977</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">12</container>
+<container type="folder">10</container>
+<unittitle>Rockefeller Family, News Clippings, <unitdate>1969-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+</c01>
+
+
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Rockefeller University Collection, <unitdate>1923-1984</unitdate>
+</unittitle>
+<physdesc>(Boxes 12-13, OV 27; 1.0 linear ft.)
+</physdesc>
+</did>
+<scopecontent> 
+<p>Miller's curatorial and consulting work with the Rockefeller University (formerly Rockefeller Institute) committee and David Rockefeller to build an art collection for the University's Abby Aldrich Rockefeller Hall are arranged here. These include correspondence, notes, printed material, photographs and slides; artists' files, an exhibition file, design plans.  </p></scopecontent>
+
+<c02><did>
+<container type="box">12</container>
+<container type="folder"></container>
+<unittitle>Rockefeller Institute Curatorial Files
+</unittitle>
+</did>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">11-13</container>
+<unittitle>Curatorial Files, 
+<unitdate>1957-1959</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">14</container>
+<unittitle>Curatorial Files, 
+<unitdate>circa 1960-1962</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">15-16</container>
+<unittitle>Curatorial Files, 
+<unitdate>1970-1972</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">17</container>
+<unittitle>Curatorial Files, 
+<unitdate>1972-1975</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">18</container>
+<unittitle>Curatorial Files, 
+<unitdate>1978</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">19</container>
+<unittitle>Curatorial Files,
+<unitdate>1969-1970</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">20</container>
+<unittitle>Curatorial Files,
+<unitdate>1971-1978</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">21-23</container>
+<unittitle>Curatorial Files,
+<unitdate>1974-1984</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">12</container>
+<container type="folder"></container>
+<unittitle>Rockefeller University Curatorial Files
+<unitdate></unitdate>
+</unittitle>
+</did>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">24-26</container>
+<unittitle>17th Floor,
+<unitdate>circa 1971-circa 1977</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">27</container>
+<unittitle>17th Floor Architectural Plans,
+<unitdate>1972</unitdate>
+</unittitle>
+<physdesc>(see OV 27)</physdesc></did></c03>
+
+<c03><did>
+<container type="box">12</container>
+<container type="folder">28-31</container>
+<unittitle>Mildred Burrage,
+<unitdate>circa 1972-circa 1983</unitdate>
+</unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">1</container>
+<unittitle>Mildred Burrage Exhibition, 
+<unitdate>1974</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">2</container>
+<unittitle>Margaret Ann Coggswell,
+<unitdate>1975-1981</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">3-6</container>
+<unittitle>Jacques Louis David,
+<unitdate>1955-1976</unitdate>
+</unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">7</container>
+<unittitle>Insurance,
+<unitdate>1970-1980</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">8</container>
+<unittitle>Marguerite S. Lederburg,
+<unitdate>1980</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">9</container>
+<unittitle>Minoru Niizuma,
+<unitdate>1971-1973</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">10</container>
+<unittitle>David Plowden,
+<unitdate>1975-1976</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">11</container>
+<unittitle>President's House,
+<unitdate>1975-1980</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">12</container>
+<unittitle>Ann Roudebush Art Collection,
+<unitdate>1923-1983</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">13</container>
+<container type="folder">13-14</container>
+<unittitle>Bruce Tippett,
+<unitdate>1966-1976</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">OV 27</container>
+<container type="folder"></container>
+<unittitle>Oversized 17th Floor Architectural Plans,
+<unitdate>1972</unitdate>
+</unittitle>
+<physdesc>(From Box 12, F 27)</physdesc></did></c03>
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Chase Manhattan Bank Art Collection Committee, <unitdate>1959-circa 1985</unitdate>
+</unittitle>
+<physdesc>(Boxes 13-14, 26; 1.4 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series documents Miller's work as an art consultant to the Chase Manhattan Bank and founding member of the bank's art collection committee in 1959. Files here trace the development of the Chase collection from the early 1960s to the mid 1980s.</p> 
+<p>Records include a series of files labeled "Catalogs of Artwork" which provide detailed lists of all artwork; committee files containing correspondence and memoranda between members of the art committee including Miller, Alfred Barr, Robert Hale, Perry Rathbone, David Rockefeller (then the bank's president) and James Johnson Sweeney; committee meeting minutes,  agendas, and reports; catalogs of the bank's acquisitions and collection; and news clippings.  There is also correspondence with the Chase curator Mary Lanier and art institutions and galleries.</p>
+<p>A draft of Miller's text for the bank's published catalog of essays, <emph render="italic">Art At Work: Chase Manhattan Bank Collection</emph> is filed in this series, as well as an interview transcript with Miller conducted by Peter Morin of the High Museum of Art in Atlanta, Georgia, about the exhibition, <emph render="italic">Chase Manhattan: the First 10 Years of Collecting, 1959-1969</emph>.</p> 
+
+</scopecontent>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">15</container>
+<unittitle><emph render="italic">Art At Work: The Chase Manhattan Collection</emph>, Miller's Draft Text, <unitdate>circa 1985</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">16-17</container>
+<unittitle>Catalog of Artwork,
+<unitdate>circa 1960-circa 1965</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">18</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1965</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">19</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1967</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">20-21</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1969</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">22</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1970</unitdate>
+</unittitle>
+<physdesc>(see Box 26)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">23</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1974</unitdate>
+</unittitle>
+<physdesc>(see Box 26)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">24-26</container>
+<unittitle>Catalog of Artwork,
+<unitdate>1978</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">27</container>
+<unittitle>Committee Files,
+<unitdate>1959</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">28</container>
+<unittitle>Committee Files,
+<unitdate>1960</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">29</container>
+<unittitle>Committee Files,
+<unitdate>1961</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">30</container>
+<unittitle>Committee Files,
+<unitdate>1961-1962</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">31</container>
+<unittitle>Committee Files,
+<unitdate>1963-1964</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">32</container>
+<unittitle>Committee Files,
+<unitdate>1965</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container>
+<container type="folder">33</container>
+<unittitle>Committee Files,
+<unitdate>1966</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">1-2</container>
+<unittitle>Committee Files,
+<unitdate>1967</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">3</container>
+<unittitle>Committee Files,
+<unitdate>1967-1968</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">4</container>
+<unittitle>Committee Files,
+<unitdate>1968</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">5</container>
+<unittitle>Committee Files,
+<unitdate>1969</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">6</container>
+<unittitle>Committee Files,
+<unitdate>1970</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">7</container>
+<unittitle>Committee Files,
+<unitdate>1971-1972</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">8</container>
+<unittitle>Committee Files,
+<unitdate>1973</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">9</container>
+<unittitle>Committee Files,
+<unitdate>1974</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">10</container>
+<unittitle>Committee Files,
+<unitdate>1975</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">11</container>
+<unittitle>Committee Files,
+<unitdate>1976-1978</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">12</container>
+<unittitle>Committee Files,
+<unitdate>1978</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">13</container>
+<unittitle>Committee Files,
+<unitdate>1979</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">14</container>
+<unittitle>Committee Files,
+<unitdate>1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">15</container>
+<unittitle>Committee Files,
+<unitdate>1981</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did>
+</c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">16</container>
+<unittitle>Committee Files,
+<unitdate>1982</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">17</container>
+<unittitle>Committee Files,
+<unitdate>1983-1984</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">18</container>
+<unittitle>Finch College Exhibition: <emph render="italic">Art from the Chase Manhattan Bank Collection</emph>,
+<unitdate>1971</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">19</container>
+<unittitle>Interview Transcript,
+<unitdate>1982</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">26 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized Catalog of Artwork,
+<unitdate>1970</unitdate>
+</unittitle>
+<physdesc>(From Box 13, F 22)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">26 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized Catalog of Artwork,
+<unitdate>1974</unitdate>
+</unittitle>
+<physdesc>(From Box 13, F 23)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Port Authority of New York and New Jersey Art Committee, <unitdate>circa 1965-1987</unitdate></unittitle>
+<physdesc>(Boxes 14-15, OV 27; 0.8 linear ft.)</physdesc></did>
+<scopecontent>
+<p>In 1969 Executive Director of the Port Authority of New York and New Jersey (PANJY) Austin J. Tobin established a committee to commission and acquire artwork for PANJY's facilities and hired Miller as the primary art consultant. Files are found here that document Miller's work with the committee, including committee meeting minutes and agendas, correspondence and notes, printed materials, photographs. </p> 
+<p>Several files are related to Miller's work with the committee for selecting artwork for the World Trade Center in the early 1970s. These contain letters from Alexander Calder discussing the purchase of Calder's <emph render="italic">World Trade Center Stabile</emph>, also known as <emph render="italic">Three Wings</emph> and <emph render="italic">The Cockeyed Propeller</emph> which was originally commissioned for the entrance to 1 World Trade Center on West Street, but was moved around the plaza over time. One of Calder's letters is illustrated with a picture indicating how he wanted the stabile's "feet" to be installed. Also found here are several photographs of Calder and his mobiles and stabiles, letters from Joan Miró, Chryssa, and photographs of artwork by other artists. </p>
+<p>One file in this series contains writings by Miller concerning the collections of the PANJY. </p>
+</scopecontent>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">20</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1969-1972</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">21</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1973-1977</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">22</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1978</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">23</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1979</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">24</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">25</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1981</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">26</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1982-1983</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">27</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1984</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">28</container>
+<unittitle>Agenda and Minutes,
+<unitdate>1985-1987</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">29-30</container>
+<unittitle><emph render="italic">Art For The Public</emph>,
+<unitdate>circa 1979-1984</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">31</container>
+<unittitle>General Files,
+<unitdate>circa 1965-circa 1967</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container>
+<container type="folder">32-34</container>
+<unittitle>General Files, 
+<unitdate>circa 1968-circa 1975</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">1</container>
+<unittitle>General Files, 
+<unitdate>1974-1976</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">2</container>
+<unittitle>General Files, 
+<unitdate>1976-1978</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">3-5</container>
+<unittitle>General Files,
+<unitdate>1978-1985</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">6</container>
+<unittitle>World Trade Center, 
+<unitdate>circa 1965</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">7-8</container>
+<unittitle>World Trade Center, 
+<unitdate>circa 1965-circa 1970</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">9</container>
+<unittitle>World Trade Center, 
+<unitdate>1970-1971</unitdate>
+</unittitle>
+<physdesc>(see also OV 27)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container>
+<container type="folder">10</container>
+<unittitle>World Trade Center, 
+<unitdate>1972-1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 27</container>
+<container type="folder"></container>
+<unittitle>Oversized World Trade Center, Tower B Main Lobby Plan and Elevation, 
+<unitdate>1970</unitdate>
+</unittitle>
+<physdesc>(From Box 15, F 9)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Other Corporate and Private Clients, <unitdate>1968-1984</unitdate>
+</unittitle>
+<physdesc>(Boxes 15-16; 1.3 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Miller's consulting work with other corporate and private clients is documented here with correspondence, printed material, sketches, photographs, and slides.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">15</container>
+<container type="folder"></container>
+<unittitle>Corporate Clients</unittitle>
+</did>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">11-13</container>
+<unittitle>Amstar Corporation, 
+<unitdate>1969-1972</unitdate>
+</unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">14</container>
+<unittitle>Amstar Corporation, 
+<unitdate>1971</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">15</container>
+<unittitle>Amstar Corporation, 
+<unitdate>1971-1974</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">16</container>
+<unittitle>Amstar Corporation, 
+<unitdate>1972-1977</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">17</container>
+<unittitle>Fidelity International Bank,
+<unitdate>1973-1977</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">18</container>
+<unittitle>First National Bank of Tampa, 
+<unitdate>1972-1973</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">19-20</container>
+<unittitle>First National City Bank,
+<unitdate>1970-1973</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">21</container>
+<unittitle>First National City Bank,
+<unitdate>1974-1977</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">22</container>
+<unittitle>Inmont Corporation,
+<unitdate>1968-1969</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">23</container>
+<unittitle>Inmont Corporation,
+<unitdate>1969-1971</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">24</container>
+<unittitle>Inmont Corporation,
+<unitdate>1970-1975</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">25</container>
+<unittitle>Inmont Corporation,
+<unitdate>circa 1970s-1984</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">26</container>
+<unittitle>Paul, Weiss, Rifkind, Wharton &amp; Garrison,
+<unitdate>1969, 1976</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">27</container>
+<unittitle>Pepsico Incorporated,
+<unitdate>1970</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">15</container>
+<container type="folder">28</container>
+<unittitle>United Mutual Savings Bank,
+<unitdate>1971-1972</unitdate>
+</unittitle>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">16</container>
+<container type="folder"></container>
+<unittitle>Private Clients</unittitle>
+</did>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">1</container>
+<unittitle>Burden, William A. M., 
+<unitdate>1970</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">2-3</container>
+<unittitle>Englehard, Jane, 
+<unitdate>1969-1973</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">4</container>
+<unittitle>Englehard, Jane, 
+<unitdate>1973-1975</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">5</container>
+<unittitle>Englehard, Jane, 
+<unitdate>1976-1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">6</container>
+<unittitle>Grossman, Isobel,
+<unitdate>1970-1975</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">7</container>
+<unittitle>Lombard, Jane, 
+<unitdate>circa 1971-circa 1984</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">8-9</container>
+<unittitle>Lombard, Jane, 
+<unitdate>1971-1974</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">10-11</container>
+<unittitle>Lombard, Jane, 
+<unitdate>1975-1977</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">12</container>
+<unittitle>Lombard, Jane, 
+<unitdate>1978</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">13</container>
+<unittitle>Lombard, Jane, 
+<unitdate>1978-1984</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">14</container>
+<unittitle>Parkinson, Eliza, 
+<unitdate>1969-1977</unitdate>
+</unittitle>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">15-16</container>
+<unittitle>Seeligson, Arthur A., Jr., and Linda N.,
+<unitdate>1969-1972</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">17</container>
+<unittitle>Seeligson, Arthur A., Jr., and Linda N.,
+<unitdate>1973-1975</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">18</container>
+<unittitle>Seeligson, Arthur A., Jr., and Linda N.,
+<unitdate>1976-1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">19</container>
+<unittitle>Seeligson, Arthur A., Jr., and Linda N.,
+<unitdate>circa 1969-circa 1980</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">20</container>
+<unittitle>Stern, Edith, 
+<unitdate>1978-1979</unitdate>
+</unittitle>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">16</container>
+<container type="folder">21</container>
+<unittitle>Corporate and Private Clients, Miscellaneous,
+<unitdate>1971-1979</unitdate>
+</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container>
+<container type="folder">22</container>
+<unittitle>Miscellaneous Notes, 
+<unitdate>circa 1970-circa 1983</unitdate>
+</unittitle>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 8: </unitid><unittitle>Other Boards, Committees and Commissions, <unitdate>1925, 1949-1985</unitdate></unittitle>
+<physdesc>(Boxes 16-20; 3.6 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Following her retirement from the Museum of Modern Art, Miller served on a variety of public and private boards, commissions, and committees for art museums and institutions. The majority of these files contain correspondence, meeting minutes and reports, notes, legal records, and printed material.</p>  
+</scopecontent>
+
+<arrangement><p>The series is arranged as 6 subseries by museum or organization:</p> 
+<p>
+<list> 
+<item>8.1: Empire State Plaza Art Commission, 1965-1978</item> 
+<item>8.2: Hancock Shaker Village, Shaker Community, Inc., Board of Trustees, 1949-1985</item>
+<item>8.3: Hirshhorn Museum and Sculpture Garden Board of Trustees, 1976-1985</item> 
+<item>8.4: Mark Rothko Foundation, Inc., Board of Directors, 1966-1985</item> 
+<item>8.5: Museum of American Folk Art Board of Trustees, 1962-1969</item> 
+<item>8.6: Smith College Museum of Art Visiting Committee, 1925, 1961-1984</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>8.1</unitid>
+<unittitle>Empire State Plaza Art Commission, <unitdate>1965-1978</unitdate></unittitle></did>
+<scopecontent> 
+<p>Found here are records of Miller's activities as one of five members of the Art Commission for the Empire State Plaza (also known as the South Mall) in Albany, New York, built under the governorship of Nelson A. Rockefeller between 1965 and 1978. The files include scattered correspondence with artists Chryssa, Jason Seley, Daniel LaRue Johnson, and Gene Davis. </p>
+</scopecontent>
+<c03><did>
+<container type="box">16</container>
+<container type="folder">23-24</container>
+<unittitle>General, <unitdate>1965-1974</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">25</container>
+<unittitle>General, <unitdate>1968-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">26</container>
+<unittitle>General, <unitdate>1970-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">27</container>
+<unittitle>General, <unitdate>1976-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">28</container>
+<unittitle>Meeting Records, <unitdate>1968-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">29</container>
+<unittitle>News Clippings, <unitdate>1970-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">30</container>
+<unittitle>Photos of Artwork in Collection (incomplete), <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container>
+<container type="folder">31</container>
+<unittitle>Seley, Jason, <unitdate>1969-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>8.2: </unitid>
+<unittitle>Hancock Shaker Village, Shaker Community, Inc., Board of Trustees, <unitdate>1949-1985</unitdate></unittitle></did>
+<scopecontent>
+<p>Miller's work as a member of the Board of Trustees of Shaker Community, Inc. which oversaw the operations of Hancock Shaker Village in Massachusetts is documented here through correspondence with village founder Amy Bess Miller, notes; meeting minutes and other meeting materials; financial records; and printed material. Trustee files for 1961 contain a letter to Miller from Andrew Wyeth.</p>
+</scopecontent>
+
+<c03><did>
+<container type="box">17</container>
+<container type="folder">1</container>
+<unittitle>General, 
+<unitdate>1949-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">2</container>
+<unittitle>General, 
+<unitdate>1956-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">3</container>
+<unittitle>General,
+<unitdate>1970-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">4-5</container>
+<unittitle>Trustee Files,
+<unitdate>1959-1962</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">6</container>
+<unittitle>Trustee Files, 
+<unitdate>1960-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">7</container>
+<unittitle>Trustee Files, 
+<unitdate>1962-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">8</container>
+<unittitle>Trustee Files, 
+<unitdate>1963-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">9-10</container>
+<unittitle>Trustee Files,
+<unitdate>1965-1966</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">11</container>
+<unittitle>Trustee Files, 
+<unitdate>1967-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">12</container>
+<unittitle>Trustee Files, 
+<unitdate>1968-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">13</container>
+<unittitle>Trustee Files,
+<unitdate>1970-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">14</container>
+<unittitle>Trustee Files,
+<unitdate>1972-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">15</container>
+<unittitle>Trustee Files, 
+<unitdate>1974-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">16</container>
+<unittitle>Trustee Files, 
+<unitdate>1977-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">17</container>
+<unittitle>Trustee Files, 
+<unitdate>1979-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">18</container>
+<unittitle>Trustee Files, 
+<unitdate>1980-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">19</container>
+<unittitle>Trustee Files, 
+<unitdate>1981-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">20</container>
+<unittitle>Trustee Files,
+<unitdate>1982-1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">21</container>
+<unittitle>Trustee Files, 
+<unitdate>1983-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>8.3: </unitid>
+<unittitle>Hirshhorn Museum and Sculpture Garden Board of Trustees, <unitdate>1976-1985</unitdate></unittitle></did>
+<scopecontent> 
+<p>Miller served on the Board of Trustees for the Hirshhorn Museum and Sculpture Garden from 1976 - 1984.  Found here are files relating to her work as a trustee. </p> 
+</scopecontent>
+<c03><did>
+<container type="box">17</container>
+<container type="folder">23</container>
+<unittitle>Collections Management Policy,
+<unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">24</container>
+<unittitle>Committee on Collections Meetings, 
+<unitdate>1978, 1981, 1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17</container>
+<container type="folder">25</container>
+<unittitle>Committee on Exhibitions Meetings,
+<unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">17</container>
+<container type="folder">26</container>
+<unittitle>Committee on Exhibitions Meetings,
+<unitdate>1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">18</container>
+<container type="folder">1</container>
+<unittitle>Committee on Exhibitions Meetings,
+<unitdate>1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">2-4</container>
+<unittitle>Committee on Exhibitions Meetings,
+<unitdate>1980-1983</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, 
+<unitdate>1976-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">6</container>
+<unittitle>Exhibition Announcements and Catalogs, 
+<unitdate>1976-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">7</container>
+<unittitle>National Building Museum, 
+<unitdate>1980-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">8-9</container>
+<unittitle>News Clippings, 
+<unitdate>1976-1982</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">10-11</container>
+<unittitle>Press Releases,
+<unitdate>1976-1985</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">12</container>
+<unittitle>Travel Vouchers, 
+<unitdate>1976-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">13</container>
+<unittitle>Trustee Files,
+<unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">14</container>
+<unittitle>Trustee Files,
+<unitdate>1976-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>       
+<c03><did>
+<container type="box">18</container>
+<container type="folder">15-16</container>
+<unittitle>Trustee Files,
+<unitdate>1977</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">17</container>
+<unittitle>Trustee Files,
+<unitdate>1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">18-20</container>
+<unittitle>Trustee Files,
+<unitdate>1979</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">18</container>
+<container type="folder">21-22</container>
+<unittitle>Trustee Files,
+<unitdate>1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>    
+<c03><did>
+<container type="box">18</container>
+<container type="folder">23</container>
+<unittitle>Trustee Files,
+<unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">24</container>
+<unittitle>Trustee Files,
+<unitdate>1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">25</container>
+<unittitle>Trustee Files,
+<unitdate>1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">18</container>
+<container type="folder">26</container>
+<unittitle>Trustee Files,
+<unitdate>1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+</c02>
+
+<c02 level="subseries"><did><unitid>8.4: </unitid>
+<unittitle>Mark Rothko Foundation, Inc., Board of Directors, <unitdate>1966-1985</unitdate></unittitle></did>
+<scopecontent> 
+<p>Dorothy Miller served as a member of the Board of Directors of the Mark Rothko Foundation following a major lawsuit that ensued after Rothko's death in 1970 between the family, executors of the estate, and Marlborough Gallery. In 1977, the litigation ended with Rothko Prizel gaining control of the estate and re-establishing the foundation and its board.  Files arranged here document the foundation's efforts to rebuild and determine the best use of Rothko's paintings for the public interest. </p> 
+</scopecontent>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">1-3</container>
+<unittitle>Board Files, 
+<unitdate>1976</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">4-5</container>
+<unittitle>Board Files,
+<unitdate>1976-1977</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">6-8</container>
+<unittitle>Board Files,
+<unitdate>1977</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">9</container>
+<unittitle>Board Files, 
+<unitdate>1977-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">10-11</container>
+<unittitle>Board Files, 
+<unitdate>1978-1980</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">12</container>
+<unittitle>Board Files,
+<unitdate>1979-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">13</container>
+<unittitle>Board Files,
+<unitdate>1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">14-15</container>
+<unittitle>Board Files,
+<unitdate>1981</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">16-17</container>
+<unittitle>Board Files,
+<unitdate>1982-1983</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">18</container>
+<unittitle>Board Files,
+<unitdate>1982-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">19</container>
+<unittitle>Correspondence, 
+<unitdate>1966-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">20</container>
+<unittitle>Correspondence, 
+<unitdate>1982-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">19</container>
+<container type="folder">21</container>
+<unittitle>Inventory of Artwork in Rothko Estate,
+<unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">19</container>
+<container type="folder">22</container>
+<unittitle>Printed Material, Gustave Harrow, 
+<unitdate>1977, 1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>    
+<c03><did>
+<container type="box">19</container>
+<container type="folder">23</container>
+<unittitle>Printed Material, News Clippings,
+<unitdate>1971-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+</c02>
+
+<c02 level="subseries"><did><unitid>8.5: </unitid>
+<unittitle>Museum of American Folk Art Board of Trustees, <unitdate>1962-1969</unitdate></unittitle></did>
+<scopecontent>  
+<p>Found here is one folder of material with scattered documentation of Miller's work as a member of the board of trustees for the Museum of American Folk Art in New York City.  </p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">19</container>
+<container type="folder">24</container>
+<unittitle>Museum of American Folk Art, <unitdate>1962-1969</unitdate></unittitle>
+</did></c03> 
+</c02>
+
+
+<c02 level="subseries"><did><unitid>8.6: </unitid>
+<unittitle>Smith College Museum of Art Visiting Committee, <unitdate>1925, 1961-1984</unitdate></unittitle></did>
+<scopecontent> 
+<p>Dorothy Miller's files concerning her work on the Smith College Museum of Art Visiting Committee are arranged here.  </p> 
+</scopecontent>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">1</container>
+<unittitle>Committee Files,
+<unitdate>1961-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">2</container>
+<unittitle>Committee Files,
+<unitdate>1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">3</container>
+<unittitle>Committee Files,
+<unitdate>1970-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">4</container>
+<unittitle>Committee Files,
+<unitdate>1971-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">5</container>
+<unittitle>Committee Files,
+<unitdate>1972-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">6</container>
+<unittitle>Committee Files,
+<unitdate>1973-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">7</container>
+<unittitle>Committee Files,
+<unitdate>1974-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">8</container>
+<unittitle>Committee Files,
+<unitdate>1975-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">9</container>
+<unittitle>Committee Files,
+<unitdate>1977-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">20</container>
+<container type="folder">10</container>
+<unittitle>Smith College Newsletter,
+<unitdate>1925</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>  
+</c02>
+</c01>
+
+<c01 level="series"><did><unitid>Series 9: </unitid>
+<unittitle>Works Progress Administration Federal Art Project Files, <unitdate>1935-1979</unitdate></unittitle><physdesc>(Box 20, OV 27; 0.5 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Some of Holger Cahill's files relating to his work as director of the Federal Art Project (FAP) of the Works Progress Administration (WPA) remained with Dorothy Miller, including a series of essays written primarily by FAP artists which Cahill intended to publish, but had not before his death in 1960.  This series contains both Cahill's files and Miller's files relating to subsequent FAP research efforts by others.  There are two folders of correspondence and other material concerning Miller's work with art historian Francis O'Connor in collecting, organizing, and editing the FAP artist essays that Cahill had saved and which were ultimately published as <emph render="italic">Art for the Millions: Essays from the 1930s by Artists and Administrators of the Works Progress Administration Federal Art Project</emph> (Boston: New York Graphic Society, 1975). In the mid-1960s Miller began donating Cahill's FAP records to the Archives of American Art and scattered correspondence related to this disposition can be found here.</p>
+<p> </p> 
+<p>Miller also worked with the Newark Museum in 1978-1979 on the exhibition <emph render="italic">Murals Without Walls</emph> which celebrated the recovery of two large panels of Arshile Gorky's "lost" murals painted for the Newark Airport in 1936-1937 under the FAP. There are files of Miller's correspondence with the museum about the project wherein she provided information about the Gorky murals from Cahill's FAP files. </p> 
+<p>Additional files document inquiries relating to poster artists and referrals that Miller made to the Office of War Information Graphics Division following the closure of the FAP; an exhibition <emph render="italic">The Thirties: Reaction to a Crisis</emph> held at the Lowe Art Center in April 1974; and a folder of five copies of letters from Holger Cahill to artist Mitchell Siporin. There is also a folder containing copies of a text written by Miller for an exhibition she organized and was circulated by the Museum of Modern Art entitled <emph render="italic">The U.S. Government Art Projects: Some Distinguished Alumni</emph>.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">11-13</container>
+<unittitle>Arshile Gorky Murals, 
+<unitdate>1936-1979</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">14-15</container>
+<unittitle><emph render="italic">Art For The Millions</emph>, 
+<unitdate>1935-1976</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">16</container>
+<unittitle>Cahill Letters to Mitchell Siporin, 
+<unitdate>1937-1945</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">17-20</container>
+<unittitle>Correspondence, 
+<unitdate>1936-1978</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">21</container>
+<unittitle>Correspondence, Contreras, Belisario R. (researcher),
+<unitdate>1963-1968</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">22-23</container>
+<unittitle>Office of War Information Graphics Division, 
+<unitdate>1941-1943</unitdate></unittitle>
+<physdesc>(2 folders; see also OV 27)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">24</container>
+<unittitle><emph render="italic">The U. S. Government Art Projects: Some Distinguished Alumni</emph>, Exhibition (1963-1964: Museum of Modern Art), <unitdate>circa 1963</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">20</container>
+<container type="folder">25</container>
+<unittitle><emph render="italic">The Thirties: Reaction to a Crisis</emph> Exhibition (1974: Lowe Art Center),
+<unitdate>1969-1979</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">OV 27</container>
+<container type="folder"></container>
+<unittitle>Oversized Office of War Information Graphics Division Sheet of Stamps, 
+<unitdate>1943</unitdate></unittitle>
+<physdesc>(From Box 20, F 23)</physdesc> 
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 10: </unitid>
+<unittitle>Edward Hicks Catalog, <unitdate>1934-1984</unitdate>
+</unittitle>
+<physdesc>(Boxes 20-22; 21.5 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series documents Miller's collaborative work with Eleanore Price Mather to compile and publish the monograph <emph render="italic">Edward Hicks: His Peaceable Kingdoms and Other Paintings</emph> (University of Delaware Press, Newark, 1983).</p>
+
+<p>Materials include correspondence between Miller and Mather and others, notes, Christmas cards with reproductions of artwork by Hicks, contract files, lists, research files, printed material, and annotated photographs of artwork. </p>
+</scopecontent>
+
+<c02><did>
+<container type="box">20</container>
+<container type="folder"></container>
+<unittitle>Correspondence
+<unitdate></unitdate></unittitle>
+<physdesc></physdesc> 
+</did>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">26-27</container>
+<unittitle>Mather, Eleanor Price, 
+<unitdate>1959-1984</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">28</container>
+<unittitle>Correspondents A-B, 
+<unitdate>1934-1979</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">29</container>
+<unittitle>Correspondents C, 
+<unitdate>1938-1979</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">30</container>
+<unittitle>Correspondents D-G, 
+<unitdate>1938-1981</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">20</container>
+<container type="folder">31</container>
+<unittitle>Correspondents H-L, 
+<unitdate>1938-1973</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">1</container>
+<unittitle>Correspondents M-R,
+<unitdate>1938-1976</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">2</container>
+<unittitle>Correspondents S-V,
+<unitdate>1938-1975</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">3</container>
+<unittitle>Correspondents W-Y,
+<unitdate>1959-1977</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">4</container>
+<unittitle>Photograph Requests,
+<unitdate>1975</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+<c03><did>
+<container type="box">21</container>
+<container type="folder">5</container>
+<unittitle>Publication by Associated University Presses,
+<unitdate>1980-1983</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">6</container>
+<unittitle>Greeting Cards, 
+<unitdate>circa 1938-circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">7</container>
+<unittitle>Hicks Bibliographies, 
+<unitdate>circa 20th century</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">8-9</container>
+<unittitle>Listings for Catalog,
+<unitdate>1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">10</container>
+<unittitle>Notes for Catalog by L. L. Beans "The Life and Work of Edward Hicks,"
+<unitdate>1949-1951</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">11</container>
+<unittitle>Notes and Draft Preface,
+<unitdate>1981-1983</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">12-14</container>
+<unittitle>Notes on Paintings, 
+<unitdate>circa 1935-circa 1981</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">15-16</container>
+<unittitle>Page Proofs, 
+<unitdate>circa 1983</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">17</container>
+<unittitle>Research Material, Photostats of Hicks Documentation, circa 1970s
+<unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">18</container>
+<unittitle>Research Postcards,
+<unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">19</container>
+<unittitle>Text Draft,
+<unitdate>circa 1980s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+<c02><did>
+<container type="box">21</container>
+<container type="folder">20</container>
+<unittitle>Transcripts for "A Quaker's Colors: A Biography of Edward Hicks" by Robert W. Abendroth,
+<unitdate>circa 20th century</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">21</container>
+<unittitle>Printed Material, <unitdate>1938-1946</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">22</container>
+<unittitle>Printed Material, <unitdate>1951-1959</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">23-24</container>
+<unittitle>Printed Material, <unitdate>1960-1967</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">25-26</container>
+<unittitle>Printed Material, <unitdate>1973-1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">27</container>
+<unittitle>Printed Material, <unitdate>1980-1981</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">28</container>
+<unittitle>Printed Material, <emph render="italic">Edward Hicks, Primitive Quaker.  His Religion in Relation to His Art</emph> by Eleanore Price Mather, <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">29</container>
+<unittitle>Printed Material, Exhibition Catalogs, <unitdate>1941-1948</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">21</container>
+<container type="folder">30</container>
+<unittitle>Printed Material, Exhibition Catalogs, <unitdate>1953-1968</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">1</container>
+<unittitle>Printed Material, Exhibition Catalogs, <unitdate>1970-1975</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">2</container>
+<unittitle>Printed Material, Exhibition Catalogs, <unitdate>1980-1983</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder"></container>
+<unittitle>Photographs of Artwork</unittitle>
+<physdesc></physdesc> 
+</did>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">3</container>
+<unittitle>Master Set 1: "Earliest Peaceable Kingdom, Peaceable Kingdom of the Branch" (Yale, Aarfal, Sussfi), <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">4</container>
+<unittitle>Master Set 2: "Peaceable Kingdoms with Banners," <unitdate>1827-1837, circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">5</container>
+<unittitle>Master Set 3: "Transitional Peaceable Kingdoms," <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">6</container>
+<unittitle>Master Set 4: "Seated Lions," Peaceable Kingdom, <unitdate>circa 1941</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">7</container>
+<unittitle>Master Set 5: "Middle Kingdoms, Lions in Profile," Peaceable Kingdom, <unitdate>circa 1970s-1981</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">8</container>
+<unittitle>Master Set 6: Peaceable Kingdom, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">9</container>
+<unittitle>Master Set 7: Peaceable Kingdom, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">10</container>
+<unittitle>Master Set 8: "Farms," <unitdate>circa 1942, circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">11</container>
+<unittitle>Master Set 9: "Grave of William Penn and Penn's Treaty with Indians," <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">12</container>
+<unittitle>Master Set 10: "Washington Crossing the Delaware," <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">13</container>
+<unittitle>Master Set 11: Miscellaneous Subjects, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">14</container>
+<unittitle>Duplicates and Miscellaneous, <unitdate>circa 1940s-circa 1970s</unitdate></unittitle>
+<physdesc></physdesc> 
+</did></c03>
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 11: </unitid><unittitle>General Research Files, <unitdate>1930s-1980</unitdate></unittitle>
+<physdesc>(Boxes 22-23; 0.8 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains materials relating to Miller's research projects and interests, particularly focusing on early American art and American folk art. Found here is correspondence, some of which relates to her curatorial work at MOMA. There is correspondence with Ed Fuller regarding his work about sculptor William Edmondson and with Wanda Corn about her research on American folk art.  Also found are notes and correspondence providing scattered documentation of the collecting activities of Holger Cahill, Edith Halpert, Miller and others during the 1930s-1940s, and on folk art exhibitions organized by Cahill, as well as printed material, such as news clippings and journal articles on the subject of American folk art.</p>
+<p>The bulk of the series is comprised of photographs of artwork. </p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder"></container>
+<unittitle>American Folk Art
+<unitdate></unitdate>
+</unittitle>
+</did>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">15-16</container>
+<unittitle>Correspondence and Notes,
+<unitdate>1930s-1968</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">17</container>
+<unittitle>Correspondence and Notes, 
+<unitdate>1970-1980</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">18</container>
+<unittitle>Correspondence, Ed Fuller Manuscript on William Edmondson,
+<unitdate>1971-1973</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">19</container>
+<unittitle>Manuscript of Thesis by Wanda Corn,
+<unitdate>1965</unitdate>
+</unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">22</container>
+<container type="folder">20-21</container>
+<unittitle>Printed Material, 
+<unitdate>1935-1965</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">22-25</container>
+<unittitle>Photographs of Artwork, Unknown and A, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">26</container>
+<unittitle>Photographs of Artwork, B,
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">27-28</container>
+<unittitle>Photographs of Artwork, C-D 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+ 
+<c02><did>
+<container type="box">22</container>
+<container type="folder">29</container>
+<unittitle>Photographs of Artwork, E-F,
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">30</container>
+<unittitle>Photographs of Artwork, G, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">31</container>
+<unittitle>Photographs of Artwork, H
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">32</container>
+<unittitle>Photographs of Artwork, I-K, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">33</container>
+<unittitle>Photographs of Artwork, L-M, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">34</container>
+<unittitle>Photographs of Artwork, N-Q 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">22</container>
+<container type="folder">35-36</container>
+<unittitle>Photographs of Artwork, Rivera, Diego, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+<physdesc>(2 slide boxes, rolled photos)</physdesc>
+</did></c02>
+
+ 
+<c02><did>
+<container type="box">23</container>
+<container type="folder">1</container>
+<unittitle>Photographs of Artwork, R-S,
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">23</container>
+<container type="folder">2</container>
+<unittitle>Photographs of Artwork, T, 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">23</container>
+<container type="folder">3</container>
+<unittitle>Photographs of Artwork, U-Z 
+<unitdate>circa 1930s-circa 1970s</unitdate>
+</unittitle>
+</did></c02>
+</c01>
+ 
+<c01 level="series">
+<did><unitid>Series 12: </unitid><unittitle>Exhibition Files, <unitdate>1932-1986</unitdate></unittitle>
+<physdesc>(Box 23; 0.6 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains materials related to three exhibitions. A press release and a label is found for the landmark exhibition <emph render="italic">American Folk Art: The Art of the Common Man in America</emph>, organized by Holger Cahill for the Museum of Modern Art in 1932-1933. Also found here are two copies of the catalog and index cards of artwork for the <emph render="italic">First Municipal Art Exhibition</emph> (1934) organized by Miller and Cahill and shown at the Rockefeller Center in New York; one catalog is annotated with addresses of the artists.  Additional scattered documents concern the galleries or <emph render="italic">Salons of America</emph> of the exhibition. </p>
+<p>One folder relates to the exhibition <emph render="italic">Dorothy C. Miller: With An Eye to American Art</emph>, held at the Smith College Museum of Art in 1985 that was inspired by Miller's famous series of "American" shows at MOMA. </p> 
+</scopecontent>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">4</container>
+<unittitle><emph render="italic">American Folk Art: The Art of the Common Man in America</emph> (1932-1933: Museum of Modern Art), 
+<unitdate>1932-1933</unitdate>
+</unittitle>
+</did></c02>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">5</container>
+<unittitle><emph render="italic">First Municipal Art Exhibition</emph> (1934: New York), <unitdate>1934</unitdate>
+</unittitle>
+</did></c02>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">6</container>
+<unittitle><emph render="italic">First Municipal Art Exhibition</emph> (1934: New York), Card Catalog A-J, <unitdate>1934</unitdate>
+</unittitle>
+</did></c02>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">7</container>
+<unittitle><emph render="italic">First Municipal Art Exhibition</emph> (1934: New York), Card Catalog K-Z, <unitdate>1934</unitdate>
+</unittitle>
+</did></c02>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">8</container>
+<unittitle><emph render="italic">Salons of America</emph> (1934: New York), <unitdate>1971</unitdate>
+</unittitle>
+</did></c02>
+<c02><did>
+<container type="box">23</container>
+<container type="folder">9</container>
+<unittitle><emph render="italic">Dorothy C. Miller: With An Eye To American Art</emph> (1985: Smith College Museum of Art), <unitdate>1985-1986</unitdate>
+</unittitle>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 13: </unitid><unittitle>Works of Art, <unitdate>circa 1924-circa 1982</unitdate></unittitle>
+<physdesc>(Boxes 23-25; 1.5 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Original artwork consists primarily of a large collection of artists' greeting cards sent to Dorothy Miller and Holger Cahill.  There are also a few scattered sketches and drawings. Artists include Elise Asher, Ilya Bolotowsky, Bernard Childs, Lew Davis, Jay DeFeo, Rene d' Harnoncourt, Lyonel Feininger, Pop Hart, Grace Hartigan, Bernard Karpel, Stanley Landsmen, William Littlefield, Agnes Sims and Hiram Williams.  </p>
+</scopecontent>
+<arrangement><p>Artwork is arranged alphabetically by name of artist.</p></arrangement>
+<c02><did>
+<container type="box">23</container>
+<container type="folder"></container>
+<unittitle>Original Christmas Cards
+<unitdate></unitdate></unittitle>
+</did>
+
+<c03><did>
+<container type="box">23</container>
+<container type="folder">10-11</container>
+<unittitle>A,
+<unitdate>circa 1956-circa 1969</unitdate></unittitle>
+<physdesc>(2 folders; see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">23</container>
+<container type="folder">12-14</container>
+<unittitle>B,
+<unitdate>circa 1938-circa 1976</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">23</container>
+<container type="folder">15-16</container>
+<unittitle>Blumenthal, Ann and Joseph,
+<unitdate>1937-1965</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">23</container>
+<container type="folder">17</container>
+<unittitle>C,
+<unitdate>circa 1938-circa 1982</unitdate></unittitle>
+<physdesc>(1 of 3 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">1-2</container>
+<unittitle>C,
+<unitdate>circa 1938-circa 1982</unitdate></unittitle>
+<physdesc>(2-3 of 3 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">3</container>
+<unittitle>D,
+<unitdate>circa 1941 circa 1972</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">4</container>
+<unittitle>E,
+<unitdate>1953, undated</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">5</container>
+<unittitle>F,
+<unitdate>1946-1947, undated</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">6</container>
+<unittitle>G,
+<unitdate>circa 1955-circa 1964</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">7</container>
+<unittitle>H,
+<unitdate>circa 1924-circa 1964</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">8</container>
+<unittitle>I,
+<unitdate>circa 1955-circa 1968</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">9-11</container>
+<unittitle>K,
+<unitdate>circa 1953-circa 1976</unitdate></unittitle>
+<physdesc>(3 folders; see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">12</container>
+<unittitle>L,
+<unitdate>circa 1953-circa 1963</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">13-14</container>
+<unittitle>M,
+<unitdate>circa 1953-circa 1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">15</container>
+<unittitle>N-O,
+<unitdate>circa 1965-circa 1977</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">16</container>
+<unittitle>P,
+<unitdate>circa 1938-circa 1968</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">17</container>
+<unittitle>R,
+<unitdate>circa 1956-circa 1971</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">18-20</container>
+<unittitle>S,
+<unitdate>circa 1945-circa 1976</unitdate></unittitle>
+<physdesc>(3 folders; see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">21</container>
+<unittitle>T,
+<unitdate>1964-1967, undated</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">22</container>
+<unittitle>V,
+<unitdate>1954-1965</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">23</container>
+<unittitle>W,
+<unitdate>circa 1949-circa 1969</unitdate></unittitle>
+</did></c03>
+
+<c03><did>
+<container type="box">24</container>
+<container type="folder">24</container>
+<unittitle>Y-Z,
+<unitdate>circa 1957-circa 1977</unitdate></unittitle>
+</did></c03>
+</c02>
+
+<c02><did>
+<container type="box">24</container>
+<container type="folder">25</container>
+<unittitle>Spencer, Niles, Pencil Sketch of Sadakichi Hartmann,
+<unitdate>circa 1940s-circa 1950s</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">24</container>
+<container type="folder">26</container>
+<unittitle>Unidentified Drawings, Watercolors, Prints,
+<unitdate>undated</unitdate></unittitle>
+</did></c02>
+
+<c02><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized Original Christmas Cards</unittitle>
+</did>
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized A (Arpel; Asher, Elise),
+<unitdate>circa 1956-circa 1969</unitdate></unittitle>
+<physdesc>(From Box 23, F 10-11)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized D (Davis, Lew)
+<unitdate>circa 1941-circa 1972</unitdate></unittitle>
+<physdesc>(From Box 24, F 3)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized G (Gisiger, Jean-George),
+<unitdate>circa 1955-circa 1964</unitdate></unittitle>
+<physdesc>(From Box 24, F 6)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized K (Karpel, Bernard; Kawashima, T.), 
+<unitdate>circa 1953-circa 1976</unitdate></unittitle>
+<physdesc>(From Box 24, F 9-11)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized L (Landsmen, Stanley; Littlefield, William),
+<unitdate>circa 1953-circa 1963</unitdate></unittitle>
+<physdesc>(From Box 24, F 12)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized P (Pereira Irene Rice),
+<unitdate>circa 1938-circa 1968</unitdate></unittitle>
+<physdesc>(From Box 24, F 16)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized R (Rowan), 
+<unitdate>circa 1956-circa 1971</unitdate></unittitle>
+<physdesc>(From Box 24, F 17)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized S (Sims, Agnes),
+<unitdate>circa 1945-circa 1976</unitdate></unittitle>
+<physdesc>(From Box 24, F 18-20)</physdesc>
+</did></c03>
+
+<c03><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized V (Vasarely),
+<unitdate>1954-1965</unitdate></unittitle>
+<physdesc>(From Box 24, F 22)</physdesc>
+</did></c03>
+</c02>
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 14: </unitid><unittitle>Photographs, <unitdate>1926-circa 1970s</unitdate></unittitle>
+<physdesc>(Boxes 24-25; 0.3 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Photographs are of Dorothy Miller, including portraits by Soichi Sunami, and of Miller with others, including Bernard Pfriem.  There are two prints and a series of 9 transparencies  labeled as having been taken by artist Lyonel Feininger of Miller in the 1950s. There are also photographs of Holger Cahill and Curt Valentin.  Also found are transparencies of a portrait of Holger Cahill by Icelandic artist Nina Tryggvadottir.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">27</container>
+<unittitle>Photographs of Miller, Passport Photos, <unitdate>circa 1930s, 1959</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">28</container>
+<unittitle>Photographs of Miller, Portraits, <unitdate>1930s</unitdate></unittitle>
+<physdesc>(see also Box 25)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">29</container>
+<unittitle>Photographs of Miller and Others, <unitdate>circa 1950s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">30</container>
+<unittitle>Transparencies of Miller and Others, <unitdate>circa 1950s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">31</container>
+<unittitle>Photographs of Miller and Others, Newark Art Museum Apprentice Class, <unitdate>1926</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">32</container>
+<unittitle>Photographs of Miller and Others,  Smith College Commencement, <unitdate>1959</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">33</container>
+<unittitle>Photographs of Others, <unitdate>circa 1930s-circa 1970s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">34</container>
+<unittitle>Photographs, Miscellaneous, <unitdate>1938</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">24</container>
+<container type="folder">35</container>
+<unittitle>Transparencies of Artwork, <unitdate>circa 1950s</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">25 (sol)</container>
+<container type="folder"></container>
+<unittitle>Oversized Photograph of Miller by Soichi Sunami, Portrait, <unitdate>circa 1932</unitdate></unittitle>
+<physdesc>(From Box 24, F 28)</physdesc>
+</did></c02>
+</c01>
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+
+
+
+
+
+
+
+
+
+

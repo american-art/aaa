@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/brumthom.xml">brumthom</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Thomas B. Brumbaugh</titleproper>
+		<subtitle>A Finding Aid to the Thomas B. Brumbaugh research material on Abbott Handerson Thayer and other artists, <date type="inclusive">1876-1994 (bulk 1960s-1994)</date> <date type="bulk"> </date>, in the Archives of American Art</subtitle>
+		<author>by Erin Corley</author>
+		<sponsor>Funding for the processing of this collection was provided by the Terra Foundation for American Art.</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">April 06, 2007</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Corley on
+<date>April 06, 2007</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Brumbaugh, Thomas B. (Thomas Brendle)</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Thomas B. Brumbaugh research material on Abbott Handerson Thayer and other artists</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1876-1994 (bulk 1960s-1994)</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.4 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Thomas B. Brumbaugh's research material on Abbott Handerson Thayer and other artists dates from 1876 to 1994 (bulk 1960s-1994) and measures 1.4 linear feet.  Brumbaugh, an art historian and educator, wrote several articles on Thayer, and these papers contain related correspondence, photocopies and transcripts of Abbott Handerson Thayer's correspondence, research files, and photographs.  Also found are Brumbaugh's research files on various artists compiled during his career.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The collection was donated in by Thomas B. Brumbaugh in 1995 and 2004.</p>
+</acqinfo>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The Archives of American Art also houses several collections related to Abbott Handerson Thayer.  These include the Abbott Handerson Thayer and Thayer Family papers, 1851-1999; the Abbott Handerson Thayer letter and drawings to Caroline Peddle Ball, circa 1890-1893; "The Drawings of Abbott Thayer," by Elizabeth Robins Pennell, circa 1921; and the Nelson and Henry C. White research material, 1898-1978, which includes many original letters, photographs, and other material originally belonging to the Thayer family.</p>
+</relatedmaterial>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>A portion of the Thomas B. Brumbaugh research material on Abbott Handerson Thayer and other artists received a preliminary level of processing after donation. The collection was fully processed by Erin Corley in 2007 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Thomas B. Brumbaugh research material on Abbott Handerson Thayer and other artists, 1876-1994 (bulk 1960s-1994). Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. Use requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Thomas B. Brumbaugh research material on Abbott Handerson Thayer and other artists is owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Art historian and educator Thomas Brendle Brumbaugh was born in 1921.  He spent most of his career as a professor of fine arts at Vanderbilt University in Nashville, Tennessee, and has published many articles on American painting, sculpture, and architecture.  He was co-editor of <emph render="italic">Architecture of Middle Tennessee: The Historic American Buildings Survey</emph> and co-author of <emph render="italic">The Art of Gerald Brockhurst</emph>.  Brumbaugh spent several years doing research for a book on Abbott Handerson Thayer that was never realized, and published several articles on Thayer, including "An Artist and His Model: Abbott H. Thayer and Clara May," <emph render="italic">The American Art Journal</emph>, vol. 10 (May 1978).</p>
+<!-- add additional <p></p> tags as necessary -->
+<!-- Delete the above, beginning with <chronlist> and ending with </chronlist> if the bioghist is text only: -->
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>Thomas B. Brumbaugh's research material on Abbott Handerson Thayer and other artists dates from 1876 to 1994 (bulk 1960s-1994) and measures 1.4 linear feet.  Brumbaugh, an art historian and educator, wrote several articles on Thayer, and these papers contain related correspondence, photocopies and transcripts of Abbott Handerson Thayer's correspondence, research files, and copyprint photographs.  Also found are Brumbaugh's research files on various other artists compiled during his career.
+</p><p>
+Brumbaugh's research material on Abbott Handerson Thayer includes his correspondence with people who knew the Thayer family, other researchers, and museums, organizations, and individuals who owned works by Thayer.  Also found are photocopies and transcripts of Abbott Thayer's personal correspondence with family, friends, and patrons.  Brumbaugh also maintained research files on people who were friends or worked with Thayer that include correspondence, printed material, and notes.  Photographs (all copyprints) that Brumbaugh gathered are of Thayer, his family and friends, models, his home and studio, and his artwork. Brumbaugh conducted most of his research beginning in 1966 in order to write a biography of Thayer, and though the book was never realized, much of this material was used for several scholarly articles about Thayer. 
+</p><p>
+Brumbaugh's documentation on various additional artists, mostly contemporary, were compiled during his career as an art historian and professor at Vanderbilt University.  The files include his correspondence, news clippings, exhibition catalogs and announcements, reproductions of artwork, and notes.  
+</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following index terms. People, families and organizations are listed under "Subjects" when they are the topic of collection contents and under "Names" when they are creators or contributors.</p>
+<controlaccess>
+<head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcsh">Thayer, Abbott Handerson, 1849-1921</persname>
+
+<corpname encodinganalog="610" source="lcsh">Vanderbilt University -- Faculty</corpname>
+
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art historians -- Tennessee -- Nashville</subject>
+
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- CONTINUE TOP-LEVEL METADATA HERE -->
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged into 2 series: </p>
+<list>
+<item>Series 1: Research material on Abbott Handerson Thayer, 1876-1994 (bulk 1960s-1994)(Box 1; 0.9 linear feet)</item>
+<item>Series 2: Artists' Files, 1923-1994 (Box 1-2; 0.5 linear feet)</item>
+</list>
+</arrangement>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+
+
+<!-- use this format if you have series and subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Research material on Abbott Handerson Thayer, <unitdate>1876-1994 (bulk 1960s-1994)</unitdate></unittitle>
+<physdesc>(Box 1; 0.9 linear feet)</physdesc></did>
+<scopecontent> 
+<p></p> 
+</scopecontent>
+
+<arrangement><p>Thomas Brumbaugh's research material on Abbott Handerson Thayer series is arranged into 4 subseries:</p> 
+<p>
+<list> 
+<item>Subseries 1.1: Thomas B. Brumbaugh Correspondence, 1966-1990</item> 
+<item>Subseries 1.2: Copies and Transcripts of Abbott Handerson Thayer Correspondence, 1876-1924</item>
+<item>Subseries 1.3: Research Files, 1882-1992</item> 
+<item>Subseries 1.4: Photographs, circa 1877-1978</item>
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>Subseries 1.1:</unitid>
+<unittitle>Thomas B. Brumbaugh Correspondence, <unitdate>1966-1990</unitdate></unittitle></did>
+<scopecontent> 
+<p>Thomas Brumbaugh's correspondence documents his research on Abbott Handerson Thayer and consists primarily of incoming letters answering his requests for reproductions or photographs of Thayer's artwork from museums and private collections, as well as his attempts to locate additional works by Thayer.  Also found are letters from people who knew the Thayer family and could share their memories with Brumbaugh, and letters from other researchers requesting information from Brumbaugh about Thayer.  Items of note are letters from Nelson White who wrote a biography of Thayer in 1951, and many letters from the National Collection of Fine Arts (now the Smithsonian American Art Museum) which has several Thayer paintings in its collection.  Correspondence with Elliott Allison discusses Allison's possession of photographs of models posing for paintings in Thayer's studio which were taken by his father, Henry Allison.  Allison also discusses the Thayer family and his memories of the people who were friends with the Thayers in Dublin, New Hampshire.  Correspondence is arranged chronologically.</p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">1-4</container>
+<unittitle>Correspondence, <unitdate>1966-1983, 1990</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Correspondence with Elliott Allison, <unitdate>1968-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+
+</c02>
+<c02 level="subseries"><did><unitid>Subseries 1.2:</unitid>
+<unittitle>Copies and Transcripts of  
+Abbott Handerson Thayer Correspondence, <unitdate>1876-1924</unitdate></unittitle></did>
+<scopecontent> 
+<p>This subseries contains photocopies and transcripts of Abbott Handerson Thayer's correspondence, gathered by Thomas Brumbaugh, documenting Thayer's personal life and family relationships, career as an artist, and his work as an amateur naturalist.   Found here are copies of Thayer's personal letters to family members, including his daughter Gladys (known as Galla), his son Gerald (known as Gra), and his wife Emma Beach Thayer (also known as Addie), as well as Emma's relatives in the Beach family.  Also included are copies of correspondence with his patrons Charles L. Freer and John Gellatly, as well as correspondence with friends, including his student Rutledge Bate, the prominent writer Samuel Clemens, and the George de Forest Brush Family.  Additional correspondence is with his model Clara May, his friend Dr. Partz, and the Van Loon family.  Copies of Thayer's correspondence with Franklin D. Roosevelt, then the Assistant Secretary of the Navy, about his theory on using concealing coloration for warships.  Miscellaneous Thayer letters are to Gertrude Bloede, Mr. Montross, Mrs. Thomas Dewing, and Dr. King.  As all of the correpondence is either photocopied or a transcript, folder heading dates are those of the original letter/s. </p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Letters to Rutledge Bate, <unitdate>1918-1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">7-8</container>
+<unittitle>Correspondence between the Thayer and Beach Families, <unitdate>1882-1924</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Correspondence between the Thayer and Brush Families, <unitdate>1903-1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Letters to and from Samuel Clemens, <unitdate>1904-1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Letters to Charles L. Freer, <unitdate>1893-1908</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">12-13</container>
+<unittitle>Letters from Abbott Handerson and Emma Beach Thayer to John Gellatly, <unitdate>1903-1923</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Letters to Clara May, <unitdate>1894-1899</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Letters to and from Dr. &amp; Mrs. A. Partz, <unitdate>1876-1878, 1896-1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Letters to and from Franklin D. Roosevelt, <unitdate>1914-1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Letters to the Van Loon Family, <unitdate>1913-1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Miscellaneous letters to others, <unitdate>1891-1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+
+</c02>
+<c02 level="subseries"><did><unitid>Subseries 1.3:</unitid>
+<unittitle>Research Files, <unitdate>1882-1992</unitdate></unittitle></did>
+<scopecontent> 
+<p>Found here are research files created by Brumbaugh during his research on Abbott Handerson Thayer.  Brumbaugh kept files on many people who were friends of or worked with Thayer, including his friend and writer Samuel Clemens; former students Barry Faulkner and Rockwell Kent; his models Clara May, Bessie Price, and Alma Wollerman (who married his son Gerald); studio assistant Grace Reasoner Clark; and family friends, the George de Forest Brush family and the Alexander James family.  Materials in these folders include Brumbaugh's correspondence with people about the subject, notes, magazine articles, and other printed material. Also found is a file on the John Gellatly art collection which contains many works by Thayer and was given to the Smithsonian Institution.  Other files kept by Brumbaugh include journal and magazine articles on Abbott Handerson Thayer, Dublin, New Hampshire, and other topics related to Thayer or his artwork, as well as a file containing a few handwritten notes kept by Brumbaugh.  Items are arranged in chronological order within each folder.</p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Brush Family, <unitdate>1923-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Grace Reasoner Clark, <unitdate>1920-1921, 1968-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Samuel Clemens (Mark Twain), <unitdate>1882-1983</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>Barry Faulkner, <unitdate>1917, 1966-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>John Gellatly Collection, <unitdate>1921-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Rockwell Kent, <unitdate>1966-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>James Family, <unitdate>1917-1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>Clara May, <unitdate>1921-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Bessie Price, <unitdate>1917-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Alma Wollerman (Thayer), <unitdate>1935-1992</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">29-30</container>
+<unittitle>Articles about Abbott Handerson Thayer, <unitdate>1894-1982</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Articles about Dublin, New Hampshire, <unitdate>1908-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>Articles about various topics, <unitdate>1924-1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Miscellaneous printed material, <unitdate>1886-1986</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Notes, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+
+</c02>
+<c02 level="subseries"><did><unitid>Subseries 1.4:</unitid>
+<unittitle>Photographs, <unitdate>circa 1877-1978</unitdate></unittitle></did>
+<scopecontent> 
+<p>This subseries contains copy prints (no originals) of photographs of Abbott Handerson Thayer, his family, home, studio, and artwork.   Included are a portrait of Thayer as a young man, photographs of Thayer at his home and in his studio in Dublin, New Hampshire, and photographs of him with his family, including his wife Emma Beach Thayer, and his children Mary, Gladys, and Gerald.  Also found are many photographs taken by Henry Allison of the Thayer family and of models, such as Alma Wollerman, posing in Thayer's studio.  Photographs of artwork were gathered by Brumbaugh from many museum collections, including the large collection of Thayer work in the National Collection of Fine Arts, now known as the Smithsonian American Art Museum.</p> 
+</scopecontent>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Photographs of Abbott Handerson Thayer, <unitdate>circa 1877, 1905-1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>Photographs of Thayer family and others, <unitdate>1897-circa 1925</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>Photographs by Henry D. Allison of Thayer family &amp; models, <unitdate>circa 1890s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">38</container>
+<unittitle>Photographs of Thayer Home &amp; Studio in Dublin, NH, <unitdate>circa 1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">39</container>
+<unittitle>Photographs of artwork by Thayer, Self-portraits, <unitdate>1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">40-41</container>
+<unittitle>Photographs of artwork by Thayer, Portraits, <unitdate>1970s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">42-43</container>
+<unittitle>Photographs of artwork by Thayer, Angels and female figures, <unitdate>1970s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">44-45</container>
+<unittitle>Photographs of artwork by Thayer, Still lifes &amp; landscapes, <unitdate>1970s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>Photographs of artwork by Thayer, owned by National Collection of Fine Arts, <unitdate>circa 1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>Photographs of artwork by others, <unitdate>1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Artists' Files, <unitdate>1923-1994</unitdate></unittitle>
+<physdesc>(Box 1-2; 0.5 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains Brumbaugh's files on various artists, mostly contemporary, compiled during his career as an art historian and professor at Vanderbilt University.  The files include his correspondence with many of the artists, as well as with curators and family members about the artists.  Besides research about the artists and their work, topics of correspondence include arranging interviews, lectures, and exhibitions. Also found within the files are news clippings, exhibition catalogs and announcements, reproductions of artwork, and notes.</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Folders are arranged alphabetically by artist name and items are arranged chronologically within each folder.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">48</container>
+<unittitle>Burliuk, David, <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">49-51</container>
+<unittitle>Cadmus, Paul, <unitdate>1937-1944</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>Cassill, H. C., <unitdate>1967-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">1</container>
+<unittitle>Chafetz, Sidney, <unitdate>1964-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">2</container>
+<unittitle>Chester, Rachel, <unitdate>1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">3</container>
+<unittitle>Church, Frederick S., <unitdate>1977-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">4</container>
+<unittitle>Colangelo, Angelo, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">5</container>
+<unittitle>Crumbo, Woody, <unitdate>1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">6</container>
+<unittitle>Dickinson, Edwin W., <unitdate>1923-1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">7</container>
+<unittitle>Dodd, Lamar, <unitdate>1960-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">8</container>
+<unittitle>Ellis, Fred, <unitdate>1927</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">9</container>
+<unittitle>Fausett, Dean, <unitdate>1976-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">10</container>
+<unittitle>Horn, Milton, <unitdate>circa 1968-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">11-12</container>
+<unittitle>Jimenez, Luis, <unitdate>1987-1994</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">13</container>
+<unittitle>Kirschenbaum, Jules, <unitdate>1967-1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">14</container>
+<unittitle>Knight, Daniel Ridgeway, <unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">15</container>
+<unittitle>Kottler, Howard, <unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">16</container>
+<unittitle>Kramer, Reuben, <unitdate>circa 1992-1994</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">17</container>
+<unittitle>Lasansky, Mauricio, <unitdate>1948-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">18</container>
+<unittitle>Lopez, Felix, <unitdate>1990-1991</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">19</container>
+<unittitle>Marx, Evelyn, <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">20</container>
+<unittitle>Moser, James Henry, <unitdate>circa 1975-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">21</container>
+<unittitle>Mount, Charles M., <unitdate>1967-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">22</container>
+<unittitle>Patrick, Joseph Alexander, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">23</container>
+<unittitle>Read, Thomas Buchanan, <unitdate>1937-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">24</container>
+<unittitle>Rossiter, Thomas Pritchard, <unitdate>1972-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">25</container>
+<unittitle>Salerno, Charles, <unitdate>1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">26</container>
+<unittitle>Takaezu, Toshiko, <unitdate>1924, 1965-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">27</container>
+<unittitle>Waud, Alfred R., <unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">27</container>
+<unittitle>Yvon, Adolphe, <unitdate>1876-1986</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2 (hol)</container>
+<container type="folder">28</container>
+<unittitle>Miscellaneous research material on artists, <unitdate>1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<!-- OPTIONAL ARCHDESC ELEMENTS -->
+
+<!-- END OPTIONAL ARCHDESC ELEMENTS -->
+
+
+</archdesc>
+</ead>
+
+

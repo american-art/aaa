@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/wildmarg.xml">wildmarg</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Marguerite Wildenhain</titleproper>
+		<subtitle>A Finding Aid to the Marguerite Wildenhain Papers, <date type="inclusive">1930-1982</date>, in the Archives of American Art</subtitle>
+		<author>by Jean Fitzgerald and Erin Kinhart</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">July 05, 2011</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Kinhart on
+<date>July 05, 2011</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Wildenhain, Marguerite</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Marguerite Wildenhain papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1930-1982</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">3.4 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of California ceramicist and educator Marguerite Wildenhain measure 3.4 linear feet and date from 1930 to 1982.  Found within the papers are biographical sketches; correspondence with patrons, students, and colleagues, including Eugene Anderson, T. S. Eliot, and Gerhard Marcks; writings by Wildenhain and others; designs for pottery and other artwork; one scrapbook; news clippings, exhibition catalogs, and scattered printed material. Also found are photographs of Marguerite and Frans Wildenhain, Pond Farm, workshops, exhibitions,and artwork, as well as two film reels depicting Wildenhain lecturing and in her studio.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>Collection is in English and German.</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="561" id="a19">
+<head>Provenance</head>
+<p>The collection was donated by Marguerite Wildenhain in 1973-1981.</p>
+</acqinfo>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also found at the Archives of American Art are the Marguerite Wildenhain exhibition records, 1977-1981, donated by the Herbert F. Johnson Museum of Art; an oral history interview of Marguerite Wildenhain conducted 1982 Mar. 14, by Hazel Bray; and the Frans Wildenhain papers, 1890-1986.  Additional Marguerite Wildenhain letters to Gerhard Marcks are located at the Archiv fur Buldende Kunst of the Germanisches Museum, Nurnberg, Germany.</p>
+</relatedmaterial>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The collection is available on 35 mm microfilm reels 5045-5048 at Archives of American Art offices, and through interlibrary loan. Use of video requires an appointment.</p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was fully processed in 1995 by Jean Fitzgerald.  The finding aid was written in 2011 by Erin Kinhart.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Marguerite Wildenhain papers, 1930-1982. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Marguerite Wildenhain papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Marguerite Wildenhain (1896-1985) was a ceramicist and educator in Guerneville, California.  Born Marguerite Friedlaender in Lyon, France, Wildenhain received training in sculpture at the Berlin School of Applied Arts. She later worked as a designer for the Royal Berlin Porcelain Factory, leaving in 1919 to apprentice in pottery at the Bauhaus, under Max Krehan and Gerhard Marcks. After receiving her degree as master-potter, she was employed at the Municipal School for Arts and Crafts in Halle Saale, Germany. Fleeing the Nazis in 1933, she and her husband, potter Frans Wildenhain, operated a workshop in Holland before immigrating to the United States in 1940. In 1942 she settled near Guerneville, California, and established an artist colony known as Pond Farm.  Following her divorce, she remained at Pond Farm and operated a summer school which lasted until 1980, training approximately 25 students each summer.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of California ceramicist and educator Marguerite Wildenhain measure 3.4 linear feet and date from 1930 to 1982.  Found within the papers are biographical sketches; correspondence with patrons, students, and colleagues, including Eugene Anderson, T. S. Eliot, and Gerhard Marcks; writings by Wildenhain and others; designs for pottery and other artwork; one scrapbook; news clippings, exhibition catalogs, and scattered printed material. Also found are photographs of Marguerite and Frans Wildenhain, Pond Farm, workshops, exhibitions,and artwork, as well as two film reels depicting Wildenhain lecturing and in her studio.</p>
+<!-- add additional <p></p> tags as necessary -->
+
+<!-- If you have a non-series-related index provide a link to the index here: 
+
+<note><p><ref target="index1"></ref></p></note>  
+
+-->
+
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 8 series: </p>
+<list>
+<item>Series 1: Biographical Material, 1943 (Box 1; 1 folder)</item>
+<item>Series 2: Correspondence, 1940-1981 (Box 1; 0.4 linear feet)</item>
+<item>Series 3: Writings, circa 1940-1980 (Box 1-2; 1.0 linear foot)</item>
+<item>Series 4: Artwork, circa 1961-1969, 1975 (Box 2, OV 5; 4 folders)</item>
+<item>Series 5: Scrapbooks, 1934-1963 (Box 2; 3 folders)</item>
+<item>Series 6: Printed Material, circa 1932-1982 (Box 2, OV 5; 0.2 linear feet)</item>
+<item>Series 7: Photographs, 1930-1976 (Box 2-4; 1.2 linear feet)</item>
+<item>Series 8: Audio-Visual Recordings, 1954, circa 1965 (Box 3, 4; 0.3 linear feet)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Wildenhain, Frans, 1905-</persname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art--Study and teaching--California</subject>
+<subject encodinganalog="650" source="lcsh">Artists' studios--California--Photographs</subject>
+<subject encodinganalog="650" source="lcsh">Ceramicists--California</subject>
+<subject encodinganalog="650" source="lcsh">Women artists</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Designs</genreform>
+<genreform encodinganalog="655" source="lcsh">Motion pictures (visual works)</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Scrapbooks</genreform>
+<genreform encodinganalog="655" source="lcsh">Video recordings</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Anderson, Eugene Newton</persname>
+<persname encodinganalog="700" source="lcsh">Eliot, T. S. (Thomas Stearns), 1888-1965</persname>
+<persname encodinganalog="700" source="lcsh">Marcks, Gerhard</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Material, <unitdate>1943</unitdate></unittitle>
+<physdesc>(Box 1; 1 folder)</physdesc></did>
+<scopecontent> 
+<p>A folder of biographical material from 1943 consists of four biographical sketches.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Biographical Material, <unitdate>1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1940-1981</unitdate></unittitle>
+<physdesc>(Box 1; 0.4 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Correspondence is with patrons, students, and colleagues including Eugene Anderson, T. S. Eliot, and Gerhard Marcks. One letter, Mar. 3, 1980, from Marcks contains a photograph of Wildenhain and other German potters. Sixty-six letters are in German.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Correspondence is arranged chronologically.</p> 
+</arrangement>
+
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Correspondence, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Correspondence, <unitdate>1940-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Correspondence, <unitdate>1960-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Correspondence, <unitdate>1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Correspondence, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8-9</container>
+<unittitle>Correspondence, <unitdate>1965</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">10-11</container>
+<unittitle>Correspondence, <unitdate>1966</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12-16</container>
+<unittitle>Correspondence, <unitdate>1967</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Correspondence, <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Correspondence, <unitdate>1970-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Correspondence, <unitdate>1972-1973</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">20-21</container>
+<unittitle>Correspondence, <unitdate>1974</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">22-23</container>
+<unittitle>Correspondence, <unitdate>1975</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">24-26</container>
+<unittitle>Correspondence, <unitdate>1976</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Correspondence, <unitdate>1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">28-29</container>
+<unittitle>Correspondence, <unitdate>1978</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>Correspondence, <unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Correspondence, <unitdate>1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>Correspondence, <unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Writings, <unitdate>circa 1940-1980</unitdate></unittitle>
+<physdesc>(Box 1-2; 1.0 linear foot)</physdesc></did>
+<scopecontent> 
+<p>Writings includes notes and lists of museum exhibition and lecture sites, collectors, and students. Also found are essays and lectures by Wildenhain as well as typescripts for her books <emph render="italic">Pottery: Form and Expression</emph>, <emph render="italic">The Invisible Core</emph>, and <emph render="italic">...That We Look and See: An Admirer Looks at the Indian</emph>. There are also two short essays by others about Marguerite and Frans Wildenhain. </p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Miscellaneous Lists, <unitdate>undated, 1952-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Miscellaneous Notes, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>"Development of the Pond Farm Pottery and School," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>"Pond Farm Pottery in Guerneville, California," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>"Introduction to Movie on Pond Farm," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">38</container>
+<unittitle>Lecture, "Design and its Relation to Techniques," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">39</container>
+<unittitle>"First Report of the Educational Committee of the Designer-Craftmen of California on Education in the Arts and Crafts," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">40</container>
+<unittitle>Lecture, "The Pursuit of Excellence in Art Education," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">41</container>
+<unittitle>"Elements of Design," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">42</container>
+<unittitle>"?For it is a Continuous Process," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">43</container>
+<unittitle>"To Leonora," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">44</container>
+<unittitle>Lecture, "Philosophy of a Potter," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">45</container>
+<unittitle>"Pottery," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>"Thoughts on Pricing and Selling Pottery," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>Lecture, "History of Pottery-Making," <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">48</container>
+<unittitle>[A School of Art Teaching Ceramics], <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">49</container>
+<unittitle>"Pottery as a Craft in the Machine Age," <unitdate>1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">50</container>
+<unittitle>[To Learn a Craft], <unitdate>1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">51</container>
+<unittitle>Lecture, "Ceramic Design or the Relation of Craftsman to Industry," <unitdate>1950</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>Lecture, "Craft and Industry," <unitdate>1950</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">53</container>
+<unittitle>"Pottery as a Creative Craft," <unitdate>1950</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">54</container>
+<unittitle>Lecture, "Hand Made Pottery in the Machine Age," <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">55</container>
+<unittitle>Lecture, "The Potter in the New World," <unitdate>1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">56</container>
+<unittitle>Lecture, "Open Letter to Bernhard Leach," <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">57</container>
+<unittitle>Lecture, "what Makes a Potter Good," <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">58</container>
+<unittitle>"Color in Ceramics," <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">59</container>
+<unittitle>Lecture, "Form and Technique," <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">60</container>
+<unittitle>Lecture, [Interaction between Client and Craftsman], <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">61</container>
+<unittitle>"Design and its Relation to Techniques," <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">62</container>
+<unittitle>Lecture, "Socio-economic Outlook for the Craftsman Today," <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">63</container>
+<unittitle>Lecture, "Art Education in Our Time," <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">64</container>
+<unittitle>Lecture, "External Pressures on Creativity," <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">65</container>
+<unittitle>Lecture, "Nature as a Source of Inspiration," <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">66</container>
+<unittitle>"Production and Integrity," <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">67</container>
+<unittitle>Lecture, "Shaping the Clay," <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">68</container>
+<unittitle>Lecture: "Vision in Art," <unitdate>1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">69</container>
+<unittitle>"Creative Freedom and Integrity," <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">70-76</container>
+<unittitle>Drafts of Book <emph render="italic">Pottery: Form and Expression</emph>, <unitdate>1957</unitdate></unittitle>
+<physdesc>(7 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">77-79</container>
+<unittitle>Drafts of Book <emph render="italic">The Invisible Core</emph>, <unitdate>1965-1972</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">1-8</container>
+<unittitle>Drafts of Book <emph render="italic">The Invisible Core</emph>, <unitdate>1965-1972</unitdate></unittitle>
+<physdesc>(8 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9-12</container>
+<unittitle>Drafts of Book <emph render="italic">?That We Look and See: An Admirer Looks at the Indian</emph>, <unitdate>1975-1979</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Writings by Others regarding Marguerite and Frans Wildenhain, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Artwork, <unitdate>circa 1961-1969, 1975</unitdate></unittitle>
+<physdesc>(Box 2, OV 5; 4 folders)</physdesc></did>
+<scopecontent> 
+<p>Artwork consists of designs for pottery, a floorplan, and a diagram of a kick wheel. Also found are a folder of drawings which include a 1975 note by Marguerite Wildenhain which reads, "25 drawings that have, more or less, inspired me for pots, tiles or sculptures."</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Designs for Pottery, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Drawings of Floorplan and Kickwheel, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Drawings, <unitdate>1961-1969, 1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 5</container>
+<container type="folder"></container>
+<unittitle>Oversize Drawings of Floorplan and Kickwheel, <unitdate>undated</unitdate></unittitle>
+<physdesc>(Oversized material from Box 2, folder 15)</physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Scrapbooks, <unitdate>1934-1963</unitdate></unittitle>
+<physdesc>(Box 2; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>One scrapbook contains clippings, exhibition announcements, and a photograph of art work.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">17-19</container>
+<unittitle>Scrapbooks , <unitdate>1934-1963</unitdate></unittitle>
+<physdesc>(3 folders; disbound)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Printed Material, <unitdate>circa 1932-1982</unitdate></unittitle>
+<physdesc>(Box 2, OV 5; 0.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Printed material includes numerous clippings documenting Wildenhain's career, exhibition announcements and catalogs, a press release, brochures concerning Wildenhain and pottery classes, and books, including <emph render="italic">...That We Look and See: An Admirer Looks at the Indians</emph> by Wildenhain.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Clippings, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Clippings, <unitdate>1932</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Clippings, <unitdate>1940-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Clippings, <unitdate>1953-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>Clippings, <unitdate>1960-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>Clippings, <unitdate>1971-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">26</container>
+<unittitle>Clippings, <unitdate>1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">27</container>
+<unittitle>Exhibition Announcements and Catalogs, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unittitle>Exhibition Announcements and Catalogs, <unitdate>1968-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">29</container>
+<unittitle>Press Release, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">30</container>
+<unittitle>Brochures regarding Marguerite Wildenhain, <unitdate>1951-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">31</container>
+<unittitle>Brochures regarding Pottery Classes and Seminars, <unitdate>1953-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">32</container>
+<unittitle>Miscellaneous Brochures, <unitdate>1952-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">33</container>
+<unittitle>Book, <emph render="italic">Kleine Bauhaus-Fibel</emph> by Hans Wingler, <unitdate>1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unittitle>Book, <emph render="italic">?That We Look and See: An Admirer Looks at the Indian by Wildenhhain</emph>, 
+<unitdate>1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">35</container>
+<unittitle>Miscellaneous, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Photographs, <unitdate>1930-1976</unitdate></unittitle>
+<physdesc>(Box 2-4; 1.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Photographs are of Marguerite and Frans Wildenhain, Marguerite Wildenhain in her home and studio at Pond Farm, art works, and exhibition installations. Also found is a family photograph album which includes photographs from France, Germany, and Holland.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">36</container>
+<unittitle>Marguerite Wildenhain, <unitdate>1940-1973</unitdate></unittitle>
+<physdesc>(Oversized material housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">37</container>
+<unittitle>Family Album, <unitdate>1933-1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">38</container>
+<unittitle>Marguerite and Frans Wildenhain, <unitdate>1930-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">39</container>
+<unittitle>Slides, Marguerite and Frans Wildenhain, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Marguerite Wildenhain conducting her Pond Farm Workshop, <unitdate>1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">2</container>
+<unittitle>Pond Farm, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Slides, Pond Farm and Workshop, <unitdate>1942-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Slides, Wildenhain Demonstrating Pot-throwing, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">5</container>
+<unittitle>Art Work Produced in Germany 1926-1933, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">6-8</container>
+<unittitle>Album, Art Works (Disbound), <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">9-18</container>
+<unittitle>Art Works Executed 1952-1972 [photos by David Stone], <unitdate>undated</unitdate></unittitle>
+<physdesc>(10 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">19</container>
+<unittitle>Art Works Marked with Plate Numbers, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">20-26</container>
+<unittitle>Art Works, <unitdate>undated</unitdate></unittitle>
+<physdesc>(7 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">27-29</container>
+<unittitle>Slides of Art Works, <unitdate>1965-1969</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">30</container>
+<unittitle>Art Work, T.S. Eliot Vase "Murder in the Cathedral", <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">31</container>
+<unittitle>Art Works, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">32</container>
+<unittitle>Slides, Miscellaneous Art Work, <unitdate>1965-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">33</container>
+<unittitle>Slides, Works in the Smithsonian Collection, <unitdate>undated, 1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>Slides, Works from Collection of Carol McFarlan, Petaluma, Cal., <unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">35</container>
+<unittitle>Exhibition Installation, College of Education, Great Falls, Montana, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">36</container>
+<unittitle>Exhibition Installation, San Francisco Museum of Art, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Exhibition Installation, Detroit Institute of Arts, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Miscellaneous Exhibition Installations, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Oversize Photographs of Marguerite Wildenhain, <unitdate>1940-1973</unitdate></unittitle>
+<physdesc>(Oversized material from Box 2, Folder 36)</physdesc>
+</did></c02>
+
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 8: </unitid><unittitle>Audio-Visual Recordings, <unitdate>1954, circa 1965</unitdate></unittitle>
+<physdesc>(Box 3, 4; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>The audio-visual material consists of two 16 mm film reels entitled "From a Lump of Clay" (called "Pond Farm" on the duplicate VHS videocassette), recording Wildenhain at work, and "Scripps College," recording a lecture by Wildenhain. Both films have been transferred onto one VHS videocassette.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>"Scripps College" and "Pond Farm [From a Lump of Clay]"  <unitdate>1954, circa 1965</unitdate></unittitle>
+<physdesc>(1 videocassette: VHS)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>"Scripps College," <unitdate>1954</unitdate></unittitle>
+<physdesc>(1 film reel)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>"From a Lump of Clay," <unitdate>circa 1965</unitdate></unittitle>
+<physdesc>(1 film reel)</physdesc>
+</did></c02>
+
+
+
+</c01>
+
+</dsc>
+
+
+<!-- END OPTIONAL DSC ELEMENTS -->
+
+
+</archdesc>
+</ead>
+

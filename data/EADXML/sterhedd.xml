@@ -1,0 +1,706 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="Completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+        <eadid countrycode="US" mainagencycode="US-DSI-AAA">sterhedd.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>A Finding Aid to the Hedda Sterne Papers in the Archives of American Art
+                    <num>AAA.sterhedd</num>
+                </titleproper>
+                <titleproper type="filing">Hedda Sterne papers</titleproper>
+                <author>Finding aid prepared by Judy Ng</author>
+                <sponsor>Processing of this collection was funded by the Terra Foundation for American Art</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Archives of American Art</publisher>
+                <address>
+                    <addressline>750 9th Street, NW</addressline>
+                    <addressline>Victor Building, Suite 2200</addressline>
+                    <addressline>Washington, D.C., 20001</addressline>
+                    <addressline>Phone: 202-633-7950</addressline>
+                    <addressline>http://www.aaa.si.edu/askus</addressline>
+                </address>
+                <date>2013 October 10</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>This finding aid was created from a MARC collection-level record. 
+                        <num type="siris_arc">211676</num></p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2015-12-09T15:37-0500</date>
+            </creation>
+            <langusage>English</langusage>
+            <descrules>Describing Archives: A Content Standard</descrules>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>Hedda Sterne papers</unittitle>
+            <unitid>AAA.sterhedd</unitid>
+            <repository>
+                <corpname>Archives of American Art</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>1.3 Linear feet</extent>
+            </physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1939/1977" type="inclusive">1939-1977</unitdate>
+            <abstract id="ref1" label="Abstract">The papers of painter Hedda Sterne measure 1.3 linear feet and date from 1939 to 1977. Found within the papers are biographical material; personal and professional correspondence, including extensive correspondence from Sterne's second husband, the artist and 
+                <emph render="italic">New Yorker</emph> illustrator Saul Steinberg; writings; exhibition files; printed material; drawings and 3 sketchbooks; photographs and slides of Sterne, her family, and her work; and originals of Antoine de Saint-Exupéry's work 
+                <emph render="italic">Lettre A Leon Werth</emph> and 4 drawings Saint-Exupéry sent to Sterne.</abstract>
+            <langmaterial id="ref2" label="Language of Materials note">The collection is in English.</langmaterial>
+            <origination label="creator">
+                <persname source="ingest">Sterne, Hedda, 1910-</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref3">
+            <head>Immediate Source of Acquisition note</head>
+            <p>Hedda Sterne donated her papers in 1970, 1971, and 1972.</p>
+        </acqinfo>
+        <relatedmaterial id="ref4">
+            <head>Related Archival Materials note</head>
+            <p>Also found in the Archives is an oral history interview with Hedda Sterne conducted by Phyllis Tuchman, December 17, 1981, for the Archives of American Art's 
+                <emph render="italic">Mark Rothko and His Times</emph> oral history project. Additional correspondence and photographs of Sterne are located in the Saul Steinberg papers at the Beinecke Rare Book and Manuscript Library at Yale University.</p>
+        </relatedmaterial>
+        <altformavail id="ref5">
+            <head>Existence and Location of Copies note</head>
+            <p>Portions of this collection are available on 35 mm microfilm reels 144-145, and 5028 at the Archives of American Art offices, and through interlibrary loan. Researchers should note that the arrangement of the papers as described in this finding aid does not reflect the order of the collection on microfilm due to reprocessing and the microfilm is incomplete.</p>
+        </altformavail>
+        <processinfo id="ref6">
+            <head>Processing Information note</head>
+            <p>Portions of the papers were microfilmed shortly after receipt. Previously microfilmed and unmicrofilmed papers were merged, processed, and described by Judy Ng in 2013 with funding provided by the Terra Foundation for American Art.</p>
+        </processinfo>
+        <prefercite id="ref7">
+            <head>Preferred Citation note</head>
+            <p>Hedda Sterne papers, 1939-1977. Archives of American Art, Smithsonian Institution.</p>
+        </prefercite>
+        <accessrestrict id="ref8">
+            <head>Conditions Governing Access note</head>
+            <p>Use of original papers requires an appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref9">
+            <head>Conditions Governing Use note</head>
+            <p>The Hedda Sterne papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+        </userestrict>
+        <bioghist id="ref10">
+            <head>Biographical/Historical note</head>
+            <p>Painter Hedda Sterne (1910-2011) lived in New York City and was known for working in many artistic styles, including surrealism and abstract expressionism. She was the only woman in the group of abstract expressionists known as "The Irascibles."</p>
+            <p>Sterne was born in Bucharest, Romania to Simon Lindenberg, a high school language teacher, and his wife Eugenie. Her early interest in art was encouraged by her family and, after graduating from high school at the age of seventeen, she traveled to Vienna to study art. In 1932, she married childhood friend and businessman Frederick Stern. Through the 1930s, she continued to develop as an artist, traveling between Bucharest and Paris, where she attended Fernand Léger's atelier for a time. In 1939, her work with torn paper collages at that year's Paris Salon caught the eye of Hans Arp, who convinced her to exhibit at Peggy Guggenheim's Paris gallery. The chaos and persecution of Jews during World War II precipitated Sterne's arrival in America, where she joined her husband in New York City.</p>
+            <p>In New York, Peggy Guggenheim welcomed Sterne into her circle of artist friends and invited her to exhibit in Guggenheim's gallery, Art of This Century. In 1944, Sterne remarried the artist and 
+                <emph render="italic">New Yorker</emph> illustrator Saul Steinberg and became a U.S. citizen. Through the 1940s, Sterne created works in realist and surrealist styles, but by the late 1940s, she began exploring abstract expressionism. In 1943, Sterne exhibited at the Wakefield Gallery, where she met the gallery manager Betty Parsons and where she received her first one woman show in 1945. After Betty Parsons opened her own gallery in 1946, Sterne joined Parsons' stable and continued to meet and befriend other prominent abstract artists. In 1950, she signed an open letter along with 14 other artists protesting the Metropolitan Museum's conservatism towards abstract art. This led to a feature article in 
+                <emph render="italic">Life</emph> magazine where she was the only woman to be photographed alongside "The Irascibles." This group included Jackson Pollock, Willem de Kooning, Barnett Newman, Mark Rothko, and Ad Reinhardt, among others. Through the 1950s, Sterne continued to explore new avenues of art by painting cityscapes, abstract mechanical structures, portraits, and faces, and by using mediums ranging from oil, spray paint, pen and ink, pencil, and diary/text reproductions on stretched canvas.</p>
+            <p>In 1960, Sterne and Steinberg divorced but remained friends until his death in 1999. The recipient of numerous awards and one woman shows, retrospectives of her work were exhibited at the Montclair Art Museum (1977), Queens Museum of Art (1985), and the Krannert Art Museum (2006). Sterne died in her home in Manhattan in 2011 at the age of 100.</p>
+        </bioghist>
+        <scopecontent id="ref11">
+            <head>Scope and Contents note</head>
+            <p>The papers of painter Hedda Sterne measure 1.3 linear feet and date from 1939 to 1977. Found within the papers are biographical material; personal and professional correspondence, including extensive correspondence from Sterne's second husband, the artist and 
+                <emph render="italic">New Yorker</emph> illustrator Saul Steinberg; writings; exhibition files; printed material; drawings and 3 sketchbooks; photographs and slides of Sterne, her family, and her work; and originals of Antoine de Saint-Exupéry's work 
+                <emph render="italic">Lettre A Leon Werth</emph> and 4 drawings Saint-Exupéry sent to Sterne.</p>
+            <p>Biographical material includes certificates, curriculum vitae, a Fulbright application, lists of artworks, and Saul Steinberg's fingerprints. Correspondence is primarily with Sterne's friends, and business associates. There is significant correspondence from the artist Georges Mathieu and from her second husband Saul Steinberg.</p>
+            <p>Writings consist of numerous miscellaneous handwritten and typescript notes on art. Exhibition files include an article, interview transcript, and press release for Sterne's 1970 exhibition "Everyone" at the Betty Parsons Gallery.Printed material includes cards, clippings, exhibition announcements and an exhibition catalog.</p>
+            <p>Artwork consists of drawings and 3 sketchbooks.</p>
+            <p>Photographs are of Sterne, her family and friends, and her artwork.</p>
+            <p>Materials related to Antoine de Saint-Exupéry include copies of his 
+                <emph render="italic">Lettre A Leon Werth</emph> and 4 drawings Saint-Exupéry sent to Sterne.</p>
+        </scopecontent>
+        <arrangement id="ref12">
+            <head>Arrangement note</head>
+            <p>The collection is arranged as 8 series.</p>
+            <list type="ordered">
+                <item>Series 1: Biographical materials, 1941-1970 (8 folders; Box 1)</item>
+                <item>Series 2: Correspondence, circa 1943-1965 (0.5 linear feet; Box 1-2)</item>
+                <item>Series 3: Writings, circa 1945-1965 (5 folders; Box 1)</item>
+                <item>Series 4: Exhibitions, 1970 (3 folders; Box 1)</item>
+                <item>Series 5: Printed material, 1946-1977 (3 folders; Box 1)</item>
+                <item>Series 6: Artwork, circa 1945-1965 (2 folders; Box 1)</item>
+                <item>Series 7: Photographs, 1939-1969 (0.3 linear feet; Box 1-2)</item>
+                <item>Series 8: Antoine de Saint Exupéry, circa 1942 (4 folders; Box 1)</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <corpname source="naf">Betty Parsons Gallery.</corpname>
+            <persname source="ingest">Mathieu, Georges, 1921 -- Photographs</persname>
+            <persname source="naf">Saint-Exupéry, Antoine de, 1900-1944</persname>
+            <persname source="naf">Steinberg, Saul</persname>
+            <persname source="naf">Werth, Léon, 1878-1955</persname>
+            <genreform source="aat">Drawings</genreform>
+            <genreform source="aat">Interviews</genreform>
+            <subject source="aat">Painters--New York (State)--New York</subject>
+            <subject source="lcsh">Painting, Modern--20th century--New York (State)--New York</subject>
+            <genreform source="lcsh">Photographs</genreform>
+            <genreform source="aat">Sketchbooks</genreform>
+            <genreform source="aat">Transcripts</genreform>
+            <subject source="lcsh">Women painters--New York (State)--New York</subject>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Biographical Materials</unittitle>
+                    <unitid>Series 1</unitid>
+                    <physdesc>
+                        <extent>8 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1941/1970" type="inclusive">1941-1970</unitdate>
+                </did>
+                <scopecontent id="ref67">
+                    <head>Scope and Contents note</head>
+                    <p>Biographical material consists of certificates and identification, curriculum vitae, contracts and forms, a Fulbright application, lists of artworks from 1952-1954, and Saul Steinberg's fingerprints.</p>
+                </scopecontent>
+                <arrangement id="ref75">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Certificates</unittitle>
+                        <container id="cid3355001" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355001" type="Folder">1</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1941/1957" type="inclusive">1941-1957</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Curriculum Vitae</unittitle>
+                        <container id="cid3355002" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355002" type="Folder">2</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1970/1970">1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Customs Forms</unittitle>
+                        <container id="cid3355003" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355003" type="Folder">3</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1953/1953">1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Employment Contract</unittitle>
+                        <container id="cid3355004" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355004" type="Folder">4</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1968/1968">1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref25" level="file">
+                    <did>
+                        <unittitle>Fulbright Application</unittitle>
+                        <container id="cid3355005" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355005" type="Folder">5</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1963/1963">1963</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref26" level="file">
+                    <did>
+                        <unittitle>Identification Card</unittitle>
+                        <container id="cid3355006" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355006" type="Folder">6</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1946/1946">1946</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref27" level="file">
+                    <did>
+                        <unittitle>List of Artworks</unittitle>
+                        <container id="cid3355007" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355007" type="Folder">7</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1952/1954" type="inclusive">1952-1954</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle>Saul Steinberg Fingerprints</unittitle>
+                        <container id="cid3355008" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355008" type="Folder">8</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1952/1952">1952</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref14" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 2</unitid>
+                    <physdesc>
+                        <extent>0.5 Linear feet</extent>
+                        <extent>Box 1-2</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1928/1970" type="inclusive">circa 1943-1965</unitdate>
+                </did>
+                <scopecontent id="ref68">
+                    <head>Scope and Contents note</head>
+                    <p>Correspondence is primarily with Sterne's friends, and business associates, including limited correspondence with Ad Reinhardt and Eugene Berman. The series also includes significant correspondence from the artist Georges Mathieu and from her second husband, the artist and 
+                        <emph render="italic">New Yorker</emph> illustrator Saul Steinberg. The letters from Steinberg date from his service in the Navy in 1943 to 1962, and include love letters, illustrated letters, notes, drawings, and descriptions of his work and daily life while traveling abroad or separately from Sterne.</p>
+                </scopecontent>
+                <arrangement id="ref76">
+                    <head>Arrangement note</head>
+                    <p>Correspondence is arranged alphabetically by correspondent.</p>
+                </arrangement>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle>A-Z Miscellaneous</unittitle>
+                        <container id="cid3355009" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355009" type="Folder">9</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1944/1975" type="inclusive">circa 1949-1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle>Mathieu, Georges</unittitle>
+                        <container id="cid3355010" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355010" type="Folder">10</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1956/1967" type="inclusive">circa 1961-1962</unitdate>
+                    </did>
+                    <scopecontent id="ref83">
+                        <head>Scope and Contents note</head>
+                        <p>Oversized correspondence housed in Box 2, Folder 1.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355011" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355011" type="Folder">11</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1938/1967" type="inclusive">circa 1943-1962</unitdate>
+                    </did>
+                    <scopecontent id="ref91">
+                        <head>Scope and Contents note</head>
+                        <p>Includes two letters to Saul Steinberg from Gump's Gallery (1952) and Bill Whitney (circa 1943-1963).</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul (drawings)</unittitle>
+                        <container id="cid3355012" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355012" type="Folder">12</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1938/1967" type="inclusive">circa 1943-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355013" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355013" type="Folder">13</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1943/1943">1943</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355014" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355014" type="Folder">14-17</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1944/1944">1944</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355015" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355015" type="Folder">18-19</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1947/1949" type="inclusive">1947-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355016" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355016" type="Folder">20-24</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1951/1955" type="inclusive">1951-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref37" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355017" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355017" type="Folder">25-27</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1951/1958" type="inclusive">1956-1958</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref38" level="file">
+                    <did>
+                        <unittitle>Steinberg, Saul</unittitle>
+                        <container id="cid3355018" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355018" type="Folder">28</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1959/1962" type="inclusive">1959-1962</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref39" level="file">
+                    <did>
+                        <unittitle>Illegible and Unknown</unittitle>
+                        <container id="cid3355019" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355019" type="Folder">29</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref84" level="file">
+                    <did>
+                        <unittitle>Oversized Correspondence from Box 1, Folder 10</unittitle>
+                        <container id="cid3361001" label="Mixed materials" type="Box">2</container>
+                        <container parent="cid3361001" type="Folder">1</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1956/1967" type="inclusive">circa 1961-1962</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref15" level="series">
+                <did>
+                    <unittitle>Writings</unittitle>
+                    <unitid>Series 3</unitid>
+                    <physdesc>
+                        <extent>5 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                </did>
+                <scopecontent id="ref69">
+                    <head>Scope and Contents note</head>
+                    <p>Writings consist of numerous miscellaneous handwritten and typescript notes on art with references to art theory, literature, philosophy, biology, and psychiatry.</p>
+                </scopecontent>
+                <arrangement id="ref77">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref40" level="file">
+                    <did>
+                        <unittitle>Miscellaneous Notes</unittitle>
+                        <container id="cid3355020" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355020" type="Folder">30-32</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref41" level="file">
+                    <did>
+                        <unittitle>Miscellaneous Notes (collated)</unittitle>
+                        <container id="cid3355021" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355021" type="Folder">33-34</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref16" level="series">
+                <did>
+                    <unittitle>Exhibitions</unittitle>
+                    <unitid>Series 4</unitid>
+                    <physdesc>
+                        <extent>3 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1970/1970">1970</unitdate>
+                </did>
+                <scopecontent id="ref70">
+                    <head>Scope and Contents note</head>
+                    <p>Exhibition files includes an article by Walter Abish, an interview transcript, and a press release for Sterne's 1970 exhibition "Everyone" at the Betty Parsons Gallery.</p>
+                </scopecontent>
+                <arrangement id="ref78">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref42" level="file">
+                    <did>
+                        <unittitle>Betty Parsons Gallery - "Everyone" (1970), Article by Walter Abish</unittitle>
+                        <container id="cid3355022" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355022" type="Folder">35</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1970/1970">1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref43" level="file">
+                    <did>
+                        <unittitle>Betty Parsons Gallery - "Everyone" (1970), Interview Transcript</unittitle>
+                        <container id="cid3355023" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355023" type="Folder">36</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1970/1970">1970</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref44" level="file">
+                    <did>
+                        <unittitle>Betty Parsons Gallery - "Everyone" (1970), Press Release</unittitle>
+                        <container id="cid3355024" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355024" type="Folder">37</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1970/1970">1970</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Printed Material</unittitle>
+                    <unitid>Series 5</unitid>
+                    <physdesc>
+                        <extent>3 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1946/1977" type="inclusive">1946-1977</unitdate>
+                </did>
+                <scopecontent id="ref71">
+                    <head>Scope and Contents note</head>
+                    <p>Printed material includes cards, clippings, exhibition announcements and an exhibition catalog for Sterne's 1977 retrospective exhibition at the Montclair Art Museum.</p>
+                </scopecontent>
+                <arrangement id="ref79">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref45" level="file">
+                    <did>
+                        <unittitle>Cards</unittitle>
+                        <container id="cid3355025" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355025" type="Folder">38</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1955/1974" type="inclusive">circa 1960-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref46" level="file">
+                    <did>
+                        <unittitle>Clippings</unittitle>
+                        <container id="cid3355026" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355026" type="Folder">39</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1945/1955" type="inclusive">circa 1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref47" level="file">
+                    <did>
+                        <unittitle>Exhibition Announcements and Catalogs</unittitle>
+                        <container id="cid3355027" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355027" type="Folder">40</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1946/1977" type="inclusive">1946-1977</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref18" level="series">
+                <did>
+                    <unittitle>Artwork</unittitle>
+                    <unitid>Series 6</unitid>
+                    <physdesc>
+                        <extent>2 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                </did>
+                <scopecontent id="ref72">
+                    <head>Scope and Contents note</head>
+                    <p>Artwork consists of drawings and 3 sketchbooks with a few abstract ink sketches.</p>
+                </scopecontent>
+                <arrangement id="ref80">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref49" level="file">
+                    <did>
+                        <unittitle>Drawings</unittitle>
+                        <container id="cid3355028" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355028" type="Folder">41</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1948/1958" type="inclusive">circa 1953</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref50" level="file">
+                    <did>
+                        <unittitle>Sketchbooks</unittitle>
+                        <container id="cid3355029" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355029" type="Folder">42</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1940/1970" type="inclusive">circa 1945-1965</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref19" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 7</unitid>
+                    <physdesc>
+                        <extent>0.3 Linear feet</extent>
+                        <extent>Box 1-2</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1939/1969" type="inclusive">1939-1969</unitdate>
+                </did>
+                <scopecontent id="ref73">
+                    <head>Scope and Contents note</head>
+                    <p>Photographs are of Sterne, Sterne with Saul Steinberg and others, and of artwork. Two of the photographs of Sterne and Steinberg were taken by fashion photographers Irving Penn and George Platt Lynes respectively, two photos of Hedda Sterne was taken by Evelyn Hofer, and a color photo taken by Margaret Bourke White.</p>
+                </scopecontent>
+                <arrangement id="ref81">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type and subject matter.</p>
+                </arrangement>
+                <c02 id="ref52" level="file">
+                    <did>
+                        <unittitle>Photographs of Hedda Sterne</unittitle>
+                        <container id="cid3355030" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355030" type="Folder">43</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1942/1974" type="inclusive">circa 1947-1969</unitdate>
+                    </did>
+                    <scopecontent id="ref85">
+                        <head>Scope and Contents note</head>
+                        <p>Oversized photograph housed in Box 2, Folder 2.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref53" level="file">
+                    <did>
+                        <unittitle>Photographs of Hedda Sterne and Saul Steinberg</unittitle>
+                        <container id="cid3355031" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355031" type="Folder">44</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1944/1969" type="inclusive">1944-1969</unitdate>
+                    </did>
+                    <scopecontent id="ref87">
+                        <head>Scope and Contents note</head>
+                        <p>Oversized photographs housed in Box 2, Folder 3.</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref54" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, Early Paintings</unittitle>
+                        <container id="cid3355032" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355032" type="Folder">45</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1939/1949" type="inclusive">1939-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref55" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1950s, Abstract Paintings</unittitle>
+                        <container id="cid3355033" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355033" type="Folder">46</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1952/1955" type="inclusive">1952-1955</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref56" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1950s, Figurative Paintings</unittitle>
+                        <container id="cid3355034" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355034" type="Folder">47</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref57" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1960s, Faces</unittitle>
+                        <container id="cid3355035" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355035" type="Folder">48</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1964/1974" type="inclusive">circa 1969</unitdate>
+                    </did>
+                    <scopecontent id="ref89">
+                        <head>Scope and Contents note</head>
+                        <p>Oversized photograph housed in Box 2, Folder 4</p>
+                    </scopecontent>
+                </c02>
+                <c02 id="ref58" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1960s, Ink Washes</unittitle>
+                        <container id="cid3355036" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355036" type="Folder">49</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1955/1974" type="inclusive">circa 1960-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref59" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1960s, Lines</unittitle>
+                        <container id="cid3355037" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355037" type="Folder">50</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1956/1966" type="inclusive">circa 1961</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref60" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, 1960s, Pen and Ink</unittitle>
+                        <container id="cid3355038" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355038" type="Folder">51</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1961/1971" type="inclusive">circa 1966</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref61" level="file">
+                    <did>
+                        <unittitle>Photographs of Artwork, Sculptures</unittitle>
+                        <container id="cid3355039" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355039" type="Folder">52</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1949" type="inclusive">1937-1949</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref62" level="file">
+                    <did>
+                        <unittitle>Slides of Artwork</unittitle>
+                        <container id="cid3355040" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355040" type="Folder">53</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1953/1973" type="inclusive">circa 1958-1968</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref86" level="file">
+                    <did>
+                        <unittitle>Oversized photograph from Box 1, Folder 43</unittitle>
+                        <container id="cid3361002" label="Mixed materials" type="Box">2</container>
+                        <container parent="cid3361002" type="Folder">2</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1942/1974" type="inclusive">circa 1947-1969</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref88" level="file">
+                    <did>
+                        <unittitle>Oversized photographs from Box 1, Folder 44</unittitle>
+                        <container id="cid3361003" label="Mixed materials" type="Box">2</container>
+                        <container parent="cid3361003" type="Folder">3</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1939/1955" type="inclusive">circa 1944-1950</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref90" level="file">
+                    <did>
+                        <unittitle>Oversized photograph from Box 1, Folder 48</unittitle>
+                        <container id="cid3361004" label="Mixed materials" type="Box">2</container>
+                        <container parent="cid3361004" type="Folder">4</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1964/1974" type="inclusive">circa 1969</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref20" level="series">
+                <did>
+                    <unittitle>Antoine de Saint Exupéry</unittitle>
+                    <unitid>Series 8</unitid>
+                    <physdesc>
+                        <extent>4 Folders</extent>
+                        <extent>Box 1</extent>
+                    </physdesc>
+                    <unitdate calendar="gregorian" era="ce" normal="1937/1947" type="inclusive">circa 1942</unitdate>
+                </did>
+                <scopecontent id="ref74">
+                    <head>Scope and Contents note</head>
+                    <p>Materials include a manuscript, typescript, and gallery proof of Saint-Exupéry's 
+                        <emph render="italic">Lettre A Leon Werth</emph>, Saint-Exupéry's introduction to his friend Leon Werth's memoir 
+                        <emph render="italic">33 Jours</emph>. The manuscript has been revised and hand corrected by Saint-Exupéry throughout, and the gallery proof includes a brief inscription by Saint-Exupéry to Sterne. This series also includes 4 pen and ink drawings of "Little Prince" like characters Saint-Exupéry sent to Sterne.</p>
+                </scopecontent>
+                <arrangement id="ref82">
+                    <head>Arrangement note</head>
+                    <p>Materials are arranged by document type.</p>
+                </arrangement>
+                <c02 id="ref63" level="file">
+                    <did>
+                        <unittitle>Writings, 
+                            <emph render="italic">Lettre A Leon Werth</emph> (manuscript)</unittitle>
+                        <container id="cid3355041" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355041" type="Folder">54</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1947" type="inclusive">circa 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref64" level="file">
+                    <did>
+                        <unittitle>Writings, 
+                            <emph render="italic">Lettre A Leon Werth</emph> (typescript)</unittitle>
+                        <container id="cid3355042" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355042" type="Folder">55</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1947" type="inclusive">circa 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref65" level="file">
+                    <did>
+                        <unittitle>Writings, 
+                            <emph render="italic">Lettre A Leon Werth</emph> (gallery proof)</unittitle>
+                        <container id="cid3355043" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355043" type="Folder">56</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1947" type="inclusive">circa 1942</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref66" level="file">
+                    <did>
+                        <unittitle>Artwork, Drawings</unittitle>
+                        <container id="cid3355044" label="Mixed materials" type="Box">1</container>
+                        <container parent="cid3355044" type="Folder">57</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1947" type="inclusive">circa 1942</unitdate>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/mcmaaudr.xml">mcmaaudr</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Audrey McMahon</titleproper>
+		<subtitle>A Finding Aid to the Audrey McMahon Papers, <date type="inclusive">1935-1980</date>, in the Archives of American Art</subtitle>
+		<author>by Barbara Aikens</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">March 1, 2004</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Barbara Aikens,
+<date>March 1, 2004</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+
+<revisiondesc>
+<change>
+<date>November 2005</date>
+<item>Finding aid updated from EAD v. 1.0 to v. 2002 by Stephanie Ashley</item>
+</change>
+</revisiondesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">McMahon, Audrey</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Audrey McMahon papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1935-1980</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.4 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The scattered papers of Audrey McMahon measure 0.4 linear feet and date from 1935 through 1980.  Found are correspondence, writings, notes and research files, and printed material assembled mainly during the late 1960s while assisting Francis V. O'Connor complete <emph render="italic">Federal Support for the Visual Arts: The New Deal and Now </emph>(1969) and <emph render="italic">The New Deal Art Projects:  An Anthology of Memoirs</emph> (1970) and, to a lesser degree, miscellaneous files relating to McMahon's activities as Regional Director of the WPA Federal Art Project for New York and New Jersey . Included are photocopies of original correspondence (1935-41) between McMahon and Holger Cahill and Brehon Somervell, held by the National Archives.</abstract>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Audrey McMahon served under Holger Cahill as Regional Director for the WPA Federal Art Project for New York and New Jersey from 1935 to 1939. She died at age 87 in 1981.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The scattered papers of Audrey McMahon measure 0.4 linear feet and date from 1935 through 1980.  Found are correspondence, writings, notes and research files, and printed material assembled mainly during the late 1960s while assisting Francis V. O'Connor complete <emph render="italic">Federal Support for the Visual Arts: The New Deal and Now </emph>(1969) and <emph render="italic">The New Deal Art Projects:  An Anthology of Memoirs</emph> (1970) and, to a lesser degree, miscellaneous files relating to McMahon's activities as Regional Director of the WPA Federal Art Project for New York and New Jersey . Included are photocopies of original correspondence (1935-41) between McMahon and Holger Cahill and Brehon Somervell, held by the National Archives.</p>
+</scopecontent>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The bulk of Audrey McMahon's papers reside in the National Archives, together with the records of the WPA Federal Artist Project files.  The Archives of American Art holds a 1964 interview with McMahon done by Harlan Phillips as part of the Archives New Deal and the Arts Oral History Project.</p>
+</relatedmaterial>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms.</p>
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Cahill, Holger, 1887-1960</persname>
+<persname encodinganalog="600" source="lcsh">O'Connor, Francis V.</persname>
+<persname encodinganalog="600" source="lcsh">Somervell, Brehon Burke, 1892-1955</persname>
+<corpname encodinganalog="610" source="lcsh">United States. Works Progress Administration</corpname>
+<corpname encodinganalog="610" source="lcsh">Federal Art Project (N.Y.)</corpname>
+<corpname encodinganalog="610" source="lcsh">Federal Art Project (N.J.)</corpname>
+</controlaccess>
+<controlaccess>
+<head>Subjects-Topical:</head> 
+<subject encodinganalog="650" source="lcsh">Federal aid to the arts</subject>
+<subject encodinganalog="650" source="lcsh">Art and state</subject>
+<subject encodinganalog="650" source="lcsh">New Deal, 1933-1939</subject>
+</controlaccess>
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The Audrey McMahon papers were donated to the Archives in 1997 by Geraldine Rhoads, executor of McMahon's estate. The collection includes photocopies of papers most likely held by the National Archives. </p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. Use requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>Audrey McMahon's papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Audrey McMahon papers, 1935-1980.  Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The papers were processed to a preliminary level in 2003 by a volunteer in the AAA New York Regional Office.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Audrey McMahon's Papers, <unitdate>1935-1980 </unitdate></unittitle>
+<physdesc>(Box 1; 0.4 linear feet)</physdesc></did>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Resume, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>Correspondence, <unitdate>1938-1976, undated </unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>Miscellaneous Writings, Manuscripts, and Research Notes by McMahon Regarding the WPA Federal Art Project in New York and New Jersey,  <unitdate> undated </unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>WPA, New York By-Laws, Lists, Reports, and Miscellany,  <unitdate>circa 1935, 1937, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>Incomplete Manuscript by Holger Cahill (Record of Program Operation and Accomplishment), <unitdate>1943 </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>Francis O'Connor Research Project Notes,  <unitdate>1968, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<unittitle>Printed Material (Catalogs, Monographs, and Clippings), <unitdate>1938-1980 </unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+

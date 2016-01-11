@@ -1,0 +1,2595 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/macbgallscr.xml">macbgallscr</eadid>
+<filedesc>
+<titlestmt>
+<titleproper>Macbeth Gallery Scrapbooks</titleproper>
+<subtitle>A Finding Aid to the Macbeth Gallery Scrapbooks, <date type="inclusive">1892-1952</date>, in the Archives of American Art</subtitle>
+<author>by Stephanie Ashley, Erin Corley and Jetta Samulski</author>
+<sponsor>Funding for the digitization of this collection was provided by the Terra Foundation for American Art.</sponsor>
+</titlestmt>
+<publicationstmt>
+<publisher>Archives of American Art, Smithsonian Institution</publisher>
+<date type="publication">2004</date>
+<address><addressline>Reference Department</addressline><addressline>Archives of American Art</addressline><addressline>Smithsonian Institution</addressline><addressline>Washington, D.C. 20560</addressline><addressline>U.S.A.</addressline><addressline>Fax: 202-275-1955</addressline><addressline>Email: www.archivesofamericanart.si.edu/askus.htm</addressline><addressline>www.archivesofamericanart.si.edu</addressline></address>
+</publicationstmt>
+</filedesc>
+<profiledesc>
+<creation>Finding aid encoded by Lee Anne Tuason
+<date>2008</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did id="a1">
+<head>Collection Overview</head>
+<repository label="Repository:" encodinganalog="852$a"><corpname>Archives of American Art, Smithsonian Institution</corpname></repository>
+
+<unitid encodinganalog="099">AAA.bowdnanc</unitid>
+<origination label="Creator:"><corpname encodinganalog="110">Macbeth Gallery </corpname></origination>
+
+<unittitle label="Title:" encodinganalog="245$a">Macbeth Gallery scrapbooks</unittitle>
+<unitdate label="Dates:">1892-1952</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">3.3 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">Macbeth Gallery scrapbooks date from 1892-1952 and provide almost comprehensive coverage of the gallery's history and day-to-day events at the gallery.  Documented are many of the gallery's exhibitions as well as the fortieth, fiftieth and sixtieth anniversaries, and news of the art world in general.  The scrapbooks contain exhibition catalogs, invitations, announcements, price lists, related news clippings, and some photographs. The scrapbooks form part of the larger Macbeth Gallery records.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+</did>
+
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>Described here are scrapbooks which form a part of the larger collection of the Macbeth Gallery records that were donated to the Archives in several installments between 1955 and 1966 by Robert G. McIntyre and Estate. </p>
+</acqinfo>
+<separatedmaterial encodinganalog="544 0" id="a7">
+<head>Separated Material</head>
+<p>The scrapbooks form a part of the larger Macbeth Gallery records, also located at the Archives of American Art.</p>
+</separatedmaterial>
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The Macbeth Gallery records are available at the Archives of American Art. Macbeth Gallery exhibition catalogs are also held by the Frick Art Reference Library and the Watson Library of the Metropolitan Museum of Art.</p>
+</relatedmaterial>
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The Macbeth Gallery scrapbooks were digitized in 2008 and are available via the Archives of American Art's website.  </p>
+</altformavail>
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The microfilm of the Macbeth Gallery scrapbooks was digitized in 2008 and made available online.  The scrapbooks form a part of the larger Macbeth Gallery records that were microfiled in several installments on reels NMc1-NMc81, 439-441, 2564-2667, 3091-3092, 3094, and 2820-2823. All accessions were merged and the collection was arranged according to archival standards in 2003-2004 by Stephanie Ashley, Erin Corley and Jetta Samulski with funding provided by the Getty Foundation.</p>
+</processinfo>
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Macbeth Gallery records, 1838-1968. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The microfilm of the scrapbooks has been digitized and is available online via AAA's website. The original scrapbooks are closed to researchers due to their fragile condition.</p>
+</accessrestrict>
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Macbeth Gallery records are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Historical Note</head>
+<p>The Macbeth Gallery was established in 1892 by William Macbeth, a Scotch-Irish immigrant who had spent ten years with the print dealer Frederick Keppel before he opened his doors to the art-buying public at 237 Fifth Avenue in New York. Despite the prevailing interest in foreign art at that time, particularly in 
+that of the Barbizon and Dutch schools, Macbeth was determined to dedicate his gallery to "the permanent exhibition and sale of American pictures, both in oil and water colors."</p>
+<p>Although some of the gallery's earliest exhibitions 
+were of work by European artists, the business soon became the only gallery in continuous operation to keep American art permanently on display. </p> 
+<p>In 1908, Macbeth undertook what was to become the major event in the gallery's early history: the 1908 exhibition 
+of "The Eight," featuring work by Arthur 
+B. Davies, Willam J. Glackens, Robert Henri, Ernest Lawson, George Luks, Maurice Prendergast, Everett Shinn, and John Sloan. "The Eight" were an unlikely combination of social realists, visionaries and impressionists eager to challenge the dominating
+influence of the National Academy. The exhibition received 
+an immense amount of publicity and instantly entered into art history as a successful assault on tradition. While the exhibition is reviewed in newspaper clippings contained in the scrapbooks, the exhibition catalog is notably missing from the collection.</p>
+<p>The history of the Macbeth Gallery is a long and distinguished one with each successive proprietor making a significant contribution to art in America. William Macbeth helped establish an audience and a market for American art when few were willing to give it serious consideration. Robert Macbeth continued to cement the gallery's reputation as one of the leading firms in New York and was instrumental in organizing the American Art Dealers Association. Robert G. McIntyre claimed in a letter to Lloyd Goodrich, dated 22 June 1945, that the thing of which he was most proud was "the share I have had in the formation of the collection of the Addison Gallery of American Art, at Andover, Massacusetts." McIntyre was widely respected in the art community as a dealer, as an adviser to curators, and as a scholar whose research and book on Martin Johnson Heade helped "rediscover" an important American artist. <emph render="italic">Note:  A more detailed history of the gallery is found in the finding aid for the Macbeth Gallery records in the Archives of American Art.</emph></p> 
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>Found here are twenty scrapbooks documenting Macbeth gallery's exhibitions and general history.</p>
+<note><p><ref target="index1">See index for List of Macbeth Gallery Exhibitions documented in the scrapbooks.</ref></p></note>
+</scopecontent>
+
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as one series: </p>
+<list>
+<item>Series 5: Scrapbooks, 1892-1952 (Box 120-130; 3.3 linear feet)</item>
+</list>
+</arrangement>
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Scrapbooks, <unitdate>1892-1952</unitdate></unittitle>
+<physdesc>(Box 120-130; 3.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series houses Macbeth Gallery scrapbooks which contain exhibition catalogs, announcements, invitations, price lists, related news clippings, and some photographs. The scrapbooks provide almost comprehensive coverage of the gallery's history and important exhibitions, as well as the fortieth, fiftieth and sixtieth anniversaries, and news of the art world in general. Many of the exhibition catalogs found here are annotated with prices and other notes. Although documented in news clippings found within the scrapbooks, the exhibition catalog for the gallery's 1908 exhibition of "The Eight" is notably missing from the collection.</p>
+<p>The scrapbooks are extremely fragile as the material found here is mounted on highly acidic paper and much of the material has come loose from the scrapbook pages. Consequently the original format of the scrapbooks is closed to researchers. </p> 
+</scopecontent>
+
+
+<c02><did><container type="reel">NMC1</container>
+<container type="frame">269-424</container>
+<unittitle>Scrapbook 1, <unitdate>1892-1901</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC1</container>
+<container type="frame">425-449</container>
+<unittitle>Scrapbook 2, <unitdate>1893-1898</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC1</container>
+<container type="frame">1-268</container>
+<unittitle>Scrapbook 3, <unitdate>1902-1910</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">1-110</container>
+<unittitle>Scrapbook 4, <unitdate>1907-1913</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC2</container>
+<container type="frame">1-266</container>
+<unittitle>Scrapbook 5, <unitdate>1910-1915</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC2</container>
+<container type="frame">267-431</container>
+<unittitle>Scrapbook 6, <unitdate>March 1915-January 1918</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC2</container>
+<container type="frame">432-668</container>
+<unittitle>Scrapbook 7, <unitdate>February 1918-January 1922</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC2</container>
+<container type="frame">669-796</container>
+<unittitle>Scrapbook 8, <unitdate>January 1922-March 1923</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC3</container>
+<container type="frame">1-98</container>
+<unittitle>Scrapbook 9, <unitdate>March 1923-December 1924</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC3</container>
+<container type="frame">99-318</container>
+<unittitle>Scrapbook 10, <unitdate>January 1925-November 1927</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC3</container>
+<container type="frame">319-516</container>
+<unittitle>Scrapbook 11, <unitdate>November 1927-June 1930</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMc3</container>
+<container type="frame">517-638</container>
+<unittitle>Scrapbook 12, <unitdate>September 1930-December 1932</unitdate></unittitle>
+<physdesc></physdesc></did></c02>
+<c02><did><container type="reel">Unfilmed</container>
+<container type="frame">Unfilmed</container>
+<unittitle>Scrapbook 13, Fortieth Anniversary, <unitdate>1932</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">111-331</container>
+<unittitle>Scrapbook 14, <unitdate>1930-1934</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC3</container>
+<container type="frame">639-767</container>
+<unittitle>Scrapbook 15, <unitdate>January 1933-February 1935</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">401-537</container>
+<unittitle>Scrapbook 16, <unitdate>February 1935-January 1938</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">538-671</container>
+<unittitle>Scrapbook 17, <unitdate>January 1938-July 1941</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">672-786</container>
+<unittitle>Scrapbook 18, <unitdate>July 1941-October 1945</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">787-899</container>
+<unittitle>Scrapbook 19, <unitdate>October 1945-November 1949</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+<c02><did><container type="reel">NMC4</container>
+<container type="frame">332-400</container>
+<unittitle>Scrapbook 20, <unitdate>1949-1952</unitdate></unittitle>
+<physdesc></physdesc></did>
+</c02>
+</c01>
+
+</dsc>
+
+
+
+<odd encodinganalog="500" id="index1">
+<head>Index: List of Macbeth Gallery Exhibitions</head>
+<p>This chronological list of Macbeth Gallery exhibitions is extensive, but incomplete. While an attempt has been made to establish the accuracy of the information provided here, dates and titles of exhibitions are not guaranteed to be accurate. Most of the exhibitions listed here are documented in the scrapbooks through exhibition catalogs and/or invitations, lists of artwork and news clippings. The list is annotated with AAA microfilm reel and frame numbers to assist researchers in locating material on specific exhibitions.</p>
+
+<p><emph render="bold">Scrapbook 1, 1892-1901</emph></p>
+
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Dec. 7-21, 1892</date>
+<event>Water Colors by American Artists (NMc1: 273-275)</event></chronitem>
+
+<chronitem><date>Jan.23-Feb.11, 1893</date>
+<event>Landscapes in Oil (NMc1: 276-277)</event></chronitem>
+
+<chronitem><date>Feb. 27-Mar. 18, 1893</date>
+<event>Landscapes in Oil by William Keith (NMc1: 278-279)</event></chronitem>
+
+<chronitem><date>Mar. 20-Apr. 8, 1893</date>
+<event>Watercolors by Dutch Artists (NMc1: 281-282)</event></chronitem>
+
+<chronitem><date>Nov. 8-29, 1893</date>
+<event>Second Annual Exhibition of Watercolors by American Artists (NMc1: 283-285)</event></chronitem>
+
+<chronitem><date>Dec. 2-16, 1893</date>
+<event>Drawings in Watercolors and in Black and White by C. R. Grant and Wilson De Meza (NMc1: 287-290)</event></chronitem>
+
+<chronitem><date>Jan. 20-Feb. 3, 1894</date>
+<event>Pictures and Sketches by Anton Mauve (NMc1: 291-292, 311-313)</event></chronitem>
+
+<chronitem><date>Feb. 6-17, 1894</date>
+<event>Paintings by Henry W. Ranger (NMc1: 295-296)</event></chronitem>
+
+<chronitem><date>Feb. 23-Mar. 8, 1894</date>
+<event>Paintings by Gaylord Langston Truesdel (NMc1: 299-300)</event></chronitem>
+
+<chronitem><date>Mar. 16-29, 1894</date>
+<event>Figure Subjects by Seven American Artists (NMc1: 302-303)</event></chronitem>
+
+<chronitem><date>Apr. 13-May 6, 1894</date>
+<event>Landscapes by American Artists (NMc1: 304-305)</event></chronitem>
+
+<chronitem><date>Dec. 1-22, 1894</date>
+<event>Paintings and Drawings by D.A.C. Artz (NMc1: 315-316)</event></chronitem>
+
+<chronitem><date>Feb. 2-16, 1895</date>
+<event>Paintings and Sketches by Theodore Robinson (NMc1: 318-319)</event></chronitem>
+
+<chronitem><date>Mar. 15-30, 1895</date>
+<event>Pictures and Sketches by Anton Mauve (NMc1: 321-323)</event></chronitem>
+
+<chronitem><date>Feb. 17-29, 1896</date>
+<event>Paintings in Oil by Philip Zilcken (NMc1: 329-330)</event></chronitem>
+
+<chronitem><date>Mar. 9-21, 1896</date>
+<event>Paintings by Arthur B. Davies (NMc1: 329-331)</event></chronitem>
+
+<chronitem><date>Mar. 6-20, 1897</date>
+<event>Paintings by Robert C. Minor (NMc1: 343-344)</event></chronitem>
+
+<chronitem><date>Apr. 24-May 8, 1897</date>
+<event>Paintings by Arthur B. Davies (NMc1: 348-349)</event></chronitem>
+
+<chronitem><date>Jan. 17-29, 1898</date>
+<event>Portrait Drawings in Pastel and Chalk by Sergeant Kendall (NMc1: 356-357)</event></chronitem>
+
+<chronitem><date>Jan. 31-Feb. 12, 1898</date>
+<event>Expressions of New England Landscape by Leonard Ochtman (NMc1-358-359)</event></chronitem>
+
+<chronitem><date>Jan. 9, 1898</date>
+<event>Exhibition of Pictures and Sketches by Anton Mauve (NMc1: 362)</event></chronitem>
+
+<chronitem><date>Nov. 7, 1898</date>
+<event>Exhibition of Watercolors by Mr. Ozawa of Tokyo, Japan (NMc1: 363)</event></chronitem>
+
+<chronitem><date>Jan. 9-21, 1899</date>
+<event>Paintings by Willbur A. Reaser (NMc1: 366-367)</event></chronitem>
+
+<chronitem><date>Feb. 1-14, 1899</date>
+<event>Paintings by H. M. Rosenberg (NMc1: 368-369)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 9, 1899</date>
+<event>Paintings by Charles Walter Stetson (NMc1: 370-371)</event></chronitem>
+
+<chronitem><date>Jan. 8-20, 1900</date>
+<event>Twenty-seven Drawings by Childe Hassam (NMc1: 376-377)</event></chronitem>
+
+<chronitem><date>Mar. 9-24, 1900</date>
+<event>Watercolors and Monotypes in Color by Maurice B. Prendergast (NMc1: 379-380)</event></chronitem>
+
+<chronitem><date>Nov. 19-Dec. 1, 1900</date>
+<event>Pictures by Rosina Emmet Sherwood (NMc1: 383-384)</event></chronitem>
+
+<chronitem><date>Jan. 21-Feb. 2, 1901</date>
+<event>Pictures and Portraits by Wilbur A. Reaser (NMc1: 385)</event></chronitem>
+
+<chronitem><date>Feb. 25-Mar. 9, 1901</date>
+<event>Frederick Ballard Williams (NMc1: 394-395)</event></chronitem>
+
+<chronitem><date>Feb. 4-16, 1901</date>
+<event>Landscapes by Alexander H. Wyant and George Inness (NMc1: 390-391)</event></chronitem>
+
+<chronitem><date>May 9-31, 1901</date>
+<event>Paintings by Arthur B. Davies (NMc1: 400-402)</event></chronitem>
+
+<chronitem><date>Nov. 29-Dec. 14, 1901</date>
+<event>Watercolors, Color Prints from Wood Blocks and Etchings Printed in Color by Helen Hyde (NMc1: 405-406)</event></chronitem>
+</chronlist></p>
+
+
+<p><emph render="bold">Scrapbook 2, 1893-1898</emph></p>
+<p>Primarily news clippings.</p>
+
+<p><emph render="bold">Scrapbook 3, 1902-1910</emph></p>
+
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Feb. 3-15, 1902</date>
+<event>Private Collection of American Pictures (NMc1: 2-5)</event></chronitem>
+
+<chronitem><date>Mar. 17-29, 1902</date>
+<event>Some Phases of London When the Lamps Are Lighted, Done in Pastel by Fernand Lungren (NMc1: 10-13)</event></chronitem>
+
+<chronitem><date>Mar. 31-Apr. 5, 1902</date>
+<event>Group of Pictures by Sidney Starr (NMc1: 13)</event></chronitem>
+
+<chronitem><date>Apr. 1-12, 1902</date>
+<event>Pictures by Robert Henri (NMc1: 15-16)</event></chronitem>
+
+<chronitem><date>Apr. 14-26, 1902</date>
+<event>Drawings by Jane Erin Emmet (NMc1: 21-22)</event></chronitem>
+
+<chronitem><date>Apr. 28-May 11, 1902</date>
+<event>Landscapes by W. L. Lathrop (NMc1: 20)</event></chronitem>
+
+<chronitem><date>Jan 19-31, 1903</date>
+<event>Drawings and Sketches by Homer D. Martin, 1836-1897 (NMc1: 27)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 11, 1905</date>
+<event>Pictures by William Sartain (NMc1: 37-39)</event></chronitem>
+
+<chronitem><date>Feb. 23-Mar. 8, 1905</date>
+<event>Paintings by Arthur B. Davies (NMc1: 62-64)</event></chronitem>
+
+<chronitem><date>May 1-6, 1905</date>
+<event>Oil Paintings by American Artists from the Macbeth Gallery (at the Galleries of George D. Brodhead, Rochester, NY) (NMc1: 69-72)</event></chronitem>
+
+<chronitem><date>Jan 29-Feb. 10, 1906</date>
+<event>Abbot H. Thayer and Gladys Thayer (NMc1: 77-78)</event></chronitem>
+
+<chronitem><date>Feb. 19-Mar. 3, 1906</date>
+<event>Pictures by Charles H. Davis (NMc1: 79-80)</event></chronitem>
+
+<chronitem><date>Mar. 10-24, 1906</date>
+<event>Stephen Parrish (NMc1: 81-82)</event></chronitem>
+
+<chronitem><date>Nov. 9-24, 1906</date>
+<event>A Group of American Paintings (NMc1: 91-92)</event></chronitem>
+
+<chronitem><date>Jan. 11-26, 1907</date>
+<event>Paintings by William Sartain (NMc1: 100-101)</event></chronitem>
+
+<chronitem><date>Feb. 1-16, 1907</date>
+<event>Paintings by Paul Dougherty (NMc1: 105-106)</event></chronitem>
+
+<chronitem><date>Feb. 23-Mar. 9, 1907</date>
+<event>Paintings by Charles H. Davis (NMc1: 107-108)</event></chronitem>
+
+<chronitem><date>Mar. 11-23, 1907</date>
+<event>Portraits by Ellen Emmet (NMc1: 112-113)</event></chronitem>
+
+<chronitem><date>Mar. 28-Apr. 3, 1907</date>
+<event>Paintings by William Keith (NMc1: 115-117)</event></chronitem>
+
+<chronitem><date>Nov. 11-23, 1907</date>
+<event>Paintings by Augustus Vincent Tack (NMc1: 124-125)</event></chronitem>
+
+<chronitem><date>Nov.  27-Dec. 12, 1907</date>
+<event>Paintings by John La Farge (NMc1: 127-131)</event></chronitem>
+
+<chronitem><date>Jan. 6-18, 1908</date>
+<event>Paintings by Jerome Myers (NMc1: 133-134)</event></chronitem>
+
+<chronitem><date>Jan. 20-Feb. 1, 1908</date>
+<event>Paintings by Paul Dougherty (NMc1: 137-138)</event></chronitem>
+
+<chronitem><date>Feb. 3-15, 1908</date>
+<event>Exhibition of Paintings by Arthur B. Davies, William J. Glackens, Robert Henri, Ernest Lawson, George Luks, Maurice B. Prendergast, Everett Shinn, John Sloan (NMc:142-143 Catalog missing from scrapbook)</event></chronitem>
+
+<chronitem><date>Feb. 19-Mar. 7. 1908</date>
+<event>Forty Selected Paintings by Living American Artists (NMc1: 147-149)</event></chronitem>
+
+<chronitem><date>Mar. 11-24, 1908</date>
+<event>Paintings by a Group of American Artists (Deceased), Copley to Whistler (NMc1: 151-152)</event></chronitem>
+
+<chronitem><date>1908</date>
+<event>Kwaunon Meditating on Life by John La Farge (NMc1: 155)</event></chronitem>
+
+<chronitem><date>Nov. 10-25, 1908</date>
+<event>Paintings by Howard Pyle (NMc1:  158-159)</event></chronitem>
+
+<chronitem><date>Nov. 27-Dec. 10, 1908</date>
+<event>Paintings by Charles Melville Dewey (NMc1: 161-162)</event></chronitem>
+
+<chronitem><date>Dec. 15-31, 1908</date>
+<event>Bronzes by a Group of American Artists (NMc1: 165-166)</event></chronitem>
+
+<chronitem><date>Jan. 7-21, 1909</date>
+<event>Forty Selected Paintings by Living American Artists (NMc1: 168-169)</event></chronitem>
+
+<chronitem><date>Jan. 22-Feb. 4, 1909</date>
+<event>Paintings by Henry W. Ranger (NMc1: 171-172)</event></chronitem>
+
+<chronitem><date>Feb. 5-18, 1909</date>
+<event>Paintings by Paul Dougherty (NMc1: 176</event></chronitem>
+
+<chronitem><date>Feb. 19-Mar. 4, 1909</date>
+<event>Arthur B. Davies (NMc1: 178)</event></chronitem>
+
+<chronitem><date>Mar. 5-Mar. 18, 1909</date>
+<event>Paintings by Charles H. Davis, N.A. (NMc1: 183-184)</event></chronitem>
+
+<chronitem><date>Mar. 19-Apr. 1, 1909</date>
+<event>A Group of Figure Subjects by Blendon Campbell, Charles W. Hawthorne, Robert Henri, George Luks, Kenneth Miller (NMc1: 186-187)</event></chronitem>
+
+<chronitem><date>Apr. 2-15, 1909</date>
+<event>Paintings by Louis Loeb (NMc1: 188-189)</event></chronitem>
+
+<chronitem><date>Apr. 16-29, 1909</date>
+<event>Paintings by a Group of Boston Artists (NMc1: 191-192)</event></chronitem>
+
+<chronitem><date>May 10-22, 1909</date>
+<event>Paintings by American Artists from the Macbeth Galleries, New York [at Findlay Art Co., Kansas City, MO] (NMc1: 195-197)</event></chronitem>
+
+<chronitem><date>Nov. 18-Dec. 4, 1909</date>
+<event>Paintings by Albert P. Lucas (NMc1:  203-205)</event></chronitem>
+
+<chronitem><date>Dec. 7-24, 1909</date>
+<event>Watercolors and Pastels by American Artists (NMc1: 207-210)</event></chronitem>
+
+<chronitem><date>Dec 7-24, 1909</date>
+<event>Second Annual Exhibition of Bronzes by American Sculptors (NMc1: 211-212)</event></chronitem>
+
+<chronitem><date>Jan. 6-19, 1910</date>
+<event>Sixteen Paintings of the Cornish Coast by Paul Dougherty (NMc1: 213-215)</event></chronitem>
+
+<chronitem><date>Jan. 20-Feb. 2, 1910</date>
+<event>Paintings by Mary Curtis Richardson of San Francisco (NMc1: 218-220)</event></chronitem>
+
+<chronitem><date>Jan. 20-Feb. 2, 1910</date>
+<event>First Exhibition of Paintings by Ben Foster (NMc1: 216-218)</event></chronitem>
+
+<chronitem><date>Feb 3-16, 1910</date>
+<event>Landscapes and Figures by Frederick Ballard Williams (NMc1: 227-229)</event></chronitem>
+
+<chronitem><date>Feb. 3-16, 1910</date>
+<event>Spanish Paintings by F. Luis Mora (NMc1: 225-227)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 2, 1910</date>
+<event><emph render="italic">The Fur Jacket</emph> by J. McNeill Whistler (NMc1: 231-232)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 2, 1910</date>
+<event>Paintings by William Sartain (NMc1: 233-235)</event></chronitem>
+
+<chronitem><date>Mar. 3-16, 1910</date>
+<event>Fourteen Landscapes by Charles H. Davis (NMc1: 237-239)</event></chronitem>
+
+<chronitem><date>Mar. 3-16, 1910</date>
+<event>Recent Portraits by Cecilia Beaux (NMc1: 239-240)</event></chronitem>
+
+<chronitem><date>Mar. 17-30, 1910</date>
+<event>Paintings by Hermann Dudley Murphy (NMc1: 244-246)</event></chronitem>
+
+<chronitem><date>Mar. 17-30, 1910</date>
+<event>Figure Paintings by Charles W. Hawthorne (NMc1: 242-244)</event></chronitem>
+
+<chronitem><date>Mar. 31-Apr. 13, 1910</date>
+<event>Paintings of Baily's Island by Frederick J. Waugh (NMc1: 249-251)</event></chronitem>
+
+<chronitem><date>Mar. 31-Apr. 13, 1910</date>
+<event>Nineteen Landscapes by Chaucey F. Ryder (NMc1: 247-249)</event></chronitem>
+
+<chronitem><date>Apr. 14-27, 1910</date>
+<event>George B. Luks (NMc1: 253-255)</event></chronitem>
+
+<chronitem><date>Apr. 30-May 14, 1910</date>
+<event>The Woman??s Art Club of New York, Exhibition of Works in Oil and Sculpture (NMc1: 259-262)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 4, 1907-1913</emph></p>
+<p>Primarily news clippings.</p>
+
+<p><emph render="bold">Scrapbook 5, 1910-1915</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Nov. 3-16, 1910</date>
+<event>Recent Paintings by Charles W. Hawthorne (NMc2: 1-2)</event></chronitem>
+
+<chronitem><date>Nov. 17-30, 1910</date>
+<event>The Navajo Country in Watercolors by Frederick J. McComas (NMc2: 4-6)</event></chronitem>
+
+<chronitem><date>Dec. 6-24, 1910</date>
+<event>Watercolors, Pastels and Small Bronzes (NMc2: 7-14)</event></chronitem>
+
+<chronitem><date>Jan. 5-18, 1911</date>
+<event>Portraits by Ellen Emmet (NMc2: 15-16)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 1, 1911</date>
+<event>Paintings by Henry B. Snell (NMc2: 17-24)</event></chronitem>
+
+<chronitem><date>Feb. 2-22, 1911</date>
+<event>A Group of Thirty Selected Paintings (NMc2: 25-28)</event></chronitem>
+
+<chronitem><date>Feb. 23-Mar. 8, 1911</date>
+<event>A Group of Forty Selected Paintings (NMc2: 29-32)</event></chronitem>
+
+<chronitem><date>Mar. 9-22, 1911</date>
+<event>Paintings by Charles H. Davis, Paul Dougherty, Daniel Garber, William Sartain, F. Ballard Williams (NMc2: 33-35)</event></chronitem>
+
+<chronitem><date>Mar. 23-Apr. 5, 1911</date>
+<event>A Group of Paintings by Ben Foster, Albert L. Groll, Leonard Ochtman, Chauncey F. Ryder, Gardner Symons (NMc2: 36-38)</event></chronitem>
+
+<chronitem><date>Apr. 8-22, 1911</date>
+<event>The Woman??s Art Club of New York, Exhibition of Works in Oil and Sculpture (NMc2: 39-42)</event></chronitem>
+
+<chronitem><date>Nov. 16-29, 1911</date>
+<event>Landscapes, Marines and Wood Interiors by Robert Henri (NMc2: 45-48)</event></chronitem>
+
+<chronitem><date>Dec. 6-30, 1911</date>
+<event>Small Bronzes by American Sculptors (NMc2: 49-52)</event></chronitem>
+
+<chronitem><date>Jan. 3-16, 1912</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 53-55)</event></chronitem>
+
+<chronitem><date>Jan. 17-30, 1912</date>
+<event>Paintings by Frederick C. Frieseke (NMc2: 56-58)</event></chronitem>
+
+<chronitem><date>Jan. 31-Feb. 13, 1912</date>
+<event>Paintings by Elihu Vedder (NMc2: 59-63)</event></chronitem>
+
+<chronitem><date>Feb. 14-Mar. 2, 1912</date>
+<event>Paintings by Charles H. Davis, Paul Dougherty, Ben Foster, William Sartain, Gardner Symons, F. Ballard Williams (NMc2: 64-66)</event></chronitem>
+
+<chronitem><date>Mar. 4-16, 1912</date>
+<event>Paintings by Emil Carlsen (NMc2: 67-69)</event></chronitem>
+
+<chronitem><date>Mar. 6-19, 1912</date>
+<event>Memorial Exhibition of a Collection of Paintings by Joseph R. Woodwell (NMc2: 71-75)</event></chronitem>
+
+<chronitem><date>Mar. 18-30, 1912</date>
+<event>Paintings by Arthur B. Davies (NMc2: 71, 76)</event></chronitem>
+
+<chronitem><date>Apr. 1-10, 1912</date>
+<event>Paintings by Richard E. Miller (NMc2: 77-79)</event></chronitem>
+
+<chronitem><date>Apr. 15-27, 1912</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 80-85)</event></chronitem>
+
+<chronitem><date>Nov. 4-18, 1912</date>
+<event>Frederick Ballard Williams (NMc2:  80-97)</event></chronitem>
+
+<chronitem><date>Nov. 19-30, 1912</date>
+<event>First Annual Exhibition of Painters of the Far West (NMc2: 99-103)</event></chronitem>
+
+<chronitem><date>Dec. 3-16, 1912</date>
+<event>Paintings by William Baxter Closson (NMc2: 99, 104)</event></chronitem>
+
+<chronitem><date>Dec. 4-16, 1912</date>
+<event>Marbles and Bronzes by Chester Beach (NMc2: 99, 105-114)</event></chronitem>
+
+<chronitem><date>Dec. 30-Jan. 13, 1913</date>
+<event>Lawrence Mazzanovich (NMc2: 116-119)</event></chronitem>
+
+<chronitem><date>Jan 14-27, 1913</date>
+<event>Paintings by Guy C. Wiggins (NMc2: 120-122)</event></chronitem>
+
+<chronitem><date>Jan. 14-27, 1913</date>
+<event>Paintings by Charles A. Hawthorne (NMc2: 120, 122-124)</event></chronitem>
+
+<chronitem><date>Jan. 28-Feb. 10, 1913</date>
+<event>Paintings by Paul Dougherty (NMc2: 125-127)</event></chronitem>
+
+<chronitem><date>Feb. 11-24, 1913</date>
+<event>Paintings by Gardner Symons (NMc2: 128-130)</event></chronitem>
+
+<chronitem><date>Feb. 15-Mar. 1, 1913</date>
+<event>Annual Exhibition of The Woman??s Artclub (NMc2: 131-136)</event></chronitem>
+
+<chronitem><date>Feb. 25-Mar. 10, 1913</date>
+<event>Paintings by F. C. Frieseke (NMc2: 137-138)</event></chronitem>
+
+<chronitem><date>Mar. 4-17, 1913</date>
+<event>Paintings by Charles Morris Young (NMc2: 137-142)</event></chronitem>
+
+<chronitem><date>Mar. 11-24, 1913</date>
+<event>Landscapes by F.K.M. Rehn, N.A. (NMc2: 143-147)</event></chronitem>
+
+<chronitem><date>Mar. 18-31, 1913</date>
+<event>Paintings by John Carlson (NMc2: 148-151)</event></chronitem>
+
+<chronitem><date>Mar. 25-Apr. 7, 1913</date>
+<event>A Selected Group of Paintings (NMc2: 148, 152-154)</event></chronitem>
+
+<chronitem><date>Apr. 15-28, 1913</date>
+<event>A Selected Group of American Paintings (NMc2: 155-158)</event></chronitem>
+
+<chronitem><date>Apr. 15-28, 1913</date>
+<event>Paintings and Pastels by Blendon R. Campbell (NMc2: 155, 159)</event></chronitem>
+
+<chronitem><date>Oct. 14-27, 1913</date>
+<event>Paintings by Katherine S. Dreier (NMc2: 161-163)</event></chronitem>
+
+<chronitem><date>Oct. 28-Nov. 10, 1913</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 164-166)</event></chronitem>
+
+<chronitem><date>Nov. 17-24, 1913</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 167-169)</event></chronitem>
+
+<chronitem><date>Dec. 2-15, 1913</date>
+<event>Second Exhibition by the Society of Men Who Paint the Far West (NMc2: 172-176)</event></chronitem>
+
+<chronitem><date>Jan. 1914</date>
+<event>Drawings of Game Birds by Frank W. Benson (NMc2: 179-180)</event></chronitem>
+
+<chronitem><date>Jan. 6-19, 1914</date>
+<event>Paintings by Emil Carlsen, Paul Dougherty, Frederick C. Frieseke, Childe Hassam, Willard L. Metcalf, Kenneth H. Miller, J. Alden Weir (NMc2: 179, 181-183)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 16, 1914</date>
+<event>Recent Sculpture by Chester Beach (NMc2: 185-186)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 16, 1914</date>
+<event>Paintings by Charles H. Davis, Daniel Garber, Richard E. Miller, Chauncey F. Ryder, Gardner Symons (NMc2: 185, 187)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 2, 1914</date>
+<event>Sculpture by Chester Beach, Abastenia St. L. Eberle, Mahonri Young (NMc2: 188-191)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 9, 1914</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 188, 192-193)</event></chronitem>
+
+<chronitem><date>Mar. 10-30, 1914</date>
+<event><emph render="italic">Sketches in Passing</emph> by Frederick J. Waugh (NMc2: 195, 208-209)</event></chronitem>
+
+<chronitem><date>Mar. 11-30, 1914</date>
+<event>A Collection of Paintings by Deceased American Artists (NMc2: 195-207)</event></chronitem>
+
+<chronitem><date>Mar. 31-Apr. 20, 1914</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 212-217)</event></chronitem>
+
+<chronitem><date>Apr. 21, 1914</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 219-224)</event></chronitem>
+
+<chronitem><date>Oct. 27-Nov. 16, 1914</date>
+<event>A Group of Selected Paintings by American Artists (NMc2: 226-227)</event></chronitem>
+
+<chronitem><date>Nov. 17-Dec. 7, 1914</date>
+<event>Portrait Heads in Terra Cotta by Janet Scudder (NMc2: 233)</event></chronitem>
+
+<chronitem><date>Nov. 17-Dec 7, 1914</date>
+<event>Recent Paintings by Robert Henri (NMc2: 235-237)</event></chronitem>
+
+<chronitem><date>Dec. 8-28, 1914</date>
+<event>Exhibition of Home Pictures (NMc2: 243-247)</event></chronitem>
+
+<chronitem><date>Jan. 5-25, 1915</date>
+<event>A Group of Selected Paintings (NMc2: 243, 248-249)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 15, 1915</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 251-254)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 15, 1915</date>
+<event>Parisian Sketches by Lester D. Boronda (NMc2: 251)</event></chronitem>
+
+<chronitem><date>Feb. 2-15, 1915</date>
+<event>Our Untrodden Empire: A Collection of Paintings Executed in South Central Alaska by Robert V. Sewell (NMc2: 257-260)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1915</date>
+<event>Paintings by Deceased American Artists (NMc2: 262, 265)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1915</date>
+<event>Small Paintings by Guy C. Wiggins (NMc2: 261)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1915</date>
+<event>Paintings by Colin Campbell Cooper (NMc2: 261-264)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 6, March 1915-January 1918</emph></p>
+
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Mar. 10-30, 1915</date>
+<event>The Dance As Interpreted in Marble and Bronze by American Sculptors (NMc2: 267)</event></chronitem>
+
+<chronitem><date>Mar. 30-Apr. 19, 1915</date>
+<event>Paintings by Twelve Landscape Painters (NMc2: 274-277)</event></chronitem>
+
+<chronitem><date>Sept. 27-Oct. 17, 1915</date>
+<event>Paintings and Sculpture by Woman Artists for the Benefit of the Woman Suffrage Campaign (NMc2: 279-283)</event></chronitem>
+
+<chronitem><date>Oct. 30-Nov. 19, 1915</date>
+<event>Oils and Water Colors by Hayley Lever; Recent Paintings by Randall Davey (NMc2: 294-296</event></chronitem>
+
+<chronitem><date>Dec. 4-31, 1915</date>
+<event>Third Exhibition of the Society of Men Who Paint the Far West (NMc2: 300, 302-305)</event></chronitem>
+
+<chronitem><date>Feb. 1916</date>
+<event>Decorations by Elmer Mac Rae (NMc2: 318-319)</event></chronitem>
+
+<chronitem><date>Jan. 4-18, 1916</date>
+<event>Recent Paintings by F. C. Frieseke (NMc2: 306-307)</event></chronitem>
+
+<chronitem><date>Jan. 4-18, 1916</date>
+<event>Paintings by John F. Carlson (NMc2: 306, 309-310)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 1, 1916</date>
+<event>Paintings by Emil Carlsen, Helen M. Turner, Daniel Garber (NMc2: 313)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 1, 1916</date>
+<event>Decorative Panels of Flowers, Birds and Animals by F. S. Church (NMc2: 311,317)</event></chronitem>
+
+<chronitem><date>Feb. 2-15, 1916</date>
+<event>Paintings by Jules Guerin (NMc2: 318-321)</event></chronitem>
+
+<chronitem><date>Feb. 16-29, 1916</date>
+<event>Annual Exhibition of Thirty Paintings by Thirty Artists (NMc2: 323-326)</event></chronitem>
+
+<chronitem><date>Mar. 1916</date>
+<event>Group of High Fire Porcelains by Adelaid Alsop Robineau of Syracuse, NY, recently shown at the Panama-Pacific Exposition (NMc2: 322)</event></chronitem>
+
+<chronitem><date>Mar. 8-21, 1916</date>
+<event>Paintings by Charles H. Davis, Paul Dougherty, Kenneth H. Miller, Chauncey F. Ryder, William Sartain (NMc2: 329-330)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr.4, 1916</date>
+<event>Recent Water Colors by Charles Hovey Pepper (NMc2: 333)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 4, 1916</date>
+<event>Paintings, Drawings and Sculpture by Arthur B. Davies, Walt Kuhn, Jules Pascin (NMc2: 332, 334)</event></chronitem>
+
+<chronitem><date>Apr. 6-27, 1916</date>
+<event>Paintings by American Artists Past and Present (NMc2: 338-341)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 13, 1916</date>
+<event>The Whalers of New Bedford: Paintings by Clifford W. Ashley (NMc2: 346-348)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 14, 1916</date>
+<event>Special Exhibition by Painter Friends (NMc2: 346)</event></chronitem>
+
+<chronitem><date>Nov. 14-27, 1916</date>
+<event>Memorial Exhibition of Paintings by the Late Roger Donoho (NMc2: 349-353)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1916</date>
+<event>Paintings by Randall Davey (NMc2: 356-357)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1916</date>
+<event>Paintings by Kenneth Hayes-Miller, Benjamin D. Kopman and J. M. Block (NMc2: 356)</event></chronitem>
+
+<chronitem><date>Dec. 13-Jan. 15, 1917</date>
+<event>Watercolors by Paul Dougherty (NMc2: 358-362)</event></chronitem>
+
+<chronitem><date>Jan. 16-Feb. 5, 1917</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 366-368)</event></chronitem>
+
+<chronitem><date>Feb. 8-26, 1917</date>
+<event>Loan Exhibition of Paintings by Charles W. Hawthorne (NMc2: 370-379)</event></chronitem>
+
+<chronitem><date>Feb. 27-Mar. 12, 1917</date>
+<event>Paintings by Charles H. Davis, Richard E. Miller, Chauncey F. Ryder (NMc2: 381-382)</event></chronitem>
+
+<chronitem><date>Mar. 13-26, 1917</date>
+<event>Paintings by Arthur Crisp, Florence W. Gotthold, Martha Walter (NMc2: 384-385)</event></chronitem>
+
+<chronitem><date>Mar. 28-Apr. 10, 1917</date>
+<event>Pictures in Tempera of the St. Andrew??s Golf Links by William R. O??Donovan (NMc2: 386-387)</event></chronitem>
+
+<chronitem><date>Summer, 1917</date>
+<event>Summer Exhibition (NMc2: 388-391)</event></chronitem>
+
+<chronitem><date>Oct. 1917</date>
+<event>Opening Exhibition of Our Second Quarter-Century (NMc2: 393-396)</event></chronitem>
+
+<chronitem><date>Nov. 3-17, 1917</date>
+<event>Portraits by Louis Betts (NMc2: 400-403)</event></chronitem>
+
+<chronitem><date>Nov. 13-26, 1917</date>
+<event>Paintings by Arthur Crisp, Florence W. Gotthold, Martha Walter (NMc2: 384-385)</event></chronitem>
+
+<chronitem><date>Nov. 22-Dec. 5, 1917</date>
+<event>Paintings and Small Bronzes of New York (NMc2: 407-410)</event></chronitem>
+
+<chronitem><date>Dec. 1917</date>
+<event>Pastels by Lillian Crittenden (NMc2: 411)</event></chronitem>
+
+<chronitem><date>Dec. 6-24, 1917</date>
+<event>Small paintings and Pastels by Frederick C. Frieseke, Nancy M. Ferguson, Lilian Crittenden (NMc2: 411)</event></chronitem>
+
+<chronitem><date>Jan. 2-31, 1918</date>
+<event>In Aid of Men Blinded in Battle:  Retrospective Loan Exhibition of Arthur B. Davies (NMc2: 412-416)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 7, February 1918-January 1922</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Feb. 5-20, 1918</date>
+<event>Watercolors by Gifford Beal (NMc2: 433-434)</event></chronitem>
+
+<chronitem><date>Feb. 5-20, 1918</date>
+<event>Intimate Paintings Moderately Priced (NMc2: 435-436)</event></chronitem>
+
+<chronitem><date>Mar. 1918</date>
+<event>Group of Paintings by American Artists (NMc2: 441-442)</event></chronitem>
+
+<chronitem><date>Mar. 6-27, 1918</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 438-439)</event></chronitem>
+
+<chronitem><date>Mar. 27-Apr. 18, 1918</date>
+<event>Paintings by Charles H. Davis, Ben Foster, Willard L. Metcalf (NMc2: 441, 443-444)</event></chronitem>
+
+<chronitem><date>Apr. 18-May 10, 1918</date>
+<event>Group of Paintings by Charlotte B. Coman (NMc2: 446)</event></chronitem>
+
+<chronitem><date>Apr. 19-May 9, 1918</date>
+<event>Paintings by Emil Carlsen, Childe Hassam, J. Alden Weir (NMc2: 446-447)</event></chronitem>
+
+<chronitem><date>Oct. 23-Nov. 13, 1918</date>
+<event>Opening Exhibition: Group of Selected Paintings (NMc2: 449-451)</event></chronitem>
+
+<chronitem><date>Dec. 1918</date>
+<event>Second Exhibition of Intimate Paintings (NMc2: 453-458)</event></chronitem>
+
+<chronitem><date>Jan. 7-29, 1919</date>
+<event>John H. Twachtman (NMc2: 460-470)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 8, 1919</date>
+<event>Paintings by Charles H. Davis and Paul Dougherty  (NMc2: 473-474)</event></chronitem>
+
+<chronitem><date>Feb. 17-Mar. 1, 1919</date>
+<event>Thirty Paintings by Fifteen Artists (NMc2: 476-477)</event></chronitem>
+
+<chronitem><date>Mar. 6-22, 1919</date>
+<event>Paintings by Louis Ritman (NMc2: 480-483)</event></chronitem>
+
+<chronitem><date>Mar. 6-29, 1919</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 484-491)</event></chronitem>
+
+<chronitem><date>Apr. 7-19, 1919</date>
+<event>Paintings by Felicie Waldo Howell (NMc2: 496-497)</event></chronitem>
+
+<chronitem><date>Apr. 7-19, 1919</date>
+<event>Fifteen American Paintings (NMc2: 499-500)</event></chronitem>
+
+<chronitem><date>May 1919</date>
+<event>Comparative Exhibition of American Paintings (NMc2: 501-506)</event></chronitem>
+
+<chronitem><date>Oct. 5-Nov. 8, 1919</date>
+<event>Fifteen Paintings by Fifteen Artists (NMc2: 510-511)</event></chronitem>
+
+<chronitem><date>Nov. 10-Dec. 6, 1919</date>
+<event>Third Exhibition of Intimate Paintings (NMc2: 512-518)</event></chronitem>
+
+<chronitem><date>Dec. 10-31, 1919</date>
+<event>Loan Exhibition of Paintings by Emil Carlsen (NMc2: 520-527)</event></chronitem>
+
+<chronitem><date>Dec. 3-20, 1919</date>
+<event>Paintings by William Baxter Closson (NMc2: 520)</event></chronitem>
+
+<chronitem><date>Jan. 9-31, 1920</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 531-536)</event></chronitem>
+
+<chronitem><date>Feb. 2-21, 1920</date>
+<event>Paintings by Charles H. Davis, Frederick C. Frieseke, Richard E. Miller (NMc2: 539-541)</event></chronitem>
+
+<chronitem><date>Mar. 20-Apr.10, 1920</date>
+<event>Paintings by Hayley Lever (NMc2: 542-545)</event></chronitem>
+
+<chronitem><date>Apr. 5-24, 1920</date>
+<event>Group of Paintings by Felicie Waldo Howell (NMc2: 546)</event></chronitem>
+
+<chronitem><date>Apr. 5-24, 1920</date>
+<event>Paintings by Maurice Fromke (NMc2: 546-548)</event></chronitem>
+
+<chronitem><date>Oct. 18-Nov. 8, 1920</date>
+<event>Paintings of the Orient by Hovsep Pushman (NMc2: 550-554)</event></chronitem>
+
+<chronitem><date>Oct. 18-Nov. 8, 1920</date>
+<event>Group of Paintings by Ben Foster, Robert Henri, Hayley Lever, Gardner Symons (NMc2: 555-558)</event></chronitem>
+
+<chronitem><date>Nov. 9-29, 1920</date>
+<event>Paintings by Frank W. Benson and Willard L. Metcalf (NMc2: 559-562)</event></chronitem>
+
+<chronitem><date>Nov. 30-Dec. 31, 1920</date>
+<event>Fourth Exhibition of Intimate Paintings (NMc2: 564-570)</event></chronitem>
+
+<chronitem><date>Jan. 3-17, 1921</date>
+<event>Recent Landscapes by Chauncey F. Ryder (NMc2: 573-576)</event></chronitem>
+
+<chronitem><date>Jan. 3-17, 1921</date>
+<event>Old Salem Doorways Painted Last Summer by Felicie Waldo Howell (NMc2: 577-581)</event></chronitem>
+
+<chronitem><date>Jan. 18-Feb. 7, 1921</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 583-588)</event></chronitem>
+
+<chronitem><date>Feb. 9-28, 1921</date>
+<event>An American Summer in Watercolors by F. Luis Mora (NMc2: 596-599)</event></chronitem>
+
+<chronitem><date>Feb. 9-28, 1921</date>
+<event>The East Side in Sculpture by Abastenia St. L. Eberle (NMc2: 600)</event></chronitem>
+
+<chronitem><date>Feb. 9-28, 1921</date>
+<event>Recent Paintings by Emil Carlsen (Br14: 623; NMc2: 589-594)</event></chronitem>
+
+<chronitem><date>Mar. 1-21, 1921</date>
+<event>Connecticut Landscapes by Charles H. Davis (NMc2: 603-606)</event></chronitem>
+
+<chronitem><date>Mar. 1-21, 1921</date>
+<event>Paintings of Cornwall and Elsewhere by W. Elmer Schofield (NMc2: 607-610)</event></chronitem>
+
+<chronitem><date>Mar. 1-21, 1921</date>
+<event>Annual Exhibition, Society of Animal Painters and Sculptors (NMc2: 611-616</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 11, 1921</date>
+<event>Paintings by F. C. Frieseke and Albert L. Groll (NMc2: 621-624)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 11, 1921</date>
+<event>Paintings by Jonas Lie (NMc2: 617-620)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 11, 1921</date>
+<event>Portraits and Landscapes by Gladys Thayer (NMc2: 625-628)</event></chronitem>
+
+<chronitem><date>Apr. 12-May 7, 1921</date>
+<event>Loan Exhibition of Paintings by J. Francis Murphy, 1853-1921 (NMc2: 629-637)</event></chronitem>
+
+<chronitem><date>Oct. 11-30, 1921</date>
+<event>Opening Exhibition, Season of 1921-1922:  Group of Selected Paintings (NMc2: 640-641)</event></chronitem>
+
+<chronitem><date>Nov. 1-19, 1921</date>
+<event>West Indian Marines by Frederick J. Waugh (NMc2: 642-645)</event></chronitem>
+
+<chronitem><date>Nov. 21-Dec. 12, 1921</date>
+<event>Fifth Exhibition of Intimate Paintings (NMc2: 646-655)</event></chronitem>
+
+<chronitem><date>Dec. 13-Jan. 2, 1922</date>
+<event>Paintings of Glacier National Park by Charles Warren Eaton (NMc2: 660, 664-666)</event></chronitem>
+
+<chronitem><date>Dec. 13-Jan. 2, 1922</date>
+<event>Oils, Pastels, and Watercolors by George Alfred Williams (NMc2: 660-663)</event></chronitem>
+</chronlist></p>
+<p><emph render="bold">Scrapbook 8, January 1922-March 1923</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Jan. 3-23, 1922</date>
+<event>Paintings of South America by E. W. Deming (NMc2: 669-670)</event></chronitem>
+
+<chronitem><date>Jan. 3-23, 1922</date>
+<event>New England Streets by Felicie Waldo Howell (NMc2: 671-674)</event></chronitem>
+
+<chronitem><date>Jan. 3-23, 1922</date>
+<event>California Landscapes by F. Ballard Williams (NMc2: 677-680)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 13, 1922</date>
+<event>Paintings by Elliot Torrey (NMc2: 681-684)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 20, 1922</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 685-692)</event></chronitem>
+
+<chronitem><date>Feb. 14-Mar. 6, 1922</date>
+<event>Third Annual Exhibition, Society of Animal Painters and Sculptors (NMc2: 694-698)</event></chronitem>
+
+<chronitem><date>Mar. 7-27, 1922</date>
+<event>Paintings by Edmund Greacen (NMc2: 704-707)</event></chronitem>
+
+<chronitem><date>Mar. 7-27, 1922</date>
+<event>Paintings by Gardner Symons (NMc2: 700-705)</event></chronitem>
+
+<chronitem><date>Mar. 28-Apr. 17, 1922</date>
+<event>Paintings by Charles H. Davis (NMc2: 707-717)</event></chronitem>
+
+<chronitem><date>Apr. 27-May 20, 1922</date>
+<event>Paintings by Frederick C. Frieseke Hayley Lever and Malcolm Parcell (NMc2: 721-726)</event></chronitem>
+
+<chronitem><date>Apr. 27-May 20, 1922</date>
+<event>Paintings by Malcolm Parcell (NMc2: 722)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 20, 1922</date>
+<event>Paintings by Alice Worthington Ball (NMc2: 731-735)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 20, 1922</date>
+<event>Recent Paintings and Figure Compositions by Charles W. Hawthorne (NMc2: 731-735)</event></chronitem>
+
+<chronitem><date>Nov. 21-Dec. 11, 1922</date>
+<event>Sixth Exhibition of Intimate Paintings (NMc2: 738-747)</event></chronitem>
+
+<chronitem><date>Nov. 21-Dec. 11, 1922</date>
+<event>George Wharton Edwards (NMc2: 748-749)</event></chronitem>
+
+<chronitem><date>Dec. 12-30, 1922</date>
+<event>Imaginitive Landscapes by W. G. Krieghoff (NMc2: 751-752)</event></chronitem>
+
+<chronitem><date>Dec. 12-30, 1922</date>
+<event>Watercolors of New York by Joseph Pennell (NMc2: 751, 753-755)</event></chronitem>
+
+<chronitem><date>Jan. 2-22, 1923</date>
+<event>Paintings and Studies by Orland Campbell (NMc2: 758-761)</event></chronitem>
+
+<chronitem><date>Jan. 2-22, 1923</date>
+<event>Recent Landscapes by Daniel Garber (NMc2: 758, 762-764)</event></chronitem>
+
+<chronitem><date>Jan. 2-22, 1923</date>
+<event>Decorative Paintings by Spencer Nichols (NMc2: 765, 769)</event></chronitem>
+
+<chronitem><date>Jan. 2-22, 1923</date>
+<event>Figure Compositions by Ivan G. Olinsky (NMc2: 765-768)</event></chronitem>
+
+<chronitem><date>Jan. 23-Feb. 12, 1923</date>
+<event>The Canadian Rockies in Paintings by Belmore Browne (NMc2: 772, 778)</event></chronitem>
+
+<chronitem><date>Jan. 23-Feb. 12, 1923</date>
+<event>Thirty Paintings by Thirty Artists (NMc2: 772-777)</event></chronitem>
+
+<chronitem><date>Jan. 23-Feb. 12, 1923</date>
+<event>Decorative Panels by Felicie Waldo Howell (NMc2: 778-782)</event></chronitem>
+
+<chronitem><date>Feb. 13-Mar. 5, 1923</date>
+<event>Paintings by Ruth A. Anderson and Elizabeth C. Spencer (NMc2: 783, 788-790)</event></chronitem>
+
+<chronitem><date>Feb. 13-Mar. 5, 1923</date>
+<event>Landscapes by Chauncey F. Ryder (NMc2: 783-786)</event></chronitem>
+
+<chronitem><date>Feb. 13-Mar. 5, 1923</date>
+<event>Paintings of the West by Maynard Dixon (NMc2: 783, 787)</event></chronitem>
+
+<chronitem><date>Mar. 6-26, 1923</date>
+<event>Recent Paintings by Emil Carlsen (NMc2: 792-794)</event></chronitem>
+
+<chronitem><date>Mar. 12-31, 1923</date>
+<event>Watercolors by J. Olaf Olson (NMc2: 795-796)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 9, March 1923-December 1924</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Mar. 27-Apr. 16, 1923</date>
+<event>Paintings by John J. Enneking (NMc3: 1-4)</event></chronitem>
+
+<chronitem><date>Apr. 17-May7, 1923</date>
+<event>Paintings by Maurice Braun (NMc3: 5-8)</event></chronitem>
+
+<chronitem><date>Apr. 17-May 7, 1923</date>
+<event>Recent Paintings by Catharine Wharton Morris (NMc3: 5, 9)</event></chronitem>
+
+<chronitem><date>Oct. 9-29, 1923</date>
+<event>Opening Exhibition, Season 1923-1924 (NMc3: 17-22)</event></chronitem>
+
+<chronitem><date>Oct. 30-Nov. 19, 1923</date>
+<event>Paintings by Emil Carlsen, Theodore Robsinson, J. Alden Weir (NMc3: 24-27)</event></chronitem>
+
+<chronitem><date>Nov. 20-Dec. 10, 1923</date>
+<event>Seventh Exhibition of Intimate Paintings (NMc3: 30-35)</event></chronitem>
+
+<chronitem><date>Nov. 20-Dec. 11, 1923</date>
+<event>South American Sketches by Rachel Hartley (NMc3: 37-42)</event></chronitem>
+
+<chronitem><date>Dec. 11-31, 1923</date>
+<event>Scenes about Provincetown by Charles W. Hawthorne; Flowers by Marion C. Hawthorne (NMc3: 37, 43)</event></chronitem>
+
+<chronitem><date>Dec. 11-31, 1923</date>
+<event>Recent Paintings by Douglas Parshall (NMc3: 44)</event></chronitem>
+
+<chronitem><date>Dec. 1923</date>
+<event>Collection of Paintings from the Macbeth Gallery, Halaby Galleries, Dallas (NMc3: 47-54)</event></chronitem>
+
+<chronitem><date>Jan. 2-21, 1924</date>
+<event>Paintings by Robert Henri and Grace Ravlin (NMc3: 56-57)</event></chronitem>
+
+<chronitem><date>Feb. 7-25, 1924</date>
+<event>Thirty Paintings by Thirty Artists (NMc3: 62-68)</event></chronitem>
+
+<chronitem><date>Feb. 26-Mar. 17, 1924</date>
+<event>Paintings by Victor Higgins (NMc3: 68, 72-74)</event></chronitem>
+
+<chronitem><date>Feb. 26-Mar. 17, 1924</date>
+<event>Paintings by Frank Duveneck (NMc3: 68-69)</event></chronitem>
+
+<chronitem><date>Mar. 18-Apr. 7, 1924</date>
+<event>Paintings from Tusayan by Maynard Dixon (NMc3: 76-79)</event></chronitem>
+
+<chronitem><date>Apr. 8-28, 1924</date>
+<event>Paintings of the Orient by Hovsep Pushman (NMc3: 80-82)</event></chronitem>
+
+<chronitem><date>Apr. 8-28, 1924</date>
+<event>The Canadian Rockies in Paintings by Belmore Browne (NMc3: 80, 84)</event></chronitem>
+
+<chronitem><date>Sept. 23-Oct. 6, 1924</date>
+<event>Paintings of the French West Indies by Christiana Moron (NMc3: 86-87)</event></chronitem>
+
+<chronitem><date>Oct. 7-27, 1924</date>
+<event>Selected Group of Paintings by Thirty American Artists (NMc3: 86, 88)</event></chronitem>
+
+<chronitem><date>Nov. 4-17, 1924</date>
+<event>Recent Paintings by Chauncey F. Ryder (NMc3: 90-91)</event></chronitem>
+
+<chronitem><date>Nov. 18-Dec. 8, 1924</date>
+<event>A Group of Paintings by Frederick C. Frieseke (NMc3: 92-93)</event></chronitem>
+
+<chronitem><date>Dec. 9-29, 1924</date>
+<event>Retrospective Exhibition of Paintings by Louis Comfort Tiffany (NMc3: 95-97)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 10, January 1925-November 1927</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Dec. 30-Jan. 19, 1925</date>
+<event><emph render="italic">Montauk</emph> by Childe Hassam (NMc3: 104-112)</event></chronitem>
+
+<chronitem><date>Jan. 20-Feb. 9, 1925</date>
+<event>George Inness Centennial Exhibition, 1825-1894 (NMc3: 117-123)</event></chronitem>
+
+<chronitem><date>Feb. 10-Mar. 2, 1925</date>
+<event>Water Colors of Egypt and Jerusalem by Taber Sears (NMc3: 126, 129-130)</event></chronitem>
+
+<chronitem><date>Feb. 10-Mar.2, 1925</date>
+<event>The New England Year in Paintings by Charles H. Davis (NMc3: 126-128)</event></chronitem>
+
+<chronitem><date>Mar. 3-23, 1925</date>
+<event>Paintings by E. W. Redfield (NMc3: 131-133)</event></chronitem>
+
+<chronitem><date>Mar. 24-Apr. 13, 1925</date>
+<event>Paintings by Daniel Garber (NMc3: 135-138)</event></chronitem>
+
+<chronitem><date>Apr. 14-May 4, 1925</date>
+<event>Recent Paintings by Robert Henri (NMc3: 140-143)</event></chronitem>
+
+<chronitem><date>Apr. 14-May 4, 1925</date>
+<event>C. W. Hawthorne: Watercolors of Bermuda (NMc3: 139)</event></chronitem>
+
+<chronitem><date>Oct. 13-26, 1925</date>
+<event>Collection of American Masters Loaned for Exhibition (NMc3: 152-154)</event></chronitem>
+
+<chronitem><date>Oct. 27-Nov. 16, 1925</date>
+<event>Memorial Exhibition of Paintings by the Late William Sartain (NMc3: 155-158)</event></chronitem>
+
+<chronitem><date>Nov. 7-23, 1925</date>
+<event>Paintings by Contemporary American Artists Loaned by the Macbeth Galleries, New York, Engaged by the Muncie Art Students?? League, Muncie, Indiana (NMc3: 147-148)</event></chronitem>
+
+<chronitem><date>Nov. 17-Dec. 7, 1925</date>
+<event>Paintings by DeWitt and Douglass Parshall (NMc3: 159-162)</event></chronitem>
+
+<chronitem><date>Dec. 4-31, 1925</date>
+<event>Easel Paintings by American Artists, Loaned by Macbeth Galleries to the Springfield Art Association (NMc3: 205, 207)</event></chronitem>
+
+<chronitem><date>Dec. 8-Jan. 4, 1926</date>
+<event>Watercolors by Distinguished American Artists (NMc3: 163-166)</event></chronitem>
+
+<chronitem><date>Jan. 5-25, 1926</date>
+<event>Recent American Portraits (NMc3: 168, 172-173)</event></chronitem>
+
+<chronitem><date>Jan. 5-18, 1926</date>
+<event>American Society of Miniature Painters, 27th Annual Exhibition (NMc3: 168-171)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 15, 1926</date>
+<event>Paintings by Jonas Lie (NMc3: 176-179)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 15, 1926</date>
+<event>First Exhibition of Paintings by John Huffington (NMc3: 176, 180-181)</event></chronitem>
+
+<chronitem><date>Feb. 7-Mar. 17, 1926</date>
+<event>Exhibition of Oil Paintings by American Artists Lent by the Macbeth Galleries to the Utica Public Library Art Gallery (NMc3: 205-206)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1926</date>
+<event>New Paintings by Charles W. Hawthorne (NMc3: 186-189)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1926</date>
+<event>Chauncey F. Ryder (NMc3: 184)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 8, 1926</date>
+<event>Sculpture by Gleb Derujinsky (NMc3: 186-189)</event></chronitem>
+
+<chronitem><date>Mar. 9-29, 1926</date>
+<event>Modern Landscapes by Guy Wiggins (NMc3: 191-194)</event></chronitem>
+
+<chronitem><date>Mar. 9-29, 1926</date>
+<event>Etchings and Drawings by Emil Fuchs (NMc3: 191, 195-197)</event></chronitem>
+
+<chronitem><date>Mar. 30-Apr. 19, 1926</date>
+<event><emph render="italic">The Affairs of Anatol</emph> by Robert Reid (NMc3: 198-201)</event></chronitem>
+
+<chronitem><date>Apr. 20-May 3, 1926</date>
+<event>Pastels Done in Spain by A. Sheldon Pennoyer (NMc3: 202)</event></chronitem>
+
+<chronitem><date>June 1-25, 1926</date>
+<event>Pictures Selected from the Brooklyn Museum Exhibition of the National Association of Women Painters and Sculptors (NMc3: 204)</event></chronitem>
+
+<chronitem><date>Summer, 1926</date>
+<event>Summer Exhibition (NMc3: 199-201)</event></chronitem>
+
+<chronitem><date>Oct. 11-18, 1926</date>
+<event>Paintings Selected by Louis Bliss Gillet (NMc3: 210-212)</event></chronitem>
+
+<chronitem><date>Oct. 19-Nov. 8, 1926</date>
+<event>Paintings by Stanley M. Woodward (Br14: 671; NMc3: 213-214)</event></chronitem>
+
+<chronitem><date>Nov. 9-22, 1926</date>
+<event>Ernest Haskell, 1876-1925, Memorial Exhibition (NMc3: 215-222)</event></chronitem>
+
+<chronitem><date>Nov. 23-Dec. 6, 1926</date>
+<event>Porto Rico and St. Thomas: Exhibition of Paintings by Rachel Hartley (NMc3: 226-229)</event></chronitem>
+
+<chronitem><date>Nov. 23-Dec. 6, 1926</date>
+<event>Recent Landscapes and Marines by Jay H. Connaway (NMc3: 226, 230)</event></chronitem>
+
+<chronitem><date>Dec. 1926</date>
+<event>Watercolors and Etchings by American Artists (NMc3: 231-233)</event></chronitem>
+
+<chronitem><date>Dec. 28-Jan. 10, 1927</date>
+<event>Recent Paintings by a Group of Mystic, Conn., Artists (NMc3: 235-238)</event></chronitem>
+
+<chronitem><date>Jan. 11-31, 1927</date>
+<event>Thirty Paintings by Thirty Artists  (NMc3: 239-244)</event></chronitem>
+
+<chronitem><date>Jan. 18-31, 1927</date>
+<event>Watercolors by John Lavalle of Boston (NMc3: 253-255)</event></chronitem>
+
+<chronitem><date>Jan. 22-Feb. 7, 1927</date>
+<event>Crapo Gallery Opening Exhibition: Thirty Paintings by Thirty Artists assembled by Macbeth Gallery at Swain School, New Bedford, Mass. (NMc3: 245-249)</event></chronitem>
+
+<chronitem><date>Feb. 1-14, 1927</date>
+<event>Recent Paintings by Frank W. Benson (NMc3: 259-262)</event></chronitem>
+
+<chronitem><date>Feb. 2-14, 1927</date>
+<event>American Society of Miniature Painters, 28th Annual Exhibition (NMc3: 253, 256-258)</event></chronitem>
+
+<chronitem><date>Feb. 8-26, 1927</date>
+<event>Works by American Artists Selected by the Associated Dealers in American Paintings, Inc. at Anderson Galleries (Macbeth Gallery one of nine participants (NMc3: 263, 265-271)</event></chronitem>
+
+<chronitem><date>Feb. 15-28, 1927</date>
+<event>New Paintings by Chauncey F. Ryder (NMc3: 278-281)</event></chronitem>
+
+<chronitem><date>Mar. 1-14, 1927</date>
+<event>Watercolors by Aiden L. Ripley (NMc3: 282, 286)</event></chronitem>
+
+<chronitem><date>Mar. 1-14, 1927</date>
+<event>Paintings by a Group of Members of the Guild of Boston Artists (NMc3: 282-285)</event></chronitem>
+
+<chronitem><date>Mar. 15-28, 1927</date>
+<event>Paintings by Malcolm Parcell (NMc3: 287-290)</event></chronitem>
+
+<chronitem><date>Mar. 15-28, 1927</date>
+<event>Recent Pastels of Chartres by Carl Schmidt (NMc3: 287)</event></chronitem>
+
+<chronitem><date>Mar. 29-Apr. 18, 1927</date>
+<event>Thirty-fifty Anniversary Exhibition, Retrospect and Prospective (NMc3: 291-294)</event></chronitem>
+
+<chronitem><date>Apr. 19-May 9, 1927</date>
+<event>Frank A. Brown, Watercolors (NMc3: 296, 302-303)</event></chronitem>
+
+<chronitem><date>Aug. 22-Sept. 5, 1927</date>
+<event>American Art Exhibition arranged for Eastern Long Island by the Macbeth Gallery at Southampton, NY (NMc3: 297-301)</event></chronitem>
+
+<chronitem><date>Oct. 18-29, 1927</date>
+<event>American Art Exhibition, Art League of Fort Worth, Assembeled by the Macbeth Gallery (NMc3: 304, 306-311)</event></chronitem>
+
+<chronitem><date>Oct. 18-31, 1927</date>
+<event>Etchings by Walter Raymond Duff (NMc3: 313-315)</event></chronitem>
+
+<chronitem><date>Oct. 18-31, 1927</date>
+<event>Paintings by Max Bohm (NMc3: 313-315)</event></chronitem>
+
+<chronitem><date>Nov. 1-14, 1927</date>
+<event>Yankee Whalers by Clifford W. Ashley (NMc3: 316-317)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 11, November 1927-June 1930</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Nov. 15-28, 1927</date>
+<event>Paintings of Mallorca by Bernhard Gutmann (NMc3: 319-320)</event></chronitem>
+
+<chronitem><date>Nov. 15-28, 1927</date>
+<event>Paintings of Flowers by Carle J. Blenner (NMc3: 319, 321)</event></chronitem>
+
+<chronitem><date>Nov. 29-Dec. 12, 1927</date>
+<event><emph render="italic">The Bathers</emph>, Paintings by William S. Horton (NMc3: 322-325)</event></chronitem>
+
+<chronitem><date>Nov. 29-Dec. 12, 1927</date>
+<event>Sidewalks of New York, Chalk Drawings by  H. Devitt Welsh (NMc3: 326-327)</event></chronitem>
+
+<chronitem><date>Dec. 13-31, 1927</date>
+<event>Joint Exhibition of Paintings by Daniel Garber and Stanley Woodward (NMc3: 328)</event></chronitem>
+
+<chronitem><date>Jan. 3-16, 1928</date>
+<event>Portrait Drawings by Edith Leslie Emmet (NMc3: 329, 331)</event></chronitem>
+
+<chronitem><date>Jan. 3-23, 1928</date>
+<event>Recent Paintings by Jonas Lie (NMc3: 329-330)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 13, 1928</date>
+<event>Watercolors by John Lavalle (NMc3: 332-334)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 13, 1928</date>
+<event>Walter Ufer: Pictures from Taos (NMc3: 332, 334)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 6, 1928</date>
+<event>American Society of Miniature Painters, 29th Annual Exhibition (NMc3: 337-340)</event></chronitem>
+
+<chronitem><date>Feb. 7-21, 1928</date>
+<event>Small Pictures of Mountain and Sea by Jay Connaway (NMc3: 342)</event></chronitem>
+
+<chronitem><date>Feb. 14-27, 1928</date>
+<event>The Canadian Rockies by Belmore Brown (NMc3: 342-343)</event></chronitem>
+
+<chronitem><date>Feb. 14-27, 1928</date>
+<event>Sculpture by Gleb Derujinsky (NMc3: 342-344)</event></chronitem>
+
+<chronitem><date>Feb. 21-Mar. 5, 1928</date>
+<event>Watercolors of Venice, Spain and Brittany by Frank A. Brown (NMc3: 351-356)</event></chronitem>
+
+<chronitem><date>Feb. 21-Mar. 10, 1928</date>
+<event>Works by American Artists Selected by the Associated Dealers in American Paintings, Inc., at Anderson Galleries; Macbeth Gallery one of sixteen participants (NMc3: 346-352)</event></chronitem>
+
+<chronitem><date>Feb. 25-Mar. 17, 1928</date>
+<event>The Macbeth-Milch Circuit Exhibition of Contemporary American Paintings at Grand Rapids Art Gallery (NMc3: 385-387)</event></chronitem>
+
+<chronitem><date>Feb. 28-Mar. 12, 1928</date>
+<event>Paintings by Frank L. Schenk, 1856-1927 (NMc3: 357-358)</event></chronitem>
+
+<chronitem><date>Feb. 28-Mar. 19, 1928</date>
+<event>Thirty Paintings by Thirty Artists (NMc3: 357, 359-363)</event></chronitem>
+
+<chronitem><date>Mar. 20-Apr. 2, 1928</date>
+<event>Lanscapes of Italy by A. Sheldon Pennoyer (NMc3: 366, 368)</event></chronitem>
+
+<chronitem><date>Mar. 20-Apr. 9, 1928</date>
+<event>Recent Landscapes, Switzerland and Other Subjects by Carl Lawless (NMc3: 366-367)</event></chronitem>
+
+<chronitem><date>Apr. 2-15, 1928</date>
+<event>Water Colors by Earl Winslow (NMc3: 355)</event></chronitem>
+
+<chronitem><date>Apr. 10-30, 1928</date>
+<event>St. Ives by Hayley Lever (NMc3: 369)</event></chronitem>
+
+<chronitem><date>Apr. 29-May 20, 1928</date>
+<event>The Macbeth-Milch Circuit Exhibition of Contemporary American Paintings at the University of Wyoming (NMc3: 385-386)</event></chronitem>
+
+<chronitem><date>Spring, 1928</date>
+<event>American Painting for Home Decoration (NMc3: 370-377)</event></chronitem>
+
+<chronitem><date>Oct. 16-29, 1928</date>
+<event>The Canadian Rockies in Watercolors by J. Olaf Olson (NMc3: 389-392)</event></chronitem>
+
+<chronitem><date>Nov. 7-24, 1928</date>
+<event>Etchings by Sears Gallagher (NMc3: 393)</event></chronitem>
+
+<chronitem><date>Nov. 13-26, 1928</date>
+<event>Sand Dunes and  Flowers by Frederick Lowell (NMc3: 393-394)</event></chronitem>
+
+<chronitem><date>Nov. 26-Dec. 17, 1928</date>
+<event>Etchings by Carlton T. Chapman (NMc3: 395)</event></chronitem>
+
+<chronitem><date>Nov. 27-Dec. 10, 1928</date>
+<event>Portraits by Ernest L. Ipsen (NMc3: 396-397)</event></chronitem>
+
+<chronitem><date>Dec. 4-31, 1928</date>
+<event>Etchings by Margery A. Ryerson (NMc3: 395)</event></chronitem>
+
+<chronitem><date>Dec. 11-24, 1928</date>
+<event>Landscapes in Watercolor and Gouache by H. Anthony Dyer and Character Studies in Watercolor and Pastel by Nancy Dyer (NMc3: 398-400)</event></chronitem>
+
+<chronitem><date>Jan. 2-14, 1929</date>
+<event>Figures and Landscapes by the Late J. Alden Weir, 1852-1929 (NMc3: 401-402)</event></chronitem>
+
+<chronitem><date>Jan. 15-28, 1929</date>
+<event>Paintings by H. Dudley Murphy; Watercolors by Nellie Littlehale Murphy (NMc3: 404-405)</event></chronitem>
+
+<chronitem><date>Jan. 15-28, 1929</date>
+<event>Portraits by William James (NMc3: 406-407)</event></chronitem>
+
+<chronitem><date>Feb. 4-18, 1929</date>
+<event>Twenty-five Etchings by Harold Denison (NMc3: 410, 416-417)</event></chronitem>
+
+<chronitem><date>Feb. 5-18, 1929</date>
+<event>Paintings by Emil Carlsen and Dines Carlsen (NMc3: 408-409)</event></chronitem>
+
+<chronitem><date>Feb. 19-Mar. 4, 1929</date>
+<event>Thirty Paintings by Thirty Artists (NMc3: 410-415)</event></chronitem>
+
+<chronitem><date>Mar. 5-18, 1929</date>
+<event>Marine Paintings by Stanley W. Woodward (NMc3: 419-423)</event></chronitem>
+
+<chronitem><date>Mar. 19-Apr. 1, 1929</date>
+<event>Watercolors by Frederick C. Frieseke (NMc3: 424-425)</event></chronitem>
+
+<chronitem><date>Mar. 19-Apr. 1, 1929</date>
+<event>Pastels of Louisiana by Will H. Stevens (NMc3: 424)</event></chronitem>
+
+<chronitem><date>Apr. 1929</date>
+<event>Paintings by Childe Hassam (NMc3: 433-438)</event></chronitem>
+
+<chronitem><date>Apr. 2-15, 1929</date>
+<event>Paintings by Arthur Meltzer (NMc3: 431)</event></chronitem>
+
+<chronitem><date>Apr. 2-15, 1929</date>
+<event>Watercolors by Earle B. Winslow (NMc3: 431)</event></chronitem>
+
+<chronitem><date>June, 1929</date>
+<event><emph render="italic">Old Mill Afternoon</emph> by Childe Hassam, Ainslie Galleries, Inc., Detroit in collaboration with Macbeth Gallery (NMc3: 465-467)</event></chronitem>
+
+<chronitem><date>Oct. 1-14, 1929</date>
+<event>Portraits in Oil and Pastel by Paul Swan (NMc3: 472-473)</event></chronitem>
+
+<chronitem><date>Oct. 15-28, 1929</date>
+<event>Exhibitions from the Summer Colonies: No. 1, Lyme (NMc3: 476-477)</event></chronitem>
+
+<chronitem><date>Oct. 19-29, 1929</date>
+<event>Milch-Macbeth Exhibition of Prints and Paintings by American Artists at the High Museum under the auspices of the Atlanta Art Association (NMc3: 462)</event></chronitem>
+
+<chronitem><date>Oct. 20-Nov. 11, 1929</date>
+<event>Memorial Exhibition of Paintings by John Huffington (NMc3: 476-479)</event></chronitem>
+
+<chronitem><date>Nov. 12-25, 1929</date>
+<event>Exhibition from the Summer colonies: No. 2, Selections from the North Shore Arts Association of Gloucester (NMc3: 480-481)</event></chronitem>
+
+<chronitem><date>Nov. 26-Dec. 3, 1929</date>
+<event>Recent Landscapes by Charles H. Davis (NMc3: 482-483)</event></chronitem>
+
+<chronitem><date>Dec. 10-Dec. 23, 1929</date>
+<event>Watercolors by J. Olaf Olson (NMc3: 484-486)</event></chronitem>
+
+<chronitem><date>Dec. 24-Jan. 6, 1930</date>
+<event>Exhibitions from the Summer Colonies: No. 3, Mystic (NMc3: 487-488)</event></chronitem>
+
+<chronitem><date>Jan. 7-20, 1930</date>
+<event>Paintings of Wyoming Days and Nights by Ogden N. Pleissner (NMc3: 490, 492)</event></chronitem>
+
+<chronitem><date>Jan. 21-Feb. 3, 1930</date>
+<event>Landscapes by Aldro T. Hibbard (NMc3: 490-491)</event></chronitem>
+
+<chronitem><date>Feb. 4-17, 1930</date>
+<event>Thirty Paintings by Thirty Artists (NMc3: 493-498)</event></chronitem>
+
+<chronitem><date>Feb. 4-18, 1930</date>
+<event>Monotypes in Black and White by Seth Hoffman (NMc3: 500-502)</event></chronitem>
+
+<chronitem><date>Feb. 18-Mar. 3, 1930</date>
+<event>Decorative Pastels by Wilbur  A. Reaser (NMc3: 503-504)</event></chronitem>
+
+<chronitem><date>Feb. 18-Mar. 3, 1930</date>
+<event>Landscapes by John F. Carlson (NMc3: 503, 505</event></chronitem>
+
+<chronitem><date>Mar. 4-17, 1930</date>
+<event>Art of the Cartoon by Clare A. Briggs (NMc3: 507)</event></chronitem>
+
+<chronitem><date>Mar. 4-17, 1930</date>
+<event>Watercolors by Gladys Brannigan (NMc3: 507)</event></chronitem>
+
+<chronitem><date>Mar. 18-31, 1930</date>
+<event>Landscapes by Chauncey F. Ryder (NMc3: 508-509)</event></chronitem>
+
+<chronitem><date>Apr. 1-14, 1930</date>
+<event>Landscapes by Harry Leith-Ross (NMc3: 510-511)</event></chronitem>
+
+<chronitem><date>Apr. 15-29, 1930</date>
+<event>The Soviet Union as Seen by Eliot O??Hara (NMc3: 512-513)</event></chronitem>
+
+<chronitem><date>Spring 1930</date>
+<event>Spring/Summer Exhibition (NMc3: 514-516)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 12, September 1930-December 1932</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+
+<chronitem><date>Oct. 1930</date>
+<event>Opening Exhibition, 1930-1931 Season (NMc3: 517-519)</event></chronitem>
+
+<chronitem><date>Oct. 14-Nov. 4, 1930</date>
+<event>Etchings by Thomas Handforth (NMc3: 523-524)</event></chronitem>
+
+<chronitem><date>Nov. 1930</date>
+<event>Paintings of Museum Importance (NMc3: 521)</event></chronitem>
+
+<chronitem><date>Nov. 4-25, 1930</date>
+<event>Monotypes in Black and White by Seth Hoffman (NMc3: 522, 524</event></chronitem>
+
+<chronitem><date>Dec. 1930</date>
+<event>Paintings by Young Americans (NMc3: 525)</event></chronitem>
+
+<chronitem><date>Dec. 1930</date>
+<event>Etchings and Lithographs by Edward Haskell (NMc3: 526-527)</event></chronitem>
+
+<chronitem><date>Jan. 6-31, 1931</date>
+<event>Brittany and Other Recent Paintings by Jonas Lie (NMc3: 528-531)</event></chronitem>
+
+<chronitem><date>Feb. 2-8, 1931</date>
+<event>Group Exhibition of Important Paintings (NMc3: 535)</event></chronitem>
+
+<chronitem><date>Feb. 9-21, 1931</date>
+<event>Brackman (NMc3: 536)</event></chronitem>
+
+<chronitem><date>Feb. 24-Mar. 7, 1931</date>
+<event>Paintings by Paul Dougherty and Mahonri Young (NMc3: 539)</event></chronitem>
+
+<chronitem><date>Mar. 9-28, 1931</date>
+<event>Recent Paintings by Daniel Garber (NMc3: 540)</event></chronitem>
+
+<chronitem><date>Mar. 30-Apr. 11, 1931</date>
+<event>Brittany Subjects by Jay Connaway, Landscapes by Arthur Meltzer, Pastel Impressions by J. H. Guest (NMc3: 545-549)</event></chronitem>
+
+<chronitem><date>Apr. 13-May 2, 1931</date>
+<event>Paintings and Drawings by Abbot H. Thayer (NMc3: 545-549)</event></chronitem>
+
+<chronitem><date>May, 1931</date>
+<event>Selected Paintings and Etchings by American Artists (NMc3: 552-553)</event></chronitem>
+
+<chronitem><date>Oct. 1931</date>
+<event>October Show (NMc3: 355)</event></chronitem>
+
+<chronitem><date>Oct. 1931</date>
+<event>October Watercolor Exhibition (NMc3: 556)</event></chronitem>
+
+<chronitem><date>Nov. 4-30, 1931</date>
+<event>Fifteen New Paintings from the Artists Studios (NMc3: 558-559)</event></chronitem>
+
+<chronitem><date>Nov. 11-Dec. 31, 1931</date>
+<event>Lithographs by Stow Wengenroth (NMc3: 560-566)</event></chronitem>
+
+<chronitem><date>Dec. 1-19, 1931</date>
+<event>Small Paintings by Ivan Olinsky and Cecil Chichester (NMc3: 562-563)</event></chronitem>
+
+<chronitem><date>Dec. 8-31, 1931</date>
+<event>Wood Engravings by Thomas Nason (NMc3: 564)</event></chronitem>
+
+<chronitem><date>Dec. 21-Jan. 9, 1932</date>
+<event>Maine Coast Towns by C. K. Chatterton (NMc3: 565-566)</event></chronitem>
+
+<chronitem><date>Jan. 11-23, 1932</date>
+<event>Landscapes, Figures, Still Life Subjects Painted in Vermont by Herbert Meyer (NMc3: 564)</event></chronitem>
+
+<chronitem><date>Jan. 11-23, 1932</date>
+<event>Paintings by Lily Cushing (NMc3: 569, 571)</event></chronitem>
+
+<chronitem><date>Jan. 25-Feb. 13, 1932</date>
+<event>Hudson River School (NMc3: 573-576)</event></chronitem>
+
+<chronitem><date>Feb. 15-27, 1932</date>
+<event>Paintings by James Chapin (NMc3: 589)</event></chronitem>
+
+<chronitem><date>Feb. 15-Mar. 1, 1932</date>
+<event>Monotypes in Black and White by Seth Hoffman (NMc3: 590-591)</event></chronitem>
+
+<chronitem><date>Feb. 29-Mar. 10, 1932</date>
+<event>Sanford Ross: 16 Wash Drawings of 16 New Jersey Landmarks (NMc3: 598-599)</event></chronitem>
+
+<chronitem><date>Feb. 29-Mar. 12, 1932</date>
+<event>George Fuller, 1822-1844 (NMc3: 593-596)</event></chronitem>
+
+<chronitem><date>Mar. 14-26, 1932</date>
+<event>Winter Landscapes and Other Subjects by F. C. Frieseke (NMc3: 600-601)</event></chronitem>
+
+<chronitem><date>Mar. 28-Apr. 9, 1932</date>
+<event>Recent Paintings by Jonas Lie (NMc3: 603)</event></chronitem>
+
+<chronitem><date>Apr. 11-30, 1932</date>
+<event>Forty Years of American Art (NMc3: 605-610)</event></chronitem>
+
+<chronitem><date>May 2-14, 1932</date>
+<event>Paintings by a Group of Younger Artists (NMc3: 616-618)</event></chronitem>
+
+<chronitem><date>June 1932</date>
+<event>June Exhibition (NMc3: 619)</event></chronitem>
+
+<chronitem><date>Sept. 26-Oct. 15, 1932</date>
+<event>Paintings from the Summer Colonies (NMc3: 621-622)</event></chronitem>
+
+<chronitem><date>Oct. 17-Nov. 7, 1932</date>
+<event>Special Sale Exhibition (NMc3: 626-628)</event></chronitem>
+
+<chronitem><date>Oct. 17-Nov. 7, 1932</date>
+<event>Etchings and Lithographs by Mons Breidvik (NMc3: 626-627)</event></chronitem>
+
+<chronitem><date>Nov. 9-26, 1932</date>
+<event>Paintings by Max Bohm, Eugene Higgins, Jerome Myers, John Noble (NMc3: 630) </event></chronitem>
+
+<chronitem><date>Nov. 14-Dec. 5, 1932</date>
+<event>Lithographs by Stow Wengenroth (NMc3: 630)</event></chronitem>
+
+<chronitem><date>Nov. 29-Dec. 12, 1932</date>
+<event>Vermont Watercolors by Henry Holt (NMc3: 632-633)</event></chronitem>
+
+<chronitem><date>Dec. 6-19, 1932</date>
+<event>Lights of New York by Felicie Waldo Howell (NMc3: 634-635)</event></chronitem>
+
+<chronitem><date>Dec. 14-Jan. 3, 1933</date>
+<event>Paintings by Robert Strong Woodward (NMc3: 636)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 13, 1932</emph></p>
+<p>Scrapbook of 40th Anniversary of Macbeth Gallery, 1932.</p>
+
+<p><emph render="bold">Scrapbook 14, 1930-1934</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Jan. 1-29, 1933</date>
+<event>Forty Years of American Painting assembled by the Macbeth Gallery at Montclair Art Museum (NMc4: 263-268)</event></chronitem>
+
+<chronitem><date>July 9-25, 1933</date>
+<event>American Landscapes assembled by the Macbeth Gallery at Four Fountains, Southampton, NY (NMc4: 290-295)</event></chronitem>
+
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 15, January 1933-February 1935</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Jan. 1933</date>
+<event>Watercolors Made by Americans, Assembled by the College Art Association (NMc3: 639-641)</event></chronitem>
+
+<chronitem><date>Jan. 3-16, 1933</date>
+<event>Drawings by J. Louis Lundean (NMc3: 643)</event></chronitem>
+
+<chronitem><date>Jan. 17-30, 1933</date>
+<event>Paintings of Flowers by C. G. Nelson (NMc3: 644) </event></chronitem>
+
+<chronitem><date>Jan. 31-Feb. 13, 1933</date>
+<event>Intimate Paintings (NMc3: 645)</event></chronitem>
+
+<chronitem><date>Feb. 21-Mar. 6, 1933</date>
+<event>Group Exhibition (NMc3: 646)</event></chronitem>
+
+<chronitem><date>Mar. 1933</date>
+<event>Paintings and Etchings by Living American Artists (NMc3: 647-648)</event></chronitem>
+
+<chronitem><date>Mar. 7-20, 1933</date>
+<event>Paintings by Robert Henri (NMc3: 649)</event></chronitem>
+
+<chronitem><date>Mar. 21-Apr. 3, 1933</date>
+<event>Watercolors by Sanford Ross (NMc3: 652)</event></chronitem>
+
+<chronitem><date>Mar. 21-Apr. 10, 1933</date>
+<event>Brackman (NMc3: 652-653)</event></chronitem>
+
+<chronitem><date>Apr. 4-17, 1933</date>
+<event>Opportunity Exhibition (NMc3: 661)</event></chronitem>
+
+<chronitem><date>Apr. 4-18, 1933</date>
+<event>Drawings by Adolf Dehn (NMc3: 661)</event></chronitem>
+
+<chronitem><date>Apr. 11-24, 1933</date>
+<event>The Sea at Monhegan by Jay Connaway (NMc3: 662)</event></chronitem>
+
+<chronitem><date>Apr. 18-May 1, 1933</date>
+<event>Watercolor Exhibition (NMc3: 663)</event></chronitem>
+
+<chronitem><date>Apr. 25-May 8, 1933</date>
+<event>Paintings by A. T. Hibbard, Hayley Lever and Ivan G. Olinsky (NMc3: 664)</event></chronitem>
+
+<chronitem><date>May 2-22, 1933</date>
+<event>Mono-Etchings by Bernard Sanders (NMc3: 664)</event></chronitem>
+
+<chronitem><date>May 9-29, 1933</date>
+<event>Child Portraits by Margery Ryerson (NMc3: 669)</event></chronitem>
+
+<chronitem><date>May 16-29, 1933</date>
+<event>Exhibition of Figures and Still Lifes, Macbeth Gallery Extension (NMc3: 669)</event></chronitem>
+
+<chronitem><date>June 1933</date>
+<event>American Art Past and Present (NMc3: 671)</event></chronitem>
+
+<chronitem><date>Oct. 17-30, 1933</date>
+<event>Paintings and Watercolors by a Group of American Artists Under 35 (NMc3: 672)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 13, 1933</date>
+<event>Drawings by Robert Henri (NMc3: 673)</event></chronitem>
+
+<chronitem><date>Oct.-Nov. 1933</date>
+<event>Mexico as Seen by American Printmakers (NMc3: 674)</event></chronitem>
+
+<chronitem><date>Nov. 4-27, 1933</date>
+<event>Brackman Portraits: Figures in Pastel (NMc3: 675, 678)</event></chronitem>
+
+<chronitem><date>Nov. 4-27, 1933</date>
+<event>American Sport and Other Subjects by Percy Crosby (NMc3: 675-677)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1933</date>
+<event>Paintings by Ogden M. Pleissner (NMc3: 684, 686)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1933</date>
+<event>Figures and Fantacies by Ralph Rowntree (NMc3: 684-685)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1933</date>
+<event>Paintings by Horace Day (NMc3: 681)</event></chronitem>
+
+<chronitem><date>Nov. 28-Dec. 11, 1933</date>
+<event>Drawings by Jerome Myers (NMc3: 682-683)</event></chronitem>
+
+<chronitem><date>Dec. 12-23, 1933</date>
+<event>Paintings by Janet Scudder (NMc3: 687)</event></chronitem>
+
+<chronitem><date>Dec. 12-23, 1933</date>
+<event>The New York Scene in Watercolor by Hamilton A. Wolf (NMc3: 688-689)</event></chronitem>
+
+<chronitem><date>Dec. 26-Jan. 8, 1934</date>
+<event>Group Exhibition, Members of the Louis Comfort Tiffany Foundation (NMc3: 692)</event></chronitem>
+
+<chronitem><date>Jan. 9-27, 1934</date>
+<event>Paintings by Herbert Meyer (NMc3: 692)</event></chronitem>
+
+<chronitem><date>Jan. 24-Feb. 6, 1934</date>
+<event>Oils, Watercolors, Drawings, Etchings by Harrison Cady (NMc3: 696-697)</event></chronitem>
+
+<chronitem><date>Jan. 30-Feb. 19, 1934</date>
+<event>Paintings and Drawings by Lintott (NMc3: 699-700)</event></chronitem>
+
+<chronitem><date>Feb. 20-Mar. 12, 1934</date>
+<event>Paintings by C. K. Chatterton (NMc3: 703-704)</event></chronitem>
+
+<chronitem><date>Feb. 27-Mar. 12, 1934</date>
+<event>Golinkin (NMc3: 707-708)</event></chronitem>
+
+<chronitem><date>Mar. 6-20, 1934</date>
+<event>Drawings by Meyer Bernstein (NMc3: 709)</event></chronitem>
+
+<chronitem><date>Mar. 13-36, 1934</date>
+<event>Paintings by Jonas Lie (NMc3: 710)</event></chronitem>
+
+<chronitem><date>Mar. 20-Apr. 2, 1934</date>
+<event>Watercolors of South America by Eliot O'Hara (NMc3: 712)</event></chronitem>
+
+<chronitem><date>Mar. 27-Apr. 16, 1934</date>
+<event>Memorial Exhibition, Paintings by Charles H. Davis, 1856-1933 (NMc3: 715-722)</event></chronitem>
+
+<chronitem><date>Apr. 3-16, 1934</date>
+<event>Drawings by Hetty Beatty, Sculptor (NMc3: 726)</event></chronitem>
+
+<chronitem><date>Apr. 10-23, 1934</date>
+<event>Oils and Watercolors by Gertrude Schweitzer (NMc3: 726)</event></chronitem>
+
+<chronitem><date>Apr. 17-May 1, 1934</date>
+<event>Monhegan Marines by Jan Connaway (NMc3: 727)</event></chronitem>
+
+<chronitem><date>May 1-14, 1934</date>
+<event>Watercolors and Pastels by H. Amaird Oberteuffer and Karl Oberteuffer (NMc3: 728)</event></chronitem>
+
+<chronitem><date>May 1-21, 1934</date>
+<event>Review of the Season (NMc3: 729)</event></chronitem>
+
+<chronitem><date>May 7-14, 1934</date>
+<event>Paintings by John C. E. Taylor, William Luther King, Stuyvesant van Veen (NMc3: 730)</event></chronitem>
+
+<chronitem><date>May 1934?</date>
+<event>Third Exhibition and Sale of American Paintings at $100 (NMc3: 731)</event></chronitem>
+
+<chronitem><date>June 4-15, 1934</date>
+<event>Our Glorious Navy: Paintings by Arthur Beaumont, Lieut. U.S.N.R. (NMc3: 732-733)</event></chronitem>
+
+<chronitem><date>Oct. 1-15, 1934</date>
+<event>Opening Exhibition, Season of 1934-1935, Paintings by Nelson A. Moore, 1924-1902 (NMc3: 735-736)</event></chronitem>
+
+<chronitem><date>Oct. 16-30, 1934</date>
+<event>Collectors Examples of American Painting (NMc3: 739-740)</event></chronitem>
+
+<chronitem><date>Nov. 7-19, 1934</date>
+<event>Greenland and Other Subjects by Rockwell Kent (NMc3: 742-743)</event></chronitem>
+
+<chronitem><date>Nov. 20-Dec. 3, 1934</date>
+<event>Southern New Mexico: Drawings and Lithographs by Peter Hurd (NMc3: 748-749)</event></chronitem>
+
+<chronitem><date>Nov. 20-Dec. 11, 1934</date>
+<event>Brackman (NMc3: 742-743)</event></chronitem>
+
+<chronitem><date>Dec. 4-31, 1934</date>
+<event>Lithographs and Drawings of Stow Wengenroth (NMc3: 750)</event></chronitem>
+
+<chronitem><date>Dec. 11-31, 1934</date>
+<event>Robert Hallowell, Mostly Portraits (NMc3: 751-752)</event></chronitem>
+
+<chronitem><date>Jan. 2-14, 1935</date>
+<event>Leopold Seyffert, Subjects from Guatemala and Flowers (NMc3: 754-755)</event></chronitem>
+
+<chronitem><date>Jan. 22-Feb. 4, 1935</date>
+<event>Group of Paintings by Younger Artists (NMc3: 756)</event></chronitem>
+
+<chronitem><date>Apr. 10-30, 1935</date>
+<event>After St. Ives by Hayley Lever (NMc3: 761-762)</event></chronitem>
+
+<chronitem><date>date unknown</date>
+<event>Mr. Jonas Lie: Brittany and Other Recent Paintings (NMc3: 764)</event></chronitem>
+
+<chronitem><date>Sept. 30-Oct. 7, 1930</date>
+<event>Watercolors by Carolyn G. Bradley and Marion L. Simmons (NMc3: 764-765)</event></chronitem>
+
+<chronitem><date>March 28-April 19, 1932</date>
+<event>Small Paintings of Museum Importance on Exhibition (NM3: 764-767)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 16, February 1935-January 1938</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Feb. 5-19, 1935</date>
+<event>Robert Strong Woodward, "Landscapes of New England" (NMc4: 401-402)</event></chronitem>
+
+<chronitem><date>Feb. 19-28, 1935</date>
+<event>Portraits by Leonebel Jacobs (NMc4: 404)</event></chronitem>
+
+<chronitem><date>Mar. 5-18, 1935</date>
+<event>Loan Exhibition (NMc4: 408-409)</event></chronitem>
+
+<chronitem><date>Apr. 23-May 13, 1935</date>
+<event>Still Lifes by Emil Carlsen, 1853-1932 (NMc4: 411-413)</event></chronitem>
+
+<chronitem><date>May 14-June 3, 1935</date>
+<event>Watercolors and Pastels (NMc4: 414)</event></chronitem>
+
+<chronitem><date>Summer 1935</date>
+<event>Summer Exhibition (NMc4: 415)</event></chronitem>
+
+<chronitem><date>Oct. 8-21, 1935</date>
+<event>Recent Paintings by Frederick C. Frieseke (NMc4: 416-417)</event></chronitem>
+
+<chronitem><date>Nov. 19-Dec. 3, 1935</date>
+<event>Drawings by Lintott (NMc4: 418-419)</event></chronitem>
+
+<chronitem><date>Dec. 3-31, 1935</date>
+<event>Drawings and Lithographs by Stow Wengenroth (NMc4: 420)</event></chronitem>
+
+<chronitem><date>Dec. 9-31, 1935</date>
+<event>Oils, Watercolors, Drawings by Gertude Schweitzer (NMc4: 421)</event></chronitem>
+
+<chronitem><date>Jan. 14-Feb. 3, 1936</date>
+<event>Herbert Meyer (NMc4: 422-423)</event></chronitem>
+
+<chronitem><date>Feb. 1936</date>
+<event>Group Exhibition (NMc4: 429)</event></chronitem>
+
+<chronitem><date>Feb. 1936</date>
+<event>Drawings by Eastman Johnson (NMc4: 430)</event></chronitem>
+
+<chronitem><date>Feb. 4-17, 1936</date>
+<event>Homer D. Martin, 1836-1897, Centennial Exhibition (NMc4: 426-427)</event></chronitem>
+
+<chronitem><date>Mar. 10-23, 1936</date>
+<event>Contemporary Americans (NMc: 430)</event></chronitem>
+
+<chronitem><date>Mar. 10-23, 1936</date>
+<event>Watercolors by Steven Donahos (NMc4: 430)</event></chronitem>
+
+<chronitem><date>Mar. 24-Apr. 16, 1936</date>
+<event>Brackman (NMc4: 431)</event></chronitem>
+
+<chronitem><date>Apr. 7-27, 1936</date>
+<event>Paintings and Watercolors by C. K. Chatterton (NMc4: 433-434)</event></chronitem>
+
+<chronitem><date>Apr. 28-May 11, 1936</date>
+<event>Group Exhibition (NMc4: 435)</event></chronitem>
+
+<chronitem><date>Apr. 28-May 11, 1936</date>
+<event>Watercolors by Mary S. Powers (NMc4: 435)</event></chronitem>
+
+<chronitem><date>May 19-June 1, 1936</date>
+<event>Drawings by Richard Guggenheimer (NMc4: 436)</event></chronitem>
+
+<chronitem><date>May 27-June 3, 1936</date>
+<event>Pastel Portraits by Frank Root McCreery (NMc4: 437-438)</event></chronitem>
+
+<chronitem><date>Oct. 5-26, 1936</date>
+<event>Opening Exhibition, 45th Season, New Paintings by Fourteen American Painters (NMc4: 447-448)</event></chronitem>
+
+<chronitem><date>Nov. 4-16 1936</date>
+<event>Paintings by Elliot Orr (NMc4: 444-445)</event></chronitem>
+
+<chronitem><date>Nov. 17-30, 1936</date>
+<event>Recent Paintings by Ogden M. Pleissner (NMc4: 447-448)</event></chronitem>
+
+<chronitem><date>Dec. 1936</date>
+<event>Lester D. Boronda: Paintings from Mason's Island (NMc4: 449)</event></chronitem>
+
+<chronitem><date>Dec. 15, 1936-Jan. 18, 1937</date>
+<event>An Introduction to Homer (NMc4: 451-460)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 1, 1937</date>
+<event>Exhibition of Portraits by Stuart, Copley, West, Allston, Badger, Jarvis, Morse, Sully, Peale, Smibert and Waldo (NMc4: 478-479)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 1, 1937</date>
+<event>Group of Watercolors (NMc4: 480)</event></chronitem>
+
+<chronitem><date>Feb. 2-15, 1937</date>
+<event>John C. E. Taylor: Flower Arrangements and Other Oils (NMc4: 481)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 1, 1937</date>
+<event>Paintings and Watercolors by Horace Day (NMc4: 482)</event></chronitem>
+
+<chronitem><date>Mar. 2-15, 1937</date>
+<event>Hayley Lever, Paintings New and Old (NMc4: 485)</event></chronitem>
+
+<chronitem><date>Mar. 2-15, 1937</date>
+<event>Paintings by Josef Presser (NMc4: 485)</event></chronitem>
+
+<chronitem><date>Mar. 16-Apr. 5, 1937</date>
+<event>Recent Work by Jon Corbino (NMc4: 487-490)</event></chronitem>
+
+<chronitem><date>Apr. 13-26, 1937</date>
+<event>Memorial Exhibition of Paintings, Crayon Drawings and Dry Points by the late Alexander Shilling (NMc4: 499)</event></chronitem>
+
+<chronitem><date>Apr. 30-May 17, 1937</date>
+<event>Edna Reindel (NMc4: 503)</event></chronitem>
+
+<chronitem><date>Oct. 5-19, 1937</date>
+<event>American Paintings Dedicating the Art Gallery Woman's Club Art Building, Montana State University (NMc4: 505-514)</event></chronitem>
+
+<chronitem><date>Oct. 6-18, 1937</date>
+<event>Opening Exhibition, Paintings by a Group of Contemporary Artists (NMc4: 517)</event></chronitem>
+
+<chronitem><date>Oct. 19-Nov. 1, 1937</date>
+<event>First Exhibition, Watercolors by Andrew Wyeth (NMc4: 518-519)</event></chronitem>
+
+<chronitem><date>Nov. 2-15, 1937</date>
+<event>Marine and Other Subjects from the Canary Islands by Cadwallader Washburn (NMc4: 524-525)</event></chronitem>
+
+<chronitem><date>Nov. 16-29, 1937</date>
+<event>Paintings by Lorenzo James Hatch (NMc4: 524-525)</event></chronitem>
+
+<chronitem><date>Nov. 30-Dec. 14, 1937</date>
+<event>Monhegan Island, Maine, Marines by Jay Connaway (NMc4: 527)</event></chronitem>
+
+<chronitem><date>Jan. 4-17, 1938</date>
+<event>"The Eight" Thirty Years Later (NMc4: 529-530)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 17, January 1938-July 1941</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Jan. 18-Feb. 1, 1938</date>
+<event>Paintings by Dale Nichols (NMc4: 538-540)</event></chronitem>
+
+<chronitem><date>Feb. 8-21, 1938</date>
+<event>Vermont in Watercolors by Stanford Stevens (NMc4: 541-542)</event></chronitem>
+
+<chronitem><date>Feb. 8-21, 1938</date>
+<event>Modern American Interior: Prizewinning Design and Selected Drawings from a Competition Sponsored by James H. Blauvet and Associates, Interior Designers (NMc4: 543)</event></chronitem>
+
+<chronitem><date>Feb. 23-Mar. 7, 1938</date>
+<event>Herbert Dickens Ryman (NMc4: 546)</event></chronitem>
+
+<chronitem><date>Mar. 1-14, 1938</date>
+<event>Paintings and Watercolors by Anne Goldthwaite (NMc4: 546-547)</event></chronitem>
+
+<chronitem><date>Mar. 8-21, 1938</date>
+<event>Recent Watercolors of Woodstock, Charleston, New England by John W. Taylor (NMc4: 548-549)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 11, 1938</date>
+<event>Jon Corbino (NMc4: 554-561)</event></chronitem>
+
+<chronitem><date>Apr. 12-25, 1938</date>
+<event>Paintings by Ohio Artists (NMc4: 580-571)</event></chronitem>
+
+<chronitem><date>Apr. 26-May 9, 1938</date>
+<event>Paintings by Furman Joseph Finck (NMc4: 572-573)</event></chronitem>
+
+<chronitem><date>May-June 1938</date>
+<event>Winslow Homer: Watercolors and Early Oils from the Estate of Mrs. Charles S. Homer and Other Sources (NMc4: 574-579)</event></chronitem>
+
+<chronitem><date>Oct. 4-28, 1938</date>
+<event>Opening Exhibition (NMc4: 581)</event></chronitem>
+
+<chronitem><date>Nov. 1-23, 1938</date>
+<event>Dale Nichols, Watercolors and Tempera of Alaskan Subjects (NMc4: 582-583)</event></chronitem>
+
+<chronitem><date>Nov. 29-Dec. 19, 1938</date>
+<event>Sea Island Country Watercolors by Horace Day (NMc4: 584)</event></chronitem>
+
+<chronitem><date>Jan. 10-30, 1939</date>
+<event>Herbert Meyer (NMc4: 588-589)</event></chronitem>
+
+<chronitem><date>Feb. 7-27, 1939</date>
+<event>American Watercolors Past and Present (NMc4: 592-597</event></chronitem>
+
+<chronitem><date>Mar. 7-Apr. 3, 1939</date>
+<event>Monhegan by Jay Connaway (NMc4: 602-603)</event></chronitem>
+
+<chronitem><date>Apr. 5-24, 1919</date>
+<event>Oils and Watercolors by Ogden M. Pleissner (NMc4: 606-607)</event></chronitem>
+
+<chronitem><date>May 2-22, 1939</date>
+<event>Paintings by Francis Chapin, Antonio P. Matino, and Moses Soyer and Drawings by Jon Corbino (NMc4: 609-611)</event></chronitem>
+
+<chronitem><date>Oct. 10-30, 1939</date>
+<event>Andrew Wyeth (NMc4: 614)</event></chronitem>
+
+<chronitem><date>Nov. 1-30, 1939</date>
+<event>Americana Paintings, Watercolors, Prints, Drawings (NMc4: 616-617)</event></chronitem>
+
+<chronitem><date>Dec. 5-30, 1939</date>
+<event>In the Georges Islands, Maine: Paintings by N.C. Wyeth (NMc4: 618)</event></chronitem>
+
+<chronitem><date>Dec. 5-30, 1939</date>
+<event>Dry Brush Drawings by Stow Wengenroth (NMc4: 618-619)</event></chronitem>
+
+<chronitem><date>Jan. 2-27, 1940</date>
+<event>Brackman (NMc4: 623-624)</event></chronitem>
+
+<chronitem><date>Jan. 30-Feb. 19, 1940</date>
+<event>Paintings by Moses Soyer (NMc4: 630-631)</event></chronitem>
+
+<chronitem><date>Feb. 20-Mar. 11, 1940</date>
+<event>Watercolors by Emil J. Kosa, Jr. (NMc4: 637)</event></chronitem>
+
+<chronitem><date>Mar. 12-30, 1940</date>
+<event>Paintings by Edna Reindel (NMc4: 636)</event></chronitem>
+
+<chronitem><date>April 1940</date>
+<event>Paintings and Drawings by Jon Corbino (NMc4: 639-640)</event></chronitem>
+
+<chronitem><date>May 7-18, 1940</date>
+<event>"Star Boat Races," by Gerald Foster (NMc4: 640)</event></chronitem>
+
+<chronitem><date>Summer 1940</date>
+<event>Summer Exhibition (NMc4: 641)</event></chronitem>
+
+<chronitem><date>Oct. 1940</date>
+<event>October Exhibition (NMc4: 642)</event></chronitem>
+
+<chronitem><date>Nov. 12-Dec. 2, 1940</date>
+<event>Paintings by Antonio P. Martino (NMc4: 645)</event></chronitem>
+
+<chronitem><date>Dec. 10-30, 1940</date>
+<event>Monhegan Paintings and Sketches by Jay Connaway (NMc4: 648)</event></chronitem>
+
+<chronitem><date>Dec. 31, 1940-Jan. 13, 1941</date>
+<event>Oils and Watercolors by Contemporary Artists (NMc4: 649)</event></chronitem>
+
+<chronitem><date>Jan. 14-Feb. 3, 1941</date>
+<event>Paintings and Drawings by Augustus Vincent Tack (NMc4: 650-651)</event></chronitem>
+
+<chronitem><date>Feb. 4-24, 1941</date>
+<event>Recent Paintings by Peter Hurd (NMc4: 652)</event></chronitem>
+
+<chronitem><date>Feb. 18-Mar. 3, 1941</date>
+<event>Earl Gross Watercolors (NMc4: 654-655)</event></chronitem>
+
+<chronitem><date>Feb. 25-Mar. 16, 1941</date>
+<event>Recent Paintings by Herman Maril (NMc4: 656-657)</event></chronitem>
+
+<chronitem><date>Mar. 18-Apr. 5, 1941</date>
+<event>Joseph de Martini Gouache Paintings (NMc4: 656)</event></chronitem>
+
+<chronitem><date>Mar. 25-Apr. 7, 1941</date>
+<event>Men of Moment: Drawings by Ivan Opffer (NMc4: 660)</event></chronitem>
+
+<chronitem><date>Apr. 8-28, 1941</date>
+<event>Paintings by Orland Campbell (NMc4: 661-662)</event></chronitem>
+
+<chronitem><date>Apr. 29-May 12, 1941</date>
+<event>Small Paintings by Moses Soyer (NMc4: 667-668)</event></chronitem>
+
+<chronitem><date>May 1941</date>
+<event>Group Exhibition (NMc4: 667)</event></chronitem>
+
+<chronitem><date>May 13-24, 1941</date>
+<event>The 1941 Showing of Blauvelt Interiors (NMc4: 669-671)</event></chronitem>
+
+<chronitem><date>May-June 1941</date>
+<event>Group Exhibition (NMc4: 669)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 18, July 1941-October 1945</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Sept. 1941</date>
+<event>Group Exhibition: Oils (NMc4: 682)</event></chronitem>
+
+<chronitem><date>Oct. 7-27, 1941</date>
+<event>Third Exhibition of Watercolors by Andrew Wyeth (NMc4: 685)</event></chronitem>
+
+<chronitem><date>Oct. 28-Nov. 17, 1941</date>
+<event>Recent Oils and Watercolors by Ogden M. Pleissner (NMc4: 685-686)</event></chronitem>
+
+<chronitem><date>Oct. 28-Nov. 17, 1941</date>
+<event>Watercolors by Merrill A. Bailey (NMc4: 685)</event></chronitem>
+
+<chronitem><date>Nov. 18-Dec. 1, 1941</date>
+<event>Drawings and Watercolors by Carl Newland Werntz (NMc4: 688-689)</event></chronitem>
+
+<chronitem><date>Nov. 18-Dec. 1, 1941</date>
+<event>Hymn to the Sun: A Sculpture in Bronze by Emily Winthrop Miles (NMc4: 688)</event></chronitem>
+
+<chronitem><date>Dec. 1941</date>
+<event>Group Exhibition (NMc4: 690)</event></chronitem>
+
+<chronitem><date>Dec. 2-22, 1941</date>
+<event>Original Dolls by Edith Flack Ackley and their Portraits in Watercolor by Telka Ackley (NMc4: 690)</event></chronitem>
+
+<chronitem><date>Jan. 5-24, 1942</date>
+<event>Paintings by Furman Joseph Finck (NMc4: 694)</event></chronitem>
+
+<chronitem><date>Jan. 5-24, 1942</date>
+<event>Watercolors of Maine and Florida by Maurice Becker (NMc4: 694-695)</event></chronitem>
+
+<chronitem><date>Jan. 19-Feb. 14, 1942</date>
+<event>Watercolors, Pastels, Drawings by Jerome Myers, 1867-1940 (NMc4: 696)</event></chronitem>
+
+<chronitem><date>Feb. 16-28, 1942</date>
+<event>Watercolors by Cory Kilvert (NMc4: 697-698)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 7, 1942</date>
+<event>Paintings by Deceased American Masters (NMc4: 697-698)</event></chronitem>
+
+<chronitem><date>Mar. 9-28, 1942</date>
+<event>Paintings by Marsden Hartley (NMc4: 700-701)</event></chronitem>
+
+<chronitem><date>Mar. 9-28, 1942</date>
+<event>Watercolors by Karl Mattern (NMc4: 700)</event></chronitem>
+
+<chronitem><date>Apr. 13-30, 1942</date>
+<event>Fiftieth Anniversary Exhibition, 1892-1942 (NMc4: 703-704)</event></chronitem>
+
+<chronitem><date>May 4-29, 1942</date>
+<event>Group Exhibition (NMc4: 707)</event></chronitem>
+
+<chronitem><date>June 1942</date>
+<event>June Exhibition (NMc4: 708)</event></chronitem>
+
+<chronitem><date>June 15-27, 1942</date>
+<event>War Bond Exhibitions of Contemporary American Art (NMc4: 708)</event></chronitem>
+
+<chronitem><date>Sept. 1942</date>
+<event>September Exhibition (NMc4: 709)</event></chronitem>
+
+<chronitem><date>Nov. 16-28, 1942</date>
+<event>Watercolors by Jean Paul Slusser (NMc4: 710)</event></chronitem>
+
+<chronitem><date>Nov. 24-Dec. 12, 1942</date>
+<event>T. Chambers, First American Modern (NMc4: 711-714)</event></chronitem>
+
+<chronitem><date>Dec. 1-14, 1942</date>
+<event>Watercolors by Red Robin (NMc4: 715-716)</event></chronitem>
+
+<chronitem><date>Dec. 15, 1942-Jan. 2, 1943</date>
+<event>Leaves From a Soldier's Sketchbook by Pvt. Olin Dows, U. S. Army (NMc4: 717)</event></chronitem>
+
+<chronitem><date>Jan. 4-23, 1943</date>
+<event>Paintings by Sprinchorn (NMc4: 717-718)</event></chronitem>
+
+<chronitem><date>Feb. 1-13, 1943</date>
+<event>Group Exhibition (NMc4: 719)</event></chronitem>
+
+<chronitem><date>Feb. 15-Mar. 6, 1943</date>
+<event>Small Paintings by Moses Soyer (NMc4: 720)</event></chronitem>
+
+<chronitem><date>Mar. 15-27, 1943</date>
+<event>Ellen du Pont Wheelwright (NMc4: 721)</event></chronitem>
+
+<chronitem><date>Mar. 15-27, 1943</date>
+<event>Watercolors by Cory Kilvert (NMc4: 721)</event></chronitem>
+
+<chronitem><date>Mar. 29-Apr. 17, 1943</date>
+<event>Recent Paintings by Joseph De Martini (NMc4: 722)</event></chronitem>
+
+<chronitem><date>Mar. 29-Apr. 17, 1943</date>
+<event>Watercolor Exhibition (NMc4: 722)</event></chronitem>
+
+<chronitem><date>Apr. 19-May 1, 1943</date>
+<event>Corp. Herman Maril (NMc4: 728)</event></chronitem>
+
+<chronitem><date>Apr. 19-May 8, 1943</date>
+<event>Theodore Robinson (NMc4: 723-725)</event></chronitem>
+
+<chronitem><date>May-June 1943</date>
+<event>Group Exhibition (NMc4: 729)</event></chronitem>
+
+<chronitem><date>Sept. 1943</date>
+<event>Group Exhibition (NMc4: 731)</event></chronitem>
+
+<chronitem><date>Oct. 11-30, 1943</date>
+<event>Watercolors by Henry Gasser (NMc4: 723-733)</event></chronitem>
+
+<chronitem><date>Nov. 1-20, 1943</date>
+<event>Tempera and Watercolors by Andrew Wyeth (NMc4: 735-736)</event></chronitem>
+
+<chronitem><date>Nov. 22-Dec. 4, 1943</date>
+<event>Portraits of Children by Barnard Lentott (NMc4: 741-742)</event></chronitem>
+
+<chronitem><date>Dec. 1943</date>
+<event>Group Exhibition (NMc4: 741)</event></chronitem>
+
+<chronitem><date>Dec. 6-24, 1943</date>
+<event>Rural Vermont: Watercolors by Sylvia Wright (NMc4: 743-744)</event></chronitem>
+
+<chronitem><date>Jan. 3-15, 1944</date>
+<event>Watercolors of War by Red Robin (NMc4: 743-744)</event></chronitem>
+
+<chronitem><date>Jan. 31-Feb. 19, 1944</date>
+<event>Loan Exhibition, Worthington Whittredge, 1825-1910 (NMc4: 745-746)</event></chronitem>
+
+<chronitem><date>Feb. 21-Mar. 11, 1944</date>
+<event>Paintings by Constance Richardson (NMc4: 749-750)</event></chronitem>
+
+<chronitem><date>Mar. 13-Apr. 1, 1944</date>
+<event>Watercolors by Vanessa Helder (NMc4: 751, 753)</event></chronitem>
+
+<chronitem><date>Mar. 13-Apr. 1, 1944</date>
+<event>Temperas and Watercolors by Peter Hurd (NMc4: 751-753)</event></chronitem>
+
+<chronitem><date>Apr. 3-22, 1944</date>
+<event>American Paintings of the Early 19th Century (NMc4: 754-755)</event></chronitem>
+
+<chronitem><date>Apr. 24-May 13, 1944</date>
+<event>Brackman (NMc4: 756-757)</event></chronitem>
+
+<chronitem><date>May 15-June 3, 1944</date>
+<event>Two Vermont Artists: Clay Bartlett and Arthur K. D. Healy (NMc4: 758-759)</event></chronitem>
+
+<chronitem><date>June 5-24, 1944</date>
+<event>Women at War by Edna Reindel (NMc4: 760)</event></chronitem>
+
+<chronitem><date>July 1944</date>
+<event>Group Exhibition (NMc4: 762)</event></chronitem>
+
+<chronitem><date>Sept. 25-Oct. 15, 1944</date>
+<event>Group Exhibition (NMc4: 763)</event></chronitem>
+
+<chronitem><date>Oct. 16-Nov. 4, 1944</date>
+<event>Paintings by Felicia Meyer (NMc4: 764-765)</event></chronitem>
+
+<chronitem><date>Nov. 15-Dec. 2, 1944</date>
+<event>The Aleutian Air Force: Paintings by Ogden M. Pleissner (NMc4: 766-767)</event></chronitem>
+
+<chronitem><date>Dec. 4-23, 1944</date>
+<event>Paintings by John W. Taylor (NMc4: 769-770)</event></chronitem>
+
+<chronitem><date>Jan. 8-27, 1945</date>
+<event>Paintings by Carl Gaertner (NMc4: 771-772)</event></chronitem>
+
+<chronitem><date>Jan. 29-Feb. 10, 1945</date>
+<event>Contemporary American Watercolors (NMc4: 772)</event></chronitem>
+
+<chronitem><date>Feb. 19-Mar. 10, 1945</date>
+<event>Paintings and Watercolors by Maurice Becker (NMc4: 773-774)</event></chronitem>
+
+<chronitem><date>Mar. 12-31, 1945</date>
+<event>Some Early 19th Century Americans (NMc4: 777-778)</event></chronitem>
+
+<chronitem><date>Apr. 2-21, 1945</date>
+<event>Paintings by Joseph De Martini (NMc4: 778-779)</event></chronitem>
+
+<chronitem><date>Apr. 23-May 12, 1945</date>
+<event>Gouaches by Herman Maril (NMc4: 781)</event></chronitem>
+
+<chronitem><date>Apr. 23-May 12, 1945</date>
+<event>Paintings by Molly Luce (NMc4: 781-782)</event></chronitem>
+
+<chronitem><date>May-June 1945</date>
+<event>Group Exhibition: Contemporary Oils and Watercolors (NMc4: 783)</event></chronitem>
+
+<chronitem><date>July, Sept., 1945</date>
+<event>Group Exhibition (NMc4: 783)</event></chronitem>
+
+<chronitem><date>Oct. 1-7, 1945</date>
+<event>Group Exhibition (NMc4: 784)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 19, October 1945-November 1949</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+<chronitem><date>Oct. 26-Nov. 17, 1945</date>
+<event>Tempera and Watercolors by Andrew Wyeth (NMc4: 787-788)</event></chronitem>
+
+<chronitem><date>Nov. 26-Dec. 15, 1945</date>
+<event>Marsden Hartley: Paintings and Drawings (NMc4: 791-792)</event></chronitem>
+
+<chronitem><date>Dec. 1945</date>
+<event>Christmas Exhibition (NMc4: 793)</event></chronitem>
+
+<chronitem><date>Jan. 7-26, 1946</date>
+<event>New York in Watercolors by James Lechay (NMc4: 794)</event></chronitem>
+
+<chronitem><date>Jan. 28-Feb. 16, 1946</date>
+<event>Herbert Meyer (NMc4: 795)</event></chronitem>
+
+<chronitem><date>Feb. 18-Mar. 19, 1946</date>
+<event>Ary Stillman (NMc4: 797-798)</event></chronitem>
+
+<chronitem><date>Mar. 11-30, 1946</date>
+<event>Watercolors by Arthur K. D. Haley (NMc4: 800-801)</event></chronitem>
+
+<chronitem><date>Apr. 1-20, 1946</date>
+<event>Albert P. Ryder (NMc4: 802-805)</event></chronitem>
+
+<chronitem><date>Apr. 22-May 11, 1946</date>
+<event>Paintings by Constance Richardson (NMc4: 809-810)</event></chronitem>
+
+<chronitem><date>May 13-31, 1946</date>
+<event>Furman Jospeh Finck (NMc4: 811-812)</event></chronitem>
+
+<chronitem><date>June 1946</date>
+<event>Group Exhibition (NMc4: 813)</event></chronitem>
+
+<chronitem><date>July 1946</date>
+<event>Group Exhibition (NMc4: 813)</event></chronitem>
+
+<chronitem><date>Sept. 1946</date>
+<event>Group Exhibition (NMc4: 814)</event></chronitem>
+
+<chronitem><date>Sept. 30-Oct. 19, 1946</date>
+<event>Gouaches by Charles Schucker (NMc4: 815)</event></chronitem>
+
+<chronitem><date>Oct. 2-Nov. 9, 1946</date>
+<event>Watercolors and Drawings by Olin Dows (NMc4: 816-817)</event></chronitem>
+
+<chronitem><date>Nov. 4-30, 1946</date>
+<event>Ogden M. Pleissner (NMc4: 818)</event></chronitem>
+
+<chronitem><date>Dec. 2-28, 1946</date>
+<event>Oils and Watercolors by Emil J. Kosa, Jr. (NMc4: 819-820)</event></chronitem>
+
+<chronitem><date>Jan. 6-26, 1947</date>
+<event>Carl Gaertner (NMc4: 821-822)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 15, 1947</date>
+<event>Carl Sprinchorn (NMc4: 823)</event></chronitem>
+
+<chronitem><date>Mar. 3-22, 1947</date>
+<event>Dorothy Hoyt (NMc4: 825-826)</event></chronitem>
+
+<chronitem><date>Mar. 24-Apr. 12, 1947</date>
+<event>Joseph De Martini (NMc4: 827-828)</event></chronitem>
+
+<chronitem><date>Apr. 14-May 10, 1947</date>
+<event>Whistler Loan Exhibition (NMc4: 828-834)</event></chronitem>
+
+<chronitem><date>June-July, 1947</date>
+<event>Summer Exhibition (NMc4: 840)</event></chronitem>
+
+<chronitem><date>Sept. 1947</date>
+<event>Group Exhibition (NMc4: 841)</event></chronitem>
+
+<chronitem><date>Oct. 13-Nov. 1, 1947</date>
+<event>Paintings by Allen Tucker (NMc4: 842-844)</event></chronitem>
+
+<chronitem><date>Nov. 3-22, 1947</date>
+<event>Watercolors by Henry Gasser (NMc4: 846-847)</event></chronitem>
+
+<chronitem><date>Nov. 24-Dec. 13, 1947</date>
+<event>James Lechay (NMc4: 849-850)</event></chronitem>
+
+<chronitem><date>Dec. 15, 1947-Jan. 3, 1948</date>
+<event>Watercolor Exhibition (NMc4: 851)</event></chronitem>
+
+<chronitem><date>Jan. 5-24, 1948</date>
+<event>Clay Bartlett (NMc4: 852-853)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 14, 1945</date>
+<event>Exhibition (NMc4: 854)</event></chronitem>
+
+<chronitem><date>Jan. 26-Feb. 14, 1948</date>
+<event>Oils and Watercolors by Contemporary Artists (NMc4: 854)</event></chronitem>
+
+<chronitem><date>Feb. 16-Mar. 6, 1948</date>
+<event>Herman Maril (NMc4: 855-856)</event></chronitem>
+
+<chronitem><date>Mar. 22-Apr. 3, 1948</date>
+<event>American Art: A Multiple Exhibition arranged by the Associated Dealers in American Art (NMc4: 857-858)</event></chronitem>
+
+<chronitem><date>Apr. 5-24, 1948</date>
+<event>Raphael Gleitsmann (NMc4: 866-867)</event></chronitem>
+
+<chronitem><date>Apr. 26-May 15, 1948</date>
+<event>Oils and Watercolors by John La Farge (NMc4: 864)</event></chronitem>
+
+<chronitem><date>May-Sept. 1948</date>
+<event>Group Exhibitions (NMc4: 867)</event></chronitem>
+
+<chronitem><date>Oct. 4-23, 1948</date>
+<event>Watercolors by Charles Culver (NMc4: 869-870)</event></chronitem>
+
+<chronitem><date>Oct. 26-Nov. 13, 1948</date>
+<event>Ogden M. Pleissner (NMc4: 872)</event></chronitem>
+
+<chronitem><date>Nov. 15-Dec. 4, 1948</date>
+<event>Andrew Wyeth (NMc4: 874-875)</event></chronitem>
+
+<chronitem><date>Nov. 21-Dec. 4, 1948</date>
+<event>Oils and Gouaches by Charles Schucker (NMc4: 332-333)</event></chronitem>
+
+<chronitem><date>Dec. 6-31, 1948</date>
+<event>Watercolors and Drawings by Hermann Gross (NMc4: 877-878)</event></chronitem>
+
+<chronitem><date>Jan. 4-22, 1949</date>
+<event>Electra Bostwick (NMc4: 879, 882)</event></chronitem>
+
+<chronitem><date>Jan. 27-Feb. 19, 1949</date>
+<event>Paintings by Edna Reindel (NMc4: 880-881)</event></chronitem>
+
+<chronitem><date>Feb. 28-Mar. 19, 1949</date>
+<event>Thomas Doughty (NMc4: 885-887)</event></chronitem>
+
+<chronitem><date>Mar. 21-Apr. 9, 1949</date>
+<event>Watercolors by Arthur K. D. Healy (NMc4: 889)</event></chronitem>
+
+<chronitem><date>Apr. 12-30, 1949</date>
+<event>Drawings by Olin Dows (NMc4: 890)</event></chronitem>
+
+<chronitem><date>May 1949</date>
+<event>Group Exhibition (NMc4: 894)</event></chronitem>
+
+<chronitem><date>Oct. 10-29, 1949</date>
+<event>Clay Bartlett: Paintings of North and South America (NMc4: 895-896)</event></chronitem>
+
+<chronitem><date>Nov. 1-19, 1949</date>
+<event>Watercolors by Henry Gasser (NMc4: 897-898)</event></chronitem>
+</chronlist></p>
+
+<p><emph render="bold">Scrapbook 20, 1949-1952</emph></p>
+<p><chronlist>
+
+<listhead>
+<head01>Date</head01>
+<head02>Exhibition</head02>
+</listhead>
+
+<chronitem><date>Nov. 21-Dec. 10, 1949</date>
+<event>Oils and Gouaches by Charles Shucker (NMc4: 332-333)</event></chronitem>
+
+<chronitem><date>Dec. 1949</date>
+<event>Watercolor Exhibition (NMc4: 334)</event></chronitem>
+
+<chronitem><date>Jan. 3-21, 1950</date>
+<event>Carl Gaertner (NMc4: 335-356)</event></chronitem>
+
+<chronitem><date>Jan. 23-Feb. 11, 1950</date>
+<event>Constance Richardson (NMc4: 337-338)</event></chronitem>
+
+<chronitem><date>Mar. 6-25, 1950</date>
+<event>John Taylor (NMc4: 339-340)</event></chronitem>
+
+<chronitem><date>Apr. 1950</date>
+<event>Joseph De Martini (NMc4: 341)</event></chronitem>
+
+<chronitem><date>May 8-27, 1950</date>
+<event>Carl Sprinchorn (NMc4: 342-343)</event></chronitem>
+
+<chronitem><date>Summer 1950</date>
+<event>Summer Exhibition (NMc4: 345)</event></chronitem>
+
+<chronitem><date>Oct. 9-28, 1950</date>
+<event>Caseins by James Lechay (NMc4: 345-346)</event></chronitem>
+
+<chronitem><date>Oct. 31-Nov. 18, 1950</date>
+<event>Ogden M. Pleissner: Paris and the Provinces (NMc4: 347-348)</event></chronitem>
+
+<chronitem><date>Nov. 21-Dec. 9, 1950</date>
+<event>Andrew Wyeth (NMc4: 349-350)</event></chronitem>
+
+<chronitem><date>Jan. 2-20, 1951</date>
+<event>Nat Koffman (NMc4: 356-357)</event></chronitem>
+
+<chronitem><date>Jan. 22-Feb. 10, 1951</date>
+<event>Watercolors by Hermann Gross (NMc4: 358)</event></chronitem>
+
+<chronitem><date>Feb. 12-Mar. 3, 1951</date>
+<event>Watercolors (D55:390-391; NMc4: 359)</event></chronitem>
+
+<chronitem><date>Mar. 5-24, 1951</date>
+<event>Paintings by Francis Colburn (NMc4: 360)</event></chronitem>
+
+<chronitem><date>Mar. 27-Apr. 14, 1951</date>
+<event>Paintings by Herman Maril (NMc4: 361)</event></chronitem>
+
+<chronitem><date>Apr. 16-May 5, 1951</date>
+<event>Raphael Gleitsmann (NMc4: 362-363)</event></chronitem>
+
+<chronitem><date>Summer 1951</date>
+<event>Summer Exhibition (NMc4: 364)</event></chronitem>
+
+<chronitem><date>July 7-Aug. 4, 1951</date>
+<event>Paintings and Drawings by Andrew Wyeth (NMc4: 364-381)</event></chronitem>
+
+<chronitem><date>Nov. 26-Dec. 15, 1951</date>
+<event>Watercolors by Arthur K. D. Healy (NMc4: 387)</event></chronitem>
+
+<chronitem><date>Feb. 4-Mar. 1, 1952</date>
+<event>Italian Landscapes by George Inness (NMc4: 388-389)</event></chronitem>
+
+<chronitem><date>June-July, Sept. 1952</date>
+<event>Summer Exhibition (NMc4: 392)</event></chronitem>
+
+<chronitem><date>Nov. 6-29, 1952</date>
+<event>Andrew Wyeth (NMc4: 391-392)</event></chronitem>
+</chronlist></p>
+</odd>
+
+</archdesc>
+</ead>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,1280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/blueosca.xml">blueosca</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Oscar Bluemner</titleproper>
+		<subtitle>A Finding Aid to the Oscar Bluemner Papers, <date type="inclusive">1886-1939, 1960</date>, in the Archives of American Art</subtitle>
+		<author>by Erin Corley</author>
+		<sponsor>Funding for the processing and digitization of this collection was provided by the Terra Foundation for American Art.</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">February 21, 2008</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Corley on
+<date>February 21, 2008</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Bluemner, Oscar</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Oscar Bluemner papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1886-1939, 1960</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">6.6 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of painter Oscar Bluemner date from 1886 to 1939, with one item from 1960, and measure 6.6 linear feet.  The collection documents Bluemner's career through scattered biographical material and  personal and professional correspondence.  Almost one-half of the collection consists of Bluemner's extensive writings and notes about his artwork, painting techniques, and art theory in the form of diaries, notebooks, lists, essays, and notes - many of which are also illustrated. Also found are annotated books, exhibition catalogs, newsclippings, artwork and sketches by Bluemner, and photographs of Bluemner's artwork and of architecture. Bluemner's work in architecture is documented to a lesser degree through scattered licenses, photographs, and design drawings. </abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>English and German</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The Oscar Bluemner papers were donated in several installments from 1970 to 1985 by John Davis Hatch, an art historian and close friend of Bluemner.</p>
+</acqinfo>
+
+<separatedmaterial encodinganalog="544 0" id="a7">
+<head>Separated Material</head>
+<p>Additional Oscar Bluemner papers were loaned by James Graham &amp; Sons, Inc. in 1968 for microfilming.  Loaned material is available on reel N737 but is not described in this finding aid.</p>
+</separatedmaterial>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also found in the Archives of American Art is the John Davis Hatch papers, 1790-1995, which include correspondence, printed material, and research files regarding Oscar Bluemner.  
+</p>
+<p>Additional Oscar Bluemner materials are available at the Avery Architectural and Fine Arts Library, Columbia University, and within the Vera Bluemner Kouba Collection, Stetson University, Deland, Florida.  
+</p>
+</relatedmaterial>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The bulk of the collection was digitized in 2008 and is available via the Archives of American Art's website. </p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>Portions of the collection received a preliminary level of processing at some point after donation.  The collection was microfilmed in the order in which it was received on reels 338-344 except for the last donation which was not microfilmed.  The entire collection was fully processed, arranged, and described by Erin Corley and digitized in 2008 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Oscar Bluemner papers, 1886-1939, 1960. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection has been digitized and is available online via AAA's website. </p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Oscar Bluemner papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Oscar Bluemner (1867-1938) was born Friedrich Julius Oskar Blümner in Prussia in 1867.  As a child he received some formal art training. He enrolled in the architecture department of the Konigliche Technische Hochschule (Royal Technical Academy), Berlin, and received his architecture degree in 1892.  A few months later he moved to the United States and worked in Chicago as a draftsman at the World's Columbian Exposition.  After the exposition, Bluemner attempted to find work in both Chicago and New York City, but could not find steady employment.  In 1903 he created the winning design for the Bronx Borough Courthouse, and for the next few years had various intermittent jobs as an architect in New York.  Around this time Bluemner also began writing down his thoughts on aesthetics, art history, and art theory, which he would continue to do for the rest of his life in various journals, diaries, and notebooks.
+</p><p>
+In 1908 Bluemner met Alfred Stieglitz at Stieglitz's gallery, known as "291", and by 1910 he had decided to pursue painting full-time rather than architecture.  From 1911 to 1912 he worked on a set of Neo-Impressionist paintings and, using the money he won in a suit regarding the Bronx Courthouse design, he went on a seven-month trip to Europe, touring museums and galleries, and exhibiting his own work in Germany.  Upon returning to the United States, Bluemner exhibited in the 1913 Armory Show, and in 1915 had a one-man show at 291.  Despite participating in several exhibitions, including solo shows, for the next ten years Bluemner failed to sell many paintings and lived with his family in near-poverty.  In 1916 he moved to New Jersey, living as an itinerant, until finally settling in South Braintree, Massachusetts, after his wife's death in 1926.  Over the next few years, Bluemner had several prominent one-man shows at the Whitney Studio Galleries and at the Marie Harriman Gallery in New York.  He was briefly employed for the Public Works of Art Project in 1934 and the Federal Art Project in 1936, but due to failing health was forced to stop painting.  Oscar Bluemner committed suicide in 1938. 
+</p>
+
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of painter Oscar Bluemner date from 1886 to 1939, with one item from 1960, and measure 6.6 linear feet.  The collection documents Bluemner's career through scattered biographical material and  personal and professional correspondence.  Almost one-half of the collection consists of Bluemner's extensive writings and notes about his artwork, painting techniques, and art theory in the form of diaries, notebooks, lists, essays, and notes - many of which are also illustrated. Also found are annotated books, exhibition catalogs, newsclippings, artwork and sketches by Bluemner, and photographs of Bluemner's artwork and of architecture. Bluemner's work in architecture is documented to a lesser degree through scattered licenses, photographs, and design drawings. 
+</p><p>
+Biographical material is scattered and includes autobiographical writings, a list of published works, an essay for a Guggenheim fellowship application, certificates, legal documents, and membership records.  Also of note are detailed technical diagrams of his studio easel.  The small amount of correspondence in this collection is with family, friends, artists, art galleries and museums, art collectors and patons, and others.  Notable correspondents include Stephan Bourgeois, Edward Bruce, Ernest Fiene, Arnold Friedman, Stefan Hirsch, Walter Hochschild,  Margaret Lewisohn, Aline Liebman, George Ferdinand Of, Albert Rothbart, Alfred Stieglitz, and Ludwig Vogelstein.  
+</p><p>
+Bluemner' extensive writings about his painting techniques and theories, and art history and criticism are found in painting and theory diaries, notebooks, notes, lists of artwork, essays, and writings for publication.  Painting Diaries contain Bluemner's handwritten notes about newly-completed paintings and current work.  Theory Diaries contain his notes on art theory.  Both sets of diaries contain many color illustrations and sketches.  Also of particular interest are Bluemner's notes and homemade notebooks on techniques which he often called "Easel Notes." Also found are notes on paintings he viewed in American art collections and four volumes of notes taken during his tour of Europe in 1912.  Bluemner also maintained extensive notes on Chinese and Japanese art history and styles.  Additional writings include a collection of notes he compiled and organized from his other diaries, notebooks, and writings for a book on painting.  
+</p><p>
+Bluemner's papers also contain books and exhibition catalogs annotated with his notes and illustrations - many of which are on the subject of Chinese and Japanese art.  Art motif and travel sketches contain motifs and artwork that Bluemner developed into themes for his paintings.  Most of the travel sketches are of towns in New Jersey, but also include sketches and notes on Italy, which he visited in 1912.  There is also a small sketchbook and drawings of buildings Bluemner designed.
+</p><p>Printed material includes exhibition catalogs and announcements, some of which are annotated with prices and additional information, as well as news and magazine clippings, and prints of published writings by Bluemner.  Photographs found in the collection include three photographs of buildings Bluemner designed, photographs of artwork, one print of Bluemner, and negatives.  
+</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged into 9 series: </p>
+<list>
+<item>Series 1: Biographical Material, 1886-circa 1937 (Box 1, OV 9; 0.2 linear feet)</item>
+<item>Series 2: Correspondence, 1889-1936 (Box 1; 0.2 linear feet)</item>
+<item>Series 3: Painting &amp; Theory Diaries, 1911-1936 (Box 1-2, 7; 1.2 linear feet)</item>
+<item>Series 4: Writings &amp; Notes, 1891-1892, 1909-1937 (Box 2-4, 8; 2.2 linear feet)</item>
+<item>Series 5: Annotated Books &amp; Catalogs, 1907-1933 (Box 4-5; 1.0 linear feet)</item>
+<item>Series 6: Art Motifs &amp; Travel Sketches, 1902-1936 (Box 5-6, 8; 1.4 linear feet)</item>
+<item>Series 7: Artwork, 1892-circa 1930s (Box 6; 4 folders)</item>
+<item>Series 8: Printed Material, 1906-1939, 1960, undated (Box 6; 0.3 linear feet)</item>
+<item>Series 9: Photographs, 1891, 1903, circa 1930s (Box 6; 5 folders)</item>
+</list>
+</arrangement>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Painting--Technique</subject>
+<subject encodinganalog="650" source="lcsh">Art--Philosophy</subject>
+<subject encodinganalog="650" source="lcsh">Painters--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Architects--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Art--History</subject>
+<subject encodinganalog="650" source="lcsh">Art criticism</subject>
+<subject encodinganalog="650" source="lcsh">Art, Chinese.</subject>
+<subject encodinganalog="650" source="lcsh">Art, Japanese.</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Diaries</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Sketches</genreform>
+<genreform encodinganalog="655" source="lcsh">Works of art</genreform>
+<genreform encodinganalog="655" source="lcsh">Writings</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Vogelstein, Ludwig, 1871-1934</persname>
+<persname encodinganalog="700" source="lcsh">Stieglitz, Alfred, 1864-1946</persname>
+<persname encodinganalog="700" source="lcsh">Rothbart, Albert</persname>
+<persname encodinganalog="700" source="lcsh">Of, George F. (George Ferdinand), b. 1876</persname>
+<persname encodinganalog="700" source="lcsh">Liebman, Aline Meyer, 1879-1966</persname>
+<persname encodinganalog="700" source="lcsh">Hirsch, Stefan, 1899-1964</persname>
+<persname encodinganalog="700" source="lcsh">Friedman, Arnold, 1874-1946</persname>
+<persname encodinganalog="700" source="lcsh">Fiene, Ernest, 1894-</persname>
+<persname encodinganalog="700" source="lcsh">Bruce, Edward, 1879-1943</persname>
+<persname encodinganalog="700" source="lcsh">Bourgeois, Stephan, 1881-1964</persname>
+<persname encodinganalog="700" source="lcsh">Hochschild, Walter</persname>
+<persname encodinganalog="700" source="lcsh">Lewisohn, Margaret</persname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Material, <unitdate>1886-circa 1937</unitdate></unittitle>
+<physdesc>(Box 1, OV 9; 0.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Biographical documents include a handwritten note by Bluemner, titled "My Documents: 1867-to date", which was found among his biographical papers, a two-page autobiographical essay, "Account 1892-1905", annotated by Bluemner, a handwritten chronology of events from 1893 to 1906, and a list of published writings from 1892 to 1918.  Various certificates and awards include diplomas, marriage and citizenship certificates, licenses to practice architecture, and photo-reproductions of a medal Bluemner received while a student in Berlin.  Other items of note are his essay "Plans for Study" which was attached to his Guggenheim Fellowship application, and detailed technical diagrams of his studio easel.  Additional documents consist of legal and membership records.</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Items are arranged by type of material and chronologically within each folder.  This series has been scanned in its entirety except for one envelope containing dried flowers. </p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Note by Bluemner about "My Documents," <unitdate>circa 1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>"Account 1892-1905," <unitdate>1905</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Chronology, <unitdate>circa 1906</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Education Certificates, <unitdate>1886, 1887, 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Medal from Royal Technical University of Berlin, <unitdate>circa 1892</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Certificate of Marriage, <unitdate>1897</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Licenses to Practice Architecture, <unitdate>1898, 1902, 1925</unitdate></unittitle>
+<physdesc>(See OV 9)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Certificate of U. S. Citizenship, <unitdate>1912</unitdate></unittitle>
+<physdesc>(See OV 9)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Biography in "Vereinigung ehemaliger Schüler des Gymnasiums zu Elberfeld," <unitdate>1913</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Salons of America, Inc. Membership, <unitdate>1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Guggenheim Fellowship, "Plan for Study," <unitdate>1932</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Legal Documents, <unitdate>1924, 1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Technical Drawings of Bluemner's Easel, <unitdate>1911</unitdate></unittitle>
+<physdesc>(See OV 9)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>List of Published Writings by Bluemner, <unitdate>1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Business Card, <unitdate>circa 1890</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Envelope containing dried flowers, <unitdate>circa late-1800s</unitdate></unittitle>
+<physdesc>(Not Scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 9</container>
+<container type="folder"></container>
+<unittitle>Licenses to Practice Architecture, <unitdate>1898, 1902, 1925</unitdate></unittitle>
+<physdesc>(Scanned with Box 1, F7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 9</container>
+<container type="folder"></container>
+<unittitle>Certificate of U. S. Citizenship, <unitdate>1912</unitdate></unittitle>
+<physdesc>(Scanned with Box 1, F8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 9</container>
+<container type="folder"></container>
+<unittitle>Technical Drawings of Bluemner's Easel, <unitdate>1911</unitdate></unittitle>
+<physdesc>(Scanned with Box 1, F13)</physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1889-1936</unitdate></unittitle>
+<physdesc>(Box 1; 0.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains Oscar Bluemner's scattered personal and professional correspondence, over half of which is in German, and all letters written prior to 1904 are in German.  Early correspondence is with his family and with close friend Oscar Klein.  Other correspondence is with fellow artists George Ferdinand Of, Edward Bruce, Stefan Hirsch, Ernest Fiene, and Arnold Friedman and with art collectors and patrons Aline Liebman, Ludwig Vogelstein, Margaret Lewisohn, Albert Rothbart, and Walter Hochschild, primarily discussing the purchase of Bluemner's work.  Many of these letters are annotated by Bluemner with notes regarding the correspondent and how he met them.  Of note are letters from art dealer Stephan Bourgeois, and two letters from Alfred Stieglitz (1919 and 1927).  Additional letters are from the Whitney Studio (later the Whitney Museum of American Art) regarding the purchase and exhibition of his work, and letters from other galleries and museums regarding the possibility of exhibiting his work.  There is a small amount of correspondence between Bluemner and art historian and friend John Davis Hatch, and a typescript of "An Open Letter and A Private Opinion" (1932) which Bluemner sent to various people and publications.
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Correspondence is arranged chronologically, followed by annotated envelopes which originally contained some of the letters, but were separated at some point prior to processing. This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">17-18</container>
+<unittitle>Correspondence, <unitdate>1889-1895</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">19-27</container>
+<unittitle>Correspondence, <unitdate>1902-1936</unitdate></unittitle>
+<physdesc>(9 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Undated Correspondence, <unitdate>circa 1889-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Envelopes originally containing correspondence, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Painting &amp; Theory Diaries, <unitdate>1911-1936</unitdate></unittitle>
+<physdesc>(Box 1-2, 7; 1.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains writings by Bluemner which he called "Painting Diaries" and "Theory Diaries".  All of the diaries dated after 1918 are unbound and consist of loose pages of notes which were often compiled by Bluemner into "diaries" at a later date.  Diaries contain very little discussion Bluemner's everyday life.  Portions of the diaries are written in German.</p>   <p>The Painting Diaries generally contain notes on Bluemner's newly-finished paintings or current work.  The notes are illustrated and include technical discussions of his work.   Bluemner's Theory Diaries include notes on art theory, such as color, form, line, and space.  Many are illustrated in color. They address what he referred to as the painting "problem."  The Theory Diaries date only from 1919 to 1925.  Additional similar writings dating after 1925 are found in Series 4: Writings &amp; Notes.  
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Diaries are arranged chronologically.  Most of the diaries are preceded by a large manilla envelope, originally containing the diary, on which Bluemner wrote the subject of the diary, dates, and additional notes.  Some of the envelopes were separated at an earlier date and are not matched to any particular diary. Portions of the diaries are not numbered and every attempt has been made to keep the pages in Bluemner's original order. Additional writings are found in Series 4:  Writings &amp; Notes.  The diaries have been separated because of their special designation by Bluemner.  In reality, there is little difference between the "diaries" and some of the additional writings in the other series. This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>Painting Diary (Fragment), <unitdate>1911</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Painting Diary, <unitdate>June 12, 1911 - January 30, 1912</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">32-34</container>
+<unittitle>Painting Diary, <unitdate>1912-1915</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Painting Diary, <unitdate>1916-1918</unitdate></unittitle>
+<physdesc>(See Box 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>Painting Diary, <unitdate>1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">37-39</container>
+<unittitle>Painting Diary, <unitdate>1919-1920</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">40-41</container>
+<unittitle>Theory Diary, <unitdate>1919-1920</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">42-43</container>
+<unittitle>Theory Diary, <unitdate>1921</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">44-45</container>
+<unittitle>Painting Diary, <unitdate>1922-1923</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">46-48</container>
+<unittitle>Theory Diary, <unitdate>1922-1923</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">49-51</container>
+<unittitle>Painting Diary, <unitdate>1924-1925</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>Theory Diary, <unitdate>1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">53-54</container>
+<unittitle>Theory Diary, <unitdate>1925</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">55-58</container>
+<unittitle>Painting Diary, <unitdate>1926-1929</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">1-4</container>
+<unittitle>Painting Diary, <unitdate>1930-1931</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Painting Diary, <unitdate>1932</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">6-7</container>
+<unittitle>Painting Diary, <unitdate>1933</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Painting Diary, <unitdate>1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Painting Diary, <unitdate>1935-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">10</container>
+<unittitle>Envelopes originally containing diaries, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container>
+<container type="folder"></container>
+<unittitle>Painting Diary, <unitdate>1916-1918</unitdate></unittitle>
+<physdesc>(Scanned with Box 1, F35)</physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Writings &amp; Notes, <unitdate>1891-1892, 1909-1937</unitdate></unittitle>
+<physdesc>(Box 2-4, 8; 2.2 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found in this series are Oscar Bluemner's extensive writings and notes about his paintings and techniques, and his views on  art history and art theory.  Included are various lists, essays, notes, and notebooks, many of which also include sketches and color illustrations as well as printed material which Bluemner attached to his notes.
+</p><p>
+Among the writings is Bluemner's "List of New Sketches and Notes for New Work" in which he recorded his paintings from the early 1930s.  Each painting is documented with a record number, date, and sketch, along with detailed notes on the color and composition.  There are additional lists of works of art, all written by Bluemner, including a list of his works in a Bourgeois Gallery show in 1921.  Also found here are writings for publications and lectures including a "Foreword" for an unidentified publication and an essay for a 1927 Georgia O'Keeffe exhibition catalog, titled "A Painter's Comment", which he annotated at a later date.  
+</p><p>
+This series also includes a group of notes and homemade notebooks on Bluemner's painting techniques, many of which he identified as "Easel Notes" because he kept them in his studio as painting manuals.  The notes discuss materials and techniques for watercolor, oil painting, and casein painting, and procedures for framing and shipping his works.  Also found within the notes are Bluemner's theories, instructions, formulas, illustrations, and material samples.
+</p><p>
+Bluemner's writings include his notes about artwork by other artists and paintings and artwork in museums, including the Metropolitan Museum of Art and the Museum of Fine Arts, Boston.  He created four volumes of notes taken during a tour of Europe in 1912, all of which are dated and arranged by European city.  Many of the notes include detailed sketches.   
+</p><p>
+Bluemner maintained extensive notes on Chinese and Japanese art history and styles.  Included among these notes are annotated clippings and reproductions, as well as sketches, drawings, and watercolors of paintings he had seen in books and at museums.  Additional annotated books &amp; catalogs are found in Series 5.  
+</p><p>
+This series contains a large collection of interesting and complicated notes Bluemner described as "criteria for new work extracted from all note-folios for a book on painting."  He pulled notes from his diaries, procedure and easel notes, lists, etc. and reorganized them around 1934.  The notes document many of his complex art theories including the concept of "Ponere" which he defined as "to pose, to place in a space", and this term is used throughout his writings.  Also discussed are line, space, materials, sources for paintings, and color theory.  They include prose, lists, sketches and illustrations, color and material samples, and news clippings.  He often used complicated color coding, abbreviations, and symbols to organize his ideas.  Of particular interest among the notes is Bluemner's "Pocket Book on New Work" written in 1934 (Box 3, folder 27) as a "compendium of all folios written."  Some of these notes are in German and Latin.  
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Writings and notes are arranged according to Bluemner's original arrangement.  Folder titles in quotation marks are Bluemner's original titles for his writings; titles in brackets were created by the archivist.  Most of the categories of material are preceded by an envelope, originally containing the items, on which Bluemner wrote a title for the contents, dates, and extensive notes.  Additional envelopes are found in the last folder of this series and include envelopes with a note stating that the contents were destroyed in 1936.  It is believed, based on notes on the envelopes, that Bluemner rearranged these papers and removed certain items while he was preparing to give them to John Davis Hatch.  Every attempt has been made to keep the pages in Bluemner's original order. This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">11-12</container>
+<unittitle>"List of New Sketches and Notes for New Work," <unitdate>1930-1934</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>[Lists of Works of Art], <unitdate>1916-1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>"A Painter's Comment," <unitdate>1927</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>"Foreword," <unitdate>circa 1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>"Notes for Lecture on Painting, Critique, &amp; Modern Problem," <unitdate>1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>"Principles of Painting as to Japanese Prints," <unitdate>1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>[Paper on Painting], <unitdate>1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>[Oswald Spengler's Work], <unitdate>1925-1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">20-21</container>
+<unittitle>"Easel Notes on Priming Panels," <unitdate>1927-1934</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>[Easel Notes], <unitdate>1929-1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>"Procedure (Easel-Table) of Oil Painting," <unitdate>1935</unitdate></unittitle>
+<physdesc>(See Box 8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">24</container>
+<unittitle>"Casein Painting Easel Notes," <unitdate>1925-1936</unitdate></unittitle>
+<physdesc>(See Box 8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">25</container>
+<unittitle>"Casein Mounting Material" and "Emulsion Formulas," <unitdate>1927-1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">26-27</container>
+<unittitle>"Framing, Crating, Shipping," <unitdate>1913-1936</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">28</container>
+<unittitle>[Paintings in American Collections], <unitdate>1916-1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>[European Paintings]<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">29-33</container>
+<unittitle>"Volume I: Bremen, Hamburg, Berlin, Dresden, Leipzig, Hannover, Dusseldorf, Köln," <unitdate>1912</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">34-38</container>
+<unittitle>"Volume II: Paris," <unitdate>1912</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">2</container>
+<container type="folder">39-42</container>
+<unittitle>"Volume III: Pisa, Florence, Rome, Naples, Siena, Bologna, Venice, Munich, Frankfurt," <unitdate>1912</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">1-2</container>
+<unittitle>"Volume IV: Antwerp, Amsterdam, The Haag, London," 
+<unitdate>1912</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">3</container>
+<unittitle>Miscellaneous, <unitdate>circa 1912</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>"St. Maria im Kapitol, Köln," <unitdate>1891-1892</unitdate></unittitle>
+<physdesc>(See also Box 8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">5-16</container>
+<unittitle>[Chinese and Japanese Paintings], <unitdate>1909-1935</unitdate></unittitle>
+<physdesc>(12 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">17</container>
+<unittitle>"Indian and Persian Paintings," <unitdate>1914-1922</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">18</container>
+<unittitle>"Music," <unitdate>1914-1918</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">19-38</container>
+<unittitle>[Notes for Books], <unitdate>1913-1937</unitdate></unittitle>
+<physdesc>(20 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">1-10</container>
+<unittitle>[Notes for Books], <unitdate>1913-1937</unitdate></unittitle>
+<physdesc>(10 folders; see also Box 8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">11</container>
+<unittitle>Notebook, <unitdate>1913, 1917</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">12</container>
+<unittitle>Miscellaneous Writings &amp; Notes, <unitdate>1908-circa 1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">13</container>
+<unittitle>Envelopes originally containing writings, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8 (sol)</container>
+<container type="folder"></container>
+<unittitle>"Procedure (Easel-Table) of Oil Painting," <unitdate>1935</unitdate></unittitle>
+<physdesc>(Scanned with Box 2, F23)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8 (sol)</container>
+<container type="folder"></container>
+<unittitle>"Casein Painting Easel Notes," <unitdate>1925-1936</unitdate></unittitle>
+<physdesc>(Scanned with Box 2, F24)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8 (sol)</container>
+<container type="folder"></container>
+<unittitle>"St. Maria im Kapitol, Köln," <unitdate>1891-1892</unitdate></unittitle>
+<physdesc>(Scanned with Box 3, F4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8 (sol)</container>
+<container type="folder"></container>
+<unittitle>[Notes for Books], <unitdate>1913-1937</unitdate></unittitle>
+<physdesc>(Scanned with Box 4, F1)</physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Annotated Books &amp; Catalogs, <unitdate>1907-1933</unitdate></unittitle>
+<physdesc>(Box 4-5; 1.0 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains books and exhibition catalogs (many on the subject of Chinese and Japanese art) annotated by Oscar Bluemner with extensive notes and illustrations.  Separate notes, sketches, news clippings, and other printed material may also found within the books.  Of particular interest are Bluemner's writings and illustrations on art theory found in <emph render="italic">A Compendium of Painting</emph>. Some of the books and Bluemner's notes are in German.
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Books are arranged in chronological order by date of publication. This series has been scanned in its entirety.
+</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">4</container>
+<container type="folder">14</container>
+<unittitle><emph render="italic">The Painter in Oil</emph> by Daniel Burleigh Parkhurst, <unitdate>1898</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">15</container>
+<unittitle><emph render="italic">Handbook of the Museum of Fine Arts Boston: Chinese and Japanese Art</emph>, <unitdate>1907</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">16</container>
+<unittitle><emph render="italic">Japanische Kunst</emph>, <unitdate>circa 1909</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">17</container>
+<unittitle><emph render="italic">A Compendium of Painting</emph> by Jacques Blockx, <unitdate>1910</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">18</container>
+<unittitle><emph render="italic">Der Japanische Holzschnitt</emph>, <unitdate>1911</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">19</container>
+<unittitle><emph render="italic">D'Eugène Delacroix au Néo-Impressionnisme</emph> by Paul Signac, <unitdate>1911</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">20</container>
+<unittitle><emph render="italic">Altmeister Deutscher Malerei</emph>, <unitdate>1913</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">21</container>
+<unittitle><emph render="italic">Metropolitan Museum of Art Special Exhibition of Chinese Paintings</emph>, <unitdate>1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">22</container>
+<unittitle><emph render="italic">Catalogue of a Loan Exhibition of Italian Primitives</emph>, <unitdate>1917</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">23</container>
+<unittitle><emph render="italic">Chinesische Landschafts-malerei</emph>, <unitdate>1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">24</container>
+<unittitle><emph render="italic">Die Chinesische Landschafts-malerei</emph>, <unitdate>circa 1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle><emph render="italic">The Adolph Lewisohn Collection of Modern French Paintings and Sculptures</emph>, <unitdate>1928</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">2</container>
+<unittitle>Annotated Chinese Art Exhibition Catalogs, miscellaneous, <unitdate>1920-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Art Motifs &amp; Travel Sketches, <unitdate>1902-1936</unitdate></unittitle>
+<physdesc>(Box 5-6, 8; 1.4 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Bluemner defined many of his groups of sketches and notes as either "Travel Sketches" or "Art Motifs".  Many of these were developed into themes for his paintings.  The folder titles listed below are Bluemner's own titles and definitions, such as  "Alley", "Central Port", or "House &amp; Mountain."  The most extensive motif found here is "Trees" consisting of sketches and notes on various types of trees, including notes on the compositional layout of trees in his paintings.  Bluemner also had art motif files of travel sketches of various places, mostly of towns in New Jersey, where he lived, but also of Italy, which he visited in 1912.  Additional sketches of these same places are  found among other files of art motifs.
+</p><p>
+There is a group of sketches Bluemner called "Mixed Themata." Other terms he used to label this same material are "Very Valuable" and "Vermilion Themata."  The items found here are the same types of sketches as the rest of his motif files, and some are labeled as "copies."  It appears from his notes, found among these items, that these sketches and notes were pulled from his files of motifs and reorganized, perhaps because they were of greater importance to him.  They were sorted by Bluemner according to his own coding system or set of abbreviations.
+</p><p>
+The files include pencil, charcoal, and colored sketches, most of which are heavily annotated with notes about color and composition.  Other items found in the files may include newspaper clippings of images related to the motif, and original file tabs and file dividers which Bluemner created.  Bluemner recorded the date and place on almost all of the sketches. 
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Art motifs and travel sketches are arranged alphabetically by subject according to Bluemner's original arrangement.  Most of the categories of material are preceded by an envelope, originally containing the items, on which Bluemner wrote a title for the contents, dates, and extensive notes.  It is believed, based on these notes, that Bluemner rearranged these papers and removed certain items while he was preparing to give them to John Davis Hatch.  Researchers should be aware that items are generally not in chronological order, and every attempt has been made to keep the pages in Bluemner's original order. This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">5</container>
+<container type="folder">3-5</container>
+<unittitle>"Alley," <unitdate>1917-1936</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">6-8</container>
+<unittitle>"Central Port," <unitdate>1913-1936</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">9-10</container>
+<unittitle>"Chimneys, Boats, Tanks," <unitdate>1914-1936</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">11</container>
+<unittitle>"Flowers," <unitdate>1917-1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">12-13</container>
+<unittitle>"Gable - Complex," <unitdate>1914-1935</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">14-15</container>
+<unittitle>"Gable - Single," <unitdate>1914-1936</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">16</container>
+<unittitle>"House &amp; Mountain," <unitdate>1918-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder"></container>
+<unittitle>Places<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">17</container>
+<unittitle>"Beattiestown," <unitdate>1913-1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">18</container>
+<unittitle>"Blackwells," <unitdate>1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">19</container>
+<unittitle>"Elizabeth," <unitdate>1919-1934</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">20</container>
+<unittitle>"Hoboken," <unitdate>1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">21-22</container>
+<unittitle>"Italy," <unitdate>1912</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">23</container>
+<unittitle>"Lehnenburg," <unitdate>1914-1915</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">24</container>
+<unittitle>"Montville," <unitdate>1914-1915</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">25</container>
+<unittitle>"Patterson," <unitdate>1913-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">26-27</container>
+<unittitle>"Quincy," <unitdate>1922-1926</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">28</container>
+<unittitle>"Rockaway," <unitdate>1912-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">29</container>
+<unittitle>"South River," <unitdate>1913-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">30</container>
+<unittitle>"Sparkhill," <unitdate>1915-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">31</container>
+<unittitle>"Stanhope," <unitdate>1914-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">32</container>
+<unittitle>"Wharton," <unitdate>1913-1914</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">33-37</container>
+<unittitle>"Sky" &amp; "Night" (also includes sketches of "Sun", "Moon", "Clouds"), <unitdate>1910-1936</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">38</container>
+<unittitle>"Snow Pictures," <unitdate>1912-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">39-41</container>
+<unittitle>"Square-Wall," <unitdate>1913-1936</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder"></container>
+<unittitle>Trees<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">5</container>
+<container type="folder">42</container>
+<unittitle>"Tree analysis for painting," <unitdate>1913-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>"Trees in combination with other shapes," <unitdate>1907-1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>"Altera Centre Setting," <unitdate>1912-1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">3</container>
+<unittitle>"Woods" &amp; "Shape of Foliage," <unitdate>1914-1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">4</container>
+<unittitle>"Snow &amp; Trees," <unitdate>1926-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">5</container>
+<unittitle>"Dome-Shaped Trees: Beech, Elm, Chestnut, Locust, Ash," <unitdate>1902-1925</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">6</container>
+<unittitle>"Fruit Trees," <unitdate>1917-1928</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">7</container>
+<unittitle>"Oak, Maple, Tulip, Dogwood," <unitdate>1903-1933</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">8</container>
+<unittitle>"Pine, Cedar, Poplar, Birch," <unitdate>1900-1924</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">9</container>
+<unittitle>"Willows," <unitdate>1905-1930</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">10</container>
+<unittitle>"Tree Trunks," <unitdate>1906-1936</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">11</container>
+<unittitle>[Leaves &amp; Shrubs], <unitdate>circa 1910s-1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">12</container>
+<unittitle>"Historical," <unitdate>1920-1921</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">13</container>
+<unittitle>[Watercolor sketches], <unitdate>1925-1926</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">6</container>
+<container type="folder">14-16</container>
+<unittitle>"General Folio" (also includes "Old Trunks"),  <unitdate>1912-1936</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">17-27</container>
+<unittitle>"Mixed Themata," <unitdate>1910-1936</unitdate></unittitle>
+<physdesc>(11 folders; See also Box 8)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">28</container>
+<unittitle>Envelopes originally containing sketches, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8 (sol)</container>
+<container type="folder"></container>
+<unittitle>"Mixed Themata," <unitdate>1910-1936</unitdate></unittitle>
+<physdesc>(Scanned with Box 6, F25)</physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Artwork, <unitdate>1892-circa 1930s</unitdate></unittitle>
+<physdesc>(Box 6; 4 folders)</physdesc></did>
+<scopecontent> 
+<p>This series contains two pen and ink drawings by Bluemner of the Cottage at Woodmere, a house he designed, as well as other miscellaneous artwork including a small painting of the Pergamon Museum and an ink sketch of the Bronx Court House.  Also found is a small sketchbook containing ink sketches and watercolors, believed to have belonged to Bluemner, and two figure drawings by a child with "Julie" written on them.  Numerous sketches and artwork are found in Bluemner's diaries, writings and notes, and art motifs. </p> 
+</scopecontent>
+
+<arrangement> 
+<p>This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">29</container>
+<unittitle>Drawings by Bluemner, "Cottage at Woodmere," <unitdate>circa 1901</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">30</container>
+<unittitle>Miscellaneous Artwork by Oscar Bluemner, <unitdate>1892, 1903-circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">31</container>
+<unittitle>Sketchbook, <unitdate>circa early-1900s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">32</container>
+<unittitle>Unidentified Drawings (Possibly by "Julie"), <unitdate>circa late-1800s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 8: </unitid><unittitle>Printed Material, <unitdate>1906-1939, 1960, undated</unitdate></unittitle>
+<physdesc>(Box 6; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p> Found here are exhibition catalogs and announcements for Bluemner's individual and group exhibitions, some of which are annotated with prices and other information.  Also found are news clippings about Bluemner and friends, as well as a clippings file compiled by Bluemner containing images of palm trees and cacti.   Additional clippings are found among his diaries, annotated books, other writings, and notes.  This series also contains copies of the German language New York magazine <emph render="italic">Walhalla</emph> which include articles by Bluemner, as well as a booklet containing his self-published essay on art.  
+</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Printed material is arranged by type of material and chronologically within each folder, followed by envelopes annotated by Bluemner which originally contained portions of this material. This series has been scanned in its entirety.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">33-35</container>
+<unittitle>Exhibition Announcements &amp; Catalogs, <unitdate>1912-1939, 1960</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">36-39</container>
+<unittitle>News Clippings, <unitdate>1906, 1911-1938</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">40</container>
+<unittitle>Undated News Clippings, <unitdate>circa 1911-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">41</container>
+<unittitle>News Clippings of Palm Trees &amp; Cactuses, <unitdate>circa 1920s-1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">42</container>
+<unittitle>Articles by Samuel A. Lewisohn, <unitdate>1931, 1933, 1935</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">43</container>
+<unittitle>Booklet by Bluemner, "What and When is Painting? To-day," <unitdate>1929</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">44</container>
+<unittitle>Press Release, <unitdate>1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">45</container>
+<unittitle><emph render="italic">Walhalla</emph> Magazine, <unitdate>1915-1916</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">46</container>
+<unittitle>Magazines, <unitdate>circa 1910-1928</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">47</container>
+<unittitle>Miscellaneous Printed Material, <unitdate>1913-1930, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">48</container>
+<unittitle>Envelopes originally containing printed material, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 9: </unitid><unittitle>Photographs, <unitdate>1891, 1903, circa 1930s</unitdate></unittitle>
+<physdesc>(Box 6; 5 folders)</physdesc></did>
+<scopecontent> 
+<p>This series contains a small number of photographs including three photographs of buildings designed by Bluemner, several photographs of his artwork, and contact prints of his artwork and  Bluemner. </p> 
+</scopecontent>
+
+<arrangement> 
+<p>Photographs of artwork have not been scanned.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">6</container>
+<container type="folder">49</container>
+<unittitle>Photographs of Buildings Designed by Bluemner, <unitdate>1891, 1903</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">50-52</container>
+<unittitle>Photographs of Artwork, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc>(3 folders; not scanned)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">53</container>
+<unittitle>Prints from Negative Strips, <unitdate>circa 1930s</unitdate></unittitle>
+<physdesc>(Includes 1 image of Oscar Bluemner; partially scanned)</physdesc>
+</did></c02>
+
+</c01>
+
+</dsc>
+
+
+
+</archdesc>
+</ead>
+
+
+
+
+

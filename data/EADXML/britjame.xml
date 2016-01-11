@@ -1,0 +1,2125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+    <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="Completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+        <eadid countrycode="US" mainagencycode="US-DSI-AAA" url="http://www.aaa.si.edu/collections/findingaids/xml/britjame.xml">britjame.xml</eadid>
+        <filedesc>
+            <titlestmt>
+                <titleproper>A Finding Aid to the James Britton Papers, 
+                    <date calendar="gregorian" era="ce" type="inclusive">circa 1905-1984, </date>
+                    <date calendar="gregorian" era="ce" type="bulk">bulk circa 1905-1935</date>, in the Archives of American Art
+                    <num>AAA.britjame</num>
+                </titleproper>
+                <author>Finding aid prepared by Jayna M. Hanson</author>
+                <sponsor>Funding for the processing and digitization of this collection was provided by the Terra Foundation for American Art</sponsor>
+            </titlestmt>
+            <publicationstmt>
+                <publisher>Archives of American Art</publisher>
+                <address>
+                    <addressline>750 9th Street, NW</addressline>
+                    <addressline>Victor Building, Suite 2200</addressline>
+                    <addressline>Washington, D.C., 20001</addressline>
+                    <addressline>Phone: 202-633-7950</addressline>
+                    <addressline>http://www.aaa.si.edu/askus</addressline>
+                </address>
+                <date>March 15, 2010</date>
+            </publicationstmt>
+            <notestmt>
+                <note>
+                    <p>This finding aid was created from a MARC collection-level record. 
+                        <num type="siris_bib">209393</num></p>
+                </note>
+            </notestmt>
+        </filedesc>
+        <profiledesc>
+            <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2014-10-07T11:40-0400</date>
+            </creation>
+            <langusage>
+                <language>English</language></langusage>
+        </profiledesc>
+    </eadheader>
+    <archdesc level="collection">
+        <did>
+            <unittitle>James Britton papers</unittitle>
+            <unitid>AAA.britjame</unitid>
+            <repository>
+                <corpname>Archives of American Art</corpname>
+            </repository>
+            <langmaterial>
+                <language langcode="eng"/>
+            </langmaterial>
+            <physdesc>
+                <extent>2.9 Linear feet</extent>
+            </physdesc>
+            <unitdate calendar="gregorian" era="ce" normal="1905/1935" type="bulk">bulk 1905-1935</unitdate>
+            <unitdate calendar="gregorian" era="ce" normal="1900/1984" type="inclusive">circa 1905-1984</unitdate>
+            <abstract id="ref1" label="Abstract:">The papers of painter and writer James Britton measure 2.9 linear feet and date from circa 1905-1984, with the bulk of the material dating from circa 1905-1935. The bulk of the papers consist of 49 diaries dating from 1918-1935, plus notebooks of diary excerpts, that chronicle Britton's daily activities and include lists, illustrations, and drafts of correspondence. Additional papers include biographical information compiled by the Britton family; scattered business and financial records; correspondence, including copies of Britton's letters to the editors of the 
+                <emph render="italic">Hartford Courant</emph> and the 
+                <emph render="italic">Hartford Times</emph>; additional writings and notes that include drafts and manuscripts of an autobiography, drafts of articles for his publication 
+                <emph render="italic">Art Opus</emph>, and other writings; sketches and a woodcut print; printed materials, including clippings of his published writings for 
+                <emph render="italic">Art Review International</emph>, 
+                <emph render="italic">Book Notes</emph>, and 
+                <emph render="italic">Opus</emph>; and one photograph of Britton and of works of art.</abstract>
+            <origination label="creator">
+                <persname source="ingest">Britton, James</persname>
+            </origination>
+        </did>
+        <acqinfo id="ref2">
+            <head>Provenance</head>
+            <p>James Britton's granddaughters, Barbara Britton and Ursula Roberts Britton donated the James Britton papers in 1985.</p>
+        </acqinfo>
+        <altformavail id="ref3">
+            <head>Alternative Forms Available</head>
+            <p>This site provides access to the papers of 
+                <emph render="bold">James Britton</emph> in the Archives of American Art that were digitized in 
+                <date calendar="gregorian" era="ce" type="scan_date">2010</date>, and total 
+                <num type="scan_count">6872</num> images.</p>
+            <p>Materials that have not been digitized include photographs of works of art, duplicates, and some printed materials.</p>
+        </altformavail>
+        <processinfo id="ref4">
+            <head>Processing Information</head>
+            <p>The James Britton papers were arranged and microfilmed shortly upon receipt on reels 3647-3651. In 2010, Jayna Hanson rearranged the papers and wrote a finding aid prior to digitization in 2010 with funding provided by the Terra Foundation for American Art.</p>
+        </processinfo>
+        <prefercite id="ref5">
+            <head>Preferred Citation</head>
+            <p>James Britton papers, circa 1905-1984, bulk circa 1905-1935. Archives of American Art, Smithsonian Institution.</p>
+        </prefercite>
+        <accessrestrict id="ref6">
+            <head>Restrictions on Access</head>
+            <p>Use of original papers requires an appointment.</p>
+        </accessrestrict>
+        <userestrict id="ref7">
+            <head>Ownership and Literary Rights</head>
+            <p>The James Britton papers are owned by the Archives of American Art, Smithsonian Institution. The collection is subject to all copyright laws. Copyright ownership remains with Barbara Britton and Ursula Britton, who have granted the Archives permission to digitize the collection and post on the Archives website.</p>
+        </userestrict>
+        <bioghist id="ref8">
+            <head>Biographical Note</head>
+            <p>James Britton (1878-1936) was a portrait painter and writer active in Connecticut and New York. Britton wrote extensively about American art and artists and was the editor of his own publications 
+                <emph render="italic">Art Review International</emph> and 
+                <emph render="italic">Opus</emph>. Also, he was a member of the group of New York painters and sculptors known as The Eclectics.</p>
+            <p>Born in Hartford, Connecticut in 1878, James Britton began his career as an apprentice working under August Jaccaci at 
+                <emph render="italic">Scribner's Magazine</emph> in 1895. He studied under George de Forest Brush at the Art Students' League and under Walter Griffin and Charles Noel Flagg in Hartford. He exhibited and worked with many of the American artists associated with the Ash Can school and The Eclectics, a group of New York artists that included Theresa Bernstein, Guy Pene du Bois, Walter Griffin, Philip L. Hale, Eugene Higgins, George Luks, Jane Peterson, Maurice Prendergast, and Mahonri Young. Mainly, Britton worked as a portrait painter but produced many landscapes of Sag Harbor, Long Island, and of his homes in Connecticut. He was a founding member of the New Society of American Artists and the Connecticut Academy of Fine Arts. He exhibited at numerous New York City galleries including Ainslie Galleries, Arlington Galleries, Babcock Galleries, Dudensing Galleries, Folsom Galleries, and at the studio of sculptor Marie Apel.</p>
+            <p>A prolific writer on American art and artists, as well as an illustrator, Britton worked as staff artist for the 
+                <emph render="italic">Hartford Times </emph>and as an art critic for 
+                <emph render="italic">American Art News</emph> and the 
+                <emph render="italic">Hartford Courant</emph>. He also founded and edited 
+                <emph render="italic">Art Review International</emph> and 
+                <emph render="italic">Opus</emph>. Two of his published books include 
+                <emph render="italic">Copley, Painter of the Revolution</emph> and 
+                <emph render="italic">Artists of America</emph>. Britton was also interested in classical music and wrote on composers Haydn and Beethoven. Britton's extensive diaries found within his papers chronicle his daily life and commentary.</p>
+            <p>In 1914, Britton married Caroline Korner and settled mostly in Connecticut. They had three children, Jerome, Teresa, and Ruth. In 1928, a car struck Britton and left him disabled. Although he continued to paint, he suffered from ill-health as a result of the accident. He died in 1936.</p>
+            <p>James Britton's works are represented at the Wadsworth Atheneum, Mark Twain Memorial, Manchester Public Library and at St. Joseph's College.</p>
+        </bioghist>
+        <scopecontent id="ref9">
+            <head>Scope and Content Note</head>
+            <p>The papers of painter and writer James Britton measure 2.9 linear feet and date from circa 1905-1984, with the bulk of the material dating from circa 1905-1935. The bulk of the papers consist of 49 diaries dating from 1918-1935, plus notebooks of diary excerpts, that chronicle Britton's daily activities and include lists, illustrations, and drafts of correspondence. Additional papers include biographical information compiled by the Britton family; scattered business and financial records; correspondence, including copies of Britton's letters to the editors of the 
+                <emph render="italic">Hartford Courant</emph> and the 
+                <emph render="italic">Hartford Times</emph>; additional writings and notes that include drafts and manuscripts of an autobiography, drafts of articles for his publication 
+                <emph render="italic">Art Opus</emph>, and other writings; sketches and a woodcut print; printed materials, including clippings of his published writings for 
+                <emph render="italic">Art Review International</emph>, 
+                <emph render="italic">Book Notes</emph>, and 
+                <emph render="italic">Opus</emph>; and one photograph of Britton and of works of art.</p>
+            <p>Biographical information consists of a file of photocopied materials prepared by the Britton Family. Scattered business and financial records include papers relating to Britton's auto accident, indexes of letters, illustrated indexes and lists of works of art, miscellaneous invoices and receipts, and file relating to Arlington Gallery.</p>
+            <p>Nine folders of correspondence include letters written to and by Britton along with posthumus materials to his widow, Caroline Britton. Correspondents include artists and friends Gertrude Fiske, Eugene Higgins, Kyonei Inukai, Andrew Kelly, Dewitt McClellan Lockman, Edwin Valentine Mitchell, Maurice Prendergast, Duncan Phillips, Alfred Stieglitz, Robert Vonnoh, and Robert C. Vose.</p>
+            <p>The bulk of the Britton papers consist of his extensive diaries - 49 volumes, plus notebooks of excerpts and detailed indexes. The diaries date from 1918-1935 and details Britton's daily activities and observations about art figures active in New York and Connecticut, classical music, the Great Depression, Prohibition, the Catholic Church, and politics. In addition, Britton talks of his relationships with his wife and children. The diaries served as a place for Britton to make lists of works of art, portrait subjects, potential clients, etc. Britton also created "Notebooks of Diary Excerpts" and a detailed index of many of the diaries.</p>
+            <p>Additional writings and notes include a handwritten and incomplete typescript of an autobiography, writings for Britton's publication 
+                <emph render="italic">Opus</emph>, and miscellaneous writings about art, music and plays. Writings by others include works by Duncan Scott Kent and Blackfield.</p>
+            <p>Artwork includes a print and sketches by Britton, and children's drawings.</p>
+            <p>Printed materials include issues of Britton's 
+                <emph render="italic">Art Review International</emph>, 
+                <emph render="italic">Opus</emph>, and other publications for which he wrote articles or provided illustration, clippings, exhibition catalogs, and programs.</p>
+            <p>Photographs include one photo of the artist with a painting and photos of works of art.</p>
+        </scopecontent>
+        <arrangement id="ref10">
+            <head>Arrangement</head>
+            <p>The collection is arranged as 8 series:</p>
+            <list type="ordered">
+                <item>Series 1: Biographical Information, 1970-1984 (Box 1; 1 folder)</item>
+                <item>Series 2: Business and Financial records, 1919-1933 (Box 1; 7 folders)</item>
+                <item>Series 3: Correspondence, 1913-1945 (Box 1; 9 folders)</item>
+                <item>Series 4: Diaries, 1918-1935 (Box 1-2; 1.5 linear feet)</item>
+                <item>Series 5: Writings and Notes, circa 1910s-1931 (Box 2-3; 0.4 linear feet)</item>
+                <item>Series 6: Artwork, circa 1920-1929 (Box 3; 5 folders)</item>
+                <item>Series 7: Printed Material, 1910-1982 (Box 4; 0.4 linear feet)</item>
+                <item>Series 8: Photographs, circa 1905-1930s (Box 4, OV 1; 3 folders)</item>
+            </list>
+        </arrangement>
+        <controlaccess>
+            <corpname source="ingest">Arlington Galleries (New York, N.Y.)</corpname>
+            <persname source="ingest">Blackfield</persname>
+            <persname source="ingest">Fiske, Gertrude, 1878-1961</persname>
+            <persname source="ingest">Higgins, Eugene, 1874-1958</persname>
+            <persname source="ingest">Inukai, Kyohei, 1913-</persname>
+            <corpname source="ingest">Kelly, Andrew J.</corpname>
+            <corpname source="ingest">Kent, Duncan Scott</corpname>
+            <corpname source="ingest">Lockman, DeWitt McClellan, 1870-1957</corpname>
+            <corpname source="ingest">Mitchell, Edwin Valentine, 1890-1960</corpname>
+            <persname source="ingest">Phillips, Duncan, 1886-1966</persname>
+            <persname source="ingest">Prendergast, Maurice Brazil, 1858-1924</persname>
+            <persname source="ingest">Stieglitz, Alfred, 1864-1946</persname>
+            <corpname source="ingest">Vonnoh, Robert William, 1858-1933</corpname>
+            <corpname source="ingest">Vose, Robert C. (Robert Churchill), 1911-</corpname>
+            <subject source="lcsh">Art critics</subject>
+            <subject source="lcsh">Art, Modern--20th century--Connecticut</subject>
+            <subject source="lcsh">Art, Modern--20th century--New York (State)--New York</subject>
+            <subject source="aat">Authors--New York (State)--New York</subject>
+            <genreform source="aat">Diaries</genreform>
+            <genreform source="lcsh">Drafts</genreform>
+            <genreform source="aat">Illustrations</genreform>
+            <genreform source="lcsh">Notebooks</genreform>
+            <subject source="aat">Painters--New York (State)--New York</subject>
+            <subject source="lcsh">Painters--New York (State)--New York--Diaries</subject>
+            <genreform source="lcsh">Photographs</genreform>
+            <genreform source="aat">Prints</genreform>
+            <genreform source="aat">Sketches</genreform>
+        </controlaccess>
+        <dsc>
+            <c01 id="ref13" level="series">
+                <did>
+                    <unittitle>Biographical Information</unittitle>
+                    <unitid>Series 1</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1970/1984" type="inclusive">1970-1984</unitdate>
+                    <physdesc id="ref245" label="General Physical Description note">(Box 1; 1 folder)</physdesc>
+                </did>
+                <scopecontent id="ref15">
+                    <head>Scope and Contents note</head>
+                    <p>A file of photocopied materials prepared by the Britton family includes correspondence concerning Britton, a list of articles by Britton, and excerpts from reviews written by Britton.</p>
+                </scopecontent>
+                <altformavail id="ref16">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety.</p>
+                </altformavail>
+                <c02 id="ref14" level="file">
+                    <did>
+                        <unittitle>Biographical Information Compiled by Britton Family</unittitle>
+                        <container id="cid987131" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987131" type="Folder">1</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1970/1984" type="inclusive">1970-1984</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref17" level="series">
+                <did>
+                    <unittitle>Business and Financial Records</unittitle>
+                    <unitid>Series 2</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1919/1933" type="inclusive">1919-1933</unitdate>
+                    <physdesc id="ref244" label="General Physical Description note">(Box 1; 7 folders)</physdesc>
+                </did>
+                <scopecontent id="ref25">
+                    <head>Scope and Contents note</head>
+                    <p>There are scattered records relating to Britton's auto accident including a police report; a gallery tag from Arlington Galleries; an index of letters sent and an address book; illustrated indexes of works of art by Britton in which he drew small representative sketches of his portraits and landscapes; a list of works of art; and various receipts and invoices.</p>
+                </scopecontent>
+                <altformavail id="ref26">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety.</p>
+                </altformavail>
+                <c02 id="ref18" level="file">
+                    <did>
+                        <unittitle>Auto Accident</unittitle>
+                        <container id="cid987130" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987130" type="Folder">2</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1928-03-09/1928-03-09">1928 March 9</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref19" level="file">
+                    <did>
+                        <unittitle>Gallery Tag--Arlington Gallery</unittitle>
+                        <container id="cid987129" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987129" type="Folder">3</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref20" level="file">
+                    <did>
+                        <unittitle>Index, Letters Sent and Address Book</unittitle>
+                        <container id="cid987128" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987128" type="Folder">4</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1924/1925" type="inclusive">1924-1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref21" level="file">
+                    <did>
+                        <unittitle>Illustrated Index, Works of Art--Portraits</unittitle>
+                        <container id="cid987127" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987127" type="Folder">5</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1925/1939" type="inclusive">circa 1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref22" level="file">
+                    <did>
+                        <unittitle>Illustrated Index, Works of Art--Landscapes</unittitle>
+                        <container id="cid987126" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987126" type="Folder">6</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1925/1939" type="inclusive">circa 1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref23" level="file">
+                    <did>
+                        <unittitle>Lists of Works of Art</unittitle>
+                        <container id="cid987125" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987125" type="Folder">7</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 May</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref24" level="file">
+                    <did>
+                        <unittitle>Receipts and Invoices</unittitle>
+                        <container id="cid987124" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987124" type="Folder">8</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1919/1935" type="inclusive">1919-1935</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref27" level="series">
+                <did>
+                    <unittitle>Correspondence</unittitle>
+                    <unitid>Series 3</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1913/1945" type="inclusive">1913-1945</unitdate>
+                    <physdesc id="ref243" label="General Physical Description note">(Box 1; 9 folders)</physdesc>
+                </did>
+                <scopecontent id="ref37">
+                    <head>Scope and Contents note</head>
+                    <p>This series consists of general correspondence between James Britton and artists and friends as well as correspondence regarding his publications 
+                        <emph render="italic">Art Review International</emph> and 
+                        <emph render="italic">Opus</emph>. Also found are copies of Britton's letters to the editors of the 
+                        <emph render="italic">Hartford Times </emph>and the 
+                        <emph render="italic">Hartford Courant</emph>. Of note is a draft of a letter written to President Calvin Coolidge urging for the creation of a Secretary of Fine Arts written on another letter dated August 20, 1983. Britton also wrote draft responses on incoming letters. Posthumus letters written to Britton's wife include condolence letters and letters from Katherine Day of the Mark Twain Memorial concerning a donation of Britton's painting of the author.</p>
+                    <p>Correspondents include Caroline Korner Britton, Gertrude Fiske, Eugene Higgins, Kyonei Inukai, Andrew J. Kelly, DeWitt McClellan Lockman, Edwin Valentine Mitchell, Maurice Prendergast, Duncan Phillips, Alfred Stieglitz, Robert Vonnoh, and Robert C. Vose.</p>
+                </scopecontent>
+                <altformavail id="ref38">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety.</p>
+                </altformavail>
+                <c02 id="ref28" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid987123" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987123" type="Folder">9</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1913/1914" type="inclusive">1913-1914</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref29" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid987122" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987122" type="Folder">10</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1924" type="inclusive">1920-1924</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref30" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid987121" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987121" type="Folder">11</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1925/1929" type="inclusive">1925-1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref31" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid987120" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987120" type="Folder">12</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1930/1935" type="inclusive">1930-1935</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref32" level="file">
+                    <did>
+                        <unittitle>1936-1938</unittitle>
+                        <container id="cid987119" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987119" type="Folder">13</container>
+                    </did>
+                </c02>
+                <c02 id="ref33" level="file">
+                    <did>
+                        <unittitle/>
+                        <container id="cid987118" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987118" type="Folder">14</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1945/1945">1945</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref34" level="file">
+                    <did>
+                        <unittitle>Undated</unittitle>
+                        <container id="cid987117" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987117" type="Folder">15</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1905/1939" type="inclusive">circa 1910s-1930s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref35" level="file">
+                    <did>
+                        <unittitle>Letters to the Editor, Hartford Courant</unittitle>
+                        <container id="cid987116" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987116" type="Folder">16</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1925/1936" type="inclusive">circa 1930-1936</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref36" level="file">
+                    <did>
+                        <unittitle>Letters to the Editor, Hartford Times</unittitle>
+                        <container id="cid987115" label="Mixed Materials" type="Box">1</container>
+                        <container parent="cid987115" type="Folder">17</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref39" level="series">
+                <did>
+                    <unittitle>Diaries</unittitle>
+                    <unitid>Series 4</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1918/1935" type="inclusive">1918-1935</unitdate>
+                    <physdesc id="ref242" label="General Physical Description note">(Box 1-2; 1.5 linear feet)</physdesc>
+                </did>
+                <scopecontent id="ref156">
+                    <head>Scope and Contents note</head>
+                    <p>James Britton detailed his thoughts, work, and other activities in 49 diaires. He also created 10 notebooks of diary excerpts and a detailed index of subjects and names found in the diaries.</p>
+                </scopecontent>
+                <altformavail id="ref246">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety, except for one incomplete draft diary index created by Britton, which was superceded by a later index.</p>
+                </altformavail>
+                <arrangement id="ref157">
+                    <head>Arrangement note</head>
+                    <p>The Diaries series is arranged into 2 subseries:</p>
+                    <p>
+                        <list>
+                            <item>Subseries 4.1: Diaries, 1918-1935</item>
+                            <item>Subseries 4.2: Notebooks of Diary Excerpts, 1918-1934</item>
+                        </list></p>
+                </arrangement>
+                <c02 id="ref40" level="subseries">
+                    <did>
+                        <unittitle>Diaries</unittitle>
+                        <unitid>Subseries 4.1</unitid>
+                        <unitdate calendar="gregorian" era="ce" normal="1918/1935" type="inclusive">1918-1935</unitdate>
+                    </did>
+                    <scopecontent id="ref140">
+                        <head>Scope and Contents note</head>
+                        <p>Britton's diaries cover a wide-range of subjects including current affairs and his thoughts about American art and artists, the art scene in New York and Connecticut, classical music, the Great Depression, Prohibition, the Catholic Church, politics, his artwork and writings, his professional associations, New York galleries and exhibitions, and his relationships with family and friends. The diaries also include lists and sketches, including sketches of paintings in his studio at the time of the diary entry. The diaries provide an intimate and descriptive perspective of the Great Depression and its effect on the American family. Hard economic times forced Britton to reuse his children's school composition notebooks as diaries, often writing in the margins or in between the original lines of writing. He describes the toll of the economy on his relationship with his family.</p>
+                        <p>The diaries contain exhaustive detail about the New York art scene and his fellow artists. He writes about George Bellows, Childe Hassam, Ernest Blumenschein, among many others, and about visiting numerous galleries, museums, and exhibitions, such as Knoedler, Frank Rehn, and Kraushaar Galleries, as well as his membership in various clubs and associations, including the New Society of American Artists.</p>
+                        <p>There are two numbered sets of diaries. The first set is numbered XXV-XL and the second set is numbered Miscellanous Volumes 1-32. Britton also created a two-volume index of his diaries numbered XXV-XL. Most of the index was transcribed by the processing archivist and a partial list of relevant name/subject entries is found with the link to each individual diary. A more comprehensive list of entries from Britton's index is also included as an addendum.</p>
+                        <p>A Volume XXX B is referenced in Britton's index which does not appear to be in the collection. It may be missing or perhaps the number was changed by Britton at a later date.</p>
+                        <p>The narrative summaries and access points included with the Miscellaneous Volumes 1-32 were created by the processing archivist and should not be considered fully comprehensive.</p>
+                        <p>
+                            <ref ns2:actuate="onLoad" ns2:show="embed" ns2:title="Addendum" target="ref143">See Addendum List of Names and Subjects for Diaries XXV-XL from Series 4.1.</ref></p>
+                    </scopecontent>
+                    <altformavail id="ref142">
+                        <head>Existence and Location of Copies note</head>
+                        <p>This subseries has been scanned in its entirety.</p>
+                    </altformavail>
+                    <odd id="ref143">
+                        <head>Addendum List of Names and Subjects from Diary Volumes XXV-XL in Series 4.1.</head>
+                        <p>
+                            <list>
+                                <item>Adams, Herbert: XXVII, 88</item>
+                                <item>Ainslie, George: XXXI, 66, 94; XXXII, 38-39; XXXV, 59; XXXVIII, 9, 28, 33</item>
+                                <item>Aitken, Robert J: XXXI, 38-40, 44, 46; XXXV, 7-8, 20, 43; XXXVI, 23</item>
+                                <item>Alexander, Francis: XXXVI, 2</item>
+                                <item>Allen, Ted: XXXVII, 29</item>
+                                <item>Andrews, Helen: XXIX, 68</item>
+                                <item>Anderson, Karl: XXVII, 116</item>
+                                <item>Anderson, Oscar: XXV, 64, 71, 103-106, 119; XXVI, 28; XXXV, 16</item>
+                                <item>Anderson, Ruth: XXXVIII, 30</item>
+                                <item>Anisfeld, Boris: XXVI 48-5l; XXVII; XXXI, 93</item>
+                                <item>Apel, Marie: XXV, 52; XXVI, 44, 47, 57, 97-99; XXIX, 40, 70</item>
+                                <item>Armistice: XXVI, 64-68, 76</item>
+                                <item>Arndt, Paul: XXIX, 70 </item>
+                                <item>Art News: XXXVIII, 73</item>
+                                <item>Art Review International: XXVII, 1, 59; XXXIII, list</item>
+                                <item>Atwood, William E: XXV, 50, 53, 56, 62-63, 67-70, 88, 90; XXVI, 28</item>
+                                <item>Auerbach-Levy, William: XXV, 73, 80</item>
+                                <item>Avery, Milton: XXIX, 54</item>
+                                <item>Babcock, E.C.; XXVI, 85, 90, 102-3, 112, 117, 123, 127; XXVII, 38, 41, 49, 73, 80; XXXI, 66-8, 72; XXXV, 60, 108</item>
+                                <item>Ballerini, Nicolo: XXXI, 47; XXXVI, 15-7</item>
+                                <item>Bannon, Annie: XXV, 4; XXVII, 118; XXIX, 52; XXX, 12; XXXI, 13, 75-6, 93; XXXII, 34; XXIV, 1, 138</item>
+                                <item>Baker, Bryant: XXV, 51, 56, 62, 83, 88, 92</item>
+                                <item>Barile, Xavier J.: XXXI, 95; XXXII, 46; XXXV, 124; XXXVII, 29</item>
+                                <item>Barry, James: XXVI, 82; XXIX, 32; XXX, 18; XXXI, 28; XXXIV, 84, self portrait</item>
+                                <item>Bartlett, Paul: XXVII, 65, 90, 109; XXX, 20; XXXII, 1, 34-5; XXXV, 7, 20</item>
+                                <item>Bayley, Frank [Copley Gallery]: XXV, 70, 101-102; XXIX, 4-5, 59</item>
+                                <item>Beal, Gifford: XXVII, 28, 61, 70; XXXI, 76-80; XXXV, 117</item>
+                                <item>Bean, Caroline: XXVII, 49; XXXVI, 14</item>
+                                <item>Beaux, Cecelia: XXVII, 54, 69, 119; XXXIII, 2</item>
+                                <item>Beckwith, Carrol: XXIX, 1</item>
+                                <item>Bellows, George: XXV, 84; XXVI, 41-6, 187; XXVII, 114-117; XXXIX, 6, 70; XXX, 12; XXXII, 46; XXXV, 43; XXXV B, 2, 3, 6; XXXVII, 49, 100; XXXI, 52, 73; XXXII, 46; XXXIII, 8; XXXVII, 14</item>
+                                <item>Belcher, Hilda: XXXVIII, 29</item>
+                                <item>Bernstein, Teresa: XXV, 38, 50-5, 69, 80, 90-105; XXVI, 44-6, 58-9, 63, 80-4, 90-2, 104, 133</item>
+                                <item>Betts, Louis: XXVII, 25</item>
+                                <item>Birch Miniature: XXVII</item>
+                                <item>Blakelock, R.A.: XXX, 27, 42-3, 46; XXXIV, 37; XXXV, 78</item>
+                                <item>Blashfield, Edwin H.: XXVI, 42</item>
+                                <item>Booth, Ralph H.: XXV, visits Gloster exhibit, 80</item>
+                                <item>Borglum, Gutzon: XXX, 20</item>
+                                <item>Boswel, Peyton: XXVI, 98; XXXIII, 16</item>
+                                <item>Bouche, Louis: XXXVII, 25</item>
+                                <item>Boucher, Dr.: XXV, 3, 103-106; XXXI, 76</item>
+                                <item>Bowdoin, W.G.: XXVI, 47-8, 62, 91, 103, 123; XXVII, 69; XXXI, 2; XXXIII, 2; XXXVI, 26-7</item>
+                                <item>Brandegee, Robert B.: XXV, 70; XXVI, 31, 62; XXVII, 43, 57, 118-19; XXIX, 2, 44, 68, 72; XXXVII, 24</item>
+                                <item>Brennan, Alfred</item>
+                                <item>Britton, Caroline: XXV, 32; XXVII, 49; XXXIV, 22, 31; XXXVIII, 61</item>
+                                <item>Britton, Dr. Christian: XXVI, 48, 50-2, 60, 86, 117; XXVII, 32, 115-117; XXX, 3-4; XXXI, 92; XXXIII, 30; XXXIV, 15; XXXVI, 26 </item>
+                                <item>Britton, Ernest J.: XXVI, 39; XXIX, 44, 52; XXX12, XXXI, 7-13; XXXI, 50, 92; XXXII, 32-33; XXXIII</item>
+                                <item>Britton, Jerome: XXV, 37; XXXVIII, 32, 35</item>
+                                <item>Britton, Captain J.C.: XXV, 3; XXVI, 2, 29, 43; XXVII, 114; XXIX, 2, 44, 52, 74; XXXI, 12, 50, 65-71; XXXV, 9-11</item>
+                                <item>Britton, Mrs. J.C.: XXV, 3, 25</item>
+                                <item>Britton, Leo F.: XXXI, 76</item>
+                                <item>Britton, Ruth: XXX; XXXVIII, 54, 63</item>
+                                <item>Britton, Teresa: XXV, 61; XXVI, 115; XXVII, 110</item>
+                                <item>Brooks, Richard: XXV, 55, 71</item>
+                                <item>Brown, Frank L.: XXV, 71, 92</item>
+                                <item>Brown, Henry Kirke: XXXIII, 37</item>
+                                <item>Bruno, Guido: XXVII, 110</item>
+                                <item>Brush, Franklin: XXV, 56, 63, 97, 105-7, 137</item>
+                                <item>Brush, George de Forest: XXXIII, 2</item>
+                                <item>Buchanan, Charles L: XXVII, 42</item>
+                                <item>Bunce, W. Gedney: XXVII, 46, 48, 71-2; XXXV, 6, 120</item>
+                                <item>Burr, Colin: XXIX, 5</item>
+                                <item>Burrows, Carlyle: XXXVII, 29; XXXVIII, 10, 31, 72</item>
+                                <item>Buttero, Arturo: XXXVI, 24, 45</item>
+                                <item>Caffin, Charles H.: XXVII, 80</item>
+                                <item>Cameron, D.Y.: XXIX</item>
+                                <item>Capone, Gaetano: XXVI, 100</item>
+                                <item>Caprio, V.D.: XXXV, 42, 45, 94-5</item>
+                                <item>Carlsen, Enid: XXIX, 5, 72; XXXI, 27, 76, 77, 82; XXXIII, 1-2; XXXVI, 68; XXXV B, 7</item>
+                                <item>Carroll, John: XXXIII, 20-4; XXXV, 32, 34, 45, 64, 89-90, 106-7, 212, 127, 135-6; XXXCIII, 12, 17</item>
+                                <item>Cary, Elizabeth Luster: XXVI, 95; XXVII, 79; XXXI, 67, 82; XXXVII, 13, 16</item>
+                                <item>Cezanne, Paul: XXXV B, 6</item>
+                                <item>Chapman, Carlton: XXIX, 59; XXX, 4-5</item>
+                                <item>Chase, William M.: XXV, 96; XXVII, 64, 68; XXXVIII, 3</item>
+                                <item>Chasseriau: XXX, 32</item>
+                                <item>Chavannes, Purvis de: XXV, 56</item>
+                                <item>Cheney, Russell: XXXVI, 26-7, 75-6; XXXVIII, 18</item>
+                                <item>Clark, Eliot: XXVII, 99, 100; XXX, 5</item>
+                                <item>Clarke, Thomas B: XXVI, 115; XXVII, 87, XXIX, 48, XXX, 8</item>
+                                <item>Clivette, Merton: XXXVI, 48-50</item>
+                                <item>Coburn, F.W.: XXV, 62, 67, 92</item>
+                                <item>Cole, Thomas Casilear: XXXV, 77, 120, 123, 126, 131, 136; XXXVI, 82, 85; XXXVIII, 14, 33</item>
+                                <item>Cooney, Mrs Anna P Britton Macgronen: XXVI, 39; XXVII, 43, 57, 91, 111, 115; XXIX, 43, 55; XXXI, 72; XXXV, 5, 31; XXXV B, 27; XXXVI, 6</item>
+                                <item>Cooney, John: XXV, 21, 39; XXVI, 58, 115; XXVII, 42; XXIX, 49, 55; XXXI, 73-6; XXXII, 5; XXXV, 114, 125; XXXVI, 6, 9-10, 28, 39; XXXVI, 48, 61, 71, 88; XXXV B, 27</item>
+                                <item>Cooney, Michael: XXXI, 92</item>
+                                <item>Copley, John Singleton: XXV, 29, 50, 61-2, 65, 70, 73, 77-8, 86, 102-3, 108, 113, 115-17; XXVI, 57, 81-2, 106, 109-12, 111-122, 129; XXVII, 1, 3, 17-8, 29, 35, 93; XXIX, 4; XXX, 35, 44-6; XXXI, 36; XXXII, 8-9; XXXIII, 4, 17, 26, 32, 34, 46, 80, 84-5, 87, 99; XXXVI, 2, 34; XXXVII, 12; XXXVIII, 51; XXXIX; XL, 1-2</item>
+                                <item>Coppedge, Fern: XXV, 95</item>
+                                <item>Cornoyer, Paul: XXV, 71</item>
+                                <item>Cortissoz, Royal: XXVI, 102, 134; XXXIII, 9; XXXV, 111</item>
+                                <item>Costigan, John: XXVIII, 3</item>
+                                <item>Cosway, Richard: XXV, 115</item>
+                                <item>Cox, Kenyon: XXVII, 7, 97</item>
+                                <item>Crane, Bruce: XXX, 38-40</item>
+                                <item>Crews, Floyd: XXXV, 36, 60, 90, 94, 114, 122-4, 136-7; XXXVI, 23-5, 37, 46, 86; XXXV B, 5, 9, 18-9; XXXVII, 22; XXXVIII, 13, 33-4; XXXIX, 1</item>
+                                <item>Cross, Amy: XXXV, 116</item>
+                                <item>D'Hervilly: XXXV, 29</item>
+                                <item>Damrosch, Helena: XXXV, 134</item>
+                                <item>Daniel, Charles: XXVI, 98, 134; XXVII, 26, 99; XXIX, 39, 42; XXIX, 56; XXXI, 84-6; XXXVII, 16; XXXVIII, 3</item>
+                                <item>Davey, Randell: XXV, 54, 69, 73, 80-1, 84-89, 95-100, 106; XXVI, 29, 40, 99-100; XXVII, 27, 38</item>
+                                <item>Davies, A.B.: XXVII, 84, 87-8</item>
+                                <item>Davis, Ch. H.: XXXIV, 2</item>
+                                <item>De Nezzo, Victor: XXXI, 65; XXXIII, 10</item>
+                                <item>De Valera, Eamon: XXIX, 81; XXX, 1, 11; XXXI; XXXIII, 2; XXXV, 19, 135; XXXVI, 53</item>
+                                <item>DeCamp, Jos: XXXIII, 14</item>
+                                <item>DeKay, Charles: XXX, 39</item>
+                                <item>DeMorgan, William: XXXVIII, 47</item>
+                                <item>Detweiller, F.: XXVI, 97, 119, 123-5, 130-4; XXXVI, 6, 20-1, 37, 54-5, 77-8, 80-2, 85-7; XXXV B, 20; XXXVII, 22, 29, 32-8; XXXVIII, 14, 49, 52, 81, 88-9; XXXIX, 5</item>
+                                <item>Dewey, Ch. Melville: XXIX, 72</item>
+                                <item>Dickinson, Edwin: XXVII, 94; XXXVIII, 31, 42, 94</item>
+                                <item>Dickinson, S.E.: XXVI, 48, 90, 125-7, 133; XXVII, 40-1, 51, 56-8, 63-4, 70, 73-9, 91, 93; XXVII, 93-7, 107-9; XXIX, 36, 40, 64, 70-1; XXX, 2, 38, 45, 47, 51, 61, 72-5, 82, 94; XXXII, 5, 32-3; XXXIII, 7, 10, 23-5; XXXIV, 1, 3-4; XXXV. 6, 36, 38, 55-6, 74, 77, 90, 93-4, 105-6, 115, 121-2; XXXV B, 17, 20-5; XXXVI, 5, 7, 11, 30, 36, 44, 55-6, 71, 90, 83; XXVII, 1; XXXVIII; XXXIX</item>
+                                <item>Donner, Herman Montago: XXXVI, 18</item>
+                                <item>Donoghue, John: XXXII, 1</item>
+                                <item>Donohue, William Howard: XXXVIII, 49; XXXIX, 3-4</item>
+                                <item>Dorfner, Joseph: XXXV, 132, 136</item>
+                                <item>Dorr, C. H.: XXXVI, 102; XXXVII, 78, 90</item>
+                                <item>Dougherty, Paul: XXXVI, 103, 142; XXXVII, 33-4, 70; XXX, 3, 17; XXXVII, 72</item>
+                                <item>Douglas, H. W.: XXVII, 119; XXIX, 11, 64, 68</item>
+                                <item>Downes, W.H.: XXV, 28</item>
+                                <item>Downey, Chris: XXXV, 29</item>
+                                <item>Dreier, Katherine: XXXVIII, 89</item>
+                                <item>DuBois, Guy Pene: XXV, 85, 91; XXVI, 40, 89-91; XXVII, 53, 69, 74, 79, 100; XXIX, 72; XXXI, 62; XXXII, 6; XXXV, 117</item>
+                                <item>Dudensing: XXXI, 46, 78; XXXII, 40, 46; XXXV, 99, 121-2; XXXVI, 88; XXXV B, 17, 21; XXXVII, 13, 24; XXXVIII, 8, 10, 17, 33, 49, 52, 88-9, 92, 94, 100, 105; </item>
+                                <item>Dunlap, William: XXXV, 84-6</item>
+                                <item>Duveen: XXVIII, 9</item>
+                                <item>Duveneck, Frank: XXV, 53, 86; XXVI, 48; XXIX, 57; XXXI, 67; XXXIII, 1; XXXV, 61</item>
+                                <item>Eakins, Thomas: XXVII, 67; XXXV, 111; XXXVI, 21; XXXV B, 6</item>
+                                <item>Eaton, Alfred J.: XXXV, 21</item>
+                                <item>Eilshemius, Louis: XXXVIII, 89</item>
+                                <item>Eitel, Walter O.: XXV, 48, 103; XXVI, 100; XXVIII, 104</item>
+                                <item>Ehrich, Walter: XXIX, 10, 55</item>
+                                <item>Elliott, C. L.: XXX, 26</item>
+                                <item>Ennis, George Pearse: XXVII, 38, 96; XXIX, 6; XXXI, 79; XXXIII, 7; XXXV, 131; XXXVIII, 9</item>
+                                <item>Escobal: XXXVII, 42</item>
+                                <item>Expressionists: XXVII, 50, 73</item>
+                                <item>Fairchild, May: XXXVI, 63; XXXVIII, 30; XXXVII</item>
+                                <item>Fenning, Elizabeth: XXIX, 54</item>
+                                <item>Feurbach, Anselm: XXIX, 41</item>
+                                <item>Fiedler, Max: XXXVI, 17; </item>
+                                <item>Fiske, Gertrude: XXVI, 127</item>
+                                <item>Fitler, Mrs. W.C. Claude Raquet Hirst: XXV, 54; XXVII, 62; XXXVIII, 30</item>
+                                <item>Flagg, Charles Noel: XXVII, 71; XXIX, 41, 45; XXXII, 34; XXXV B, 5, 18</item>
+                                <item>Flagg, Montague: XXIX, 34; XXXV B, 18, 23; XXXVIII, 20</item>
+                                <item>Flanagan, John: XXVII, 69; XXIX, 45, 56; XXXI, 38-9, 61-2; XXXII, 35; XXXV, 82</item>
+                                <item>Foster, Ben: XXIX, 3; XXXV, 107</item>
+                                <item>Foster, Charles: XXVII, 119; XXIX, 3</item>
+                                <item>Frankel, S: XXXVI, 89; XXXVII, 24-5</item>
+                                <item>Frazen, August: XXVII, 85, 99; XXXI, 73; XXXIII, 33; XXXV, 131; XXXVI, 23; XXXVIII, 36-40</item>
+                                <item>Freer, William Dink: XXX, 12; XXXV, 11, 39</item>
+                                <item>Friedlander, Arthur: XXXIII, 7</item>
+                                <item>Fuller, George: XXVI, 33; XXXI, 26; XXXV, 61</item>
+                                <item>Fury, C.: XXV, 23; XXVI, 33; XXVII, 119; XXIX, 68-9; XXXI, 11, 68; XXXII, 34</item>
+                                <item>Garber, Dan: XXVI, 46</item>
+                                <item>Gaspard, Leon: XXXVIII, 90-1</item>
+                                <item>Gay St.: XXXI, 65</item>
+                                <item>Gay, Edward: XXXI, 26, 49; XXXII, 4; XXXIII, 26, 31, 31, 33; XXXV, 45, 58</item>
+                                <item>Gay, Frank B.</item>
+                                <item>Gay, George A.</item>
+                                <item>Gernhardt, Harry: XXV, 103, 110; XXVII, 90; XXIX, 62; XXXI, 6 </item>
+                                <item>Gerrity, Thos: XXVII, 38, 78, 80; XXIX, 49</item>
+                                <item>Gibson, Charles Dana: XXVI; XXXIII, 19, 25; XXXV B, 2-3</item>
+                                <item>Giles, Howard: XXVI, 97; XXVII, 101-2; XXIX, 6-8; XXXII, 4; XXXV, 107; XXXV B, 2, 4</item>
+                                <item>Golbberg, Frieda: XXXV B, 14-5, 15, 20-4 </item>
+                                <item>Goldthwait, Anne: XXIX, 45; XXXV, 82</item>
+                                <item>Goodwin, Arthur: XXVI, 29; XXXI, 3-6; XXXVI, 22</item>
+                                <item>Gould, Robinson: XXXVIII, 41</item>
+                                <item>Grant, Isaac H.: XXV, 93</item>
+                                <item>Grant, Walter: XXXVIII, 20</item>
+                                <item>Granville-Smith, W.: XXVI, 104; XXVII, 38, 46, 68-9, 100-2; XXXII, 4; XXXIII, 19; XXXV, 78, 107, 116; XXXVIII, 9</item>
+                                <item>Greacen, Edward: XXIX, 55</item>
+                                <item>Green, Dulce: XXIX, 54</item>
+                                <item>Green, H. Abbot: XXV, 23; XXIX, 68; XXXI, 65</item>
+                                <item>Gregg, F. J.: XXVI, 98; XXVII, 32, 84-5, 90, 104-5; XXXII, 9</item>
+                                <item>Griffin, Walter: XXVII, 65, 71, 99-100, 115; XXIX, 58; XXX, 28; XXXI, 53; XXXIII, 34; XXXV, 81, 120</item>
+                                <item>Groll, Albert: XXXVII, 47, 100; XXXI, 61-2, 79; XXXIII, 8, 15; XXXIV, 1-2; XXXV, 20; XXXVI, 11-13; XXXV B, 4; XXXVI, 23</item>
+                                <item>Gruppe, Charles P: XXXVIII, 40, 43</item>
+                                <item>Hackett, Francis: XXVI, 132</item>
+                                <item>Hafner, Charles Andrew: XXXI, 38, 80; XXXIV, 1, 14; XXXV, 1, 44, 55, 57, 60 63, 67, 77, 90-2, 120, 129, 130, 133; XXXV B, 1, 5; XXXVI, 14, 20, 25, 73</item>
+                                <item>Hafner, Victor: XXXV, 55, 66, 92, 94</item>
+                                <item>Hale, Philip L.: XXV, 40, 52; XXVII, 48, 56, 117; XXXV, 16l; XXXVI, 80</item>
+                                <item>Hall, Frederick: XXVI, 127</item>
+                                <item>Halpert, Samuel: XXVI, 135; XXVII, 26l XXIX, 6, 39, 80</item>
+                                <item>Hambridge, Jay: XXXV B, 1-5</item>
+                                <item>Hamilton, McClure: XXXIII, 25</item>
+                                <item>Hardie, Robert Gordon: XXXVIII, 51</item>
+                                <item>Harris, Frank: XXVII, 110</item>
+                                <item>Harris, Sam: XXXVIII, 45</item>
+                                <item>Hart, Charles Henry: XXXI, 1</item>
+                                <item>Hartman, Bertram: XXVII, 25l; XXIX, 55</item>
+                                <item>Hassam, Childe: XXV, 97; XXVII, 34, 48; XXIX, 55; XXX, 28l XXXI, 1, 73; XXXII, 1; XXXIII, 14, 20, 34; XXXV, 25, 80-2, 119; XXXVI, 10; XXXVIII, 91</item>
+                                <item>Haverty, J. J.: XXXVII, 17-21; XXXVIII, 17</item>
+                                <item>Hawthorne, Charles W: XXX, 55-6</item>
+                                <item>Haydn, Josef: XXV; XXVI, 97; XXVII, 79-80, 113; XXXIV, 17-20; XXXV, 46, 127; XXXVI, 15-6, 28-9, 33; XXXVIII, 74, 81-2, 94-5</item>
+                                <item>Haytner, George: XXIII, 43</item>
+                                <item>Healey, George P. A.: XXXI, 21-2; XXXVIII, 50</item>
+                                <item>Hecht, Victor</item>
+                                <item>Heney, Charles: XXVII, 83l XXVI, 51, 53, 89</item>
+                                <item>Henri, Robert: XXVI, 46, 98; XXVII, 53-4, 115-7; XXXI, 20; XXXII, 46; XXXIII, 25; XXXV, 107</item>
+                                <item>Herbert, Victor: XXXVI, 15</item>
+                                <item>Higgins, Eugene: XXVI, 45-6, 60, 84, 136-7; XXVII, 25, 53, 73, 75-6, 95-8; XXIX, 3-5, 12; XXXI, 66-8, 72-4; XXXIII, 8, 23; XXXV, 6, 9, 20, 23, 108-9; XXXVI, 22-3; XXXVII, 14-5</item>
+                                <item>Hines, William Clocker: XXXVII</item>
+                                <item>Hooker, J.: XXVI, 31-3; XXXVIII, 105, 107</item>
+                                <item>Hopkinson, Charles: XXV, 40</item>
+                                <item>Hoppin, Charles A.: XXXI, 90; XXXII, 32-3; XXXIII, 19, 33, 38; XXXIV, 14, 23-4; XXXV, 6, 11-2, 24, 39, 55, 76, 88, 90; XXXV B, 12</item>
+                                <item>Horne, Grace: XXV, 53, 69, 81</item>
+                                <item>Horton, Herbert: XXXVI, 20</item>
+                                <item>Howell, Felicia Waldo: XXV; XXVI, 29</item>
+                                <item>Huneker, James: XXXI, 18; XXXVI, 10; XXXVIII, 78</item>
+                                <item>Hunt, William Morris: XXX, 45; XXXIII, 35, 37</item>
+                                <item>Huntington, Dan: XXX, 13, 16; XXXVIII, 51</item>
+                                <item>Ingres: XXX, 23; XXIV</item>
+                                <item>Inman, Henry: XXX, 17; XXXV, 87</item>
+                                <item>Innes, George: XXXI, 66</item>
+                                <item>Inukai, Kyohei: XXXV, 110-111, 132, 136; XXXVI, 7, 25, 28-9, 36, 38, 40, 42-3, 46, 50-6, 64; XXXV B, 10, 13, 26-7; XXXVII, 16, 39, 42; XXXVIII, 4, 8-9, 18, 20, 34-5, 40-1l 82, 85, 88, 90-100</item>
+                                <item>Jaccaci, August: XXVII, 35</item>
+                                <item>Jacobs, Michel: XXXV, 133</item>
+                                <item>Johnson, Eastman: XXXIII, 19</item>
+                                <item>Jones, Paul: XXXV, 137; XXXV B, 21</item>
+                                <item>Judson, Alice: XXVI, 104; XXVII, 5-6, 38-9, 41, 60, 64, 96-7; XXIX, 3, 36; XXXIV, 13; XXXV, 73; XXXVI, 14, 30, 54, 69-70; XXXVIII, 9-90</item>
+                                <item>Katzief, J. D.: XXXVII, 35-7; XXXVIII, 41</item>
+                                <item>Keefe, Lucia: XXVV, 52</item>
+                                <item>Keller, Deane: XXVII; XXXVIII, 94, 103; XXXIX, 3</item>
+                                <item>Kennedy, E. D.: XXIX, 63</item>
+                                <item>Kenny, M.: XXV, 86</item>
+                                <item>Kensett, John F.: XXVII, 52-3</item>
+                                <item>Kent, Rockwell: XXIX, 33, 43</item>
+                                <item>Kevorkian: XXIX, 10, 45, 55; XXXIII, 19</item>
+                                <item>Kidder, Frank: XXVI, 133</item>
+                                <item>Kimbel, Richard: XXV, 91-2, 105; XXVI, 104, 113; XXVII, 52, 69; XXXI, 80; XXXIII, 9; XXXV, 123-4, 131, 168; XXXVIII, 85</item>
+                                <item>Kingore, C. Grant: XXVII, 32, 76, 117; XXIX, 43</item>
+                                <item>Kinnis: XXXVII, 44</item>
+                                <item>Kitson, Henry Hudson: XXV, 65; XXXVI, 66-7</item>
+                                <item>Klauser, Ella: XXVI, 113</item>
+                                <item>Kneisel, Franz: XXXVI, 15</item>
+                                <item>Knoedlers: XXVI, 136, 180-1; XXVII, 115; XXIX, 47, 58</item>
+                                <item>Kone, Irma: XXVI, 29</item>
+                                <item>Konody, Paul G.: XXIX, 63</item>
+                                <item>Kraushaar, John: XXVI, 42; XXXVIII</item>
+                                <item>Kress: XXV, 29, 107; XXVI, 42-3; XXVII, 118; XXIX, 1, 21, 54; XXXV, 14, 16</item>
+                                <item>Kronberg, Louis: XXV, 37, 53, 64, 83, 95-7; XXXI, 3-4, 83; XXXV, 16; XXXVII, 23</item>
+                                <item>Kuehne, Max: XXVI, 42</item>
+                                <item>Kusnitzky, Abraham: XXXI, 47; XXXVI, 83</item>
+                                <item>La Farge, John: XXXVIII, 64</item>
+                                <item>Langzettel, George: XXIX, 44</item>
+                                <item>Lanier, Henry: XXVII, 116</item>
+                                <item>Lathrop, W. L.: XXXV, 81-2</item>
+                                <item>Laurens, Jean Paul: XXXIII, 21</item>
+                                <item>Lawlor, Frederick: XXVI, 100; XXVII, 52-3</item>
+                                <item>Lawson, Ernest: XXVI, 135; XXVII, 116-7; XXIX, 35-6, 56, XXIX, 38-9, 80, 84; XXXV; XXXVIII, 64</item>
+                                <item>Lee, Charles: XXXIII, 5, 7</item>
+                                <item>Legros, Alphonse: XXXI, 10, 77</item>
+                                <item>Lever, Beatrice Sinclair: XXVI, 42, 47, 57, 86, 123-4; XXVII, 26, 33, 36, 61, 69; XXXII, 43</item>
+                                <item>Lever, Hayley: XXV, 54, 69, 83-4, 109, 119; XXVI, 37, 40, 104; XXVII, 25, 61, 78, 101, 131; XXXI, 79; XXXV, 107, 109; XXXVI, 22, 31</item>
+                                <item>Levy, John: XXIX, 56; XXX, 8, 27; XXXI, 2; XXXII, 2, 43; XXXIII, 3, 10, 23, 33; XXXV, 103; XXXVI, 61-3</item>
+                                <item>Lie, Jonas: XXVI, 44; XXVII, 116; XXIX, 52; XXXI, 79</item>
+                                <item>Lindsay, Sam; XXXVI, 36, 56-7, 72-3, 83-4</item>
+                                <item>Little, Philip: XXVII, 33, 36; XXX, 8, 39</item>
+                                <item>Londoner, Amy: XXVI, 44</item>
+                                <item>Lukeman, Augustus: XXXV, 133-4; XXXVIII, 5</item>
+                                <item>Luks, George: XXV, 89; XXVI, 42; XXVII, 48, 56, 85, 87-8, 117; XXX, 28; XXXIV, 37; XXXVI, 10; XXXVIII, 4</item>
+                                <item>Lyle, Margaret: XXV, 46</item>
+                                <item>Lyndhurst, Lord John S. Copley Jr.: XXXV, 112</item>
+                                <item>Macbeth, Robert: XXVII, 33; XXIX, 8-9; XXXII, 37; XXXIV, 15; XXXVIII, 85</item>
+                                <item>Mahon, Judge Edward: XXVII, 90</item>
+                                <item>Mallet, Mrs.: XXXV, 58</item>
+                                <item>Manning, Rose: XXXV, 92, 124; XXXVI, 22-8, 30, 65; XXXV B, 5, 8, 12-3, 18-9; XXXVIII, 54-9, 63</item>
+                                <item>Marin, John: XXIX, 39</item>
+                                <item>Martin, Homer: XXVII, 27; XXX, 45, XXXI, 67; XXXII, 4</item>
+                                <item>Mason, Henry: XXXI, 66-7; XXXVIII, 100, 199</item>
+                                <item>McBride, Henry: XXVI, 47, 96, 104; XXVII, 31, 92, 102-3; XXXI, 79; XXXIII, 11; XXXV, 25; XXXVI, 22; XXXVIII, 93</item>
+                                <item>McCameron, Robert: XXIX, 66, 71</item>
+                                <item>McCord, Mary: XXXVI, 104</item>
+                                <item>McCormack, John: XXVI, 98</item>
+                                <item>McCormick, William B.: XXXVII, 16-7</item>
+                                <item>McCullough, William: XXXV, 69; XXXVI, 49</item>
+                                <item>McDowell, Edward: XXXVIII, 82, 84</item>
+                                <item>McEvoy, Ambrose: XXIX, 63</item>
+                                <item>McManus, James G.: XXXI, 76; XXXV, 18; XXXVIII, 74, 105</item>
+                                <item>Melchers, Gary: XXVI, 44</item>
+                                <item>Meriden Property: XXIX, 53, 55; XXXIII, 23</item>
+                                <item>Merrick, Lula: XXVI, 50, 113; XXVII, 50, 69, 73, 96, 117; XXXV, 133; XXXVI, 29</item>
+                                <item>Metcalf, Willard: XXXIII, 2, 13; XXXV, 43, 81</item>
+                                <item>Milch Galleries: XXXI, 3; XXXII, 41; XXXIII</item>
+                                <item>Miller, Charles Townsend Abercrombie: XXXV, 62, 118, 122, 131, 136; XXXVI, 7, 33, 45, 58-9; XXXV B, 22; XXXVIII, 16</item>
+                                <item>Molarsky, Maurice: XXVI, 59; XXVII, 100, 112</item>
+                                <item>Moloof: XXXVI, 70</item>
+                                <item>Monstross, N. E.: XXVI, 40, 101</item>
+                                <item>Montgomery, J.: XXV, 41, 43, 107</item>
+                                <item>Morris, Dr. Charles Evans: XXXVI, 50-1</item>
+                                <item>Morse, S. F. B.: XXXVIII, 79</item>
+                                <item>Moutfort, Arnold: XXVII, 40, 51, 63, 77, 79, 88, 93, 99; XXIX, 4, 40, 44, 64</item>
+                                <item>Mowbray-Clarke: XXIX, 9</item>
+                                <item>Mozart: XXXIV, 21</item>
+                                <item>Muller, J. Frank: XXVII, 69; XXXV B, 26</item>
+                                <item>Muller, Michael: XXXVII, 29-30, 41; XXXIX, 3-4</item>
+                                <item>Muncy, Percy: XXXVI, 32; XXXVIII, 16; XXXV B, 7</item>
+                                <item>Muranyi, Gustave: XXXVII, 34</item>
+                                <item>Murphy, J. Francis: XXVI, 101-2; XXVII, 39, 42-3, 66-8, 84, 95, 100; XXIX, 56, 72-3; XXXI, 52, XXXIII, 17-8, 33; XXXV, 78; XXXVI, 24; XXXV B, 7</item>
+                                <item>Mussman, Mrs. S.: XXXVI, 47</item>
+                                <item> </item>
+                                <item>Myers, Jerome and Ethel: XXVII, 32-3, 79; XXX, 12; XXXVI, 20; XXXVII, 14; XXXVIII, 4, 20, 64</item>
+                                <item>Nave, Captain Royston: XXVII, 41, 51, 57-8, 64, 76, 91-7, 107-8; XXIX, 40, 70-1; XXXIV, 3-4, 13-4, 23</item>
+                                <item>Neagle, John: XXXV, 80</item>
+                                <item>Neimyer, John H.: XXIX, 44</item>
+                                <item>Nelson, George Laurence: XXVI, 51, 116; XXVII, 60, 100; XXXV, 76</item>
+                                <item>Nelson, W. H.: XXVI, 44; XXVII, 79, 99-100; XXIX, 44; XXXI, 80; XXXII, 40, 43; XXXIII, 30; XXXIV, 14-5; XXXV, 59, 77</item>
+                                <item>Newell, Glenn: XXXIII, 3, 8, 40, 43, 94</item>
+                                <item>Nielson, Isabel: XXV, 51, 88, 99; XXVI, 30</item>
+                                <item>Nielson, Raymond: XXV, 51; XXVII, 70</item>
+                                <item>Nisbet, Robert: XXVII, 101, 116; XXXI, 73; XXXVI, 23</item>
+                                <item>Nolan, Daniel: XXV, 72; XXIX, 60</item>
+                                <item>Norton, Clara: XXXIV, 13</item>
+                                <item>Nuni, Ann: XXV, 88, 91, 110, 124, 137-8; XXXVI, 7, 14, 28, 31; XXXV B, 1-5, 9, 11, 14, 17, 20, 26</item>
+                                <item>Nuni, Grove: XXXVIII, 95</item>
+                                <item>Nyerighazi, Erwin: XXXV, 128, 130; XXXVI, 7, 15-6, 20, 73; XXXV B, 8, 14</item>
+                                <item>O'Brien, Jim: XXXVIII, 34</item>
+                                <item>O'Callahan, Clinton: XXXI, 47</item>
+                                <item>O'Connor, Andrew: XXIX, 72; XXXV, 7</item>
+                                <item>O'Connor, Patricia: XXV, 107</item>
+                                <item>O'Malley, Power: XXXI, 20, 26</item>
+                                <item>O'Ryan, General John F: XXVII, 111</item>
+                                <item>Olin, Albert: XXXI, 49</item>
+                                <item>Oliver, Miss Jean N.: XXV, 37, 54-7, 70, 81, 88-90, 105; XXVI, 44, 92-3, 127; XXXI, 5; XXXV, 16</item>
+                                <item>Pach, Walter: XXVII, 112</item>
+                                <item>Palmer, Delos: XXVII, 41; XXXV, 64-5</item>
+                                <item>Palmer, Erastus: XXXII, 10; XL, 1</item>
+                                <item>Palmer, Hermann: XXXII; XXXVII, 39</item>
+                                <item>Parsons, Ruth: XXV, 111, 118-9; XXVI, 30</item>
+                                <item>Patty, W. A.: XXXIII, 9; XXXVIII, 69</item>
+                                <item>Paxton, William McGregor: XXV, 52; XXXI, 81</item>
+                                <item>Pennell, Joseph: XXIX, 63; XXX, 28; XXXI, 44; XXXVII, 15; XXXVIII</item>
+                                <item>Perkins, Parker: XXV, 56</item>
+                                <item>Pettie of Knoedlers: XXXIII, 11</item>
+                                <item>Phillips, Duncan: XXVI, 95; XXXIV, 28-9</item>
+                                <item>Pierce, Waldo: XXXVI, 79-80</item>
+                                <item>Pierpont, J.: XXXVII, 42; XXXVIII, 12, 20</item>
+                                <item>Pokras, Max: XXXVII, 35</item>
+                                <item>Pollia, Joseph: XXXVII, 35; XXXVIII; XXIX, 5</item>
+                                <item>Popp, John: XXXI, 47</item>
+                                <item>Potter, E.C.: XXXVII, 5, 17; XXXIX, 3, 7</item>
+                                <item>Potter, Louis: XXIX, 1</item>
+                                <item>Potter, Nathan D.: XXXV B; XXXVI, 5, 20, 27, 30-2, 37-8, 42-5, 69-74; 86; XXXVII, 13-7, 42; XXXVIII, 20, 91, 101; XXXIX, 3-7</item>
+                                <item>Potter, William J.: XXXVI, 68, 70, 72, 74, 79; XXXVIII, 90-1</item>
+                                <item>Poussin, Nicolo: XXXII, 3</item>
+                                <item>Powell, Widow: XXIX, 52; XXXII, 31, 41, 116; XXXV, 138</item>
+                                <item>Prendergast, Maurice: XXVII, 50, 57, 71, 89; XXXI, 53</item>
+                                <item>Prutting, J.: XXXVIII, 105</item>
+                                <item>Price, F. Newlin: XXIX, 42, 72; XXXI, 1, 77; XXXIII, 13; XXXVII, 25</item>
+                                <item>Quinn, Edmund: XXXI, 62-3; XXXVIII, 64</item>
+                                <item>Quinn, John: XXXVIII, 78</item>
+                                <item>Quistgaard, John Van Rehling: XXXVI, 106, 123-4; XXXII, 43; XXXIII, 3, 30, 33-5; XXXIV, 1, 37; XXXV, 101-3; XXXVIII, 99</item>
+                                <item>Ranger, Henry W: XXVII, 63</item>
+                                <item>Ray, Man: XXIX, 57; XXXI, 92</item>
+                                <item>Regnault, Henri: XXXIV, 21</item>
+                                <item>Rehn, Frank: XXVII, 47; XXIX, 55</item>
+                                <item>Reinhardt, Henry: XXIX, 50</item>
+                                <item>Reynolds, Sir Joshua: XXXI, 15-6</item>
+                                <item>Richter: XXVII, 89; XXIX, 18, 43</item>
+                                <item>Riley, John: XXXIII, 40-1</item>
+                                <item>Ringius, Carl: XXV, 93, 107; XXVI, 29; XXXI, 47</item>
+                                <item>Rio, Anita: XXVII, 98; XXXI, 72, 78-9; XXXV, 27; XXXVI, 11</item>
+                                <item>Ritman, Louis: XXVII, 89</item>
+                                <item> </item>
+                                <item>Rittenberg, Henry: XXXI, 80; XXXIII, 7; XXXVI, 74</item>
+                                <item>Robbins, John W.: XXIX, 11</item>
+                                <item>Robinson, Theodore: XXXI, 49, 76, 90-1; XXXII, 4; XXXIII, 1, 13, 15</item>
+                                <item>Robinson, Will: XXVI, 104</item>
+                                <item>Rodin, Auguste: XXV, 55</item>
+                                <item>Roosevelt, Theodore: XXXI, 64</item>
+                                <item>Rosenthal, A.: XXXI, 1</item>
+                                <item>Rosenthal, Sonia: XXIX, 46</item>
+                                <item>Rowse: XXXIII, 37</item>
+                                <item>Rungius, Carl: XXVII, 39, 101; XXXIII, 9</item>
+                                <item>Ruth, Babe: XXXV B, 30</item>
+                                <item>Ryder, A. P.: XXVII, 72; XXIX, 51; XXXVI, 1, 13; XXXV B, 2-3</item>
+                                <item>Sag Harbor, New York: XXXVIII</item>
+                                <item>Sahler, Helen: XXV, 56, 71, 99; XXVI, 92, 113; XXVII, 69</item>
+                                <item>Saint-Gaudens, Augustus: XXV, 87; XXVII, 109; XXIX, 12</item>
+                                <item>Saling, Paul: XXXVI, 36</item>
+                                <item>Sargent, J. S.: XXV, 38, 52, 72; XXVI, 85; XXIX, 60; XXX, 28; XXXI, 78; XXXIII, 10; XXXV, 34, 103; XXXVI</item>
+                                <item>Sargent, Margaret: XXX, 28</item>
+                                <item>Seymour, R. Russell: XXV, 47; XXVII, 118; XXIX, 1</item>
+                                <item>Seaton-Schmidt, Anna: XXV, 38, 91</item>
+                                <item>Shakespear: XXX, 24; XXXVIII</item>
+                                <item>Shee, Sir Martin A.: XXXIII, 43; XXXIV, 11-2</item>
+                                <item>Sherman, John: XXXI, 42</item>
+                                <item>Sherwin, Mrs. Louis: XXVI, 116; XXVII, 110; XXIX, 2</item>
+                                <item>Shurtleff, Roswell M.: XL, 1</item>
+                                <item>Sloan, John: XXV, 40, 52, 54, 68-9, 73, 85, 93-4; XXVI, 29, 64, 77-8, 99-100, 137; XXVII, 31, 35, 38-9, 112-3, 116-7; XXIX, 66; XXXI, 51; XXXII, 46</item>
+                                <item>Smith, W. H.: XXIX, 69</item>
+                                <item>Snell, Henry: XXV, 81, 100, 104; XXVII, 99; XXIX, 10</item>
+                                <item>Society of American Artists: XXXII, 11-27</item>
+                                <item>Spanish Encyclopedia: XXIX, 27</item>
+                                <item>Speicher, Eugene: XXVII, 117; XXXIII, 25; XXXVIII, 72</item>
+                                <item>Spencer, Elizabeth: XXVI, 103-4; XXXVIII, 29</item>
+                                <item>Stieglitz, Alfred: XXVI, 98; XXIX, 39</item>
+                                <item>Sterner, Marie: XXVII, 25, 79; XXXI, 27; XXXIII, 10, 12</item>
+                                <item>Sterner, Albert: XXVI, 136; XXVII, 79; XXXIII, 12; XXXVI, 20; XXXV B, 1, 3-4</item>
+                                <item>Stevenson, Gordon: XXXVI, 13-4, 21, 45, 87, 90; XXXVII, 33; XXXVIII, 6, 8, 31, 74</item>
+                                <item>Strauss, Richard: XXXVI, 41</item>
+                                <item>Stuart, Gilbert: XXVII, 19, 21; XXVII, 35; XXXIII, 43; XXXIV, 11; XXXV, 85; XXXVIII, 50</item>
+                                <item>Sully, Thomas: XXX, 15; XXXVIII, 50</item>
+                                <item>Szopory, Baron Imre: XXXV, 105, 124-7, 131, 136; XXXVI; XXXV B, 7; XXXVII, 28, 31, 39; XXXVIII, 8, 83; XXXIX, 5, 7</item>
+                                <item>Tarbell, Ed.: XXV, 96</item>
+                                <item>Thayer, Abbot: XXVII, 108</item>
+                                <item>Thompson, Juliet: XXIX, 45</item>
+                                <item>Thorp, Earl: XXXVII, 36</item>
+                                <item>Towle, Captain Ledyard: XXVII, 107</item>
+                                <item>Townsend, J. B.: XXV, 53, 64; XXVI, 42, 47, 49-50, 57-8, 84, 86, 97, 100, 104, 106, 136; XXVII, 33, 35-6, 47, 62, 80, 96; XXIX, 45, 61; XXXII, 43; XXXV, 116; XXXVIII, 4, 73</item>
+                                <item>Trotta, Guiseppe: XXVII, 91</item>
+                                <item>Tupper, Alex: XXXI, 5</item>
+                                <item>Twachtman, John: XXV, 89; XXVII, 6, 65; XXIX, 13, 16, 56-7, 61; XXX, 34, 44; XXXI, 39, 45, 48-9, 67; XXXIV, 35</item>
+                                <item>Valencampf, Theo: XXV, 51, 56, 67, 70, 91, 109, 119; XXVI, 28; XXIX, 61; XXXV, 16</item>
+                                <item>Van Cleef, Augustus: XXXVIII, 73</item>
+                                <item>Van Veen, Peter: XXXI, 67; XXXVIII, 85</item>
+                                <item>Vanderbilt, Gertrude: XXXII, 4</item>
+                                <item>Vanderlyn, John: XXXV, 87</item>
+                                <item>Vayana, Nunzio: XXVII, 118; XXXII, 34; XXXVI, 16</item>
+                                <item>Vezin, Charles: XXVII, 102; XXXVI, 65-6; XXXVII, 24</item>
+                                <item>Vincent, Harry: XXXI</item>
+                                <item>Vinton, F. P.: XXXIII, 1; XXXV</item>
+                                <item>Von Boskerk, Robert: XXVII, 85</item>
+                                <item>Von Shollay, Ruth: XXV, 51, 87-8, 96, 98; XXVI, 28; XXIX, 54, 60</item>
+                                <item>Vonnoh, Robert: XXVII, 104; XXIX, 6, 8; XXXI, 79; XXXIII, 7; XXXVI, 22; XXXV B</item>
+                                <item>Vose, Robert: XXV, 5-, 62, 118; XXVI, 33; XXVII, 46, 110; XXIX, 61; XXX, 8, 10, 42, 44; XXXI, 50; XXXVIII, 91</item>
+                                <item>Wagner, Richard: XXVI, 84</item>
+                                <item>Waitt, Marian: XXVI, 84</item>
+                                <item>Walcott, Albert: XXIX, 64; XXX, 5, 7; XXXI, 12, 15, 51, 79, 83; XXXII, 94-6; XXXV, 36</item>
+                                <item>Walker, Horatio: XXXI, 49</item>
+                                <item>Walkowitz, Abraham: XXVI, 58; XXVI, 112</item>
+                                <item>Wallace, Cornelia: XXXV, 88, 90-1, 94, 123-5, 130-7, 198; XXXVI, 7-8, 19, 26, 30, 46, 85, 87; XXXVIII, 67, 72, 74-5</item>
+                                <item>Wallace, Ruth: XXIX, 64; XXXI, 23; XXXII, 38-9; XXXIV, 3, 55, 77</item>
+                                <item>Wanda,: XXXVI, 60; XXXVII, 23</item>
+                                <item>Warner, Olin L.: XXXII, 1; XXXV, 106; XXXVIII, 64</item>
+                                <item>Washington, George: XXXV, 83</item>
+                                <item>Watrous, Harry: XXVII, 102; XXIX, 3, 21; XXXI, 83; XXXVI, 33</item>
+                                <item>Weiland, James: XXVII, 68; XXXIII, 17</item>
+                                <item>Weir, J. Alden: XXVI, 41, 136; XXVII, 43, 46; XXIX, 17; XXX, 44; XXXI, 62, 83, 87-9; XXXII, 1, 4; XXXIII, 2, 13; XXXV, 106-7, 110</item>
+                                <item>Weitenkampf, Frank: XXV, 29, 31; XXVI, 86; XXXV B, 11</item>
+                                <item>Wendell, Theodore: XXIX, 71; XXXI, 67</item>
+                                <item>West, Benjamin: XXXV, 85</item>
+                                <item>Wetherell, H. K. K.: XXXVI, 22; XXXVIII, 67</item>
+                                <item>Whistler, James: XXVII, 56; XXIX, 65</item>
+                                <item>White, Edwin: XXX, 15</item>
+                                <item>Wilson, Woodrow: XXV, 23; XXVI, 113-5; XXX, 23</item>
+                                <item>Woolf, Michael</item>
+                                <item>Woolf, Sam: XXVI, 42; XXVII, 33; XXXIII, 9; XXXV, 81; XXXVI, 14; XXXV B, 10</item>
+                                <item>Wright, Ed Ashel</item>
+                                <item>Wright, Dr. Joel: XXV, 48; XXIX, 54</item>
+                                <item>Wyant, Alexander: XXVII, 83</item>
+                                <item>Yeats, John B.: XXIX, 65, 66</item>
+                                <item>Young, Howard: XXIX, 50; XXXII, 33</item>
+                                <item>Young, Mahonri: XXVII, 34, 70; XXX, 3, 17, 20, 28; XXXI, 53; XXXV, 76, 91, 109-10; XXXV B, 14; XXXVI, 24; XXXVIII, 12; XXXVIII, 72, 92</item>
+                                <item>Zogbaum, Rufus</item>
+                                <item>Zorach, William: XXXI, 86</item>
+                            </list></p>
+                    </odd>
+                    <c03 id="ref41" level="file">
+                        <did>
+                            <unittitle>Volume XXV (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987114" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987114" type="Folder">18</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1918/1918">1918 June-September</unitdate>
+                        </did>
+                        <scopecontent id="ref42">
+                            <head>Scope and Contents note</head>
+                            <p>(Apel, Marie: 52; Atwood, William E.: 50, 53, 56, 62-69, 67-70, 88, 90; Baker, Bryant: 51, 56, 62, 83, 88, 92; Bayley, Frank [Copley Gallery]: 70, 101-102; Bellows, George: 84; Bernstein, Teresa: 38, 50-55, 69, 80, 90-105; Boucher, Dr.: 3, 103-106; Brush, Franklin: 56, 63, 97, 105-7, 137; Coburn, F. W.: 62, 67, 92; Copley, John: 29, 50, 61-2, 65, 70, 73, 77-8, 86, 102-3, 108, 113-117; Downes, W. H: 28; DuBois, Guy Pene: 85, 91; Duveneck, Frank: 53, 86; Hassam, Childe: 97; Haydn, Josef; Nuni [sic], Ann: 88, 91, 110, 124, 137-8; Sargent, John Singer: 38, 52, 72; Sloan, John: 40, 52, 54, 68-9, 85, 93-4; Twachtman, John: 89; Valencampf, John: 51, 56, 67, 70, 91, 109, 119; Vose, Robert: 5-. 62, 118)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref43" level="file">
+                        <did>
+                            <unittitle>Volume XXVI (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987113" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987113" type="Folder">19</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1918/1918">1918 September-December</unitdate>
+                        </did>
+                        <scopecontent id="ref44">
+                            <head>Scope and Contents note</head>
+                            <p>(Anderson, Oscar: 28; Apel, Marie: 44, 47, 57, 97-99; Armistice, 64-8, 76; Babcock, E. C.: 85, 90, 102-3, 112, 117, 123, 127; Bellows, George: 41-6, 187; Bernstein, Teresa: 44-6, 58-9, 63, 80-4, 90-2, 104, 133; Copley, John Singleton: 57, 81-2, 106, 109-12, 121-2, 129; Detweiller, F. 97, 119, 123-5, 130-4; Dickinson, S.E.: 48, 90, 125-7, 133; DuBois, Guy Pene: 40, 89-91; Henri, Robert: 46, 98; Higgins, Eugene: 45-6, 60, 84, 136-7; Knoedlers: 136, 180-1; Kraushaar, John: 42; Kress: 42-3; Kuehne, Max: 42; Lever, Beatrice Sinclair: 42, 47, 57, 86, 123-4; Oliver, Jean N.: 44, 9203, 127; Sloan, John: 29, 64, 77-8, 99-100, 137; Townsend, J.B.: 42, 47-50, 57-8, 84, 86, 97, 100, 104, 106, 136)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref45" level="file">
+                        <did>
+                            <unittitle>Volume XXVII (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987112" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987112" type="Folder">20</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 January-March</unitdate>
+                        </did>
+                        <scopecontent id="ref46">
+                            <head>Scope and Contents note</head>
+                            <p>(Art Review International: 1, 59; Babcock, E.C.: 28, 41, 49, 73, 80; Bartlett, Paul: 65, 90, 109; Beal, Gifford: 28, 61, 70; Beaux, Cecilia: 54, 69, 119; Cox, Kenyon: 7, 97; Dickinson, S.E.: 40-1, 51, 56-8, 63-4, 70, 73-6, 91, 93; Expressionists: 50, 73; Granville, Smith: 38, 46, 68-9, 100-2; Griffin, Walter: 65, 71, 99-100; Henri, Robert: 53-4, 115-117; Judson, Alice: 5-6, 38-9, 41, 60, 64, 96-7; Lever, Beatrice Sinclair: 26, 33, 36, 61, 69; Luks, George: 48, 56, 85, 87-8, 117; McBride, Henry: 31, 92, 102-3; Merrick, Lula: 50, 69, 73, 96, 117; Murphy, J. Francis: 39, 42-3, 66-8, 84, 95, 100; Nave, Captain Royston: 41, 51, 57-8, 64, 76, 91-7, 107-8; Prendergast, Maurice: 50, 57, 71, 89; Weir, J. Alden: 43, 46; Young, Mahonri; 34, 70)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref47" level="file">
+                        <did>
+                            <unittitle>Volume XXVIII (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987111" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987111" type="Folder">21</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 February-July</unitdate>
+                        </did>
+                        <scopecontent id="ref48">
+                            <head>Scope and Contents note</head>
+                            <p>(Art News, 73; Art Review International: list; Eilshemius, Louis: 89)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref49" level="file">
+                        <did>
+                            <unittitle>Volume XXIX (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987110" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987110" type="Folder">22</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 April-June</unitdate>
+                        </did>
+                        <scopecontent id="ref50">
+                            <head>Scope and Contents note</head>
+                            <p>(Apel, Marie: 40, 70; Bayley, Frank: 4-5, 59; Daniel, Charles: 39, 42; Dickinson, S.E.: 36, 40, 64, 70-1; DuBois, Guy Pene: 72; Duveneck, Frank: 57; Flagg, Charles Noel: 41, 54; Griffin, Walter: 58; Hassam, Childe: 55; Higgins, Eugene: 3-5, 12; Kent, Rockwell: 33, 43; Knoedlers: 115; Lawson, Ernest: 35-6, 56; Macbeth, Robert: 8-9; Marin, John: 39; Price, F. Newlin: 42, 72; Ray, Man: 57; Twachtman, John: 13, 16, 56-7, 61; Yeates, John B.: 65-6)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref51" level="file">
+                        <did>
+                            <unittitle>Volume XXX (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987109" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987109" type="Folder">23</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 June-August</unitdate>
+                        </did>
+                        <scopecontent id="ref52">
+                            <head>Scope and Contents note</head>
+                            <p>(Blakelock, R.A: 27, 42-3, 46; Borglum, Gutzon: 20; De Valera, Eamon: 1, 11; Dougherty, Paul: 3, 17; Hassam, Childe: 28; Little, Phillip: 3, 89; Young, Mahonri: 3, 17, 20, 28)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref53" level="file">
+                        <did>
+                            <unittitle>Volume XXXI (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987108" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987108" type="Folder">24</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 August-December</unitdate>
+                        </did>
+                        <scopecontent id="ref54">
+                            <head>Scope and Contents note</head>
+                            <p>(Ainslie, George: 66, 94; Aitken, Robert J.: 38-40, 44, 46; Bellows, George: 52, 73; DuBois, Guy Pene: 62; Duveneck, Frank: 67; Flanagan, John: 38-9, 61-2; Groll, Albert: 61-2, 79; Hafner, Charles: 38, 80; Innes, George: 66; Kronberg, Louis: 3-4, 83; Milch Galleries: 3; Pennell, Joseph: 44; Prendergast, Maurice: 53; Reynolds, Sir Joshua: 15-6; Roosevelt, Theodore: 104; Twachtman, John: 39, 45, 48-9, 67; Walcott, Albert: 12, 15, 51, 79, 83; Weir, J. Alden: 62, 83, 87-9; Zorach, William: 86)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref55" level="file">
+                        <did>
+                            <unittitle>Volume XXXII (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987107" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987107" type="Folder">25</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1920">1920 January-March</unitdate>
+                        </did>
+                        <scopecontent id="ref56">
+                            <head>Scope and Contents note</head>
+                            <p>(Bartlett, Paul: 1, 34-5; Dickinson, S.E.: 5, 32-3; Dudensing: 40, 46; Flagg, Charles Noel: 41, 45; Granville, Smith W.: 4; Levy, John: 2, 43; Macbeth, Robert: 37; Palmer, Erastus: 10; Sloan, John: 46; Society of American Artists: 11-27; Vanderbilt, Gertrude: 4; Walcott, Albert: 94-6; Weir, J. Alden: 1, 4; Young, Howard: 33)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref57" level="file">
+                        <did>
+                            <unittitle>Volume XXXII B (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987106" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987106" type="Folder">26</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1920">1920</unitdate>
+                            <physdesc id="ref240" label="General Physical Description note">(list of subscribers)</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref58" level="file">
+                        <did>
+                            <unittitle>Volume XXXIII</unittitle>
+                            <container id="cid987105" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987105" type="Folder">27</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1920">1920 March-April</unitdate>
+                        </did>
+                        <scopecontent id="ref59">
+                            <head>Scope and Contents note</head>
+                            <p>(Art Review International; Beaux, Cecilia: 2; Bellows, George: 8; Bowdoin, W.G.: 2; Carroll, John: 20-4; Cortissoz, Royal: 9; Frazen, August: 33; Gay, Edward: 26, 31, 33; Groll, Albert: 8, 15; Henri, Robert: 25; Higgins, Eugene: 8, 23; Hunt, William Morris: 35, 37; Johnson, Eastman: 19; Laurens, Jean Paul: 21; McBride, Henry: 11; Murphy, J. Francis: 17-8, 33; Price, F. Newlin: 13; Rittenberg, Henry: 7; Robinson, Theodore: 1, 13, 15; Ringuis, Carl: 9; Vinton, F.P.: 1; Vonnoh, Robert: 7; Weir, J. Alden: 2, 13)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref60" level="file">
+                        <did>
+                            <unittitle>Volume XXXIV (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987104" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987104" type="Folder">28</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1920">1920 May-July</unitdate>
+                        </did>
+                        <scopecontent id="ref61">
+                            <head>Scope and Contents note</head>
+                            <p>(Barry, James: 84; Blakelock, R.A.: 37; Dickinson, S.E.: 1-4; Groll, Albert: 1-2; Hafner, Charles Andrea: 1, 14; Hoppin, Charles A.: 14, 23-4; Judson, Alice: 13; Luks, George: 37; Nave, Captain Royston: 3-4, 13-4, 23; Nelson, W.H.: 14-5; Norton, Clara: 13; Regnault, Henri: 21; Shee, Sir Martin A: 11-2; Wallace, Ruth: 3, 55, 77; )</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref62" level="file">
+                        <did>
+                            <unittitle>Volume XXXV (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987103" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987103" type="Folder">29</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1921" type="inclusive">1920 July-1921 May</unitdate>
+                        </did>
+                        <scopecontent id="ref63">
+                            <head>Scope and Contents note</head>
+                            <p>(Aitken, Robert J.: 7-8, 20, 43; Babcock, E.C.: 60, 108; Bellows, George: 43; Bunce, W. Gedney: 6, 120; Cole, Thomas Casilear 77, 120, 123, 126, 131, 136; Cross, Amy: 116; Damrosch, Helena: 134; Downey, Chris: 29; DuBois, Guy Pene: 117; Eakins, Thomas: 111; Ennis, George Pierce: 131; Foster, Ben: 107; Gay, Edward: 45, 58; Giles, Howard: 107; Goldthwait, Anne: 82; Hafner, Charles Andrew: 1, 44, 55, 57, 60, 63 ,67, 77, 90-2, 120, 129-30, 133; Hassam, Childe: 25, 80-2, 119; Higgins, Eugene: 6, 9, 20, 23, 108-109; Inman, Henry: 87; Kimbel, Richard: 123-4, 131, 169; Manning, Rose: 92, 124; Metcalf, Willard: 43, 81; Stuart, Gilbert: 85; Valenfampf, Theo: 16; Vanderlyn, John: 87; West, Benjamin: 85)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref64" level="file">
+                        <did>
+                            <unittitle>Volume XXXVI (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987102" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987102" type="Folder">30</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1922" type="inclusive">1921 September-1922 April</unitdate>
+                        </did>
+                        <scopecontent id="ref65">
+                            <head>Scope and Contents note</head>
+                            <p>(Clivette, Merton: 48-50; Cole, Thomas Casilear: 82, 85; Cooney, John: 6, 9-10 28, 39; Detweiller, F: 6, 20-1, 37, 54-5, 77-8, 80-2, 85-7; Donner, Herman Montago: 18; Dorr, C.H.: 102; Dudensing: 88; Eakins, Thomas: 21; Fiedler, Max: 17; Frazen, August: 23; Hafner, Charles Andrew: 14, 20, 25, 73; Hassam, Childe: 10; Kitson, Henry Hudson: 66-7; Levy, John: 61-3; McBride, Henry: 22; Merrick, Lula: 29; Potter, Nathan D.: 5, 20, 27, 30-2, 27-8, 42-5, 69-74, 86; Rio, Anita: 11; A.P. Ryder: 1, 13; Vezin, Charles: 65-6; Wallace, Cornelia: 7-8, 19, 26, 30, 46, 85, 87; Young, Mahonri: 24)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref66" level="file">
+                        <did>
+                            <unittitle>Volume XXXVII (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987101" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987101" type="Folder">31</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1922/1922">1922 April-September</unitdate>
+                        </did>
+                        <scopecontent id="ref67">
+                            <head>Scope and Contents note</head>
+                            <p>(Barile, Xavier: 29; Bellows, George: 14; Brandegee, Robert B.: 24; Crews, Floyd: 22; Daniel, Charles: 16; Escobal: 42; Haverty, J.J.: 17-21; Higgins, Eugene: 14-5; Inukai, Kyohei: 16, 39, 42; Kronberg, Louis: 23; McCormick, William B.: 16-7; Myers, Jerome and Ethel: 14; Pennell, Joseph: 15; Ranger, Henry W.: 63; Stevenson, Gordon: 33; Vezin, Charles: 24)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref68" level="file">
+                        <did>
+                            <unittitle>Volume XXXVIII (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987100" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987100" type="Folder">32</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1922/1923" type="inclusive">1922 October-1923 June</unitdate>
+                        </did>
+                        <scopecontent id="ref69">
+                            <head>Scope and Contents note</head>
+                            <p>(Ainslie, George: 9, 28, 33; Belcher, Hilda: 29; Burrows, Carlyle: 10, 31, 72; Chase, William M.: 3; Cheney, Russell: 18; Daniel, Charles: 3; Detweiller, F.: 14, 49, 52, 81, 88-9; Donohue, William Howard: 49; Dreier, Katherine: 89; Ennis, George Pearse: 9; Frazen, August: 36-40; Gaspard, Leon: 90-1; Granville-Smith, W.: 9; Gruppe, Charles P.: 40, 43; Hardie, Robert Gordon: 51; Hooker, J.: 105, 107; Inukai, Kyohei: 4, 8-9, 18, 20, 34-5, 40-1, 82, 88, 90-100; Judson, Alice: 9-90; Keller, Deane: 94, 103; Lawson, Ernest: 64; Luks, George: 4; Macbeth, Robert: 85; Manning, Rose: 54-9, 63; McBride, Henry: 93; McManus, James G.: 74, 105; Miller, Charles Townsend Abercrombie: 16; Morse, S.F.B.: 79; Nuni, Grove: 95; Pierpont, J.: 12, 20; Potter, Nathan D.: 20, 91, 101; Stuart, Gilbert: 50; Szopory, Baron Imre: 8, 83; Vose, Robert: 91; Young, Mahonri: 72, 92)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref70" level="file">
+                        <did>
+                            <unittitle>Volume XXXIX (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987099" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987099" type="Folder">33</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1923/1923">1923 June-December</unitdate>
+                        </did>
+                        <scopecontent id="ref71">
+                            <head>Scope and Contents note</head>
+                            <p>(Crews, Floyd: 1; Detweiller, F.: 5; Keller, Deane: 3; Muller, Michael: 3-4; Potter, Nathan D: 3-7)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref72" level="file">
+                        <did>
+                            <unittitle>Volume XL (See Addendum List of Names and Subjects for Content Information)</unittitle>
+                            <container id="cid987098" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987098" type="Folder">34</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1923/1924" type="inclusive">1923 October-1924 October</unitdate>
+                        </did>
+                        <scopecontent id="ref73">
+                            <head>Scope and Contents note</head>
+                            <p>(Copley, John Singleton: 1-2; Palmer, Erastus: 1; Shurtleff, Roswell M.: 1)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref74" level="file">
+                        <did>
+                            <unittitle>James Britton's Draft Index to Diaries, XXV-XL</unittitle>
+                            <container id="cid987097" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987097" type="Folder">35</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                            <physdesc id="ref239" label="General Physical Description note">(not scanned)</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref75" level="file">
+                        <did>
+                            <unittitle>James Britton's Final Index to Diaries, XXV-XL</unittitle>
+                            <container id="cid987096" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987096" type="Folder">36</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1939" type="inclusive">circa 1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref76" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 1</unittitle>
+                            <container id="cid987095" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987095" type="Folder">37</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1925">1925 January-February, June</unitdate>
+                        </did>
+                        <scopecontent id="ref77">
+                            <head>Scope and Contents note</head>
+                            <p>(discusses George Bellows and Childe Hassam exhibiting at Macbeth Galleries; the death of George Bellows; visits Dwight William and Mrs. Tryon in New York Ciry, discusses the Freer Gallery of Art at length; travels to Kraushaar Galleries to see paintings by Sloan and Bellows.)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref78" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 2</unittitle>
+                            <container id="cid987094" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987094" type="Folder">38</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1925">1925 February-March</unitdate>
+                        </did>
+                        <scopecontent id="ref79">
+                            <head>Scope and Contents note</head>
+                            <p>(Britton participates in the First Exhibition of the Charter Members of the New Society of American Artists; list of members of the New York Portrait Society; exhibition at Babcock Galleries in April; New Society of Artists Committee meeting; list of portraits by year and sitter)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref80" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 3</unittitle>
+                            <container id="cid987093" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987093" type="Folder">39</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1925">1925 March-April</unitdate>
+                        </did>
+                        <scopecontent id="ref81">
+                            <head>Scope and Contents note</head>
+                            <p>(attends a meeting of the New Society of American Artists at the studio of George Lobens with George Pease Ennis, Bruce Crane of the Salmagundi Club who nominate Ernest Blumenschein to join the committee; discusses Kyokei Inukai; discusses Babcock Galleries' poor treatment of artists; meets Milton Avery; talks of 
+                                <emph render="italic">Opus</emph>)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref82" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 4</unittitle>
+                            <container id="cid987092" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987092" type="Folder">40</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1926" type="inclusive">1925 October-1926 March</unitdate>
+                        </did>
+                        <scopecontent id="ref83">
+                            <head>Scope and Contents note</head>
+                            <p>(travels to Knoedler's and meets Jim Weiland; goes to Metropolitan Museum of Art with son Jerome; attends a George Bellows memorial exhibition; descrition of the New Britain Institute with a list of artists represented; visits James Goodwin McManus's studio; discusses "The Chess Players" by Robert Bolling Brandegee; talks with Frank Rehn; sees Frederick Detweiller; list of pictures over which to "make a big ex" (35); visits Louis Comfort Tiffany; list of portraits by others of which Britton wanted copies for inspiration and admiration (90-91) )</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref84" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 5</unittitle>
+                            <container id="cid987091" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987091" type="Folder">41</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1930" type="inclusive">circa 1925 October-1926 May</unitdate>
+                        </did>
+                        <scopecontent id="ref85">
+                            <head>Scope and Contents note</head>
+                            <p>(discusses industry versus art in America; a draft of "Art and New Business"; list of works of art in Waterbury, CT by Britton; second annual exhibition of the New Society of American Artists; discusses the Connecticut Academy; the relationship between painting and writing)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref86" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 6</unittitle>
+                            <container id="cid987090" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987090" type="Folder">42</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1926/1927" type="inclusive">1926-1927</unitdate>
+                        </did>
+                        <scopecontent id="ref87">
+                            <head>Scope and Contents note</head>
+                            <p>(consists of notes on Copley and Haydn and Beethoven; list of Copley portraits of British and Americans painted in England; notes on Copley at the Royal Academy)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref88" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 7</unittitle>
+                            <container id="cid987089" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987089" type="Folder">43</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1926/1928" type="inclusive">1926 July-1928 January</unitdate>
+                        </did>
+                        <scopecontent id="ref89">
+                            <head>Scope and Contents note</head>
+                            <p>("notes on the literature of American Art"; has an exhibition at M. Knoedler and Co. Galleries; information about his Copley book; notes on Pyle and Stewart; suggests creating a Mark Twain group portrait; a list of books by W.M. Howells; list of woodcuts by Britton organized by date; notes on Mozart, Haydn and Beethoven; visits Kraushaar Galleries and the Morgan Museum; visits with Norwegian artist Lars Thorsen; discusses the pub culture of Hartford, CT; list of woodcuts by Walter Eitel; talks with Frank Gay of the Wadsworth Athenaeum; talks of Borglum and Caffin in Hartford reminisences)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref90" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 8</unittitle>
+                            <container id="cid987088" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987088" type="Folder">44</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1928/1929" type="inclusive">1928 February-1929 October</unitdate>
+                        </did>
+                        <scopecontent id="ref91">
+                            <head>Scope and Contents note</head>
+                            <p>(sells book on Copley; visits Walter Eitel and Frederick Detweiller; list of portraits painted by Hartford artists or of Hartford sitters; list of paintings--various; a draft of a letter to Edwin Valentine Mitchell and one to F. Detweiller; Mr. Bartlet, an engraver visits; gives an interview for The Republican with Miss Cullen; a list of books with Howell's; goes to Morgan Museum and cannot find his portrait of Charles Flagg; talks of his father Captain J. Britton; invited to exhibit at the Women's Club of Hartford with Maud Monnier--includes a list of paintings possible for exhibition; commentary on Hartford Philharmonic Orchestra; discusses "The Banquet of the Presidents" and his intent for the painting)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref92" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 9</unittitle>
+                            <container id="cid987087" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987087" type="Folder">45</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1929/1931" type="inclusive">1929 December-1931 March</unitdate>
+                        </did>
+                        <scopecontent id="ref93">
+                            <head>Scope and Contents note</head>
+                            <p>(talks with Father Andrew Kelly; lists of sales from the Women's Club Art Committee exhibitiion wiht a description of the event; talks of his portrait of Inukai; complaints of those considered "Rich Hartford"; visits Morgan Museum exhibitions including French, Italian, and Mexican paintings; draft of "The Battle of American Art" (53); sees an exhibition of Higgins etchings; a draft of a letter to Phillip Hardy; list of ideas for "Modern Life" series; two lists of paintings: for patrons in Hartford and of subjects residing in Hartford or the vicinity; a list of old paintings received from storage; comment on New York Tribune announcing the publication of the Copley book; a list of paintings to exhibit at Women's Club in November; pressures Morgan Museum for more paintings to cover all American Art movements and time periods; list of visitors to visit the Women's Club exhibition; a list of portraits for Britton to see or write about; comments on business during the depression)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref94" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 10</unittitle>
+                            <container id="cid987086" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987086" type="Folder">46</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1931/1931">1931 March-August</unitdate>
+                        </did>
+                        <scopecontent id="ref95">
+                            <head>Scope and Contents note</head>
+                            <p>(list of visitors to the Women's Club exhibtion, November 3, 1930; draft of a letter to Charles A Goodwin wiht a list of artists that should be represented at the Wadsworth Athenaeum; discusses Max Weber portrait; describes how he varnishes his paintings; a sketch of his studio space; essays entitled "Men's Mission" and "Women's Mission"; talks of Connecticut Shore Art Guild summer exhibition and a list of possible exhibtions; a price list from an exhibtion at Folsom Gallery in New York City)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref96" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 11</unittitle>
+                            <container id="cid987085" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987085" type="Folder">47</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1931/1932" type="inclusive">1931 September-1932 April</unitdate>
+                        </did>
+                        <scopecontent id="ref97">
+                            <head>Scope and Contents note</head>
+                            <p>(essay entitled "Dialog in a Portrait Painter's Studio"; contains an essay by Caroline Britton concerning Christian Science and prayer of Man and God; lists of portraits based on the age of the painting; commentary on European versus American artists; begins to discuss his health problems; a review of 
+                                <emph render="italic">Jane Eyre</emph> and 
+                                <emph render="italic">Shirley</emph>; a list of sales to Father Kelly; death of Maud Monnier; writes for the catalog for the Edith Stevens memorial exhibition; visit from Max and Mrs. Bengs; describes the role of Hartford's Cheney family in Prohibition; expresses frustration over having one of his woodcuts produced without permission; old friend Russel Northman commits suicide)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref98" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 12</unittitle>
+                            <container id="cid987084" label="Mixed Materials" type="Box">1</container>
+                            <container parent="cid987084" type="Folder">48</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1932/1932">1932 May-October</unitdate>
+                        </did>
+                        <scopecontent id="ref99">
+                            <head>Scope and Contents note</head>
+                            <p>(vivid commentary on the effect of the Depression on the Britton family and the country in general; talks of Guy Pene du Bois; a critique of the American Intelligensia and their lack of focus on American Art(12); talks of Socialism in America at length-20; talks of Edith Stevens and her suicide; describes legal troubles and that a judge ruled his paintings as collateral; comments on suicide during Depression; discusses Father Kelly's art collection and his new O'Keeffe works; a description of the Presidents within "The Presidents Banquet"; discusses the election of Franklin Roosevelt; gives commentary on Irish politics; having difficulty with his wife; a list of paintings with Father Kelly; discusses falling out with Father Kelly because Britton will not convert to Catholicism)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref100" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 13</unittitle>
+                            <container id="cid987083" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987083" type="Folder">1</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1932/1933" type="inclusive">1932 November-1933 February</unitdate>
+                        </did>
+                        <scopecontent id="ref101">
+                            <head>Scope and Contents note</head>
+                            <p>(visit from Henry Nord; discusses Roosevelt's election; talks of problems with his relationships with Father Kelly and wife, Caroline; reflections on the art scene in New York City-57; list of data on "The Presidents Banquet"; death of Tom Brabazon; looting and petty theivery during the Depression)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref102" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 14</unittitle>
+                            <container id="cid987082" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987082" type="Folder">2</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 February-March</unitdate>
+                        </did>
+                        <scopecontent id="ref103">
+                            <head>Scope and Contents note</head>
+                            <p>(contains many details of the poor economic conditions and the effect on society and his own familial relationships; Socialist and Communist activities of his wife; discusses attempted shooting of Roosevelt in Florida; visit from Tom Supples, a baseball player; financial conditions of museums in Hartford; discusses the Beer Bill and the end of Prohibition and the Bank Holiday; recollections of Ida Tarbell; a list of paintings lost-93)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref104" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 15</unittitle>
+                            <container id="cid987081" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987081" type="Folder">3</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 April-May</unitdate>
+                        </did>
+                        <scopecontent id="ref105">
+                            <head>Scope and Contents note</head>
+                            <p>(many notes on classical music and composers; discussion of the new beer after Prohibition; suffers from ill health and talks of the activities of his children; visits from the son of E.C. Potter, sculptor)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref106" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 16</unittitle>
+                            <container id="cid987080" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987080" type="Folder">4</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 May-July</unitdate>
+                        </did>
+                        <scopecontent id="ref107">
+                            <head>Scope and Contents note</head>
+                            <p>(contains many sketches; discusses Civil War photography; a sketch of a surgery done by his brother-in-law Dr. Boucher; list of paintings; discusses the job market for post-high school students; list of paintings owned by Father Kelly; descriptions of landscape paintings and comments on painting over old canvases-54; list of paintings owned by Walter Eitel and E.V. Mitchell)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref108" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 17</unittitle>
+                            <container id="cid987079" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987079" type="Folder">5</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 July-August</unitdate>
+                        </did>
+                        <scopecontent id="ref109">
+                            <head>Scope and Contents note</head>
+                            <p>(discusses article about Father Kelly's art collection in The Transcript; essay "Modernism Blows Up"; talks of the quality of paper available in America-9; concern with his copyright over images; anger of the patronage of Father Kelly; observations on New York City and the effects of Prohibition; Knights of Columbus activities in Connecticut)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref110" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 18</unittitle>
+                            <container id="cid987078" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987078" type="Folder">6</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 August</unitdate>
+                        </did>
+                        <scopecontent id="ref111">
+                            <head>Scope and Contents note</head>
+                            <p>(notes on Copley's "Death of Chatham"; essay "New Art Modernism"; reminisences of Hartford Art Institute and Art League; list of American portraits for potential exhibition; list of Copley reproductions owned by Britton; proposal for a political party called The Heroes-51; draft of a letter to the Hartford Courant concerning "Cure d'Ars")</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref112" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 19</unittitle>
+                            <container id="cid987077" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987077" type="Folder">7</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 September-October</unitdate>
+                        </did>
+                        <scopecontent id="ref113">
+                            <head>Scope and Contents note</head>
+                            <p>(comments on children's activities and schooling; copies music of Beethoven and Haydn; talks of Roosevelt's presidency; discusses having prints made from engravings with Father Kelly)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref114" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 20</unittitle>
+                            <container id="cid987076" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987076" type="Folder">8</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 October-November</unitdate>
+                        </did>
+                        <scopecontent id="ref115">
+                            <head>Scope and Contents note</head>
+                            <p>(death of George Luks; Tom Spellacy as the mayor of Hartford; futher discusses Socialist and Libertine activities of Caroline)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref116" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 21</unittitle>
+                            <container id="cid987075" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987075" type="Folder">9</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1933/1933">1933 December</unitdate>
+                        </did>
+                        <scopecontent id="ref117">
+                            <head>Scope and Contents note</head>
+                            <p>(Father Kelly holds exhibition at the Andrea Art Gallery in Hartford; writes on the difference between professional and amateur artists; copy of a letter to Father Kelly; reelection of President Roosevelt; memo "Petition of Artist for a Break")</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref118" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 22</unittitle>
+                            <container id="cid987074" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987074" type="Folder">10</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 January-February</unitdate>
+                        </did>
+                        <scopecontent id="ref119">
+                            <head>Scope and Contents note</head>
+                            <p>(discusses political and social situations in Germany; talks about Katherine Hepburn's family in Connecticut; letter to Father Kelly concerning prices of works of art)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref120" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 23</unittitle>
+                            <container id="cid987073" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987073" type="Folder">11</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 March-May</unitdate>
+                        </did>
+                        <scopecontent id="ref121">
+                            <head>Scope and Contents note</head>
+                            <p>(Caroline elected as an honorary member to the local labor union of textile workers; talks of Civil Works Administration and government sponsored art; discusses Juliana Force closing Whitney Museum for fear of violance; moves in with sister due to family troubles; issues with Father Kelly's patronage; Britton family is evicted and forced to find a new place to live)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref122" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 24</unittitle>
+                            <container id="cid987072" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987072" type="Folder">12</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 May-June</unitdate>
+                        </did>
+                        <scopecontent id="ref123">
+                            <head>Scope and Contents note</head>
+                            <p>(draft of a letter to Father Kelly; outlines his problems with Father Kelly-23; discusses racial tension in the South; death of Frank B. Gay; sketches; discussion of "The Presidents Banquet")</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref124" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 25</unittitle>
+                            <container id="cid987071" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987071" type="Folder">13</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 July</unitdate>
+                        </did>
+                        <scopecontent id="ref125">
+                            <head>Scope and Contents note</head>
+                            <p>(mostly sketches and artworks including color)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref126" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 26</unittitle>
+                            <container id="cid987070" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987070" type="Folder">14</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 August-September</unitdate>
+                        </did>
+                        <scopecontent id="ref127">
+                            <head>Scope and Contents note</head>
+                            <p>(troubles with his family concerning his disagreement with wife's affiliation with labor unions; Jerome has an exhibition; Mr. Monnier dies; Caroline urges workers of Cheney Mills to join labor unions; draft of a letter to Tom Spellacy)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref128" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 27</unittitle>
+                            <container id="cid987069" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987069" type="Folder">15</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 September-December</unitdate>
+                        </did>
+                        <scopecontent id="ref129">
+                            <head>Scope and Contents note</head>
+                            <p>(this diary was recycled twice and is therefore difficult to read--it was used by Jerome as a school book, by Britton in 1930, then Britton returned to it in 1934; essays from 1930 "Everybody to Work" "Untitled Play"; essay from 1934 "Truce and the Pope"; concerning Senator John Blackwell; sketch of paintings-113)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref130" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 28</unittitle>
+                            <container id="cid987068" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987068" type="Folder">16</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1935/1935">1935 January-February</unitdate>
+                        </did>
+                        <scopecontent id="ref131">
+                            <head>Scope and Contents note</head>
+                            <p>(memoranda concerning prints for publication; list of possible purchasers of Roosevelt painting; sketches; list of paintings to be duplicated or printed; discussion of Huey Long)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref132" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 29</unittitle>
+                            <container id="cid987067" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987067" type="Folder">17</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 February-July</unitdate>
+                        </did>
+                        <scopecontent id="ref133">
+                            <head>Scope and Contents note</head>
+                            <p>(discusses Roosevelt's cabinet and Huey Long; draft of letters to Detweiller; death of Augustus Lukeman, sculptor; sketches; talks of the Andrea Art Guild turning into a Catholic lending library; recalls time spent with Cecilia Beaux in 1909)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref134" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 30</unittitle>
+                            <container id="cid987066" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987066" type="Folder">18</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 July-December</unitdate>
+                        </did>
+                        <scopecontent id="ref135">
+                            <head>Scope and Contents note</head>
+                            <p>(moves into sister's home due to health probelms; list of people in the Connecticut State Offices along with salaries and locations; sketches; list of potential portrait subjects and landscapes)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref136" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 31</unittitle>
+                            <container id="cid987065" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987065" type="Folder">19</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1935/1935">1935 January-February</unitdate>
+                        </did>
+                        <scopecontent id="ref137">
+                            <head>Scope and Contents note</head>
+                            <p>(talks of "foreign policy" of the Morgan Museum; letter by Joanna Boucher for school; letter to Senator Blackwell; sketches; inscriptions of books on composers; proposal for a Copley Society in Connecticut; form letter for solicitation of Roosevelt painting)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref138" level="file">
+                        <did>
+                            <unittitle>Miscellaneous Volume 32</unittitle>
+                            <container id="cid987064" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987064" type="Folder">20</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1935/1935">1935 February-July</unitdate>
+                        </did>
+                        <scopecontent id="ref139">
+                            <head>Scope and Contents note</head>
+                            <p>(list of members of the Copley Society of America, 1908; sketches; list of trustees and members of the Museum Arts Committee; draft of letter to the editor of the Herald addressed to Democrats)</p>
+                        </scopecontent>
+                    </c03>
+                </c02>
+                <c02 id="ref144" level="subseries">
+                    <did>
+                        <unittitle>James Britton's Notebooks of Diary Excerpts</unittitle>
+                        <unitid>Subseries 4.2</unitid>
+                        <unitdate calendar="gregorian" era="ce" normal="1919/1934" type="inclusive">1919-1934</unitdate>
+                    </did>
+                    <scopecontent id="ref155">
+                        <head>Scope and Contents note</head>
+                        <p>James Britton created ten volumes of excerpts from his diary, presumably those that he felt were the most significant.</p>
+                    </scopecontent>
+                    <c03 id="ref145" level="file">
+                        <did>
+                            <unittitle>Volume 1</unittitle>
+                            <container id="cid987063" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987063" type="Folder">21</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1918/1919" type="inclusive">1918-1919 January</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref146" level="file">
+                        <did>
+                            <unittitle>Volume 2</unittitle>
+                            <container id="cid987062" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987062" type="Folder">22</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 January-March</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref147" level="file">
+                        <did>
+                            <unittitle>Volume 3</unittitle>
+                            <container id="cid987061" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987061" type="Folder">23</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1919">1919 March-July</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref148" level="file">
+                        <did>
+                            <unittitle>Volume 4</unittitle>
+                            <container id="cid987060" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987060" type="Folder">24</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1920" type="inclusive">1919 July-1920 February</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref149" level="file">
+                        <did>
+                            <unittitle>Volume 5</unittitle>
+                            <container id="cid987059" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987059" type="Folder">25</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1920">1920 March-September</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref150" level="file">
+                        <did>
+                            <unittitle>Volume 6</unittitle>
+                            <container id="cid987058" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987058" type="Folder">26</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1920/1921" type="inclusive">1920 September-1921 April</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref151" level="file">
+                        <did>
+                            <unittitle>Volume 7</unittitle>
+                            <container id="cid987057" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987057" type="Folder">27</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1923" type="inclusive">1921 April-1923 February</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref152" level="file">
+                        <did>
+                            <unittitle>Volume 8</unittitle>
+                            <container id="cid987056" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987056" type="Folder">28</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1928/1928">1928</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref153" level="file">
+                        <did>
+                            <unittitle>Volume 9</unittitle>
+                            <container id="cid987055" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987055" type="Folder">29</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1929/1929">1929</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref154" level="file">
+                        <did>
+                            <unittitle>Volume 10</unittitle>
+                            <container id="cid987054" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987054" type="Folder">30</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1934/1934">1934 August-November</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref158" level="series">
+                <did>
+                    <unittitle>Writings and Notes</unittitle>
+                    <unitid>Series 5</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1905/1935" type="inclusive">circa 1910s-1935</unitdate>
+                    <physdesc id="ref238" label="General Physical Description note">(Boxes 2-3; 0.4 linear feet)</physdesc>
+                </did>
+                <scopecontent id="ref192">
+                    <head>Scope and Contents note</head>
+                    <p>Writings and notes by Britton include a handwritten and incomplete typescript of an autobiography, writings for his publication 
+                        <emph render="italic">Opus</emph>, draft writings for his book, 
+                        <emph render="italic">Artists of America</emph>, drafts of "Copley, Modern Old Master", writings about Charles Noel Flagg, and essays about art and classical music, and plays. There are also three notebooks and notes. There are also writings by Duncan Scott Kent and Blackfield.</p>
+                </scopecontent>
+                <altformavail id="ref247">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety.</p>
+                </altformavail>
+                <arrangement id="ref193">
+                    <head>Arrangement note</head>
+                    <p>Writings and Notes are arranged into 2 subseries:</p>
+                    <p>
+                        <list>
+                            <item>Subseries 5.1: Writings By James Britton, circa 1910s-1935 </item>
+                            <item>Subseries 5.2: Writings By Others, circa 1910s-circa 1928</item>
+                        </list></p>
+                </arrangement>
+                <c02 id="ref159" level="subseries">
+                    <did>
+                        <unittitle>Writings by James Britton</unittitle>
+                        <unitid>Subseries 5.1</unitid>
+                        <unitdate calendar="gregorian" era="ce" normal="1905/1935" type="inclusive">circa 1910s-1935</unitdate>
+                    </did>
+                    <c03 id="ref160" level="file">
+                        <did>
+                            <unittitle>Autobiography</unittitle>
+                            <container id="cid987053" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987053" type="Folder">31-35</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1939" type="inclusive">circa 1930s</unitdate>
+                            <physdesc id="ref237" label="General Physical Description note">(5 folders)</physdesc>
+                        </did>
+                    </c03>
+                    <c03 id="ref161" level="file">
+                        <did>
+                            <unittitle>Autobiography, typescript</unittitle>
+                            <container id="cid987052" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987052" type="Folder">36</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1939" type="inclusive">circa 1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref162" level="file">
+                        <did>
+                            <unittitle>"American Portraits,"</unittitle>
+                            <container id="cid987051" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987051" type="Folder">37</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref163" level="file">
+                        <did>
+                            <unittitle>"Art Museum Ethics,"</unittitle>
+                            <container id="cid987050" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987050" type="Folder">38</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref164" level="file">
+                        <did>
+                            <unittitle>"Art-Position of America,"</unittitle>
+                            <container id="cid987049" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987049" type="Folder">39</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref165" level="file">
+                        <did>
+                            <unittitle>"Art-Opus 8,"</unittitle>
+                            <container id="cid987048" label="Mixed Materials" type="Box">2</container>
+                            <container parent="cid987048" type="Folder">40</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1919/1929" type="inclusive">circa 1924</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref166" level="file">
+                        <did>
+                            <unittitle>"Artists of America, Pt 1,"</unittitle>
+                            <container id="cid987047" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987047" type="Folder">1</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1931" type="inclusive">circa 1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref167" level="file">
+                        <did>
+                            <unittitle>"Artists of America, Pt 2,"</unittitle>
+                            <container id="cid987046" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987046" type="Folder">2</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1931" type="inclusive">circa 1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref168" level="file">
+                        <did>
+                            <unittitle>"Artists of America, Pt 2," draft</unittitle>
+                            <container id="cid987045" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987045" type="Folder">3</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1931" type="inclusive">circa 1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref169" level="file">
+                        <did>
+                            <unittitle>"Copley, Modern Old Master,"</unittitle>
+                            <container id="cid987044" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987044" type="Folder">4</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1925" type="inclusive">circa 1920</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref170" level="file">
+                        <did>
+                            <unittitle>"Copley, Modern Old Master," draft</unittitle>
+                            <container id="cid987043" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987043" type="Folder">5</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1925" type="inclusive">circa 1920</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref171" level="file">
+                        <did>
+                            <unittitle>"Modern Art,"</unittitle>
+                            <container id="cid987042" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987042" type="Folder">6</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1919" type="inclusive">circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref172" level="file">
+                        <did>
+                            <unittitle>"No Czar for Artists,"</unittitle>
+                            <container id="cid987041" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987041" type="Folder">7</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref173" level="file">
+                        <did>
+                            <unittitle>"Painting of String Quartet"</unittitle>
+                            <container id="cid987040" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987040" type="Folder">8</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1919" type="inclusive">circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref174" level="file">
+                        <did>
+                            <unittitle>"Painter's Wife"</unittitle>
+                            <container id="cid987039" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987039" type="Folder">9</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref175" level="file">
+                        <did>
+                            <unittitle>Concerning Charles Noel Flagg</unittitle>
+                            <container id="cid987038" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987038" type="Folder">10</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1925">1925 August</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref176" level="file">
+                        <did>
+                            <unittitle>Miscellaneous, Concerning Art</unittitle>
+                            <container id="cid987037" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987037" type="Folder">11</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1925" type="inclusive">1925, circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref177" level="file">
+                        <did>
+                            <unittitle>"Haydn the Master, Beethoven the Pupil,"</unittitle>
+                            <container id="cid987036" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987036" type="Folder">12</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1921/1931" type="inclusive">circa 1926</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref178" level="file">
+                        <did>
+                            <unittitle>Notes on Haydn and Beethoven</unittitle>
+                            <container id="cid987035" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987035" type="Folder">13</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1925/1926" type="inclusive">1925-1926</unitdate>
+                        </did>
+                        <scopecontent id="ref179">
+                            <head>Scope and Contents note</head>
+                            <p>(notebook also contains essays on Sag Harbor, NY and Colonel Freemont)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref180" level="file">
+                        <did>
+                            <unittitle>Notes on Literature Concerning Haydn</unittitle>
+                            <container id="cid987034" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987034" type="Folder">14</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1935/1935">1935</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref181" level="file">
+                        <did>
+                            <unittitle>Notes Concerning Music</unittitle>
+                            <container id="cid987033" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987033" type="Folder">15</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1939" type="inclusive">circa 1920s-1930s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref182" level="file">
+                        <did>
+                            <unittitle>Play- "Home"</unittitle>
+                            <container id="cid987032" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987032" type="Folder">16</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1919" type="inclusive">circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref183" level="file">
+                        <did>
+                            <unittitle>Play- Untitled</unittitle>
+                            <container id="cid987031" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987031" type="Folder">17</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1919" type="inclusive">circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref184" level="file">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                            <container id="cid987030" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987030" type="Folder">18</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1927/1927">1927</unitdate>
+                        </did>
+                        <scopecontent id="ref185">
+                            <head>Scope and Contents note</head>
+                            <p>(Includes 3 drafts of correspondence)</p>
+                        </scopecontent>
+                    </c03>
+                    <c03 id="ref186" level="file">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                            <container id="cid987029" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987029" type="Folder">19</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1922/1932" type="inclusive">circa 1927</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref187" level="file">
+                        <did>
+                            <unittitle>Notebook</unittitle>
+                            <container id="cid987028" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987028" type="Folder">20</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref188" level="file">
+                        <did>
+                            <unittitle>Notes</unittitle>
+                            <container id="cid987027" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987027" type="Folder">21</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+                <c02 id="ref189" level="subseries">
+                    <did>
+                        <unittitle>Writings by Others</unittitle>
+                        <unitid>Subseries 5.2</unitid>
+                        <unitdate calendar="gregorian" era="ce" normal="1905/1928" type="inclusive">circa 1910s-1928</unitdate>
+                    </did>
+                    <c03 id="ref190" level="file">
+                        <did>
+                            <unittitle>"London," by Duncan Scott Kent</unittitle>
+                            <container id="cid987026" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987026" type="Folder">22</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1905/1919" type="inclusive">circa 1910s</unitdate>
+                        </did>
+                    </c03>
+                    <c03 id="ref191" level="file">
+                        <did>
+                            <unittitle>"New History of American Art," by Blackfield</unittitle>
+                            <container id="cid987025" label="Mixed Materials" type="Box">3</container>
+                            <container parent="cid987025" type="Folder">23</container>
+                            <unitdate calendar="gregorian" era="ce" normal="1923/1933" type="inclusive">circa 1928</unitdate>
+                        </did>
+                    </c03>
+                </c02>
+            </c01>
+            <c01 id="ref194" level="series">
+                <did>
+                    <unittitle>Artwork</unittitle>
+                    <unitid>Series 6</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920-1929</unitdate>
+                    <physdesc id="ref236" label="General Physical Description note">(Box 3; 5 folders)</physdesc>
+                </did>
+                <scopecontent id="ref200">
+                    <head>Scope and Contents note</head>
+                    <p>There are sketches by Britton including gallery renderings, pen and ink, and pencil; a woodcut by Britton; and pencil and crayon drawings presumably by the Britton children.</p>
+                </scopecontent>
+                <altformavail id="ref201">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been scanned in its entirety.</p>
+                </altformavail>
+                <c02 id="ref195" level="file">
+                    <did>
+                        <unittitle>Woodcut Print</unittitle>
+                        <container id="cid987024" label="Mixed Materials" type="Box">3</container>
+                        <container parent="cid987024" type="Folder">24</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1929" type="inclusive">1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref197" level="file">
+                    <did>
+                        <unittitle>Sketch, Pencil</unittitle>
+                        <container id="cid987022" label="Mixed Materials" type="Box">3</container>
+                        <container parent="cid987022" type="Folder">26</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref196" level="file">
+                    <did>
+                        <unittitle>Sketch, Ink</unittitle>
+                        <container id="cid987023" label="Mixed Materials" type="Box">3</container>
+                        <container parent="cid987023" type="Folder">25</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1929/1929">1929</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref198" level="file">
+                    <did>
+                        <unittitle>Sketch of Gallery Plans</unittitle>
+                        <container id="cid987021" label="Mixed Materials" type="Box">3</container>
+                        <container parent="cid987021" type="Folder">27</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1930" type="inclusive">circa 1925</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref199" level="file">
+                    <did>
+                        <unittitle>Children's Drawings</unittitle>
+                        <container id="cid987020" label="Mixed Materials" type="Box">3</container>
+                        <container parent="cid987020" type="Folder">28</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                    </did>
+                </c02>
+            </c01>
+            <c01 id="ref202" level="series">
+                <did>
+                    <unittitle>Printed Material</unittitle>
+                    <unitid>Series 7</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1910/1982" type="inclusive">1910-1982</unitdate>
+                    <physdesc id="ref235" label="General Physical Description note">(Box 4; 0.4 linear feet)</physdesc>
+                </did>
+                <scopecontent id="ref219">
+                    <head>Scope and Contents note</head>
+                    <p>Printed materials include publications containing writings or illustrations by Britton including 
+                        <emph render="italic">Art Review International</emph>, 
+                        <emph render="italic">Book Notes</emph>, 
+                        <emph render="italic">Opus</emph>; clippings and articles; exhibition announcements and catalogs for Britton'w work or that contain essays written by Britton; programs for musical performances; a copy of 
+                        <emph render="italic">Morocco Bound</emph> by Edwin Valentine Mitchell; and miscellany.</p>
+                </scopecontent>
+                <altformavail id="ref220">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been partially scanned. For some exhibition catalogs and published materials, only the cover and pages with references to Britton or essays written by Britton have scanned.</p>
+                </altformavail>
+                <c02 id="ref203" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Art Review International</emph></unittitle>
+                        <container id="cid987019" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987019" type="Folder">1</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1919/1920" type="inclusive">1919-1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref204" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Book Notes</emph>, Articles by Britton</unittitle>
+                        <container id="cid987018" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987018" type="Folder">2</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">1926, 1920s</unitdate>
+                    </did>
+                    <altformavail id="ref234">
+                        <head>Existence and Location of Copies note</head>
+                        <p>(partially scanned)</p>
+                    </altformavail>
+                </c02>
+                <c02 id="ref205" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Book Notes</emph>, Illustrations by Britton</unittitle>
+                        <container id="cid987017" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987017" type="Folder">3</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1927/1928" type="inclusive">1927-1928</unitdate>
+                    </did>
+                    <altformavail id="ref233">
+                        <head>Existence and Location of Copies note</head>
+                        <p>(partially scanned)</p>
+                    </altformavail>
+                </c02>
+                <c02 id="ref206" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Opus </emph>6 and 7</unittitle>
+                        <container id="cid987016" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987016" type="Folder">4</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1917/1927" type="inclusive">circa 1922-1923</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref207" level="file">
+                    <did>
+                        <unittitle>Articles Written by or Illustrated by Britton</unittitle>
+                        <container id="cid987015" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987015" type="Folder">5</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1929" type="inclusive">1928, circa 1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref208" level="file">
+                    <did>
+                        <unittitle>Clippings, Hartford Courant</unittitle>
+                        <container id="cid987014" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987014" type="Folder">6</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1910/1912" type="inclusive">1910-1912</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref209" level="file">
+                    <did>
+                        <unittitle>Clippings, Art Related</unittitle>
+                        <container id="cid987013" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987013" type="Folder">7</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1914/1971" type="inclusive">1914-1971</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref210" level="file">
+                    <did>
+                        <unittitle>Clippings, General</unittitle>
+                        <container id="cid987012" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987012" type="Folder">8</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1929" type="inclusive">circa 1920s</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref211" level="file">
+                    <did>
+                        <unittitle>Exhibition Articles and Catalogs for Britton</unittitle>
+                        <container id="cid987011" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987011" type="Folder">9</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1917/1982" type="inclusive">1917-circa 1936, 1982</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref212" level="file">
+                    <did>
+                        <unittitle>Exhibition Articles and Catalogs, Introductions by Britton</unittitle>
+                        <container id="cid987010" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987010" type="Folder">10</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1925" type="inclusive">circa 1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref213" level="file">
+                    <did>
+                        <unittitle>Exhibition Articles and Catalogs, Connecticut Academy of Fine Arts</unittitle>
+                        <container id="cid987009" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987009" type="Folder">11</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1937/1938" type="inclusive">1937-1938</unitdate>
+                    </did>
+                    <altformavail id="ref232">
+                        <head>Existence and Location of Copies note</head>
+                        <p>(partially scanned)</p>
+                    </altformavail>
+                </c02>
+                <c02 id="ref214" level="file">
+                    <did>
+                        <unittitle>Exhibition Articles and Catalogs, Miscellaneous</unittitle>
+                        <container id="cid987008" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987008" type="Folder">12</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1930" type="inclusive">circa 1920s-1930</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref215" level="file">
+                    <did>
+                        <unittitle>Order Form for 
+                            <emph render="italic">Copley, Painter of the Revolution</emph></unittitle>
+                        <container id="cid987007" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987007" type="Folder">13</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1915/1925" type="inclusive">circa 1920</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref216" level="file">
+                    <did>
+                        <unittitle>Music Programs</unittitle>
+                        <container id="cid987006" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987006" type="Folder">14</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1935" type="inclusive">1920s-1935</unitdate>
+                    </did>
+                    <altformavail id="ref231">
+                        <head>Existence and Location of Copies note</head>
+                        <p>(partially scanned)</p>
+                    </altformavail>
+                </c02>
+                <c02 id="ref217" level="file">
+                    <did>
+                        <unittitle>Miscellaneous Printed Material</unittitle>
+                        <container id="cid987005" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987005" type="Folder">15</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1920/1932" type="inclusive">1920s-1932</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref218" level="file">
+                    <did>
+                        <unittitle>
+                            <emph render="italic">Morocco Bound</emph>, by Edwin Valentine Mitchell</unittitle>
+                        <container id="cid987004" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987004" type="Folder">16</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1929/1929">1929</unitdate>
+                    </did>
+                    <altformavail id="ref230">
+                        <head>Existence and Location of Copies note</head>
+                        <p>(partially scanned)</p>
+                    </altformavail>
+                </c02>
+            </c01>
+            <c01 id="ref221" level="series">
+                <did>
+                    <unittitle>Photographs</unittitle>
+                    <unitid>Series 8</unitid>
+                    <unitdate calendar="gregorian" era="ce" normal="1900/1939" type="inclusive">circa 1905-1930s</unitdate>
+                    <physdesc id="ref229" label="General Physical Description note">(Box 4, OV1; 3 folders)</physdesc>
+                </did>
+                <scopecontent id="ref225">
+                    <head>Scope and Contents note</head>
+                    <p>There is one photograph of James Britton sitting in front of a painting of Tom Brabazon and photographs of portraits by Britton.</p>
+                </scopecontent>
+                <altformavail id="ref226">
+                    <head>Existence and Location of Copies note</head>
+                    <p>This series has been partially scanned. Photographs of works of art have not been scanned.</p>
+                </altformavail>
+                <c02 id="ref222" level="file">
+                    <did>
+                        <unittitle>Photograph of James Britton</unittitle>
+                        <container id="cid987003" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987003" type="Folder">17</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1900/1910" type="inclusive">circa 1905</unitdate>
+                    </did>
+                </c02>
+                <c02 id="ref223" level="file">
+                    <did>
+                        <unittitle>Photographs of Works of Art</unittitle>
+                        <container id="cid987002" label="Mixed Materials" type="Box">4</container>
+                        <container parent="cid987002" type="Folder">18</container>
+                        <unitdate calendar="gregorian" era="ce" normal="1908/1939" type="inclusive">1908-1930s</unitdate>
+                        <physdesc id="ref228" label="General Physical Description note">(oversized materials housed in OV1; not scanned)</physdesc>
+                    </did>
+                </c02>
+                <c02 id="ref224" level="file">
+                    <did>
+                        <unittitle>Oversized Photographs of Works of Art</unittitle>
+                        <container id="cid987001" label="Mixed Materials" type="Box">OV1</container>
+                        <container parent="cid987001" type="Folder">
+            </container>
+                        <unitdate calendar="gregorian" era="ce" normal="1908/1939" type="inclusive">1908-1930s</unitdate>
+                        <physdesc id="ref227" label="General Physical Description note">(from Box 4, F18; not scanned)</physdesc>
+                    </did>
+                </c02>
+            </c01>
+        </dsc>
+    </archdesc>
+</ead>

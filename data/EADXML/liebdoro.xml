@@ -1,0 +1,2311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/liebdoro.xml">liebdoro</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Dorothy Liebes</titleproper>
+		<subtitle>A Finding Aid to the Dorothy Liebes Papers, <date type="inclusive">circa 1850-1973</date> <date type="bulk"> (bulk 1922-1970)</date>, in the Archives of American Art</subtitle>
+		<author>by Catherine S. Gaines</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">August 2006</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Stephanie Ashley on
+<date>January 08, 2007</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Liebes, Dorothy</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Dorothy Liebes papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">circa 1850-1973 (bulk 1922-1970)</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">21.4 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of weaver, textile designer, and businesswoman Dorothy Liebes are dated circa 1850-1973 (bulk 1922-1970), and comprise 21.4 linear feet.  Biographical information, subject files, correspondence, writings, artwork, financial records, scrapbooks, textile samples, printed material, sound recordings, and photographs document Liebes' career and personal life.  Her second husband, Associated Press Reporter Relman "Pat" Morin, is also represented in the collection, although to a much lesser extent.</abstract>
+
+</did>
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>Gift of the Estate of Dorothy Liebes through Relman Morin (widower), 1972, and Ralph Higbee, 1973-1974.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. Use requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Dorothy Liebes papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Dorothy Liebes papers, circa 1850-1973 (bulk 1922-1970). Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>This collection was processed to a minimal level by Catherine S. Gaines in 2006.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Weaver, textile designer, and businesswoman Dorothy Wright Liebes was known for distinctive textiles featuring bold color combinations and unusual textures achieved through the use of materials such as glass rods, sequins, bamboo, grass, leather, ribbon, wire, and ticker tape.</p>
+
+<p>Born Dorothy Wright in Santa Rosa, California, she was the daughter of chemistry professor Frederick L. Wright and teacher Bessie Calderwood Wright. She studied art, education, and anthropology at San Jose State Teachers College and the University of California, Berkeley.  During her college years, a teacher encouraged her to experiment with weaving and textile design since many of her paintings resembled textiles.</p>
+
+<p>Liebes was a teacher for several years before deciding to pursue a career in textile design.  She then studied weaving at Hull House in Chicago and traveled to France, Italy, Guatemala, and Mexico to learn the traditional weaving forms of those cultures. Upon her return to the United States, Liebes opened her first studio for weaving and textile design in San Francisco; Dorothy Liebes Design, Inc. was established in 1934, and eventually employed a staff of weavers.</p>  
+
+<p>Her first client in the industry was Goodall-Sanford Mills, with whom she worked as a consultant for more than a decade.  As her client base expanded she decided to open a New York studio and maintained both studios until 1948 when she closed her San Francisco operation and relocated to New York City.</p> 
+
+<p>Liebes became a color and design consultant to corporations such as DuPont, Dow, and Bigelow-Sanford and tested and promoted newly developed synthetic fibers.  She advised textile chemists in the development of fibers that were versatile enough to produce many different textures, and worked with engineers and technicians to develop new machines that could reproduce the irregularities of hand-loomed fabrics.  Liebes became a sought-after speaker by textile industry and consumer groups, and sometimes taught workshops on color and design.</p>  
+
+<p>Her commissions included the United Nations Delegates Dining Room, the Persian Room at the Plaza Hotel and the King of Saudi Arabia's traveling royal throne room. Between 1937 and 1970, Liebes participated in more than thirty solo and group exhibitions at the San Francisco Museum of Art, Museum of Modern Art, de Young Museum, Cranbrook Museum, Detroit Institute of Art, Massachusetts Institute of Technology, Museum of Contemporary Crafts, and other venues.  She received prizes and awards from institutions and corporations such as Lord and Taylor, Neiman-Marcus, the Paris Exposition, the American Institute of Decorators, the American Institute of Architects and the Architectural League. She was also awarded the Elsie de Wolfe Award and an honorary degree from Mills College in 1948.</p>  
+
+<p>Liebes' other notable activities included her work as Director of Decorative Arts for the 1939 San Francisco World's Fair, and as organizer and director of "Arts and Skills," a Red Cross occupational therapy project that included training in weaving for soldiers injured in World War II.  In the 1950s, she worked with the Bureau of Indian Affairs, journeying though the southwest to study Indian schools and show weaver tribes that horizontal looms were more advantageous than vertical ones.</p>  
+		
+<p>Liebes was married to businessman Leon Liebes from 1928 until their divorce in 1940, and continued to use the name Liebes for the remainder of her life.  In 1948, she married Pulitzer prize winning Associated Press special correspondent Relman "Pat" Morin.</p>  
+
+<p>During the last year of her life, Dorothy Liebes was semi-retired due to a heart ailment.  She died in New York City on 10 September 1972.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of weaver, textile designer, and businesswoman Dorothy Liebes are dated circa 1850-1973 (bulk 1922-1970), and comprise 21.4 linear feet.  Biographical information, subject files, correspondence, writings, artwork, financial records, scrapbooks, textile samples, printed material, sound recordings, and photographs document Liebes' career and personal life.  Her second husband, Associated Press Reporter Relman "Pat" Morin, is also represented in the collection, although to a much lesser extent.</p>
+
+<p>Biographical material consists of awards, biographical notes, membership and identification cards, passports, and a will.  Dorothy Liebes' correspondence documents her personal life and career, including the operation of her studios in San Francisco and New York City.</p>    
+	
+<p>Subject files contain correspondence, printed material, photographs, and miscellaneous items in varying combinations.  They relate to businesses, organizations, individuals, and topics of interest to Liebes.</p>  
+
+<p>Writings by Dorothy Liebes include notes, drafts, and manuscripts of published and unpublished writings. Artwork by Dorothy Liebes consists of designs, feather weavings, a small hooked composition, and tapestry samples. Financial records are comprised of financial summaries, investment statements, and personal and business tax returns. Thirty-three bound scrapbook volumes contain printed and publicity materials, photographs, and a small number of documents relating to Dorothy Liebes' professional achievements.</p>   
+
+<p>Samples consist primarily of textile swatches designed by Dorothy Liebes and printed material includes articles, exhibition catalogs, press releases, and reproductions about or mentioning Dorothy Liebes and her work, as well as reproductions of artwork.</p>  <p>Also found are calendars, a transcript of a 1945 interview with Liebes on Nancy Craig's radio show "Woman of Tomorrow" and a circa 1956 sound recording on 5" magnetic tape from the <emph render="italic">Milwaukee Journal </emph>Radio Station. </p>
+
+<p>Photographs are of artwork (not by Liebes), people, including Liebes, Relman "Pat" Morin, and Frank Lloyd Wright, places and textiles.</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms:   </p>
+<controlaccess>
+<head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcsh">Morin, Relman, 1907-1973</persname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Textile design -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Women textile designers -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Weavers -- New York (State) -- New York</subject>
+</controlaccess>
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Sound recordings</genreform>
+<genreform encodinganalog="655" source="lcsh">Scrapbooks</genreform>
+<genreform encodinganalog="655" source="lcsh">Works of art</genreform>
+</controlaccess>
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 11 series:</p>
+<list>
+<item>Series 1:  Biographical Information, 1934-1970 (Box 1, OV 22; 6 folders)</item>
+<item>Series 2:  Correspondence, 1922-1973 (Boxes 1-3; 2.4 linear ft.)</item>
+<item>Series 3:  Subject Files, 1896-1971 (Boxes 3-10, 19; 7.2 linear ft.)</item>
+<item>Series 4:  Writings, 1920-1969 (Boxes 10-11; 1.25 linear ft.)</item>
+<item>Series 5:  Artwork, 1938-1963 (Boxes 11, 19, OV 22; 0.35 linear ft.)</item>
+<item>Series 6:  Financial Records, 1947-1968 (Box 12; 0.25 linear ft.)</item>
+<item>Series 7:  Scrapbooks, 1933-1970 (Box 20, BV 24-56; 3.7 linear ft.)</item> 
+<item>Series 8:  Samples, circa 1850-1855, circa 1930s-circa 1970 (Boxes 12-14, 20; 2.1 linear ft.)</item>
+<item>Series 9:  Calendars and Interviews, 1945-1971 (Boxes 14-15; 1.45 linear ft.)</item>
+<item>Series 10: Printed Material, 1897-1970 (Boxes 15-16, 20-21, OV 23; 1.05 linear 
+ft.)</item>
+<item>Series 11: Photographs, 1897-1970 (Boxes 16-18, 21, BV 57; 1.5 linear ft.)</item>
+</list>
+</arrangement>
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Information, <unitdate>1934-1970</unitdate></unittitle>
+<physdesc>(Box 1, OV 22; 6 folders)</physdesc></did>
+<c02><did>
+<container type="box">1</container><container type="folder">1</container>
+<unittitle>Awards, <unitdate>1938-1969</unitdate></unittitle>
+<physdesc>(2 folders; see also OV 22)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container><container type="folder">2</container>
+<unittitle>Biographical Notes (Dorothy Liebes), <unitdate>1954-1970, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container><container type="folder">3</container>
+<unittitle>Membership and Identification Cards, <unitdate>1934-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container><container type="folder">4</container>
+<unittitle>Passports, <unitdate>1954, 1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container><container type="folder">5</container>
+<unittitle>Will, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 22</container>
+<unittitle>Awards, <unitdate>1937-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1922-1973</unitdate></unittitle>
+<physdesc>(Boxes 1-3; 2.4 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains a combination of business and personal correspondence. Series 3: Subject Files, also contains large amounts of correspondence and there is substantial overlap between the two series. In addition, Series 7: Scrapbooks, includes a small number of letters and other documents.</p> 
+</scopecontent>
+<arrangement><p>Correspondence is arranged chronologically.</p></arrangement>
+<c02><did>
+<container type="box">1</container><container type="folder">6-30</container>
+<unittitle>Correspondence, <unitdate>1922-1960</unitdate></unittitle>
+<physdesc>(25 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container><container type="folder">1-22</container>
+<unittitle>Correspondence, <unitdate>1961-1968</unitdate></unittitle>
+<physdesc>(22 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">23-30</container>
+<unittitle>Correspondence, <unitdate>1969-1973, undated</unitdate></unittitle>
+<physdesc>(8 folders)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Subject Files, <unitdate>1896-1971</unitdate></unittitle>
+<physdesc>(Boxes 3-10, 19; 7.2 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Subject files may contain correspondence, printed material, photographs, and miscellaneous records in various combinations. Subjects include corporations, organizations, individuals, topics of interest to Liebes, and miscellaneous categories. Folder titles are often those supplied by Liebes.</p> 
+</scopecontent>
+<arrangement><p>Subject files are arranged alphabetically by folder title.</p></arrangement>
+<c02><did>
+<container type="box">3</container><container type="folder">31</container>
+<unittitle>Alcan Aluminum Corporation, <unitdate>1965-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">32-33</container>
+<unittitle>American Academy of Arts and Sciences, 1947 Conference, "The Artist in Contemporary American Society," <unitdate>1945-1948</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">34</container>
+<unittitle>American Crafts Council, <unitdate>1969-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">35</container>
+<unittitle>American Craftsmen's Cooperative Council, Inc., <unitdate>1942-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">36</container>
+<unittitle>American Craftsmen's Council, <unitdate>1957-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">37</container>
+<unittitle>American Craftsmen's Council, First World Congress of Craftsmen, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">38</container>
+<unittitle>American Craftsmen's Educational Council, <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">39</container>
+<unittitle>American Women's Voluntary Services, <unitdate>1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">40</container>
+<unittitle><emph render="italic">Architectural Forum</emph>, <unitdate>1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">41</container>
+<unittitle>Architecture Schools, <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">42</container>
+<unittitle>Art Institute of Chicago, <unitdate>1956-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">43-44</container>
+<unittitle>Artists, <unitdate>1945-1958</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">45</container>
+<unittitle>Artists, Designs, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">46</container>
+<unittitle>Artists, Northern California, <unitdate>1943-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">47</container>
+<unittitle>Artists, Out of State, <unitdate>1943-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">48</container>
+<unittitle>Artists, Southern California, <unitdate>1945-1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">49-51</container>
+<unittitle>"Arts and Skills" (American Red Cross), <unitdate>1943-1952, undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container><container type="folder">52</container>
+<unittitle>Azukas, Albert, <unitdate>1950-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">1-8</container>
+<unittitle>Bigelow-Sanford Carpet Company, Inc., Correspondence, <unitdate>1957-1971</unitdate></unittitle>
+<physdesc>(8 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">9</container>
+<unittitle>Bigelow-Sanford Carpet Company, Inc., June Market, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">10</container>
+<unittitle>Bigelow-Sanford Carpet Company, Inc., Printed Material, <unitdate>1964-1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">11</container>
+<unittitle>Bigelow-Sanford Carpet Company, Inc., Western Trip, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">12</container>
+<unittitle>Black Mountain College, <unitdate>1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">13</container>
+<unittitle>Book Inquiries, <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">14</container>
+<unittitle>Brandt, Mary, Lecture Committee, <unitdate>1965-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">15</container>
+<unittitle>Brandt, Mary, Lectures at Parsons School of Design, <unitdate>1963-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">16-17</container>
+<unittitle>Brandt, Mary, Memorial Fund, <unitdate>1962-1963</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">18</container>
+<unittitle>Buxton, Edward, <unitdate>1942-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">19</container>
+<unittitle>Calder, Sandy [Alexander], <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">20</container>
+<unittitle>Calypsocraft, Inc. (Edward Fields), Correspondence, <unitdate>1960-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">21</container>
+<unittitle>Calypsocraft, Inc. (Edward Fields), Expenses, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">22</container>
+<unittitle>Calypsocraft, Inc. (Edward Fields), Expenses and Packing Lists, <unitdate>1960-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">23</container>
+<unittitle>Challis, Lucy, <unitdate>1951-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">24</container>
+<unittitle>Christmas, Lists and Names, <unitdate>1935-1954, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">25</container>
+<unittitle>"Clemson University 1969," <unitdate>1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">26</container>
+<unittitle>Clothing, "Suggestions, Bills, Inventory," <unitdate>1939-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">27</container>
+<unittitle>Columbia Mills, <unitdate>1944-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">28-29</container>
+<unittitle>Contemporary Weaving of Other Countries, <unitdate>1959-1960</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">30</container>
+<unittitle>Contracts, <unitdate>1942-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">31-32</container>
+<unittitle>Cosmopolitan Club, <unitdate>1954-1963</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">33</container>
+<unittitle>Crawford, M.D.C., <unitdate>1942-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">34</container>
+<unittitle>Cruise, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">35-36</container>
+<unittitle>Designs Received/Returned/Purchased, <unitdate>1943-1947</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">37</container>
+<unittitle>Dobby Loom, <unitdate>1944-1947, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">38-39</container>
+<unittitle>Dobeckmun Co., <unitdate>1946-1967</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">40-42</container>
+<unittitle>Dow Chemical, Correspondence, <unitdate>1959-1961</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">43</container>
+<unittitle>Dow Chemical, Lurex Division, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">44</container>
+<unittitle>Dow Chemical, Lurex Division, London, <unitdate>1957-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">45</container>
+<unittitle>Dow Chemical, Packing Lists, <unitdate>1961-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container><container type="folder">46</container>
+<unittitle>Draper, Dorothy (<emph render="italic">Good Housekeeping</emph>), <unitdate>1941-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">1-18</container>
+<unittitle>Dupont, Correspondence, <unitdate>1943-1971</unitdate></unittitle>
+<physdesc>(18 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">19</container>
+<unittitle>Dupont, Expenses, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">20</container>
+<unittitle>Dupont, Fabric Sales, Fabrite and Tontine (Price/Edwards/Ferris), <unitdate>1959-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">21</container>
+<unittitle>Dupont, Fabric Sales, Packing Lists, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">22</container>
+<unittitle>Dupont, January Market (1960), <unitdate>1959-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">23</container>
+<unittitle>Dupont, January Market (1962), <unitdate>1961-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">24-25</container>
+<unittitle>Dupont, June Market (1962), <unitdate>1962</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container><container type="folder">26-28</container>
+<unittitle>Dupont, January Market (1963), Upholstery, Orlon, and Drapery Project, <unitdate>1962-1963 </unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">1-2</container>
+<unittitle>Dupont, January Market, June Market (1963), <unitdate>1962-1963</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">3-4</container>
+<unittitle>Dupont, January Market, June Market (1964), <unitdate>1964</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">5</container>
+<unittitle>Dupont, January Market, June Market (1965), <unitdate>1964-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">6</container>
+<unittitle>Dupont, January Market, June Market (1966), <unitdate>1965-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">7</container>
+<unittitle>Dupont, January Market (1967), <unitdate>1966-1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">8</container>
+<unittitle>Dupont, June Market (1967), <unitdate>1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">9</container>
+<unittitle>Dupont, Knit Products (Dr. Robert Saunders), <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">10</container>
+<unittitle>Dupont, Monthly Reports, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">11</container>
+<unittitle>Dupont, "Nylon Rug Designs" (Smithsonian Traveling Exhibition), <unitdate>1956-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">12</container>
+<unittitle>Dupont, Orlon Blanket (Beacon Manufacturing Co.), <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">13</container>
+<unittitle>Dupont, Pacific Northwest Arts and Crafts Fair, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">14</container>
+<unittitle>Dupont, Publicity, <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">15</container>
+<unittitle>Dupont, Rugs, <unitdate>1965-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">16</container>
+<unittitle>Dupont, Rugs, Nylon-Wool (Werner Cohen), <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">17</container>
+<unittitle>Dupont, Upholstery and Drapery, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">18</container>
+<unittitle>Eagle-Ottawa Leather Co., <unitdate>1958-1960 (4 folders)</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">19</container>
+<unittitle><emph render="italic">Encyclopedia Britannica</emph>, <unitdate>1959-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">20</container>
+<unittitle>Erdman, Pardee, <unitdate>1962-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container><container type="folder">21-24</container>
+<unittitle>Fairtex, Correspondence, <unitdate>1963-1965</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">1-3</container>
+<unittitle>Fairtex, Correspondence, <unitdate>1965-1968</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">2</container>
+<unittitle>Fairtex, Detroit Show (1966), <unitdate>1965-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">3</container>
+<unittitle>Fairtex, Mint Museum Fabric, <unitdate>1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">4</container>
+<unittitle>Fairtex, Packing Lists, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">5</container>
+<unittitle>Fairtex, Samples, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">6</container>
+<unittitle>Fairtex, "Styling Color Folder," <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">7</container><container type="folder">7</container>
+<unittitle>Family, Morin, Relman "Pat" (see Morin, Relman "Pat")</unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">8</container>
+<unittitle>Family, Nieces and Nephews, <unitdate>1945-1966, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">9</container>
+<unittitle>Family, Wood, Mildred "Tid" Wright, Ralph, and Peter, <unitdate>1944-1961, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">10-12</container>
+<unittitle>Family, Wright, Frederick and Bessie Calderwood, <unitdate>1896-circa 1957, undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">13</container>
+<unittitle>Family, Wright, Frederick L., <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">14</container>
+<unittitle>Family, Wright, William F., <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>	
+<c02><did>
+<container type="box">7</container><container type="folder">15-16</container>
+<unittitle>Fan Mail, <unitdate>1944-1946</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">17-18</container>
+<unittitle>Fields, Edward, <unitdate>1958-1959</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">19</container>
+<unittitle>Fischer, Eva, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">20</container>
+<unittitle>"Foreign Mails," <unitdate>1947-1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">21</container>
+<unittitle>Forstmann Woolen Company, <unitdate>1957-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">22</container>
+<unittitle>"Furnishing Studio Home in Washington, D.C.," <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">23</container>
+<unittitle>Golden Gate Exposition, "Case History," <unitdate>1945-1948</unitdate></unittitle>
+<physdesc>(see also Box 19)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">24</container>
+<unittitle>Golden Gate Exposition, Catalogues and Sales, <unitdate>1939</unitdate></unittitle>
+<physdesc>(see also Box 19)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">25-26</container>
+<unittitle>Golden Gate Exposition, Correspondence, <unitdate>1937-1940</unitdate></unittitle>
+<physdesc>(2 folders; see also Box 19)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">27-28</container>
+<unittitle>Goodall Fabrics, Correspondence, <unitdate>1942-1953</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">29</container>
+<unittitle>Goodall Fabrics, "Leather Weave," <unitdate>1944-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">30</container>
+<unittitle>Goodall Fabrics, Mailing Lists for Announcements, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">31</container>
+<unittitle>Gracie and Sons, Inc. (wallpaper), <unitdate>1957-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">32</container>
+<unittitle>Grimm, Peter, <unitdate>1941-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">7</container><container type="folder">33</container>
+<unittitle>Hartford Rayon Company, <unitdate>1957-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">1</container>
+<unittitle>India Trip, <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">2</container>
+<unittitle>"Indian Job," <unitdate>1950-1952, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">3</container>
+<unittitle>Indian School, <unitdate>1951-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">4</container>
+<unittitle>Indian Textiles, <unitdate>1943-1953, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">5-6</container>
+<unittitle>Indian Trips (René D'Harnoncourt), <unitdate>1942-1943</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">7</container>
+<unittitle>Institute of International Education, National Screening Committee, <unitdate>1958-1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">8</container>
+<unittitle>Insurance, <unitdate>1969-1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>	
+<c02><did>
+<container type="box">8</container><container type="folder">9</container>
+<unittitle>"Interesting Personal Letters," <unitdate>1939-1947, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">10</container>
+<unittitle>Inventory (business), <unitdate>1960-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">11</container>
+<unittitle>Inventory (personal), <unitdate>1937-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">12</container>
+<unittitle>Israel, <unitdate>1950-1954, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">13</container>
+<unittitle>Jantzen Mills, <unitdate>1947-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">14</container>
+<unittitle>Japan, <unitdate>1961-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>	
+<c02><did>
+<container type="box">8</container><container type="folder">15</container>
+<unittitle>Kenwood Mills, Blanket Orders, <unitdate>1953-1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder"></container>
+<unittitle>Kenwood Mills, Blanket Publicity, <unitdate>1953</unitdate></unittitle>
+<physdesc>(see: Box 19)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">16-20</container>
+<unittitle>Kenwood Mills, Correspondence, <unitdate>1950-1951</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">21</container>
+<unittitle>Kenwood Mills, "Current Problems," <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">22</container>
+<unittitle>Kuhn, Harold A. (C.P.A.), <unitdate>1946-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">23</container>
+<unittitle>Lawyer, <unitdate>1945-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">24</container>
+<unittitle>Library Inventory, <unitdate>1946, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">25</container>
+<unittitle>Liebes, Leon (first husband), <unitdate>1935-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">26</container>
+<unittitle>Lyons Storage Co., <unitdate>1956-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">27</container>
+<unittitle>Massachusetts Institute of Technology, <unitdate>1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">28</container>
+<unittitle>Matson vs. Liebes, <unitdate>1946-1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">29</container>
+<unittitle>Mills College, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">30-34</container>
+<unittitle>Morin, Relman "Pat" (second husband), <unitdate>1947-1959, undated</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">35</container>
+<unittitle>Museum of Contemporary Crafts (Dorothy Liebes Retrospective Exhibition), <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">36</container>
+<unittitle>Museum of Modern Art, <unitdate>1944-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">37</container>
+<unittitle>Museums, General, <unitdate>1959-1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">8</container><container type="folder">38</container>
+<unittitle>Myers, Howard, <unitdate>1940-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">1</container>
+<unittitle>National Council on the Arts and Government, <unitdate>1956-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">2</container>
+<unittitle>Navajo Rug Project, <unitdate>1959-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">3</container>
+<unittitle>New York, Trip (Oct.-Jan.), <unitdate>1940-1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">4</container>
+<unittitle>New York, Unfinished Business, <unitdate>1944-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">5</container>
+<unittitle>Orders, <unitdate>1950-1951
+</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">6-7</container>
+<unittitle>Orders Completed, <unitdate>1958-1967</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">8</container>
+<unittitle>Parsons School of Design, <unitdate>1967-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">9</container>
+<unittitle>Penco Fabrics, Inc., <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">10-11</container>
+<unittitle>Pheby, Louise S. (Estate of), <unitdate>1955-1961
+</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">12</container>
+<unittitle>"Pre-Fab Inquiries," <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">13</container>
+<unittitle>"Private Papers," <unitdate>1929-1941, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">14-18</container>
+<unittitle>Promotion, <unitdate>1950-1960 </unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">19</container>
+<unittitle>Richards, Helen, <unitdate>1942-1955, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">20</container>
+<unittitle>Royal Society of Arts, <unitdate>1954-1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">21</container>
+<unittitle>Samples Returned, <unitdate>1956, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">22</container>
+<unittitle>San Francisco Bay Exposition, <unitdate>1939-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">23</container>
+<unittitle>San Francisco International Market Center, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">24</container>
+<unittitle>Scranton Lace Co., <unitdate>1942
+</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">25</container>
+<unittitle>Simmons Co., <unitdate>1966
+</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">26</container>
+<unittitle>Spring Mills, Inc., Contracts, <unitdate>1965-1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">27-28</container>
+<unittitle>Spring Mills, Inc., Correspondence, <unitdate>1963-1966</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">29</container>
+<unittitle>Spring Mills, Inc., Reports, <unitdate>1963-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">9</container><container type="folder">30-35</container>
+<unittitle>Studio, Correspondence, <unitdate>1945-1955</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">1</container>
+<unittitle>Studio, Letters to Personnel, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">2</container>
+<unittitle>"Studio Trouble – Ruth and Al," <unitdate>1951-1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">3-5</container>
+<unittitle>Taipale, Martta (tapestries), <unitdate>1946-1961</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>	
+<c02><did>
+<container type="box">10</container><container type="folder">6</container>
+<unittitle>Tapestry, American (20th century), <unitdate>1959-1966, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">7</container>
+<unittitle>Tapestry, English, <unitdate>1956-1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">8</container>
+<unittitle>Tapestry, French, <unitdate>1948-1959, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">9</container>
+<unittitle>Tapestry, General, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">10</container>
+<unittitle>Tapestry, Notes, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">11</container>
+<unittitle>Tapestry, Scandinavian, <unitdate>1958-1959, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">12</container>
+<unittitle>Tax Suit, <unitdate>1948-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">13</container>
+<unittitle>Teaching (notes, <emph render="italic">Woman's Day</emph> article), <unitdate>1944-1959, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">14</container>
+<unittitle>Travel, <unitdate>1947-1963, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">15</container>
+<unittitle>"Unifinished Business," <unitdate>1936-1944, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">16</container>
+<unittitle>U.S.A. at the Triennale, <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">17</container>
+<unittitle>U. S. Department of State, Conference on International Relations in the Field of Art, <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">18</container>
+<unittitle>United Wallpaper, Inc., <unitdate>1945-1956 </unitdate></unittitle>
+<physdesc>(see also: Box 19)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">19</container>
+<unittitle>University of California, Berkeley, <unitdate>1933, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">20</container>
+<unittitle>University of Kansas, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">21</container>
+<unittitle>Upholstery Leather Group, <unitdate>1957-1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">22</container>
+<unittitle>Van Buren, William M., <unitdate>1941-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">23-25</container>
+<unittitle>Weavers and Weaving, <unitdate>1946-1951, undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">26</container>
+<unittitle>Weaving Verse, <unitdate>1954, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">27</container>
+<unittitle>Women Architects, <unitdate>1960, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">10</container><container type="folder">28</container>
+<unittitle>Wright, Frank Lloyd and Olgivanna, <unitdate>1947-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">19 (sol)</container>
+<unittitle>Golden Gate Exposition, <unitdate>1938</unitdate></unittitle>
+<physdesc>(see also Box 7)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">19 (sol)</container>
+<unittitle>Kenwood Mills, Blanket Publicity, <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">19 (sol)</container>
+<unittitle>United Wallpaper, Inc. (Sample Book, "Weaves from exclusive hand-loomed originals by Dorothy Liebes,") <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 10)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Writings, <unitdate>1920-1969</unitdate></unittitle>
+<physdesc>(Boxes 10-11; 1.25 linear ft.)</physdesc></did>
+<arrangement><p>This series is arranged as 2 subseries:</p> 
+<p>
+<list> 
+<item>4.1: Writings By Dorothy Liebes, 1920-1965</item> 
+<item>4.2: Writings by Other Authors, 1944-1969</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>4.1: </unitid>
+<unittitle>Writings By Dorothy Liebes, <unitdate>1920-1965</unitdate></unittitle></did>
+<scopecontent> 
+<p>This subseries includes notes, drafts, and manuscripts of published and unpublished articles and short writings. Also found here are notes, drafts and the manuscript for an unpublished autobiography, as well as an outline, notes and partial draft of an unpublished book, "Design and Weave." There are drafts, text and bibliographical material for an <emph render="italic">Encyclopedia Britannica</emph> entry on tapestry, as well as notes relating to speeches and writings.</p> 
+</scopecontent>
+<c03><did>
+<container type="box">10</container><container type="folder">29-30</container>
+<unittitle>Address Books, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 volumes; 2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">10</container><container type="folder">31-32</container>
+<unittitle>Articles and Short Writings, <unitdate>1946-1964, undated</unitdate></unittitle>
+<physdesc>(4 volumes; 2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">10</container><container type="folder">33-34</container>
+<unittitle>Book, Autobiography Manuscript, <unitdate>undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">10</container><container type="folder">35-38</container>
+<unittitle>Book, Authobiography Notes and Drafts, <unitdate>undated</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">10</container><container type="folder">39</container>
+<unittitle>Book, Autobiography Outline, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">10</container><container type="folder">40</container>
+<unittitle>Book, "Design and Weave," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">11</container><container type="folder">1-2</container>
+<unittitle><emph render="italic">Encyclopedia Britannica</emph> Entry on Tapestry, <unitdate>circa 1959</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">11</container><container type="folder">3</container>
+<unittitle>Lists, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">11</container><container type="folder">4-6</container>
+<unittitle>Notes, <unitdate>undated </unitdate></unittitle>
+<physdesc>(3 folders and 4x6
+card file)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">11</container><container type="folder">7-8</container>
+<unittitle>Speeches, <unitdate>1946-1965, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">11</container><container type="folder">9</container>
+<unittitle>Student Paper (?) by Dorothy K. Wright, "Modern Materials" (with samples), <unitdate>1920</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>4.2: </unitid>
+<unittitle>Writings by Other Authors, <unitdate>1944-1969</unitdate></unittitle></did>
+<scopecontent><p>This subseries includes articles about Liebes from the City Art Museum, St. Louis and other unsigned sources; articles on various topics by people such as Edith Grimm, Vesta Schaffer and Iovanna Lloyd Wright; a report by Dorothy Ducas; and speeches by people such as L. R. Blackhurst, Jr., W. G. Constable, Charles Daly, Boris Kroll, Sarah Tomerlin Lee, Sara Little, George Romeny, Edward Wormley, and David L.Yunich.</p></scopecontent>
+<c03><did>
+<container type="box">11</container><container type="folder">10</container>
+<unittitle>Articles about Dorothy Liebes, <unitdate>1945-circa 1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">11</container>
+<unittitle>Articles on Various Topics, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">12</container>
+<unittitle>Poem (Jack James), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">13</container>
+<unittitle>Report, <unitdate>1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">14</container>
+<unittitle>Script, about Liebes Exhibition at City Art Museum, St. Louis, <unitdate>1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">15</container>
+<unittitle>Speeches, <unitdate>1947-1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Artwork, <unitdate>1938-1963</unitdate></unittitle>
+<physdesc>(Boxes 11, 19, OV 22; 0.35 linear ft.)</physdesc></did>
+<arrangement><p>This series is arranged as 2 subseries:</p> 
+<p>
+<list> 
+<item>5.1: Artwork by Dorothy Liebes, circa 1930s-circa 1960s</item> 
+<item>5.2: Artwork by Other Artists, 1938-1963</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>5.1: </unitid>
+<unittitle>Artwork by Dorothy Liebes, <unitdate>circa 1930s-circa 1960s</unitdate></unittitle></did>
+<scopecontent><p>Artwork by Liebes consists of designs, feather weavings, a small hooked composition, a tapestry sample and textiles.  Textile samples produced by the Dorothy Liebes Studio, as well as some that may have been mass produced based on designs by Liebes, can be found in  Series 8: Samples.</p></scopecontent>
+<c03><did>
+<container type="box">11</container><container type="folder">16</container>
+<unittitle>Designs, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">17</container>
+<unittitle>Feather Weavings, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">18</container>
+<unittitle>Hooked Composition, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">19</container>
+<unittitle>Tapestry Sampler, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>5.2: </unitid>
+<unittitle>Artwork by Other Artists, <unitdate>1938-1963</unitdate></unittitle></did>
+<scopecontent> 
+<p>This subseries includes designs by Lawrence Colwell for interiors, furniture, and product packaging. Researchers should note that additional material concerning Colwell can be found in Series 7: Scrapbooks. Other items of note are caricatures of Liebes and a Kokemono screen.</p> 
+</scopecontent>
+<c03><did>
+<container type="box">11</container><container type="folder">20</container>
+<unittitle>Architectural Drawings, Floor Plans, <unitdate>1963, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">21</container>
+<unittitle>Caricatures of Dorothy Liebes, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">22</container>
+<unittitle>Designs, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">23</container>
+<unittitle>Designs by Lawrence J. Colwell, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 19)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">24</container>
+<unittitle>Drawings, <unitdate>1938, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder"></container>
+<unittitle>Kokemono Screen, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see: RD 58)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">25</container>
+<unittitle>Monogram designed for Dorothy Wright Liebes (print), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">26</container>
+<unittitle>Paintings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder"></container>
+<unittitle>Posters, <unitdate>undated</unitdate></unittitle>
+<physdesc>(original prints; see: OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">11</container><container type="folder">27</container>
+<unittitle>Prints, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 19 and OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">19 (sol)</container>
+<unittitle>Designs by Lawrence J. Colwell, <unitdate>undated</unitdate></unittitle>
+<physdesc>(3 folders; see also: Box 11)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">19 (sol)</container>
+<unittitle>Paintings, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 11 and OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">19 (sol)</container>
+<unittitle>Prints, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 11 and OV 22)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">OV 22</container>
+<unittitle>Caricature of Dorothy Liebes; Painting; Prints (including posters with original artwork), <unitdate>1947-1959, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">OV 22</container>
+<unittitle>Painting, <unitdate>1947</unitdate></unittitle>
+<physdesc>(see also Boxes 11, 19)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">OV 22</container>
+<unittitle>Posters, <unitdate>undated</unitdate></unittitle>
+<physdesc>(original prints)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">OV 22</container>
+<unittitle>Print, <unitdate>1959</unitdate></unittitle>
+<physdesc>(see also Boxes 11, 19)</physdesc>
+</did></c03> 
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Financial Records, <unitdate>1947-1968</unitdate></unittitle>
+<physdesc>(Box 12; 0.25 linear ft.)</physdesc></did>
+<c02><did>
+<container type="box">12</container><container type="folder">1-2</container>
+<unittitle>Financial Summaries, <unitdate>1947-1957</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">12</container><container type="folder">3</container>
+<unittitle>Investments (summary statements), <unitdate>1957-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">12</container><container type="folder">4</container>
+<unittitle>Taxes<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">12</container><container type="folder">5</container>
+<unittitle>Federal, <unitdate>1951-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container><container type="folder">6</container>
+<unittitle>New York City, <unitdate>1948-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">12</container><container type="folder">7</container>
+<unittitle>New York State, <unitdate>1957-1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Scrapbooks, <unitdate>1933-1970</unitdate></unittitle>
+<physdesc>(Box 20, BV 24-56; 3.7 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains 33 bound scrapbook volumes of printed matter and publicity material, photographs, and a small number of documents relating to Liebes' professional achievements, commissions, and studio. There are also loose pages from a volume featuring the work of designer Lawrence Colwell.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">20 (sol)</container><container type="folder"></container>
+<unittitle>Loose Pages (from Scrapbook about Lawrence Colwell), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container><container type="folder"></container>
+<unittitle>Loose Pages (from unidentified Scrapbook), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 24</container>
+<unittitle>Scrapbook, <unitdate>1933-1938</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 25</container>
+<unittitle>Scrapbook, <unitdate>1934-1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 26</container>
+<unittitle>Scrapbook, <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 27</container>
+<unittitle>Scrapbook, <unitdate>1939-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 28</container>
+<unittitle>Scrapbook, <unitdate>1939-1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 29</container>
+<unittitle>Scrapbook, <unitdate>1942-1943</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 30</container>
+<unittitle>Scrapbook, <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 31</container>
+<unittitle>Scrapbook, <unitdate>1943-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 32</container>
+<unittitle>Scrapbook, <unitdate>1944-1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 33</container>
+<unittitle>Scrapbook, <unitdate>1945-1946</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 34</container>
+<unittitle>Scrapbook, <unitdate>1946-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 35</container>
+<unittitle>Scrapbook, <unitdate>1947</unitdate></unittitle>
+<physdesc>(1 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 36</container>
+<unittitle>Scrapbook, <unitdate>1947</unitdate></unittitle>
+<physdesc>(2 of 2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 37</container>
+<unittitle>Scrapbook, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 38</container>
+<unittitle>Scrapbook, <unitdate>1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 39</container>
+<unittitle>Scrapbook, <unitdate>1950</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 40</container>
+<unittitle>Scrapbook, <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 41</container>
+<unittitle>Scrapbook, <unitdate>1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 42</container>
+<unittitle>Scrapbook, <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 43</container>
+<unittitle>Scrapbook, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 44</container>
+<unittitle>Scrapbook, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 45</container>
+<unittitle>Scrapbook, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 46</container>
+<unittitle>Scrapbook, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 47</container>
+<unittitle>Scrapbook, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 48</container>
+<unittitle>Scrapbook, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 49</container>
+<unittitle>Scrapbook, <unitdate>1961-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 50</container>
+<unittitle>Scrapbook, <unitdate>1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 51</container>
+<unittitle>Scrapbook, <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 52</container>
+<unittitle>Scrapbook, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 53</container>
+<unittitle>Scrapbook, <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 54</container>
+<unittitle>Scrapbook, <unitdate>1967-1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 55</container>
+<unittitle>Scrapbook, <unitdate>1968-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">BV 56</container>
+<unittitle>Scrapbook, <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 8: </unitid><unittitle>Samples, <unitdate>circa 1850-1855, circa 1930-circa 1970</unitdate></unittitle>
+<physdesc>(Boxes 12-14, 20; 2.11 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series consists primarily of textile swatches designed by Liebes. The samples may have been woven by Liebes, by weavers in her studio, or been mass produced elsewhere.  There are also samples of textiles from other sources, a collection of historical samples of 19th century English, French, and Viennese printed cottons mounted on sheets, and a small number of fiber and leather samples.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">12</container><container type="folder">8-10 </container>
+<unittitle>Fiber Samples, <unitdate>circa 1930-circa 1970</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">12</container><container type="folder">11</container>
+<unittitle>Leather Samples, <unitdate>circa 1930-circa 1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">12</container><container type="folder">12-13</container>
+<unittitle>Textile Samples,  Studio, <unitdate>1964, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">13</container><container type="folder">14-26</container>
+<unittitle>Textile Samples, Liebes' Studio, <unitdate>circa 1930-circa 1970</unitdate></unittitle>
+<physdesc>(13 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container><container type="folder">1-3</container>
+<unittitle>Textile Samples, Liebes' Studio, <unitdate>circa 1930-circa 1970 </unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">14</container><container type="folder">4</container>
+<unittitle>Textile Samples, Miscellaneous Sources, <unitdate>circa 1930-circa 1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Historical Samples, <unitdate>circa 1850-1855</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 9: </unitid><unittitle>Calendars and Interviews, <unitdate>1945-1971</unitdate></unittitle>
+<physdesc>(Boxes 14-15; 1.45 linear ft.)</physdesc></did>
+<scopecontent><p>In addition to calendars, this series contains a sound recording on 5" magnetic tape from the <emph render="italic">Milwaukee Journal</emph> Radio Station and a transcript of an interview with Liebes on Nancy Craig's radio show, "Woman of Tomorrow."</p></scopecontent>
+<c02><did>
+<container type="box">14</container><container type="folder">5-13</container>
+<unittitle>Calendars, Desk Diaries, <unitdate>1948-1971</unitdate></unittitle>
+<physdesc>(9 folders; 23 volumes)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">1-7</container>
+<unittitle>Calendars, Monthly, <unitdate>1949-1969</unitdate></unittitle>
+<physdesc>(7 folders; 28 calendars)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">8</container>
+<unittitle>Sound Recording, <unitdate>circa 1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+</c02>
+<c02><did>
+<container type="box">15</container><container type="folder">9</container>
+<unittitle>Transcript of Interview with Dorothy Liebes (Nancy Craig's radio show, "Woman of  
+Tomorrow"), <unitdate>1945</unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 10: </unitid><unittitle>Printed Material, <unitdate>1897-1970</unitdate></unittitle>
+<physdesc>(Boxes 15-16, 20-21, OV 23; 1.05 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>Printed material consists of articles, exhibition catalogs, press releases, reproductions, and miscellaneous items about or mentioning Dorothy Liebes and her work, and topics of interest to her, such as weavers and weaving, the textile industry, art and design.</p>
+<p>Additional printed material can be found in Series 3: Subject Files and Series 7: Scrapbooks.</p></scopecontent>
+<c02><did>
+<container type="box">15</container><container type="folder">10</container>
+<unittitle>Advertisements Featuring/Mentioning Dorothy Liebes Textiles, <unitdate>1949-1959, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">11-16</container>
+<unittitle>Articles, About/Mentioning Liebes, <unitdate>1918, 1930s-1970s, undated</unitdate></unittitle>
+<physdesc>(6 folders; see also: box 20)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">17</container>
+<unittitle>Articles, Art and Design, 1941-1965, <unitdate>undated (see also: box 20)</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">18</container>
+<unittitle>Articles, By Liebes, <unitdate>1943-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">19</container>
+<unittitle>Articles, Family, 1897-1951, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">20</container>
+<unittitle>Articles, Miscellaneous Topics, <unitdate>1946-1962, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">21</container>
+<unittitle>Articles, Textile Industry, <unitdate>1946-1955, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">22</container>
+<unittitle>Awards (Dorothy Liebes on Jury), <unitdate>1953-1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">23</container>
+<unittitle>Business Cards and Flyers about the Dorothy Liebes Studio, <unitdate>1949-1953, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">24</container>
+<unittitle>Exhibition Catalogs and Announcements, Liebes Exhibitions, <unitdate>1949-1970, undated</unitdate></unittitle>
+<physdesc>(see also: Box 20)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">15</container><container type="folder">25</container>
+<unittitle>Exhibition Catalogs and Announcements, Other Weavers and Designers, <unitdate>1926-1963, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">1-2</container>
+<unittitle>Miscellaneous Artists, <unitdate>1940-1965, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">3</container>
+<unittitle>Exhibition Prospectuses, <unitdate>1956-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">4</container>
+<unittitle>Lectures and Classes, Announcements and Programs, Liebes, <unitdate>1946-1962, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">5</container>
+<unittitle>Miscellaneous Items Mentioning Dorothy Liebes, <unitdate>1947-1952, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">6</container>
+<unittitle>Miscellaneous Publications (art related), <unitdate>1938-1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">7</container>
+<unittitle>Press Releases About/Mentioning Dorothy Liebes, <unitdate>1948, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">16</container><container type="folder">8</container>
+<unittitle>Reproductions of Artwork, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 20, OV 23)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Articles, About/Mentioning Liebes, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 15)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Articles, Art and Design ("Old Art Treasures from Japan's Needles and Looms"), <unitdate>1949</unitdate></unittitle>
+<physdesc>(see also Box 15)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Exhibition Catalogs and Announcements, Liebes Exhibitions, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 15)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Reproductions, Artwork, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Boxes 16, 21, OV 23)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Reproductions, <emph render="italic">Les Batiks de Java</emph> (plates in portfolio), <unitdate>undated</unitdate></unittitle>
+</did></c02>
+<c02><did>
+<container type="box">20 (sol)</container>
+<unittitle>Reproductions, <emph render="italic">Broideries Hindoues</emph> (plates in portfolio), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">21 (sol)</container>
+<unittitle>Reproductions, <emph render="italic">Les Petits Alphabets du Brodeur</emph> (loose plates), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">21 (sol)</container>
+<unittitle>Reproductions, <emph render="italic">80 Toiles Imprimées et Indiennes de Traite</emph> (plates in portfolio), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">21 (sol)</container>
+<unittitle>Reproductions, <emph render="italic">Tapis Modernes</emph> (plates in portfolio), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 23</container>
+<unittitle>Reproductions, <emph render="italic">Surasundari: Photographs by Raymond Burnier</emph> (plates in portfolio), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 11: </unitid><unittitle>Photographs, <unitdate>1897-1970</unitdate></unittitle>
+<physdesc>(Boxes 16-18, 21, BV 57; 1.5 linear ft.)</physdesc></did>
+<scopecontent> 
+<p>This series contains photographs of artwork (not by Liebes); people including Liebes, Relman "Pat" Morin, Frank Lloyd Wright, and many unidentified individuals and groups; places such as travel destinations; textiles and miscellaneous subjects.  Color slides, transparencies, and negatives can also be found here.</p>
+<p>Additional photographs can be found in many of the files in Series 3: Subject Files, and some of the volumes in Series 7: Scrapbooks.</p> 
+</scopecontent>
+
+<arrangement><p>This series is arranged as 6 subseries:</p> 
+<p>
+<list> 
+<item>11.1:  Artwork, circa 1930s-circa 1970s</item>
+<item>11.2:  People, 1897-1970</item>
+<item>11.3:  Places, 1937-1941</item>
+<item>11.4:  Textiles, 1936-1967</item>
+<item>11.5:  Miscellaneous Subjects, 1940s</item>
+<item>11.6:  Color Slides, Color Transparencies, and Negatives, 1939-1947</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>11.1: </unitid>
+<unittitle>Artwork, <unitdate>undated</unitdate></unittitle></did> 
+<scopecontent><p>Found here are prints of photos of artwork by Leger, Murany, Picasso, Cunliffe, Gabo, Guino and unidentified artists.</p></scopecontent>
+<c03><did>
+<container type="box">16</container><container type="folder">9</container>
+<unittitle>Paintings, <unitdate>circa 1930s-circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">10</container>
+<unittitle>Sculpture, <unitdate>circa 1930s-circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">11</container>
+<unittitle>Tapestries, <unitdate>circa 1930s-circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>11.2: </unitid>
+<unittitle>People, <unitdate>1897-1970</unitdate></unittitle></did>
+<c03><did>
+<container type="box">16</container><container type="folder">12-13</container>
+<unittitle>Liebes, Dorothy, <unitdate>1930s-1960s, undated</unitdate></unittitle>
+<physdesc>(2 folders; see also: Box 21)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">14</container>
+<unittitle>Liebes, Dorothy, in Studio/at Loom, <unitdate>1930s-1940s, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">15</container>
+<unittitle>Liebes, Dorothy, with Others, <unitdate>1940s-1960s, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">16</container>
+<unittitle>Liebes, Dorothy, with Weavers, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">17</container>
+<unittitle>Liebes, Dorothy, with Relman "Pat" Morin, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">18</container>
+<unittitle>Liebes, Dorothy, with Relman "Pat" Morin, Frank Lloyd Wright, and Others 
+at Taliesen West, <unitdate>1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">19</container>
+<unittitle>Morin, Relman "Pat", <unitdate>1944, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">20</container>
+<unittitle>Morin, Relman "Pat", with Others, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder"></container>
+<unittitle>Wright, Frank Lloyd, <unitdate>1947</unitdate></unittitle>
+<physdesc>(see: Box 21)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">21</container>
+<unittitle>Children (unidentified), <unitdate>1937-1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">22</container>
+<unittitle>Family ?, 1897-1915, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">23</container>
+<unittitle>Groups,1938-1970, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">24-25</container>
+<unittitle>Men, <unitdate>1923-1953, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">26</container>
+<unittitle>Weavers, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">27</container>
+<unittitle>Women, <unitdate>1930s-1957, undated</unitdate></unittitle>
+<physdesc>(see also: Box 21)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">21 (sol)</container><container type="folder"></container>
+<unittitle>Liebes, Dorothy, <unitdate>circa 1940-circa 1943</unitdate></unittitle>
+<physdesc>(see also: Box 16)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">21 (sol)</container><container type="folder"></container>
+<unittitle>Wright, Frank Lloyd, <unitdate>1947</unitdate></unittitle>
+<physdesc>(see also Box 16)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">21 (sol)</container><container type="folder"></container>
+<unittitle>Women (unidentified), <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also Box 16)</physdesc>
+</did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>11.3: </unitid>
+<unittitle>Places, <unitdate>1937-1941</unitdate></unittitle></did>
+<c03><did>
+<container type="box">16</container><container type="folder">28</container>
+<unittitle>France, <unitdate>1937</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">29</container>
+<unittitle>Hawaii, <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder"></container>
+<unittitle>New York, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see Box 21)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">16</container><container type="folder">30</container>
+<unittitle>Unidentified, <unitdate>1937-1941, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">21 (sol)</container>
+<unittitle>New York City, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>11.4: </unitid>
+<unittitle>Textiles, <unitdate>1936-1967</unitdate></unittitle></did>
+<scopecontent><p>This subseries contains photographs of Liebes exhibition installations at various venues, garments made from Liebes fabric and interiors and window displays featuring textiles by Liebes. There is also an album of interiors featuring Liebes textiles.</p></scopecontent>
+<c03><did>
+<container type="box">16</container><container type="folder"></container>
+<unittitle>Exhibition Installations, <unitdate>1942-circa 1948, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>  
+<c03><did>
+<container type="box">16</container><container type="folder">31</container>
+<unittitle>Garments, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container><container type="folder">32-33</container>
+<unittitle>Interiors, <unitdate>1936-1962, undated </unitdate></unittitle>
+<physdesc>(2 folders; see also: Box 21, BV 57)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container><container type="folder">34</container>
+<unittitle>Textiles by Liebes, <unitdate>1967, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container><container type="folder">35</container>
+<unittitle>Textiles by Other Weavers, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">16</container><container type="folder">36</container>
+<unittitle>Window Displays, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">BV 57</container>
+<unittitle>Photograph Album, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Boxes 16 and 21)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">21 (sol)</container>
+<unittitle>Interiors, <unitdate>undated</unitdate></unittitle>
+<physdesc>(see also: Box 16, BV 57)</physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>11.5: </unitid>
+<unittitle>Miscellaneous Subjects, <unitdate>1940s</unitdate></unittitle></did>
+<c03><did>
+<container type="box">17 (pam)</container><container type="folder">1</container>
+<unittitle>"Arts and Skills" (American Red Cross program), <unitdate>1940s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17 (pam)</container><container type="folder">2</container>
+<unittitle>Dogs, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17 (pam)</container><container type="folder">3</container>
+<unittitle>Looms, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">17 (pam)</container><container type="folder">4</container>
+<unittitle>Plants, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>11.6: </unitid>
+<unittitle>Color Slides, Color Transparencies, and Negatives, <unitdate>1939-1947</unitdate></unittitle></did>
+<c03><did>
+<container type="box">17</container><container type="folder">5</container>
+<unittitle>Color Slides, Textiles by Dorothy Liebes, <unitdate>undated</unitdate></unittitle>
+<physdesc>(35-mm)</physdesc>
+</did></c03>
+<c03><did>
+<container type="box">17</container><container type="folder">6</container>
+<unittitle>Color Transparencies<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c04><did>
+<container type="box">17</container><container type="folder">7</container>
+<unittitle>Interiors, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">17</container><container type="folder">8</container>
+<unittitle>Miscellaneous Subjects, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">17</container><container type="folder">9</container>
+<unittitle>People, Liebes and Liebes with Others, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">17</container><container type="folder">10</container>
+<unittitle>People, Groups, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">17</container><container type="folder">11</container>
+<unittitle>Places, Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">17</container><container type="folder">12</container>
+<unittitle>Textiles by Liebes, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04> 
+</c03> 
+<c03><did>
+<container type="box">18 (hol)</container><container type="folder">1</container>
+<unittitle>Negatives<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c04><did>
+<container type="box">18 (hol)</container><container type="folder">2</container>
+<unittitle>Artwork (not by Liebes), <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">18 (hol)</container><container type="folder">3</container>
+<unittitle>Miscellaneous Subjects, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c04>
+<c04><did>
+<container type="box">18 (hol)</container><container type="folder">4</container>
+<unittitle>People<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">5</container>
+<unittitle>"Allan and Bogie, Palmer and Harry, Los Angeles," <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">6</container>
+<unittitle>"Berkeley weekend, Peter and Billy," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">7</container>
+<unittitle>"Bill's Ranch," <unitdate>1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">8</container>
+<unittitle>Dorothy Liebes; Dorothy Liebes with Others, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">9</container>
+<unittitle>"Dorothy and Cynthia at Barbara Burke's," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">10</container>
+<unittitle>"Family," <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">11-12</container>
+<unittitle>"Family in Berkeley," <unitdate>1940, 1942</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">13</container>
+<unittitle>Family – "Louise at Mother's," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">14</container>
+<unittitle>"Greer and Lucy," <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">15</container>
+<unittitle>"Helen and Fij Ross," <unitdate>1939</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">16</container>
+<unittitle>"Jane, Dorothy, and Cynthia at Monterey," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">17</container>
+<unittitle>"New York," <unitdate>1944</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">18</container>
+<unittitle>"Peter and Dorothy," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">19</container>
+<unittitle>"Peter and Dorothy at Yosemite," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">20</container>
+<unittitle>"Peter Grimm," <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">21</container>
+<unittitle>"Spring, 1942," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">22</container>
+<unittitle>"Spring Trip East," <unitdate>1942</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">23</container>
+<unittitle>"Studio," <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">24</container>
+<unittitle>"Summer, 1940," <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">25</container>
+<unittitle>"Summer, 1941 – Hornbrook," <unitdate>1941</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>	
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">26</container>
+<unittitle>Taliesen West, <unitdate>1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">27</container>
+<unittitle>"Woods at Fisherman's Wharf," <unitdate>1940</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">28</container>
+<unittitle>Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+</c04>
+<c04><did>
+<container type="box">18 (hol)</container><container type="folder">29</container>
+<unittitle>Places<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">30</container>
+<unittitle>New York, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">31</container>
+<unittitle>Unidentified, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+</c04>
+<c04><did>
+<container type="box">18 (hol)</container><container type="folder">32</container>
+<unittitle>Textiles<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">33</container>
+<unittitle>By Liebes, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">34</container>
+<unittitle>Liebes Exhibition Installations, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+<c05><did>
+<container type="box">18 (hol)</container><container type="folder">35</container>
+<unittitle>Interiors Featuring Liebes Textiles, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c05>
+</c04>
+</c03>
+</c02>
+</c01>
+
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+
+
+

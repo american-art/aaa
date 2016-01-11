@@ -1,0 +1,914 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/.xml"></eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Calvert Coggeshall</titleproper>
+		<subtitle>A Finding Aid to the Calvert Coggeshall Papers, <date type="inclusive">1920-1999</date>, <date type="bulk">bulk 1965-1989</date>, in the Archives of American Art</subtitle>
+		<author>by Judy Ng</author>
+		<sponsor></sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">January 14, 2011</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Judy Ng on
+<date>January 14, 2011</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Coggeshall, Calvert</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Calvert Coggeshall papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1920-1999, bulk 1965-1989</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">1.75 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of Maine abstract painter and interior designer Calvert Coggeshall measure 1.75 linear feet and date from 1920-1999, with the bulk of the material dating from 1965-1989.  They consist of scattered biographical material, personal and business related correspondence, writings, exhibition files, design business files, printed material, and photographs of Coggeshall, his friends, and his work. </abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language></language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The papers of Calvert Coggeshall were donated in 2006 by his son Tomlin Coggeshall.</p>
+</acqinfo>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was fully processed by Judy Ng in January 2011.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Calvert Coggeshall Papers, 1920-1999, bulk 1965-1989. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Calvert Coggeshall papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Calvert Coggeshall (1907-1990) worked as an abstract painter and interior designer primarily in Maine and New York City.  From 1951 to 1978, he exhibited regularly with the Betty Parsons Gallery.  </p>
+<p>Born in Whitesboro, New York, Coggeshall started his career as an interior designer, working on commissions for clients in the New York City area.  He later consulted on the interior designs for Henry Dreyfuss' line of cruise/cargo ships called American Export, popular from the 1940s through the 1960s.  In the 1940s, he also worked with inventor Arthur Young to design interiors for the first full-sized scale of Bell helicopter models.  By the 1950s, Coggeshall began splitting his time between painting and design work, though he continued to regularly consult and work on several architectural and interior design projects throughout the 1980s.</p>
+<p>As a painter, his early monochromatic abstracts were influenced by his friend and abstract expressionist, Bradley Walker Tomlin.  An early member of Betty Parson's stable of painters, Coggeshall was friends with other artists, including Jack Tworkov, Grace Hartigan, Katherine Kuh, Nora Sayre, Hedda Sterne, and Richard Tuttle.  After summering and eventually moving to Newcastle, Maine in the 1960s, he began introducing color into his abstract paintings. and A major retrospective of his work was held at the Bowdoin College Museum of Art in Maine in 1977. In 1978, he received a Guggenheim fellowship in recognition of his work.  Working out of his studios in Newcastle and Manhattan, Coggeshall continued producing abstract paintings into the late 1980s.  Coggeshall died in 1990.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of Maine abstract painter and designer Calvert Coggeshall measure 1.75 linear feet and date from 1920-1999, with the bulk of the material dating from 1965-1989.  They consist of biographical material, personal and business correspondence, personal writings, exhibition and business files, printed material, and photographs.  The bulk of the material documents Coggeshall's professional work and his friendships with other artists.</p>
+<p>Biographical material includes Coggeshall's personal address books and day planning notes, oral history transcripts, including an interview discussing his friendship with Walker Evans,  a copy of his Guggenheim application and acceptance letters, and miscellaneous records. </p>
+<p>Correspondence is predominantly in the form of cards, postcards, and short letters received from family and friends.  These include correspondence from Coggeshall's father, children, his older grandchildren, and his mother-in-law, Frances Coralie Perkins.  Other frequent correspondents include family friend Daphne Cox, artists Michael Lekakis, Loren McIver, Jack Tworkov, and museum director Gordon Washburn.</p>
+<p>Personal writings consist of poetry notes and drafts and a short essay on church design.</p>
+<p>Exhibition files concern Coggeshall's one man shows at the Betty Parsons Gallery during the 1970s and early 1980s, his retrospective at Bowdoin College in 1977, and his inclusion in shows at Artists Space, the Farnsworth Museum, and Jack Tilton Gallery.</p>
+<p>Business files related to Coggeshall's interior design work consist of architectural renderings and blueprints, work proposals, invoices, and receipts.  Some of the more significant projects include work done for Lisa de Kooning, Priscilla Morgan, Arthur Penn, and Shoji Sadao.</p>
+<p>Printed material includes newspaper clippings, exhibition announcements from other artists, and a booklet showcasing abstract artists titled, "Artfully Taught."</p>
+<p>Photographs are color and black and white prints of Coggeshall and his friends in his studio and outside his Newcastle, Maine residence.  There are also black and white photographs of Coggeshall's early design work in furniture and fabric, as well as documentation of his gallery design work for the Albright Art Gallery.</p>
+
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged into 7 series: </p>
+<list>
+<item>Series 1: Biographical Material, 1960-1990 (Box 1, OV 3; 8 folders)</item>
+<item>Series 2: Correspondence, 1920-1993 (Box 1, OV 3; 28 folders)</item>
+<item>Series 3: Writings, 1965-1989 (Box 1; 5 folders)</item>
+<item>Series 4: Exhibition Files, 1970-1992 (Box 1, OV 3; 12 folders)</item>
+<item>Series 5: Business Files, 1973-1989 (Boxes 1-2, OV 4-5; 27 folders)</item>
+<item>Series 6: Printed Material, 1950-1999 (Box 2, OV 3; 6 folders)</item>
+<item>Series 7: Photographs, 1940-1985 (Box 2; 6 folders)</item>
+</list>
+</arrangement>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Evans, Walker, 1903-1975</persname>
+<persname encodinganalog="600" source="lcsh">Morgan, Priscilla</persname>
+<persname encodinganalog="600" source="lcsh">Penn, Arthur, 1922-</persname>
+<persname encodinganalog="600" source="lcsh">Shoji, Sadao, 1937-</persname>
+
+<corpname encodinganalog="610" source="lcsh">Artists Space (Gallery)</corpname>
+<corpname encodinganalog="610" source="lcsh">Betty Parsons Gallery</corpname>
+<corpname encodinganalog="610" source="lcsh">Bowdoin College, Museum of Art</corpname>
+<corpname encodinganalog="610" source="lcsh">Jack Tilton Gallery</corpname>
+<corpname encodinganalog="610" source="lcsh">William A. Farnsworth Library and Art Museum</corpname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Artists' studios -- Photographs</subject>
+<subject encodinganalog="650" source="lcsh">Designers -- Maine</subject>
+<subject encodinganalog="650" source="lcsh">Interior decorators -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Painters -- Maine</subject>
+<subject encodinganalog="650" source="lcsh">Painters -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Poets -- New York (State) -- New York</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Architectural drawings</genreform>
+<genreform encodinganalog="655" source="lcsh">Blueprints</genreform>
+<genreform encodinganalog="655" source="lcsh">Drafts (documents)</genreform>
+<genreform encodinganalog="655" source="lcsh">Essays</genreform>
+<genreform encodinganalog="655" source="lcsh">Notes</genreform>
+<genreform encodinganalog="655" source="lcsh">Oral histories (document genres)</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Poems</genreform>
+<genreform encodinganalog="655" source="lcsh">Transcripts</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Lekakis, Michael, 1907-</persname>
+<persname encodinganalog="700" source="lcsh">Perkins, Frances</persname>
+<persname encodinganalog="700" source="lcsh">Tworkov, Jack</persname>
+<persname encodinganalog="700" source="lcsh">Washburn, Gordon B. (Gordon Bailey), 1904-</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Material, <unitdate>1960-1990</unitdate></unittitle>
+<physdesc>(Box 1, OV 3; 8 folders)</physdesc></did>
+<scopecontent> 
+<p>Biographical material includes Coggeshall's personal address books and day planning notes, his birth certificate and obituary, and a copy of his Guggenheim application and acceptance letters.  There are also two oral history transcripts, the first concerning Coggeshall's life and dual career as a painter and designer, the second concerning his friendship with Walker Evans. The interviewers for each oral history are identified as W.B. and N.S. respectively, and may have been conducted by close friends Wally Barker and Nora Sayers.  Also included are the records of his Manhattan home renovation project from 1975-1981.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Address Book, <unitdate>circa 1960-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Birth Certificate, <unitdate>1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Guggenheim Fellowship, <unitdate>1978-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Home Renovation, Notes and Receipts, <unitdate>1975-1981</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Interview Transcript, Coggeshall Oral History, <unitdate>circa 1973-1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Interview Transcript, Coggeshall re. Walker Evans, <unitdate>1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Obituary, <unitdate>1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 3</container>
+<container type="folder"></container>
+<unittitle>Home Renovation Blueprints and Renderings, <unitdate>1975-1981</unitdate></unittitle>
+<physdesc>(Oversized material from Box 1, F4)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1920-1993</unitdate></unittitle>
+<physdesc>(Box 1, OV 3; 28 folders)</physdesc></did>
+<scopecontent> 
+<p>Correspondence is predominantly in the form of cards, postcards, and short letters received from family and friends.  These include informal letters and cards from Coggeshall's father, children, his older grandchildren, and his mother-in-law, Frances Coralie Perkins.  Other frequent correspondents include family friend Daphne Cox, artists Michael Lekakis, Loren McIver, Jack Tworkov, and museum director Gordon Washburn.  Additional correspondents include Walter Barker, Mrs. Alfred J. Barr (Marga), Chouteau Chapin, Nancy Grove, Grace Hartigan, Katherine Kuh, Nora Sayre, Hedda Sterne, Jack Tilton, Richard Tuttle, and Catherine Viviano.  A handful of business letters related to Coggeshall's paintings and representation in galleries are also included in the series.</p> 
+</scopecontent>
+
+<arrangement><p>Correspondence is arranged into 3 subseries:</p> 
+<p>
+<list> 
+<item>Subseries 2.1: Business, 1967-1993</item> 
+<item>Subseries 2.2: Family, 1920-1989</item>
+<item>Subseries 2.3: Friends, 1954-1991</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>Subseries 2.1: </unitid>
+<unittitle>Business, <unitdate>1967-1993</unitdate></unittitle></did>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Letters Received, Fine Arts Related, <unitdate>1967-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>Subseries 2.2: </unitid>
+<unittitle>Family, <unitdate>1920-1989</unitdate></unittitle></did>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Coggeshall, Howard W., <unitdate>circa 1920-1930, 1935, 1939</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 3)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Coggeshall, John, Kate, Pleasance, and Tomlin, <unitdate>1969-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Daniel, Kirstin, and Zoe, <unitdate>1988-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Perkins, Frances, <unitdate>circa  1960-1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">OV 3</container>
+<container type="folder"></container>
+<unittitle>Oversized Clipping, <unitdate>1946</unitdate></unittitle>
+<physdesc>(Oversized material from Box 1, F9)</physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>Subseries 2.3: </unitid>
+<unittitle>Friends, <unitdate>1954-1991</unitdate></unittitle></did>
+
+<c03><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>A, Miscellaneous, <unitdate>1970-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Alain</item>
+<item>Alice</item>
+<item>Alison</item>
+<item>Alison and George</item>
+<item>Anna</item>
+<item>Ardis</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>B, Miscellaneous, <unitdate>1975-1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Barker, Walter W.</item>
+<item>Barnes, Kate</item>
+<item>Barr, Mrs. Alfred J. (Marga)</item>
+<item>Batine</item>
+<item>Berry, Joyce</item>
+<item>Bewin, Bruce and Naomi</item>
+<item>Bill</item>
+<item>Binnings, Robin</item>
+<item>Breit, Alice Morris</item>
+<item>Brown, Amelia</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Cox, Daphne, <unitdate>1970-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>C, Miscellaneous, <unitdate>1979-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Chapin, Chouteau</item>
+<item>Chris</item>
+<item>Clara and Bill</item>
+<item>Claude</item>
+<item>Coolidge, Helen</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>D, Miscellaneous, <unitdate>1954-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Dache, Lilly</item>
+<item>De Kooning, Lisa</item>
+<item>De Menil, J.</item>
+<item>Dennie</item>
+<item>Diddy</item>
+<item>Donald</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>E-G, Miscellaneous, <unitdate>1955-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Emory</item>
+<item>Flora</item>
+<item>Frencher, Peter</item>
+<item>Gifford, Pete and Marie</item>
+<item>Glidden, Arthur B.</item>
+<item>Grove, Nancy</item>
+<item>Gwyn</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>H, Miscellaneous, <unitdate>1970-1991</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>H</item>
+<item>Haggin, Bernard</item>
+<item>Hal</item>
+<item>Hall, Lee</item>
+<item>Hartigan, Grace</item>
+<item>Holme, Frida</item>
+<item>Holt, John and Elizabeth</item>
+<item>Houghton, Betty</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>I-K, Miscellaneous, <unitdate>1980-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Itami, Michi</item>
+<item>Izumi, Mihoko</item>
+<item>Jane</item>
+<item>Kramer, Roz</item>
+<item>Kuh, Katherine</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Lekakis, Michael, <unitdate>1948-1980</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>L, Miscellaneous, <unitdate>1966-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>LaF.O., W.</item>
+<item>Lenore</item>
+<item>Leslie, Anne, Seaver, and Genevieve</item>
+<item>Lily</item>
+<item>Lindlay, Frances</item>
+<item>Lippard, Peg</item>
+<item>Lise</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>MacIver, Loren, <unitdate>1978-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>M, Miscellaneous, <unitdate>1966-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>M</item>
+<item>M, Dorothy</item>
+<item>Marian and Louis</item>
+<item>Matisse, Pierre</item>
+<item>McRise, Paul</item>
+<item>Mellen, Constance</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>N-O, Miscellaneous, <unitdate>1985-1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Nancy and Bob</item>
+<item>Natasha</item>
+<item>Nicholson, Bettina</item>
+<item>Noguchi, Isamu</item>
+<item>Oliver, Harriet</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>P, Miscellaneous, <unitdate>1978-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>P., E.</item>
+<item>Pelletur, Brenda</item>
+<item>Peterson, Dorothy</item>
+<item>Potter, Alice</item>
+<item>Priscilla</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>R, Miscellaneous, <unitdate>1954-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Rankin, V.</item>
+<item>Reichek, Jessie</item>
+<item>Rikur</item>
+<item>Ritcha, Jane</item>
+<item>Rossie</item>
+<item>Russell</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>S, Miscellaneous, <unitdate>1975-1991</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>S., Jane</item>
+<item>Sadao, Tsuneko</item>
+<item>Sayre, Nora</item>
+<item>Shemi, Y.</item>
+<item>Silberman, John</item>
+<item>Sims, Henry</item>
+<item>Stehli, Annabelle</item>
+<item>Sterne, Hedda</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Tworkov, Jack and Wally, <unitdate>1967-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">30</container>
+<unittitle>T, Miscellaneous, <unitdate>1966-1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>T.</item>
+<item>Taylor, Emily</item>
+<item>Tilton, Jack</item>
+<item>Tuttle, Richard</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>U-V, Miscellaneous, <unitdate>1987-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>U., J.B.</item>
+<item>Valerie</item>
+<item>Viviano, Catherine</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Washburn, Gordon, <unitdate>1978-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Y, Miscellaneous, <unitdate>1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent><p>
+<list>
+<item>Yvonne</item>
+</list>
+</p></scopecontent></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Unidentified Correspondents, <unitdate>circa 1965-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Writings, <unitdate>1965-1989</unitdate></unittitle>
+<physdesc>(Box 1; 5 folders)</physdesc></did>
+<scopecontent> 
+<p>Personal writings consist of a short essay, "A Christmas Church" and numerous poetry drafts and notes.  One series of seven poems, "Seven" is typewritten.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Essay, "A Christmas Church," <unitdate>circa 1965-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>Notes, <unitdate>circa 1965-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>Poetry, "Seven," <unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">38</container>
+<unittitle>Poetry, Drafts, <unitdate>circa 1965-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">39</container>
+<unittitle>Poetry, Notebook, <unitdate>circa 1965-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Exhibition Files, <unitdate>1970-1992</unitdate></unittitle>
+<physdesc>(Box 1, OV 3; 12 folders)</physdesc></did>
+<scopecontent> 
+<p>Exhibition files include photographs, correspondence, announcements, and lists related to Coggeshall's one man shows at the Betty Parsons Gallery during the 1970s and early 1980s and his retrospective at Bowdoin College in 1977.  The Bowdoin retrospective also include blueprints of the gallery space and Coggeshall's notations on the planned layout of his works. Additional correspondence regarding his inclusion in shows at Artists Space, the Farnsworth Museum, and Jack Tilton Gallery are also included in the series.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">40</container>
+<unittitle>Announcement Lists, <unitdate>circa 1970-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">41</container>
+<unittitle>Artists Space, <unitdate>1987</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">42-46</container>
+<unittitle>Betty Parsons Gallery, <unitdate>1970-1982</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">47-48</container>
+<unittitle>Bowdoin College, <unitdate>1977</unitdate></unittitle>
+<physdesc>(2 folders; Oversized material housed in OV 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">49</container>
+<unittitle>Farnsworth Museum, <unitdate>1990-1992</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">50</container>
+<unittitle>Jack Tilton Gallery, <unitdate>1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 3</container>
+<container type="folder"></container>
+<unittitle>Oversize Blueprints and Renderings, <unitdate>1977</unitdate></unittitle>
+<physdesc>(Oversized material from Box 1, F48)</physdesc>
+</did></c02>
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Business Files, <unitdate>1973-1989</unitdate></unittitle>
+<physdesc>(Boxes 1-2, OV 4-5; 27 folders)</physdesc></did>
+<scopecontent> 
+<p>Business files related to Coggeshall's interior design work consist of his client and contractor address book, architectural renderings and blueprints, work proposals, lists, invoices, and receipts.  Some of the more significant projects include apartment design renovations for Lisa de Kooning, Priscilla Morgan, Arthur Penn, Shoji Sadao, Richard Lombard, and John Silberman.</p> 
+</scopecontent>
+
+<arrangement> 
+<p>Projects are generally in the following order: blueprints, estimates, payment, notes, receipts, and invoices.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">51</container>
+<unittitle>Address Book, <unitdate>circa 1973-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">52</container>
+<unittitle>Client Blueprints, Miscellaneous, <unitdate>circa 1973-1985</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">53</container>
+<unittitle>Client Invoices, <unitdate>1973-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">54</container>
+<unittitle>Day Planning Notes, <unitdate>circa 1973-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">55</container>
+<unittitle>Brown, Kate, <unitdate>circa 1980-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">56</container>
+<unittitle>Davidson, Joan, <unitdate>1986-1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">57-58</container>
+<unittitle>de Kooning, Lisa, <unitdate>1983-1989</unitdate></unittitle>
+<physdesc>(2 folders; Oversized material housed in OV 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">59</container>
+<unittitle>Gunther, Jane, <unitdate>1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">60</container>
+<unittitle>Hall, Naomi, <unitdate>1984-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">61-63</container>
+<unittitle>Lombard, Richard, <unitdate></unitdate>1983-1986</unittitle>
+<physdesc>(3 folders; Oversized material housed in OV 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">1-4</container>
+<unittitle>Lombard, Richard, <unitdate>1983-1984</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Lurie, Jerome, <unitdate>1984-1985</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Morgan, Priscilla, <unitdate>1982-1984</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Penn, Arthur, <unitdate>1984</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Rockefeller University, <unitdate>1973-1974</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Sadao, Shoji, <unitdate>1983-1988</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">10-12</container>
+<unittitle>Silberman, John, <unitdate>1986-1988</unitdate></unittitle>
+<physdesc>(3 folders; Oversized material housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 4</container>
+<container type="folder"></container>
+<unittitle>Oversize Blueprints and Renderings<unitdate>1983-1989</unitdate></unittitle>
+<physdesc>(Oversized material from Box 1, F52, F57-58, F61 and Box 2, F5-6)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 5</container>
+<container type="folder"></container>
+<unittitle>Oversize Blueprints and Renderings<unitdate>1973-1988</unitdate></unittitle>
+<physdesc>(Oversized material from Box 2, F7-9, F11)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Printed Material, <unitdate>1950-1999</unitdate></unittitle>
+<physdesc>(Box 2, OV 3; 6 folders)</physdesc></did>
+<scopecontent> 
+<p>Printed material includes newspaper clippings reviewing Coggeshall's work, exhibition announcements from other artists, including Lyonel Feininger, Moy Glidden, Ken Greenleaf, David Plowden, and Jack Tworkov.  A booklet showcasing abstract artists sponsored by the New York Governor's office titled, "Artfully Taught" is also included in the series.</p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Exhibition Announcements, Other Artists, <unitdate>1950-1992</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">14</container>
+<unittitle>Booklet, "Artfully Taught," <unitdate>1999</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">15</container>
+<unittitle>Clippings, Coggeshall Art, <unitdate>1968-1992</unitdate></unittitle>
+<physdesc>(Oversized material housed in OV 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">16</container>
+<unittitle>Clippings, Coggeshall Design, <unitdate>1944, 1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">17</container>
+<unittitle>Clippings, Miscellaneous, <unitdate>circa 1980-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 3</container>
+<container type="folder"></container>
+<unittitle>Oversize Clippings, <unitdate>1967, 1969, 1977</unitdate></unittitle>
+<physdesc>(Oversized material from Box 2, F15)</physdesc>
+</did></c02>
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Photographs, <unitdate>1940-1985</unitdate></unittitle>
+<physdesc>(Box 2; 6 folders)</physdesc></did>
+<scopecontent> 
+<p>Photographs include color and black and white prints of Coggeshall and his friends in his studio and outside his Newcastle, Maine residence.  There are also black and white photographs of Coggeshall's early design work in furniture and fabric, as well as documentation of his gallery design work for the Albright Art Gallery.</p> 
+</scopecontent>
+
+<arrangement>
+<p>A list of additional photographs in the collection can be found in Folder 18.</p>
+</arrangement>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">18</container>
+<unittitle>Coggeshall, Artwork and Studio, <unitdate>1964-1977</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">19</container>
+<unittitle>Coggeshall, Friends of, <unitdate>circa 1960-1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">20</container>
+<unittitle>Coggeshall, Maine Residence, <unitdate>1986</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">21</container>
+<unittitle>Design, Albright Art Gallery, <unitdate>circa 1940-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">22</container>
+<unittitle>Design, Fabric, <unitdate>1951</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">23</container>
+<unittitle>Design, Tables, Chairs, and Lamps, <unitdate>circa 1940-1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+   
+
+</dsc>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+
+
+</archdesc>
+</ead>
+
+
+
+

@@ -1,0 +1,597 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/akeradel.xml">akeradel</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper></titleproper>
+		<subtitle>A Finding Aid to the Adela Akers Papers, <date type="inclusive">1960-2009</date>, in the Archives of American Art</subtitle>
+		<author>by Erin Kinhart</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">March 06, 2012</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Erin Kinhart on
+<date>March 06, 2012</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Akers, Adela</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Adela Akers papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1960-2009</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2.6 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of fiber artist and educator Adela Akers measure 2.6 linear feet and date from 1960 to 2009.  Her career as an artist and her tenure at the Tyler School of Art, Temple University, are documented through scattered biographical material; correspondence; subject files on galleries, projects, weaving technique, research, workshops, and fiber arts organizations; writings; exhibition announcements, clippings, and other printed material; photographs; and artwork, including one sketchbook.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>Collection is in English.</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="561" id="a19">
+<head>Provenance</head>
+<p>The collection was donated in 2009 and 2011 by Adela Akers.</p>
+</acqinfo>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Also found at the Archives of American Art is an oral history interview with Adela Akers, 2008 Mar. 4-6, conducted by Mija Riedel.</p>
+</relatedmaterial>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed to a minimal level in 2012 by Erin Kinhart.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Adela Akers papers, 1960-2009. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Adela Akers papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Adela Akers (1933- ) is a fiber artist and educator living and working in Guerneville, California.</p>
+<p>Akers was born in Santiago de Compostela, Spain, and was raised in Havana, Cuba.  She came to the United States as a student in 1957 and studied at the School of the Art Institute of Chicago and Cranbrook Academy of Art. In 1965 she served as a weaving advisor in Peru for the Alliance for Progress and was an artist in residence at Penland School of Crafts from 1968-1970.  From 1972 to 1995 Akers was a professor and chair of fiber arts at the Tyler School of Art at Temple University in Philadelphia.  Her weavings consist of zigzags, checkerboard patterns, and simple geometric shapes.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of fiber artist and educator Adela Akers measure 2.6 linear feet and date from 1960 to 2009.  Her career as an artist and her tenure at the Tyler School of Art, Temple University, are documented through scattered biographical material; correspondence; subject files on galleries, projects, weaving technique, research, workshops, and fiber arts organizations; writings; exhibition announcements, clippings, and other printed material; photographs; and artwork, including one sketchbook.</p>
+<!-- add additional <p></p> tags as necessary -->
+
+<!-- If you have a non-series-related index provide a link to the index here: 
+
+<note><p><ref target="index1"></ref></p></note>  
+
+-->
+
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 7 series: </p>
+<list>
+<item>Series 1: Biographical Material, 1970s, 1991-1998 (Box 1; 3 folders)</item>
+<item>Series 2: Correspondence, 1985-1987 (Box 1; 3 folders)</item>
+<item>Series 3: Subject Files, 1960-2007 (Box 1; 0.6 linear feet)</item>
+<item>Series 4: Writings, 1973-1995 (Box 1; 3 folders)</item>
+<item>Series 5: Printed Material, 1962-2009 (Box 1-2, 6; 6 folders)</item>
+<item>Series 6: Photographic Materials, 1960-2008 (Box 2-3; 0.4 linear feet)</item>
+<item>Series 7: Artwork, circa 1960s-1980s (Box 3-6, OV 7; 1.1 linear feet)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Fiber artists--California</subject>
+<subject encodinganalog="650" source="lcsh">Educators--California</subject>
+<subject encodinganalog="650" source="lcsh">Weaving--Technique</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Sketchbooks</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<corpname encodinganalog="710" source="lcsh">Tyler School of Art</corpname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Biographical Material, <unitdate>1970s, 1991-1998</unitdate></unittitle>
+<physdesc>(Box 1; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>Found here are scattered employment records from Akers's tenure in the Craft Department at Tyler School of Art, one award certificate, and several draft versions of her resume.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Employment Records, Tyler School of Art, <unitdate>1991-1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Resume, <unitdate>1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Temple University Faculty Award for Creative Achievement, <unitdate>1995, 1998</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Correspondence, <unitdate>1985-1987</unitdate></unittitle>
+<physdesc>(Box 1; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>Correspondence documents Akers's professional dealings with art galleries, museums, organizations, and services, from 1985-1987. Researchers should note that additional correspondence is included in Series 3: Subject Files.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Correspondence is arranged in rough chronological order.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4-6</container>
+<unittitle>Correspondence, <unitdate>1985-1987</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Subject Files, <unitdate>1960-2007</unitdate></unittitle>
+<physdesc>(Box 1; 0.6 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found here are subject files which Akers maintained to document her work with galleries and fiber arts organizations, exhibitions, lectures and workshops, and commissioned projects.  Also found are files on weaving technique and research on other fiber artists.  Files may include correspondence, notes, printed material, agreements, lists of artwork, and a few scattered photographs.</p>
+</scopecontent>
+
+<arrangement> 
+<p>Files are arranged alphabetically.  Akers's original folder titles were maintained.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Adelle M. Fine Arts, <unitdate>1978-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Advanced Weaving, <unitdate>circa 1987</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>American Craft Museum, <unitdate>1985-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>The Art Exchange, <unitdate>1989-1994</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Arts Benicia, <unitdate>1996-1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Columbus Cultural Arts Center, <unitdate>1988-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Connecticut Commission on the Arts, <unitdate>1984-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Crieger Associaties, <unitdate>1982-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Double Weave, <unitdate>1960-1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Felting, <unitdate>circa 1970s-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Fiberworks, Center for the Textile Arts, <unitdate>1979-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Fiberworks Symposium, <unitdate>1978-1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Galman Lepow Associates, <unitdate>1989-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Guatemala, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Helen Drutt Gallery, <unitdate>1987-1992</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">22-23</container>
+<unittitle>Lectures and Workshops, <unitdate>1967-1971, circa 1979</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Library Tapestry, <unitdate>2000</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">25-26</container>
+<unittitle>Lonny Gans and Associates, <unitdate>1982-1990</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>NEA International Fellowships, <unitdate>1995-1996</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Netting, <unitdate>circa 1980s-1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">29-30</container>
+<unittitle>Patrick King Contemporary Art, <unitdate>1981-1991</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Plaiting, <unitdate>circa 1970s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>Rhode Island School of Design, <unitdate>1980-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Study Leave Research, Neda Al-Hilali, <unitdate>circa 1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Study Leave Research, Francoise Grossen, <unitdate>1976-1978</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Study Leave Research, Cynthia Schira, <unitdate>1988</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">36</container>
+<unittitle>Study Leave Research, Joanne Segal Brandford, <unitdate>circa 1979</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">37</container>
+<unittitle>Temple University Research Grants, <unitdate>1975-1994</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">38-39</container>
+<unittitle>Thirteen Moons Gallery, <unitdate>2002-2007</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">40</container>
+<unittitle>Tyler School of Art Grant Reports, <unitdate>1979-1989</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">41</container>
+<unittitle>University Hospital of Cleveland, <unitdate>1990-1991</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">42</container>
+<unittitle>Weaving Techniques, <unitdate>circa 1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Writings, <unitdate>1973-1995</unitdate></unittitle>
+<physdesc>(Box 1; 3 folders)</physdesc></did>
+<scopecontent> 
+<p>Writings consist of loose notes on weaving and one weaving notebook.  Both contain notes, diagrams, illustrations, and lists.  The weaving notebook also includes attached fiber samples.</p>
+</scopecontent>
+
+<arrangement> 
+<p>The weaving notebook was removed from a three-ring binder and the original order of the pages has been maintained.</p> 
+</arrangement>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">43</container>
+<unittitle>Notes, <unitdate>1973-1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">44-45</container>
+<unittitle>Weaving Notebook, <unitdate>1985-1995</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Printed Material, <unitdate>1962-2009</unitdate></unittitle>
+<physdesc>(Box 1-2, 6; 6 folders)</physdesc></did>
+<scopecontent> 
+<p>Printed material consists of exhibition catalogs and announcements, news clippings and magazines containing mentions of Akers, and one publication regarding Akers's work for the Alliance for Progress program in Peru.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>Catalogs, <unitdate>1968, 1994-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Exhibition Announcements, <unitdate>circa 1986-2009</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Magazines, <unitdate>1966-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">3-4</container>
+<unittitle>News Clippings, <unitdate>1962-1995</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">2</container>
+<unittitle>"Adela Akers and the Weavers of Huhi," <unitdate>1966</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Photographic Materials, <unitdate>1960-2008</unitdate></unittitle>
+<physdesc>(Box 2-3; 0.4 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Photographs depict Adela Akers working in her studio, an exhibition installation and opening at Shop One Gallery, artworks in progresss, and weavings by Akers.  Also found are digital photographs, negatives, transparencies, and slides of her artwork.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Photographs of Adela Akers, <unitdate>1960-1990</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Photographs of Home and Studio, <unitdate>1972-1981</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Photographs of Shop One Gallery, <unitdate>1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Photographs of Works in Progress, <unitdate>2007-2008</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9-11</container>
+<unittitle>Photographs of Artwork, <unitdate>1967-1990</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">12</container>
+<unittitle>Digital Photographs of Artwork, <unitdate>2004-2007</unitdate></unittitle>
+<physdesc>(six data disks)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">13</container>
+<unittitle>Negatives and Transparencies, <unitdate>circa 1970s-1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">1-3</container>
+<unittitle>Slides, <unitdate>1970s-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Artwork, <unitdate>circa 1960s-1980s</unitdate></unittitle>
+<physdesc>(Box 3-6, OV 7; 1.1 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Artwork by Akers consists of one bound sketchbook, three three-dimensional studies, and 32 color studies for her weavings.</p>
+</scopecontent>
+
+<arrangement> 
+<p></p> 
+</arrangement>
+
+<c02><did>
+<container type="box">3</container>
+<container type="folder">4</container>
+<unittitle>Sketchbook, <unitdate>circa 1960s-1970s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>"Proposal #1," <unitdate>circa 1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">5</container>
+<container type="folder">1</container>
+<unittitle>"Proposal #2," <unitdate>circa 1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">6</container>
+<container type="folder">1</container>
+<unittitle>"Proposal #1," <unitdate>circa 1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 7</container>
+<container type="folder"></container>
+<unittitle>Color Studies, <unitdate>circa 1980s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+
+</dsc>
+
+
+</archdesc>
+</ead>
+

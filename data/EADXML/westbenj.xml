@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/westbenj.xml">westbenj</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Benjamin West</titleproper>
+		<subtitle>A Finding Aid to the Benjamin West Collection, <date type="inclusive">1771-circa 1879</date>, in the Archives of American Art</subtitle>
+		<author>by Stephanie Ashley</author>
+		<sponsor>Funding for the processing and digitization of this collection was provided by the Terra Foundation for American Art</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">November 2008</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Stephanie Ashley in
+<date>November 2008</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">West, Benjamin</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Benjamin West collection</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1771-circa 1879</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">19 items</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">This collection consists of 19 items dated 1771-circa 1879, relating to expatriate painter Benjamin West. West, who settled in London and was renowned for his portraits and his paintings of historical events, was the first internationally known American painter. The collection provides scattered documentation of West's activities including during the time of his appointment as historical painter to King George III, and contains letters from West, artwork including 2 engravings of the artist, 2 pages of West's accounts, and a ticket to a lecture at the Royal Academy of Art.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language>English</language>
+	</langmaterial>
+</did>
+
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The Benjamin West collection was acquired through gifts and purchases from various sources between 1955 and 1981. Nine letters and 2 engravings were donated by Charles Feinberg, 1955-1958; 2 additional letters were lent by Feinberg for microfilming in 1967 and subsequently purchased by AAA in 1968. Account book pages were purchased from Walter R. Benjamin Autographs, circa 1960, and one letter was purchased from Charles Hamilton Autographs, Inc., in 1963. A wood engraving was transferred from the National Portrait Gallery Library in 1981; the sources of an ink drawing and a print are unknown.</p>
+</acqinfo>
+
+<altformavail id="a17" encodinganalog="530">
+<head>Alternative Forms Available</head>
+<p>The Benjamin West collection was digitized in 2009 and is available via the Archives of American Art's website.</p>
+</altformavail>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was acquired through a series of gifts and purchases from various sources between 1955 and 1981 and microfilmed after receipt on reels D10 and 3480 in the order in which it was received. All accessions were merged and fully processed by Stephanie Ashley in 2008 and digitized in 2009 with funding provided by the Terra Foundation for American Art.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Benjamin West collection, 1771-circa 1879. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Benjamin West collection is owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Expatriate painter Benjamin West (1738-1829) was born in Springfield, Pennsylvania and worked in Pennsylvania and New York before settling in London as a portrait painter and historical painter to King George III. West initially studied with local artist William Williams in Pennsylvania and began painting portraits in Pennsylvania and New York in the 1750s. Around 1760 he traveled to Italy to study art and then settled in London as a portrait painter and remained in Europe for the rest of his life. He received many commissions under the patronage of George III and in 1772 was appointed historical painter to the King.</p>
+<p>A leader in neoclassicism and a mentor to many young English and American artists including John Constable, Charles Willson Peale, Gilbert Stuart, and John Singleton Copley, West became the first American artist to receive international recognition. Among his best-known works are <emph render="italic">Death of General Wolfe</emph> (1770) and <emph render="italic">Penn's Treaty with the Indians</emph> (1772). In these, and other historical paintings, he maintained the compositional elements of neoclassicism but departed from tradition by painting historical figures in the clothing of their period, rather than in classical attire.</p>
+<p>West was a co-founder of the Royal Academy of Arts with Sir Joshua Reynolds, and served as the Academy's president from 1792-1815.</p>
+<p>Benjamin West died in London in 1820.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>This collection consists of 19 items dated 1771-circa 1879, relating to expatriate painter Benjamin West. West, who settled in London and was renowned for his portraits and his paintings of historical events, was the first internationally known American painter. The collection provides scattered documentation of West's activities including during the time of his appointment as historical painter to King George III, and contains scattered letters from West, two engravings of the artist, prints, and ephemera. </p>
+
+<p> Twelve letters are written to prominent politicians such as John Adams and Robert R. Livingston, Jr., the U.S. Minsister in Paris, close friend and portraitist John Green, and others.  There are two pages of accounts documenting West's association with John Boydell. In 1786, Boydell, an alderman for the City of London and a publisher of books, illustrations and engravings, launched an ambitious project to commission the best artists in England, including West, to provide illustrations for an edition of Shakespeare's plays. Also found is a ticket to a lecture at the Royal Academy of Art.</p>
+
+<p>Artwork includes two engravings of West, a print of his birthplace, a print of a late 18th century portrait of West by Jonathan Spilsbury, and an ink drawing after Benjamin West of John Singleton Copley's son and daughter, circa 1879. </p>
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as one series: </p>
+<list>
+<item>Series 1: Benjamin West Collection, 1771-circa 1879 (Box 1; 5 folders)</item>
+</list>
+</arrangement>
+
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Adams, John Quincy, 1767-1848</persname>
+<persname encodinganalog="600" source="lcsh">Livingston, Robert R., 1746-1813</persname>
+<persname encodinganalog="600" source="lcsh">Boydell, John, 1719-1804</persname>
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Expatriate artists -- England -- London</subject>
+<subject encodinganalog="650" source="lcsh">Painters -- United States</subject>
+</controlaccess>
+
+
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Spilsbury, Jonathan, fl. 1766-1823</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+ 
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Benjamin West Collection, <unitdate>1771-circa 1879</unitdate></unittitle>
+<physdesc>(Box 1; 5 folders)</physdesc></did>
+<scopecontent> 
+<p>Two pages of West's accounts document his transactions with John "Alderman" Boydell between 1786-1792, including payment for prints of West's <emph render="italic">Battle of the Boyne</emph> (1781), probably <emph render="italic">Oliver Cromwell Dissolving the Long Parliament</emph> (1782), and <emph render="italic">Ophelia and Laertes</emph> (1792) which was included in Boydell's Shakespeare folio.</p>
+<p>Twelve letters from West include a 1771 letter (with transcript) to his friend, 18th century portrait artist John Green, whom West had known in Pennsylvania and who briefly joined West in London in 1774. Largely autobiographical in content, the letter describes how West "imbarked [sic] on Historical painting" and comments how he has been "so fare successfull in it that I find my pictures sell for a prise [sic] that no living artist ever received before."</p>
+<p>Other letters provide scattered documentation of West's association with high-profile politicians and landowners and include letters to: John Adams, November 1783, inviting Adams and "friends" (including John Jay with whom Adams signed the Treaty of Paris ending the American Revolution), to see the "Queen's House;" the U.S. Minister in Paris, Robert R. Livingston, Jr., June 1804 (with transcript), regarding West's medal and diploma from the "Department of the Fine Arts in the National Institute;" Taylor, March 1805, accepting an invitation from the Duke of Norfolk to the "annual dinner of the Society for the  Encoragement [sic] of Arts;" Mr. T. Smith, December 1806, regarding a portrait of Sir Philip Sidney which West is painting;  Wm. Wallace, January 1807, regarding an account; to Richard H. Davis, May 1809, offering to sell Davis the painting "Venus &amp;  Adonis by Titian," with Davis's response on the reverse; Sir William, June 1810, regarding visists from the Duke of Cambridge and the Duke of Gloucester to West's exhibition; S. Bourne, General Consul of the U.S. in Amsterdam, inquiring about a loan to a London goldsmith that was never repaid; Joseph Nollekins, March 1815, regarding recommendation of a sculptor, Mr. Franzone; Isaac Solly, April 1815, declining an invitation to a dinner; and a letter of thanks to Sir John Leicester, April 1819.</p>
+<p>Artwork consists of two engravings of West including a stipple engraving by David Edwin, circa 1800, a print depicting West's birthplace, a print of a late 18th century portrait of West by Johanthan Spilsbury, and an ink drawing after Benjamin West of John Singleton Copley's son and eldest daughter, circa 1879. Also found is a ticket for Mr. Bishop to a lecture at the Royal Academy of Art.</p>
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Accounts with John Boydell, <unitdate>1792 September 25</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Letters from Benjamin West, <unitdate>1771-1819</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Ticket to Royal Academy Lecture, <unitdate>1818 February 19</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Artwork, <unitdate>circa 1800-circa 1879</unitdate></unittitle>
+<physdesc>(oversized items housed in OV 5)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">OV 5</container>
+<container type="folder"></container>
+<unittitle>Oversized Artwork, <unitdate>circa 1800s</unitdate></unittitle>
+<physdesc>(from Box 1 F4)</physdesc>
+</did></c02>
+</c01>
+</dsc>
+
+ </archdesc>
+</ead>
+
+
+
+

@@ -1,0 +1,693 @@
+<?x ml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/bermavis.xml">bermavis</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Avis Berman Research Material on Katharine Kuh</titleproper>
+		<subtitle>A Finding Aid to the Avis Berman Research Material on Katharine Kuh, <date type="inclusive">1939-2006</date>, in the Archives of American Art</subtitle>
+		<author>by Joy Weiner </author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">June 05, 2009</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Joy Weiner on
+<date>June 05, 2009</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Berman, Avis</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Avis Berman research material on Katharine Kuh</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1939-2006</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">3.0 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The Avis Berman research material on art dealer and curator Katharine Kuh measures 3.0 linear feet and dates from 1939 to 2006.  The materials were compiled by art historian Avis Berman in preparing Katharine Kuh's memoir, which was published posthumously as <emph render="italic">My Love Affair with Modern Art: Behind the Scenes with a Legendary Curator</emph>. The collection includes Katharine Kuh's files; Kuh's drafts, manuscripts and interviews for her memoir; and Avis Berman's files relating to the book's publication.  Also included is memorabilia. </abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+	
+	<langmaterial label="Language of Materials:"><language></language>
+	</langmaterial>
+</did>
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The Avis Berman Research Material, 1939-2006 was donated to the Archives of American Art by Avis Berman, an art historian and literary executor of Katharine Kuh's estate in 2007. </p>
+</acqinfo>
+
+<originalsloc encodinganalog="535">
+	<head>Location of Originals</head>
+	<p>The collection includes photocopies of Katharine Kuh's correspondence; some of the letters may be among the Katharine Kuh papers, Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library. The Daniel Catton Rich correspondence is located at the Art Institute of Chicago.</p>
+</originalsloc>
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>The Archives of American Art holds the Katherine Kuh papers, 1908-1994.
+Also found in the Archives of American Art is an oral history interview with Katharine Kuh conducted by Avis Berman, March 18, 1982-March 23, 1983.
+Additional Katharine Kuh material is located at the Yale Collection of American Literature, Beinecke Rare Book and Manuscript Library.  
+</p>
+</relatedmaterial>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed to a minimal level by Joy Weiner in 2009.</p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Avis Berman research material on Katharine Kuh, 1939-2006.  Archives of American Art, Smithsonian Institution. </p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>Authorization to quote, publish, or reproduce requires written permission from:
+Avis Berman, 407 East 91st Street, New York, New York 10128.</p>
+</userestrict>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Writer and art historian, Avis Berman lives and works in New York City.  Berman was a close friend of Katharine Kuh's and is Kuh's literary executor. Berman compiled Katherine Kuh's research materials for the memoir that she was working on at the time of her death; the book was subsequently published as <emph render="italic">My Love Affair with Modern Art: Behind the Scenes with a Legendary Curator in 2006</emph>.</p> 
+<p> Katharine Kuh (1904-1994) was a curator and art dealer born in St. Louis, Missouri. She received her Bachelor of Arts from Vassar College in 1925, where she studied art history under Alfred Barr. In 1928, she earned her Master's in Art History at the University of Chicago. As a graduate student, Kuh developed an interest in modern art, particularly the work of European artists.</p>
+<p>Kuh married George Kuh, a businessman in 1930.  She and Kuh divorced six years later.</p>
+<p>In 1935, she established the Katharine Kuh Gallery in Chicago.  The gallery was dedicated to featuring the works of contemporary European and American painters and sculptors, such as Alexander Archipenko, Alexei Jawlensky, Wassily Kandinsky, Gyorgy Kepes, Paul Klee, Gaston Lachaise, Fernand Léger, Carlos Mérida, Joan Miro,  Lazlo Moholy-Nagy, Pablo Picasso, as well as Charles Biederman, Alexander Calder, Stuart Davis, and Isamu Noguchi, among others. The Katharine Kuh Gallery was one of the first galleries in Chicago to show photography as art. Kuh held exhibitions for Ansel Adams, Eliot Porter, Edward Weston, and she also showed the photographs of Gyorgy Kepes and Man Ray.</p> 
+<p>At the gallery, Kuh taught classes on an informal basis to individuals interested in modern art. During this period, she spent her summers as a Visiting Professor of Art History at the University School of Fine Arts of San Miguel in Guanajuarto, Mexico (1938-1940).  With the onset of America's involvement in World War II, Kuh realized that the war would curtail her contact with many of the European artists whose works she had promoted and in 1942, she decided to close the gallery.</p> 
+<p>In 1943, Katharine Kuh took a position in the public relations department at the Art Institute of Chicago. The following year, Kuh was asked to take over the Gallery of Art Interpretation at the Art Institute. Later she was appointed the Curator of Painting and Sculpture; in this role, she developed a close collaborative relationship with the Director of the Art Institute, Daniel Catton Rich. From 1946-1953, she served as the Editor of the <emph render="italic">Art Institute of Chicago Quarterly</emph>.</p> 
+<p>She left the Art Institute in 1959 and settled in New York City. She served as an art editor at the <emph render="italic">Saturday Review</emph> and <emph render="italic">World Magazine</emph>. She was also an art consultant for the First National Bank of Chicago from 1968-1979.</p> 
+<p>Katharine Kuh traveled extensively and often wrote about the art of the places she visited such as Sicily, Turkey, and the Yucatan. In the 1940s Kuh developed an interest in the wood carvings of the Indian tribes in the Pacific Northwest.
+The University of Alaska awarderd her an honorary doctorate for her efforts to preserve the indigenous artwork of the region's Native Americans. </p> 
+<p>Her publications on twentieth-century art included: <emph render="italic">Art Has Many Faces</emph> (1951), <emph render="italic">The Artist's Voice: Talks with Seventeen Artists</emph> (1962), <emph render="italic">Break-up: The Core of Modern Art </emph>(1965), and <emph render="italic">The Open Eye: In Pursuit of Art</emph> (1971). Kuh also wrote the catalog that accompanied the "Fernand Léger Retrospective at the Art Institute of Chicago" (1953). At the time of her death, Katharine Kuh had completed a final draft of her memoir, which she had tentatively titled, <emph render="italic">Sorting Out and Summing Up: Episodes in an Art Odyssey</emph>.</p> 
+<p>In 1994, Katharine Kuh died in New York City.</p> 
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The Avis Berman research material on art dealer and curator Katharine Kuh measures 3.0 linear feet and dates from 1939 to 2006.  The materials were compiled by art historian Avis Berman in preparing Katharine Kuh's memoir, which was published posthumously as <emph render="italic">My Love Affair with Modern Art: Behind the Scenes with a Legendary Curator</emph>. The collection includes Katharine Kuh's files; Kuh's drafts, manuscripts and interviews for her memoir; and Avis Berman's files relating to the book's publication.  Also included is memorabilia. </p>
+<p>The Katharine Kuh files contain correspondence; exhibition files; writings and notes; and Kuh's interview with Lily Harmon on J. B. Neumann. Correspondents include Walter Arensberg, Marcel Duchamp, and Edgar Kaufmann.  Also included is the scattered correspondence of Daniel Catton Rich with Walter Arensberg, Chester Dale, Katharine Kuh, Samuel Marx, and others. Exhibition files pertain to exhibitions curated by Katharine Kuh for the Louise and Walter Arensberg Collection and one-man shows for Rico Lebrun and Mark Tobey, respectively. </p>
+<p><emph render="italic">Sorting Out and Summing Up: Episodes in An Art Odyssey </emph>contains Katharine Kuh's draft versions of book chapters; her manuscripts and interviews; and drafts of chapters that were not incorporated in the published memoir.  Also included are manuscripts for the memoir and an annotated version of Avis Berman's interview with Kuh.</p>
+<p>The Avis Berman files include correspondence, writings, printed material, clippings, press releases, and miscellaneous printed material. Files document Berman's activities concerning the publication of the memoir.</p>
+<p>Memorabilia consists of a monograph and a memorial booklet.</p></scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 4 series:</p>
+<list>
+<item>Series 1: Katharine Kuh Files, 1944-2003 (Box 1; 0.3 linear feet)</item>
+<item>Series 2: <emph render="italic">Sorting Out and Summing Up: Episodes in an Art Odyssey</emph> by Katharine Kuh, 1939-2006 (Boxes 1-3; 2.0 linear feet)</item>
+<item>Series 3: Avis Berman Files, 1950s-2006  (Box 3; 0.6 linear feet)</item>
+<item>Series 4: Memorabilia, 1976, 1977 (0.1 linear feet)</item>
+</list>
+</arrangement>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+<controlaccess>
+<head>Subjects:</head>
+
+<persname encodinganalog="600" source="lcsh">Kuh, Katharine</persname>
+<persname encodinganalog="600" source="lcsh">Lebrun, Rico, 1900-1964</persname>
+<persname encodinganalog="600" source="lcsh">Neumann, J. B. (Jsrael Ber)</persname>
+<persname encodinganalog="600" source="lcsh">Tobey, Mark</persname>
+
+
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art dealers--Illinois--Chicago</subject>
+<subject encodinganalog="650" source="lcsh">Art, Modern</subject>
+<subject encodinganalog="650" source="lcsh">Curators--Illinois-Chicago</subject>
+</controlaccess>
+
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh"> Interviews</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Arensberg, Walter, 1878-1954</persname>
+<persname encodinganalog="700" source="lcsh">Dale, Chester, b. 1883</persname>
+<persname encodinganalog="700" source="lcsh">Duchamp, Marcel, 1887-1968</persname>
+<persname encodinganalog="700" source="lcsh">Harmon, Lily, 1912-</persname>
+<persname encodinganalog="700" source="lcsh">Kaufmann, Edgar, 1910-1989</persname>
+<persname encodinganalog="700" source="lcsh">Kuh, Katharine</persname>
+<persname encodinganalog="700" source="lcsh">Rich, Daniel Catton, 1904-1976</persname>
+</controlaccess>
+
+</controlaccess>
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series and subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Katharine Kuh Files,<unitdate>1944-2003</unitdate></unittitle>
+<physdesc>(Box 1; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains correspondence; exhibition files; writings and notes; and an interview.  Included is Katharine
+Kuh's correspondence with artists, collectors, museums, and others during her tenure at the Art Institute of Chicago and the correspondence of the Art Institute's Director, Daniel Catton Rich with Kuh and others. Letters between Rich and Walter and Louise Arensberg chronicle Rich's efforts to obtain the Arensbergs' art collection for the Art Institute.  Exhibition files contain letters, a chronology, notes, list of artwork, printed material, press releases, and clippings; included is an extensive file on Kuh's efforts to organize the exhibition, <emph render="italic">20th Century Art from the Louise and Walter Arensberg Collection</emph>. Writings and notes include Kuh's article for <emph render="italic">Vassar Alumnae</emph> Magazine; her written reports of visits to galleries; notes on possible acquisitions for the Art Institute of Chicago; and a copy of a transcript of Katharine Kuh's 1984 interview with Lily Harmon on J. B. Neumann.</p>  
+</scopecontent>
+
+<arrangement><p>Katharine Kuh Files have been arranged into four subseries:</p> 
+<p>
+<list> 
+<item>Subseries 1.1: Katharine Kuh Correspondence, 1944-1982 </item> 
+<item>Subseries 1.2: Daniel Catton Rich Correspondence, 1946-1958 </item>
+<item>Subseries 1.3: Exhibitions Curated by Katharine Kuh, 1949-1955</item> 
+<item>Subseries 1.4: Writings and Notes; Interview, 1947-1984</item> 
+</list> 
+</p></arrangement>
+
+<c02 level="subseries"><did><unitid>1.1: </unitid>
+<unittitle>Katharine Kuh Correspondence, <unitdate>1944-1982</unitdate></unittitle></did>
+<scopecontent> <p></p> </scopecontent>
+<arrangement><p></p></arrangement>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Abell, Walter - Cook, Gene, <unitdate>1944-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Duchamp, Marcel - Hess, Thomas, <unitdate>1944-1954, 1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Kaufmann, Edgar - Kunstadler, Sigmund, <unitdate>1953-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Langsner, Jules - Maxon, John, <unitdate>1949-1959, 1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02 level="subseries"><did><unitid> 1.2: </unitid>
+<unittitle>Daniel Catton Rich Correspondence,<unitdate> 1946-1958</unitdate></unittitle></did>
+<arrangement><p></p></arrangement>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, <unitdate>1946-1947</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Correspondence, <unitdate>1948</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">7-8</container>
+<unittitle>Correspondence, <unitdate>1949</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">9</container>
+<unittitle>Correspondence, <unitdate>1950-1951</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">10</container>
+<unittitle>Correspondence, <unitdate>1952-1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Correspondence, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Correspondence, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Correspondence, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Correspondence, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">15-16</container>
+<unittitle>Correspondence, <unitdate>1958</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Correspondence, <unitdate>undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02> 
+<c02 level="subseries"><did><unitid>1.3: </unitid>
+<unittitle>Exhibitions Curated by Katharine Kuh,<unitdate>1949-1955</unitdate></unittitle></did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">18-22</container>
+<unittitle><emph render="italic">20th Century Art from the Louise and Walter Arensberg Collection,</emph><unitdate>1949-1956</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle><emph render="italic">Rico Lebrun: Latest Paintings from Mexico, </emph><unitdate>1954-1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle><emph render="italic">Mark Tobey, One-Man Exhibition, </emph><unitdate>1954-1955 </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02> 
+
+<c02 level="subseries"><did><unitid> 1.4: </unitid>
+<unittitle>Writings and Notes; Interview, <unitdate> 1947-1959; 1984</unitdate></unittitle></did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>"Explaining Art Visually,"<emph render="italic"> Vassar Alumnae Magazine </emph> (March 1957), <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>Reports on Gallery Visits,<unitdate>1947-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Notes on Acquisition of Artwork for the Art Institute of Chicago,<unitdate>1953-1957, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Miscellaneous Notes,<unitdate>1954-1955, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Katharine Kuh's Interview with Lily Harmon on J. B. Neumann,<unitdate>1984</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+</c01> 
+  
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle><emph render="italic">Sorting Out and Summing Up: Episodes in An Art Odyssey</emph> by Katharine Kuh,<unitdate>1939-2006</unitdate></unittitle>
+<physdesc>(Boxes 1-2; 2.0 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series includes Katharine Kuh's drafts of book chapters, manuscripts, and interviews compiled for her memoir, which she had tentatively titled <emph render="italic"> Sorting Out and Summing Up: Episodes in An Art Odyssey. </emph> Also found are annotated excerpts of Avis Berman's oral history interview with Kuh. Files include correspondence, notes, printed material, clippings, reviews, and photographs. </p> 
+</scopecontent>
+<arrangement>
+<p><emph render="italic">Sorting Out and Summing Up: Episodes in An Art Odyssey </emph>by Katharine Kuh has been arranged into three subseries:</p> 
+<p>
+<list> 
+<item>Subseries 2.1: Draft Versions of Chapters, 1939-2006 </item> 
+<item>Subseries 2.2: Manuscripts and Interviews, 1987-1993 </item>
+<item>Subseries 2.3: Draft Versions of Chapters Not Used in <emph render="italic">My Love Affair with Modern Art: Behind the Scenes with a Legendary Curator</emph>, 1945-1997</item>
+</list> 
+</p></arrangement>
+<c02 level="subseries"><did><unitid>2.1: </unitid>
+<unittitle>Draft Versions of Chapters, <unitdate>1939-2006</unitdate></unittitle></did>
+<arrangement><p></p></arrangement>
+<c03><did>
+<container type="box">1</container>
+<container type="folder">30-42</container>
+<unittitle>"Preface and Introduction,"<unitdate>1959-2006</unitdate></unittitle>
+<physdesc>(12 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">43-45</container>
+<unittitle>"Josef Albers,"<unitdate>1984-1994</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">46</container>
+<unittitle>"Bernard Berenson,"<unitdate>1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">47</container>
+<unittitle>"Stuart Davis,"<unitdate>1990s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">48-50</container>
+<unittitle>"Hans Hofmann,"<unitdate>1990s-2002</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">51-53</container>
+<unittitle>"Edward Hopper,"<unitdate>1990s-circa 2002</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder">54-57</container>
+<unittitle>"Alfred Jensen,"<unitdate>1990s</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">1-8</container>
+<unittitle>"Alfred Jensen,"<unitdate>1990s</unitdate></unittitle>
+<physdesc>(8 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">9-12</container>
+<unittitle>"Franz Kline,"<unitdate>1990s-2003</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">13-23</container>
+<unittitle>"Fernard Léger,"<unitdate>1953-1998, undated</unitdate></unittitle>
+<physdesc>(11 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">24-26</container>
+<unittitle>"Isamu Noguchi,"<unitdate>1990s-1995, undated</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">27-37</container>
+<unittitle>"Mark Rothko,"<unitdate>1950s-1990s</unitdate></unittitle>
+<physdesc>(11 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">38-39</container>
+<unittitle>"Clyfford Still,"<unitdate>1990s-2002</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">40-43</container>
+<unittitle>"Mark Tobey,"<unitdate>1962-1994</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder">44-45</container>
+<unittitle>"Mies van der Rohe,"<unitdate>1990s, undated</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">1-4</container>
+<unittitle>"Mies van der Rohe,"<unitdate>1939-2003, undated</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">5-7</container>
+<unittitle>"Vincent van Gogh,"<unitdate>1974-1995</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+</c02>
+
+<c02 level="subseries"><did><unitid>2.2: </unitid>
+<unittitle>Manuscripts and Interviews, <unitdate>1987-1993</unitdate></unittitle></did>
+<scopecontent> <p></p> </scopecontent>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">8</container>
+<unittitle>Manuscript of <emph render="italic">Sorting Out and Summing Up: Episodes in An Art Odyssey</emph> by Katharine Kuh, <unitdate>1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">9</container>
+<unittitle>Final Version of <emph render="italic">Sorting Out and Summing Up: Episodes in An Art Odyssey</emph> by Katharine Kuh, <unitdate>1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">10</container>
+<unittitle>Excerpts of Interviews with Katharine Kuh conducted by Avis Berman,<unitdate>1987</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+      
+<c02 level="subseries"><did><unitid> 2.3: </unitid>
+<unittitle>Draft Versions of Chapters Not Used in <emph render="italic">My Love Affair with Modern Art: Behind the Scenes with a Legenday Curator</emph>,<unitdate> 1945-1997</unitdate></unittitle></did>
+<scopecontent> <p></p> </scopecontent>
+<arrangement><p></p></arrangement>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">11-15</container>
+<unittitle>"Alaska," <unitdate>1946-1997, undated</unitdate></unittitle>
+<physdesc>(5 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">16-17</container>
+<unittitle>"Central America," <unitdate>1945-1992</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">18-21</container>
+<unittitle>"Corporate Art," <unitdate>1978-1995</unitdate></unittitle>
+<physdesc>(4 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">22</container>
+<unittitle>"Charles and Ray Eames," <unitdate>1990s-1995</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">23-28</container>
+<unittitle>"Germany After the War," <unitdate>1990s-1996</unitdate></unittitle>
+<physdesc>(6 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">29-31</container>
+<unittitle>"India," <unitdate>1990s-1992</unitdate></unittitle>
+<physdesc>(3 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">32-33</container>
+<unittitle>"La Grand Jatte," <unitdate>1960, 1990s</unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">34</container>
+<unittitle>"Mexico," <unitdate>1990s-1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">35-36</container>
+<unittitle>"Self Portraits," <unitdate>1975-1990s, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+</c01>
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Avis Berman Files,<unitdate>1950s-2006</unitdate></unittitle>
+<physdesc>(Box 3; 0.6 linear feet)</physdesc></did>
+<scopecontent> 
+<p>This series contains Avis Berman's research materials related to the editing and publication of <emph render="italic">My Love Affair with Modern Art: Scenes with a Legendary Curator</emph>.  Included is correspondence, a letter agreement, writings, printed material, clippings, press releases, and miscellaneous printed material.  Also found is Katharine Kuh's correspondence detailing her efforts to find a publisher for the memoir. Writings contain draft versions of chapters formatted on floppy disks.</p></scopecontent>
+<arrangement><p>The Avis Berman Files have been arranged into three subseries:</p> 
+<p>
+<list> 
+<item>Subseries 3.1: Correspondence, 1981-2003, undated </item> 
+<item>Subseries 3.2: Writings, 1990s-1994 </item>
+<item>Subseries 3.3: Printed Material, 1950s-2006 </item>
+</list> 
+</p></arrangement>
+<c02 level="subseries"><did><unitid>3.1: </unitid>
+<unittitle>Correspondence,<unitdate>1981-2003</unitdate></unittitle></did>
+<scopecontent> 
+<p></p>
+</scopecontent>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">37</container>
+<unittitle>Correspondence, <unitdate>1981-1982</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">38</container>
+<unittitle>Correspondence,<unitdate>1991-1992, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">39</container>
+<unittitle>Correspondence,<unitdate>1993</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">40</container>
+<unittitle>Letter Agreement, <unitdate>1994</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">41</container>
+<unittitle>Correspondence,<unitdate>1994-2003</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+
+<c02 level="subseries"><did><unitid>3.2: </unitid>
+<unittitle>Writings,<unitdate>1990s-1994</unitdate></unittitle></did>
+<scopecontent> <p></p></scopecontent>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">42</container>
+<unittitle>Katharine Kuh Manuscript Chapters: "Sorting and Summing," "Hofmann," "Kline," "Rothko," "Jensen," "The 20th Century Briefly," "Tobey" and "Jensen Revisions," <unitdate>1990s</unitdate></unittitle>
+<physdesc> (2 1/2" disks)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">43</container>
+<unittitle>Various Manuscript Chapters: "Rothko Quote," "B. Berenson and Germany," "Preface and Donors," and "India and World Corp.," <unitdate>1994</unitdate></unittitle>
+<physdesc>(4 1/2" disks)</physdesc>
+</did></c03> 
+</c02>
+<c02 level="subseries"><did><unitid>3.3: </unitid>
+<unittitle>Printed Material, <unitdate>1950s-2006</unitdate></unittitle></did>
+<scopecontent> 
+<p></p>
+</scopecontent>
+<c03><did>
+<container type="box">3</container>
+<container type="folder">44</container>
+<unittitle>Clippings, <unitdate>1950s, 2005-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">45</container>
+<unittitle>Press Releases, <unitdate>1954-2006</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder">46</container>
+<unittitle>Miscellaneous Printed Material, <unitdate>1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+</c01>
+<c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Memorabilia,<unitdate>1976, 1997</unitdate></unittitle>
+<physdesc>(Box 3; 0.1 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Memorabilia houses a book of poems by Richard T. Cox and a memorial booklet.</p> 
+</scopecontent>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">47</container>
+<unittitle><emph render="italic">Many Seasons</emph> by Richard T. Cox, <unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">48</container>
+<unittitle><emph render="italic">Memorial Booklet for Denise Browne Hare </emph>, <unitdate>1997</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+<!-- OPTIONAL ARCHDESC ELEMENTS -->
+
+<!-- use odd for indexes -->
+
+
+<!-- END OPTIONAL ARCHDESC ELEMENTS -->
+
+
+
+<!-- END OPTIONAL DSC ELEMENTS -->
+
+
+
+

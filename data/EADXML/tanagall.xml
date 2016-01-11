@@ -1,0 +1,949 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/tanagall.xml">tanagall</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Tanager Gallery</titleproper>
+		<subtitle>A Finding Aid to the Tanager Gallery Records, <date type="inclusive">1952-1979</date>, in the Archives of American Art</subtitle>
+		<author>by Jayna M. Hanson</author>
+		<sponsor>Funding for the processing of this collection was provided by the Terra Foundation for American Art</sponsor>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">March 22, 2012</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Jayna Hanson on
+<date>March 22, 2012</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<corpname encodinganalog="110">Tanager Gallery</corpname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Tanager Gallery records</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1952-1979</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">2.6 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The records of contemporary New York City Tanager Gallery measure 2.6 linear feet and date from 1952 to 1979.  Found are administrative files, financial and legal records including detailed receipt books, scattered correspondence, artists' files for circa 70 artists that include price lists and biographies, two scrapbooks of printed materials, newsclippings, exhibition announcements and other printed materials, and five photographs of openings at the gallery and of the exterior of the building.</abstract>
+
+<!-- ONLY USE LANGMATERIAL TO NOTE LANGUAGES OTHER THAN OR IN ADDITION TO ENGLISH -->
+
+	<langmaterial label="Language of Materials:">The collection is in <language>English</language>.
+	</langmaterial>
+
+</did>
+
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="561" id="a19">
+<head>Provenance</head>
+<p>Lois Dodd, co-founder of the Tanager Gallery, donated the Tanager Gallery records in several increments between 1972 and 1989.</p>
+</acqinfo>
+
+
+<relatedmaterial encodinganalog="544 1" id="a6">
+<head>Related Material</head>
+<p>Among the holdings of the Archives of American Art are the Lois Dodd papers, 1952-2001 and an oral history interview with Lois Dodd by Barbara Shikler from 1988. </p>
+</relatedmaterial>
+
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>A portion of the Tanager Gallery records were originally loaned for microfilming in 1963 onto reels 3976 and D136; these reels are no longer in circulation.  The records orginally loaned for microfiling, along with additional records, were later donated.  All accretions were fully merged, processed, and described by Jayna Hanson in 2012 with funds provided by the Terra Foundation for American Art.   </p>
+</processinfo>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Tanager Gallery records, 1952-1979. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>Use of original papers requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Tanager Gallery records are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Historical Note</head>
+
+<p>The Tanager Gallery operated from 1952-1962 in New York City.  The gallery was one of the first artist cooperative galleries formed on 10th Street in Manhattan to provide an alternative to the larger upscale galleries of Madison Avenue.</p>
+<p>In 1952, the artist cooperative Tanager Gallery opened at 90 East 10th Street in Manhattan.  Co-founders included Charles Cajori, Lois Dodd, Angelo Ippolito, William King, and Fred Mitchell. The Tanager offered open spaces for young artists to show their work and to sell art on their own terms. Membership at the Tanager included American Realists Alex Katz and Philip Pearlstein, and the Pop art/found-art collagist Tom Wesselmann.  Later artists to join the cooperatiive included Mary Abbott, Perle Fine, Sidney Geist, Joseph Groell, Nanno de Groot, Sally Hazelet, Ben Isquith, Lester Johnson, Nicholas Marsicano, George Earl Ortman, Charlotte Park, Philip Pearlstein, Frank Stout, Raymond Rocklin, and Sal Sirugo.  From 1952 to 1962, the Tanager Gallery exhibited works from about 250 artists. </p>
+
+<p>The opening of Tanager and other 10th Street galleries was a radical change for the New York arts scene and for emerging New York artists who generally found representation with uptown gallery owners and/or art dealers on 57th Street or Madison Ave.  In the 1950s, Manhattan's 10th Street was a gathering place for young artist-bohemians.  The galleries were often the centers for anything avant-garde or new, such as art installations, happenings, poetry readings, jazz sessions, and performance art.  For example, Tanager Gallery hosted a series of forums with local artists who would discuss their work and objectives.   </p>
+
+<p>Tanager Gallery received attention and respect from the more established art galleries and critics in New York, including Dore Ashton, Leo Castelli, Tom Hess,  Martha Jackson, and Dorothy Miller. The Tanager Gallery closed in 1962.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The records of contemporary New York City Tanager Gallery measure 2.6 linear feet and date from 1952 to 1979.  Found are administrative files, financial and legal records including detailed receipt books, scattered correspondence, artists' files for circa 70 artists that include price lists and biographies, two scrapbooks of printed materials, newsclippings, exhibition announcements and other printed materials, and five photographs of openings at the gallery and of the exterior of the building.</p>
+
+ <p>Administrative files include four day books, lists of artists and exhibitions, historical sketches, and an address book. There are two ledger books of expenses for shows and four receipt books from 1959-1962 which are organized by date and list artist, and artwork, buyer, and price.   Correspondence is arranged chronologically and comprised mainly of copies of letters sent by the Gallery to artists as invitations to exhibit.  Also found are scattered letters from museums and artists. </p> 
+
+<p>There are artists' files for circa 70 artists that contain a variety of materials, including price lists and biographies or resumes.  Artists files are found for Anne Arnold, James Brooks, Charles Cajori, Herman Cherry, Lois Dodd, Sally Hazelet Drummond, Perle Fine, Helen Frankenthaler, Sidney Geist, Philip Guston, Hans Hoffmann, Angelo Ippolito, Philip Pealstein, Alex Katz, William King, Robert Rauschenberg, Larry Rivers, Theordore Stamos, and Tom Wesselmann among many others.</p>  <p>The collection includes two scrapbooks containing mostly newsclippings and exhibition announcements, as well as additional loose newsclippings, numerous exhibition announcements and catalogs, and press releases.  There are five photographs of gallery openings and the exterior of the building, the latter taken by Rudy Burkhardt. </p> 
+
+
+</scopecontent>
+
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged as 7 series: </p>
+<list>
+<item>Series 1: Administrative Files, 1952-1979 (Boxes 1, 4; 0.5 linear feet)</item>
+<item>Series 2: Financial and Legal Records, 1952-1962 (Box 1; 0.5 linear feet)</item>
+<item>Series 3: Correspondence, 1952-1967 (Boxes 1-2; 0.3 linear feet)</item>
+<item>Series 4: Artists Files, circa 1952- circa 1962 (Box 2; 0.1 linear feet)</item>
+<item>Series 5: Scrapbooks, circa 1962 (Boxes 2-3; 0.3 linear feet)</item>
+<item>Series 6: Printed Material, 1952-1971 (Boxes 2, 4; 0.3 linear feet)</item>
+<item>Series 7: Photographs, circa 1952-circa 1959 (Box 2; 2 folders)</item>
+</list>
+</arrangement>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art galleries, Commercial--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Art, Abstract--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Art, Modern--20th century--New York (State)--New York</subject>
+</controlaccess>
+
+
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Diaries</genreform>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+<genreform encodinganalog="655" source="lcsh">Scrapbooks</genreform>
+<genreform encodinganalog="655" source="lcsh">Sketches</genreform>
+
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Arnold, Anne, 1925-</persname>
+<persname encodinganalog="700" source="lcsh">Brooks, James, 1906-</persname>
+<persname encodinganalog="700" source="lcsh">Burkhardt, Rudy</persname>
+<persname encodinganalog="700" source="lcsh">Cajori, Charles, 1921-</persname>
+<persname encodinganalog="700" source="lcsh">Cherry, Herman</persname>
+<persname encodinganalog="700" source="lcsh">Dodd, Lois, 1927-</persname>
+<persname encodinganalog="700" source="lcsh">Fine, Perle, 1908-1988</persname>
+<persname encodinganalog="700" source="lcsh">Frankenthaler, Helen, 1928-2011</persname>
+<persname encodinganalog="700" source="lcsh">Geist, Sidney</persname>
+<persname encodinganalog="700" source="lcsh">Guston, Philip, 1913-</persname>
+<persname encodinganalog="700" source="lcsh">Hazelet, Sally</persname>
+<persname encodinganalog="700" source="lcsh">Hofmann, Hans, 1880-1966</persname>
+<persname encodinganalog="700" source="lcsh">Ippolito, Angelo</persname>
+<persname encodinganalog="700" source="lcsh">Katz, Alex, 1927-</persname>
+<persname encodinganalog="700" source="lcsh">King, William, 1925-</persname>
+<persname encodinganalog="700" source="lcsh">Pearlstein, Philip, 1924-</persname>
+<persname encodinganalog="700" source="lcsh">Rauschenberg, Robert, 1925-2008</persname>
+<persname encodinganalog="700" source="lcsh">Rivers, Larry, 1925-2002</persname>
+<persname encodinganalog="700" source="lcsh">Stamos, Theodoros, 1922-1997</persname>
+<persname encodinganalog="700" source="lcsh">Wesselmann, Tom, 1931-2004</persname>
+
+</controlaccess>
+
+</controlaccess>
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Administrative Files, <unitdate>1952-1979</unitdate></unittitle>
+<physdesc> (Boxes 1, 4; 0.5 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found are four day books with notes describing the day-to-day administration of the gallery.  Some items were tucked into the day books and may include notes and receipts for services needed for the gallery's daily functions.  Also included are lists of artists and exhibitions held at the gallery, historical sketches, and address book, and the embosser of the seal of the Tanager Gallery.</p>
+
+
+</scopecontent>
+
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">1</container>
+<unittitle>Historical Sketches and Ephemera, <unitdate>1952-1979</unitdate></unittitle>
+<physdesc> (Oversized material housed in Box 4, F1)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">2</container>
+<unittitle>Lists of Artists and Exhibitions, <unitdate>circa 1950-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">3</container>
+<unittitle>Address Book, <unitdate>circa 1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">4</container>
+<unittitle>Day Book, <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">5</container>
+<unittitle>Day Book, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">6</container>
+<unittitle>Day Book, <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">7</container>
+<unittitle>Day Book, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder">1</container>
+<unittitle>Tanager Gallery Seal, <unitdate>1952</unitdate></unittitle>
+<physdesc> (Oversized material from Box 1, F1)</physdesc>
+</did></c02>
+
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 2: </unitid><unittitle>Financial and Legal records, <unitdate>1952-1962</unitdate></unittitle>
+<physdesc> (Box 1; 0.5 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found are account books, banking materials, certificates, materials relating to the closing of the gallery in 1962, invoices, two ledgers, loan materials, price lists, receipt books, and Department of Labor records.  The ledger books show expenses and income for Tanager Gallery exhibitions, organized by date and divided by exhibition.  Receipt books span December of 1959 to May of 1962 and record those works of art sold at the Tanager Gallery.  Researchers will find the artist, buyer, artwork details, and price.  </p>
+
+
+</scopecontent>
+
+
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">8</container>
+<unittitle>Account Book, <unitdate>1952-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">9-10</container>
+<unittitle>Banking Materials, <unitdate>1959, 1962</unitdate></unittitle>
+<physdesc> (2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">11</container>
+<unittitle>Cards, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">12</container>
+<unittitle>Certificates, <unitdate>1956-1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">13</container>
+<unittitle>Closing Materials, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">14</container>
+<unittitle>Insurance, <unitdate>1958-1963</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">15</container>
+<unittitle>Invoices, <unitdate>1957-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">16</container>
+<unittitle>Ledger Book, <unitdate>1956-1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">17</container>
+<unittitle>Ledger Book, <unitdate>1960-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">18</container>
+<unittitle>Loan Materials, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">19</container>
+<unittitle>Notes, Drafts of Expenses, <unitdate>1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">20</container>
+<unittitle>Post Office Materials, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">21</container>
+<unittitle>Price Lists, Group Shows, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">22</container>
+<unittitle>New York State Department of Labor Notices, <unitdate>1959-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">23</container>
+<unittitle>Receipt Books, <unitdate>1959 December-1960 October</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">24</container>
+<unittitle>Receipt Books, <unitdate>1960 October-1961 November</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">25</container>
+<unittitle>Receipt Books, <unitdate>1961 November-1962 March</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02><c02><did>
+<container type="box">1</container>
+<container type="folder">26</container>
+<unittitle>Receipt Books, <unitdate>1962 March-1962 May</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">27</container>
+<unittitle>Reconsignment, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">28</container>
+<unittitle>Rental Materials, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">29</container>
+<unittitle>Subpoena, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01>
+
+<c01 level="series">
+<did><unitid>Series 3: </unitid><unittitle>Correspondence, <unitdate>1952-1967</unitdate></unittitle>
+<physdesc> (Boxes 1-2; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Correspondence is scattered and arranged by date.  Many of the letters are copies of those sent by the Tanager Gallery to artists as invitations to exhibit as well as responses to incoming letters requesting information on artists and exhibitions.  There are some letters from museums and few from artists.  Much of the correspondence was written by Tanager's two secretaries, Perle Fine and Sally Hazelet Drummond.</p> 
+
+
+</scopecontent>
+
+
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder">31</container>
+<unittitle>Correspondence, <unitdate>1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">32</container>
+<unittitle>Correspondence, <unitdate>1953</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">33</container>
+<unittitle>Correspondence, <unitdate>1954</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">34</container>
+<unittitle>Correspondence, <unitdate>1955</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder">35</container>
+<unittitle>Correspondence, <unitdate>1956</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">1</container>
+<unittitle>Correspondence, <unitdate>1957</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">2</container>
+<unittitle>Correspondence, <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">3-4</container>
+<unittitle>Correspondence, <unitdate>1959</unitdate></unittitle>
+<physdesc> (2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">5</container>
+<unittitle>Correspondence, <unitdate>1960</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">6</container>
+<unittitle>Correspondence, <unitdate>1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">7</container>
+<unittitle>Correspondence, <unitdate>1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">8</container>
+<unittitle>Correspondence, <unitdate>1967</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">9</container>
+<unittitle>Correspondence, <unitdate>circa 1950s-1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+</c01><c01 level="series">
+<did><unitid>Series 4: </unitid><unittitle>Artists Files, <unitdate>circa 1952-circa 1962</unitdate></unittitle>
+<physdesc></physdesc></did>
+<scopecontent> 
+<p>Artists files are from about 70 artists and consist of price lists and some biographies or resumes.  Notable artists include:  Anne Arnold, James Brooks, Charles Cajori, Herman Cherry,  Lois Dodd, Sally Hazelet Drummond, Perle Fine, Helen Frankenthaler, Sidney Geist, Philip Guston, Hans Hoffmann, Angelo Ippolito, Alex Katz, William King, Robert Rauschenberg, Larry Rivers, and Tom Wesselmann among many others.  Also found is a folder of price lists relating to group exhibitions.  One folder of materials includes a pricelist and a handwritten biography for an unidentified artist(s).  Few of the materials are dated.  </p> 
+
+
+</scopecontent>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">10</container>
+<unittitle>A, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Adams, Pat</item>
+	<item>Anderson, Lennart</item>
+	<item>Andrea, Gerald</item>
+	<item>Arnold, Anne</item>
+	<item>Avery, Milton</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">11</container>
+<unittitle>B, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Bourgeois, Louise</item>
+	<item>Brooks, James</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">12</container>
+<unittitle>C, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Cajori, Charles</item>
+	<item>Campbell, Lawrence</item>
+	<item>Carone, Nicholas</item>
+	<item>Cherry, Herman</item>
+	<item>Cornell, Joseph</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">13</container>
+<unittitle>D, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Dodd, Lois</item>
+	<item>Drexler, Lynn</item>
+	<item>Drummond, Sally Hazelet</item>
+	<item>Dugmore, Edward</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">14</container>
+<unittitle>E, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Elias, Arthur</item>
+
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">15</container>
+<unittitle>F, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Ferren, John</item>
+	<item>Fine, Perle</item>
+	<item>Frankenthaler, Helen</item>
+	<item>Freilicher, Jane</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">16</container>
+<unittitle>G, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Geist, Sidney</item>
+	<item>Goldberg, Michael</item>
+	<item>Greene, Balcomb</item>
+	<item>Grillo, John</item>
+	<item>Groell, Theophil</item>
+	<item>Guston, Philip</item>
+</list>
+</p>
+</scopecontent></c02>
+
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">17</container>
+<unittitle>H, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Hazelet, Sally (See Sally Hazelet Drummond)</item>
+	<item>Heliker, John</item>
+	<item>Hoffmann, Hans</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">18</container>
+<unittitle>I, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Ippolito, Angelo</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">19</container>
+<unittitle>J, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Jensen, Alfred Julius</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">20</container>
+<unittitle>K, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Katz, Alex</item>
+	<item>Kienbusch, William</item>
+	<item>Kilstrom, Kenneth</item>
+	<item>King, William</item>
+	<item>Kohn, Gabriel</item>
+	<item>Kotin, Albert</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">21</container>
+<unittitle>L, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Laderman, Gabriel</item>
+	<item>Lassaw, Ibram</item>
+	<item>Leslie, Alfred</item>
+	<item>Loew, Michael</item>
+	<item>Lucks, Morton</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">22</container>
+<unittitle>M, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Marca-Relli</item>
+	<item>Marsicano, Nicholas</item>
+	<item>Matter, Mercedes</item>
+	<item>Matthiasdottir, Louisa</item>
+	<item>McLean, William</item>
+	<item>McNeil, George</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">23</container>
+<unittitle>N, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Nevelson, Louise</item>
+	<item>Noguchi, Isamu</item>
+
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">24</container>
+<unittitle>P, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Pace, Stephen</item>
+	<item>Park, Charlotte</item>
+	<item>Pearlstein, Philip</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">25</container>
+<unittitle>R, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Rauschenberg, Robert</item>
+	<item>Reinhardt, Ad</item>
+	<item>Resnick, Milton</item>
+	<item>Rivers, Larry</item>
+	<item>Rocklin, Raymond</item>
+	<item>Rose, Leatrice</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">26</container>
+<unittitle>S, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Schloss, Edith</item>
+	<item>Sirugo, Salvatore</item>
+	<item>Solomon, Hyde</item>
+	<item>Spillenger, Ray</item>
+	<item>Stamos, Theodoros</item>
+	<item>Stout, Francis</item>
+</list>
+</p>
+</scopecontent></c02>
+
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">27</container>
+<unittitle>T, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Trajan</item>
+
+</list>
+</p>
+</scopecontent></c02>
+<c02><did>
+<container type="box">2  </container>
+<container type="folder">28</container>
+<unittitle>V, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Vicente, Esteban</item>
+
+</list>
+</p>
+</scopecontent></c02><c02><did>
+<container type="box">2  </container>
+<container type="folder">29</container>
+<unittitle>W, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Wesselmann, Tom</item>
+
+</list>
+</p>
+</scopecontent></c02><c02><did>
+<container type="box">2  </container>
+<container type="folder">30</container>
+<unittitle>Y, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Yektai, M.</item>
+
+</list>
+</p>
+</scopecontent></c02><c02><did>
+<container type="box">2  </container>
+<container type="folder">31</container>
+<unittitle>Group Shows, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>"Founding 5"</item>
+<item>"Christmas Group Show"</item>
+<item>"Christmas Show" (1960)</item>
+<item>"Group Show" (1960)</item>
+<item>"Members Group Show"</item>
+<item>"Small Paintings"</item>
+<item>"Private Myths"</item>
+<item>"Summer Group Show"</item>
+<item>"Tenth Street 1952"</item>
+<item>"Three-man Show" (1961)"</item>
+
+</list>
+</p>
+</scopecontent></c02><c02><did>
+<container type="box">2  </container>
+<container type="folder">32</container>
+<unittitle>Unidentified Artists, <unitdate>circa 1952- circa 1962</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01>
+<c01 level="series">
+<did><unitid>Series 5: </unitid><unittitle>Scrapbooks, <unitdate>circa 1962</unitdate></unittitle>
+<physdesc> (Boxes 2-3; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found are two scrapbooks of news clippings and articles about the Tanager Gallery and some exhibition announcements.  Also included is a small folder of loose exhibition announcements that had been tucked into the scrapbook.</p> 
+
+
+
+</scopecontent>
+
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">33</container>
+<unittitle>Scrapbooks and Loose Materials, <unitdate></unitdate>circa 1962</unittitle>
+<physdesc> (Oversized materials housed in Box 3)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder">1</container>
+<unittitle>Oversized Scrapbook, <unitdate>circa 1962</unitdate></unittitle>
+<physdesc> (From Box 2, F33)</physdesc>
+</did></c02>
+
+</c01><c01 level="series">
+<did><unitid>Series 6: </unitid><unittitle>Printed Material, <unitdate>1952-1971</unitdate></unittitle>
+<physdesc> (Boxes 2, 4; 0.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Found are clippings, blank stationery, many exhibition announcements from the Tanager Gallery and some from other galleries, two exhibition catalogs from Tanager, lists, and press releases including drafts.</p> 
+
+
+</scopecontent>
+
+<arrangement> 
+<p></p> 
+</arrangement>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">34</container>
+<unittitle>Blank Stationery, <unitdate>circa 1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">35-37</container>
+<unittitle>Clippings, <unitdate>1956-1973</unitdate></unittitle>
+<physdesc> (3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">38-40</container>
+<unittitle>Exhibition Announcements, Tanager Gallery, <unitdate>1952-1962</unitdate></unittitle>
+<physdesc> (3 folders; Oversized materials housed in Box 4, F2)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">41-42</container>
+<unittitle>Exhibition Announcements, Other Galleries, <unitdate>1962-1971</unitdate></unittitle>
+<physdesc> (2 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">43</container>
+<unittitle>Exhibition Catalogs, Tanager Gallery, <unitdate>1956-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">44</container>
+<unittitle>Exhibition Catalogs, Markups and Drafts, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">45</container>
+<unittitle>Journals, <unitdate>1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">46</container>
+<unittitle>List of Exhibitions, <unitdate>1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">47</container>
+<unittitle>Publicity Materials from Museums, <unitdate>1960-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">48-50</container>
+<unittitle>Press Releases, <unitdate>1952-1959</unitdate></unittitle>
+<physdesc> (3 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">51</container>
+<unittitle>Press Releases, Drafts, <unitdate>1953-1959</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">52</container>
+<unittitle>Press Releases, Not Tanager, <unitdate>1958</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+</c01><c01 level="series">
+<did><unitid>Series 7: </unitid><unittitle>Photographs, <unitdate>circa 1952- circa 1959</unitdate></unittitle>
+<physdesc> (Box 2; 2 folders)</physdesc></did>
+<scopecontent> 
+<p>Found are five photographs, four from gallery openings and one of the exterior of the gallery taken by Rudy Burkhardt.</p> 
+
+
+</scopecontent>
+
+<arrangement> 
+<p></p> 
+</arrangement>
+
+<c02><did>
+<container type="box">2</container>
+<container type="folder">53</container>
+<unittitle>of Gallery Openings, <unitdate>circa 1952</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Asher, Elise</item>
+	<item>Bond, Nina</item>
+<item>Berger, Anita</item>
+<item>Dodd, Lois</item>
+<item>Groot, Nanno de</item>
+<item>Sarolea, Ann</item>
+</list>
+</p>
+</scopecontent></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder">54</container>
+<unittitle>of Exterior of Gallery by Rudy Burckhardt, <unitdate>circa 1950s</unitdate></unittitle>
+<physdesc></physdesc>
+</did><scopecontent>	<p><list>
+	<item>Dodd, Lois</item>
+	<item>Drummond, Sally Hazelet</item>
+<item>Katz, Alex</item>
+	<item>Sandler, Lucy</item>
+	<item>Bond, Nina</item>
+</list>
+</p>
+</scopecontent></c02>
+</c01>
+</dsc>
+</archdesc>
+</ead>
+
+

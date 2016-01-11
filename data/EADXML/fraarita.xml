@@ -1,0 +1,1333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/fraarita.xml">fraarita</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Rita and Daniel Fraad</titleproper>
+		<subtitle>A Finding Aid to the Rita and Daniel Fraad Papers, <date type="inclusive">1926-1997, </date> <date type="bulk"></date> in the Archives of American Art</subtitle>
+		<author>by Carla De Luise</author>
+		
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">January 2007</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Carla De Luise on
+<date>January 22, 2007</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Fraad, Rita</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Rita and Daniel Fraad papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1926-1997</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">3.3 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The papers of art collectors Rita and Daniel Fraad measure 3.3 linear feet and date from 1926 to 1997.  The collection consists of art documentation files that reflect their American art collecting activities. Found in the files are any combination of the following materials: correspondence, sales receipts, treatment reports and photographs, loan agreements, facilities reports, exhibition and auction catalogs, clippings, photographs, transparencies, and slides. </abstract>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Rita (1915-2004) and Daniel Fraad (1912-1987) were American art collectors in New York, New York.</p>
+<p>Rita (née Ritch) and Daniel Fraad were born in Brooklyn, New York, and met in their youth. Daniel graduated in 1935 from Brown University with a B.A. in biology and Rita graduated from Smith College in 1937 with a degree in political science.  In 1938, Daniel joined Allied Maintenance Corporation (later Ogden Maintenance Corporation), a maintenance and cleaning services company started by his father in 1888. In the same year that Daniel joined the family business, Rita and Daniel were married.  The couple eventually settled in Scarsdale, New York.</p>
+<p>Rita and Daniel Fraad actively supported art institutions such as the Brooklyn Museum of Art, Metropolitan Museum of Art, National Academy of Design, and the Whitney Museum of American Art, among others. In 1965, the couple became members of the Archives of American Art and in 1989 Rita joined the Board of Trustees.  She also sat on the Visiting Committee on American Art and Sculpture for the Metropolitan Museum of Art and was a member of the American Art Forum of the Smithsonian American Art Museum (SAAM). Rita was a SAAM commissioner for twelve years, and served as chair of the Collections Committee.</p>
+<p>Over the years, Rita and Daniel Fraad amassed a museum-quality collection of American art which included works from George Bellows, William Merritt Chase, Thomas Cole, Jasper Cropsey, Arthur Davies, Charles Demuth, Marsden Hartley, Robert Henri, Winslow Homer, Edward Hopper, George Luks, Maurice Prendergast, John Singer Sargent, Everett Shinn, John Sloan, Joseph Stella, and James Whistler. In 1964, the Brooklyn Museum of Art, New York, organized an exhibition of the Fraad collection which traveled to the Addison Gallery of American Art, Phillips Academy in Andover, Massachusetts. In 1985, the Amon Carter Museum, Fort Worth, Texas also presented an exhibition of the Fraad collection.</p>
+<p>Daniel Fraad died in 1987 and Rita passed away in 2004. In December 2004, the Fraad collection was auctioned at Sotheby's and raised over sixty five million dollars. The sale broke auction records; the amount was the highest total for any single owner's collection.</p>
+<!-- add additional <p></p> tags as necessary -->
+
+<!-- Delete the above, beginning with <chronlist> and ending with </chronlist> if the bioghist is text only: -->
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of art collectors Rita and Daniel Fraad measure 3.3 linear feet and date from 1926 to 1997.  The collection consists of art documentation files that reflect their American art collecting activities. Found in the files are any combination of the following materials: correspondence, sales receipts, treatment reports and photographs, loan agreements, facilities reports, exhibition and auction catalogs, clippings, photographs, transparencies, and slides.</p>
+<!-- add additional <p></p> tags as necessary -->
+</scopecontent>
+<arrangement encodinganalog="351$b" id="a5">
+<head>Arrangement</head>
+<p>The collection is arranged into 1 series: </p>
+<list>
+<item>Series 1: Artwork Documentation Files, 1926-1997, undated (Boxes 1-4; 3.3 linear feet)</item>
+</list>
+</arrangement>
+
+
+<!-- use odd for appendixes -->
+
+<controlaccess id="a12">
+<head>Names and Subject Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following terms: </p>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Art--Collectors and collecting--New York (State)--New York</subject>
+<subject encodinganalog="650" source="lcsh">Art, American</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+</controlaccess>
+
+<controlaccess>
+<head>Names:</head>
+<persname encodinganalog="700" source="lcsh">Fraad, Daniel</persname>
+</controlaccess>
+
+</controlaccess>
+
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The papers were donated in 2005 by Rita and Daniel Fraad via Jurate Nemickas, Fiduciary Administrator for the estate of Rita and Daniel Fraad.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. </p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Rita and Daniel Fraad papers are owned by the Archives of American Art, Smithsonian Institution. Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship. The collection is subject to all copyright laws.</p>
+</userestrict>
+
+
+
+
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Rita and Daniel Fraad papers, 1926-1997. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The collection was processed by Carla De Luise in 2007.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+
+<!-- use this format if you have series only, no subseries -->
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Artwork Documentation Files<unitdate>1926-1997, undated</unitdate></unittitle>
+<physdesc>(Boxes 1-4; 3.3 linear feet)</physdesc></did>
+<scopecontent> 
+<p>Artwork documentation files contain any combination of the following materials: correspondence, sales receipts, condition reports and photographs, loan agreements, facilities reports, exhibition and auction catalogs, clippings and magazine articles, photographs, transparencies, and slides. </p> 
+<p>Files are arranged alphabetically by artist and by date of artwork. A file containing miscellaneous correspondence is located at the beginning of the series. </p> 
+</scopecontent>
+
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Miscellaneous Correspondence, 
+<unitdate>1971-1986, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Anshutz, Thomas, <emph render="italic">Two Boys and a Boat</emph> (1894), 1963-1985, undated<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Ault, George C., <emph render="italic">Chimneys</emph> (1936), <unitdate>1962-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Bellows, George<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Kids</emph> (1906), <unitdate>1964-1995, undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">The Knock Out</emph> (1907), <unitdate>1976-1995, undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Shore House</emph> (1911), <unitdate>1942-1943, 1972-1995, undated</unitdate></unittitle></did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Punching Tom and Pinching Mildred, The Embodiment of Good Nature</emph> (1912), <unitdate>1976-1977, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Artists Judging Works of Art</emph> (1916), <unitdate>1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Between Rounds, No. 1, Large </emph> (1916), <unitdate>1968, 1981, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">In the Park </emph>(1916), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Introducing the Champion, No.1 </emph>(1916), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Introducing John L. Sullivan </emph>(1916), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Preliminaries to the Big Bout </emph>(1916), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Study of Arms </emph>(1916), <unitdate>1981-1983, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Training Quarters (Willard in Training) </emph>(1916), <unitdate>1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">The Sawdust Trail </emph>(1917), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Stag at Sharkey's </emph>(1917), <unitdate>1972, 1992</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">The Studio </emph>(1919), <unitdate></unitdate>1985-1995, undated</unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Study of Mabel </emph>(1919), <unitdate>1961-1965, 1984-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Tennis at Newport </emph>(1920), <unitdate>1968, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Counted Out, No. 1 </emph>(1921), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Counted Out, No. 2 </emph>(1921), <unitdate>1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Incident of the Ring-A Knock Out </emph>(1921), <unitdate>1961, 1975-1976</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Indoor Athlete No. 1 </emph>(1921), <unitdate>1971, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Indoor Athlete No. 2 </emph>(1921), <unitdate>1975-1983, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Introducing the Champion, No. 2 </emph>(1921), <unitdate>1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Introducing Georges Carpentier </emph>(1921), <unitdate>1968, 1974</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Marjorie, Emma, and Elsie </emph>(1921), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Old Billiard Player </emph>(1921), <unitdate>1971</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Pool Player </emph>(1921), <unitdate>1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">The White Hope </emph>(1921),<unitdate> 1969</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Between Rounds, No. 2, Small </emph>(1923), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Dempsey and Firpo </emph>(1924), <unitdate>1970</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Dempsey Through the Ropes </emph>(1924), <unitdate>1975</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Jean in a Black Hat </emph>(1924), <unitdate>1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Nude Study, Girl Standing on One Foot </emph>(1924),<unitdate> 1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Bishop, Isabel, <emph render="italic">Man Resting</emph> (1902), <unitdate>1962-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Blume, Peter, <emph render="italic">Timor II</emph> (1954), <unitdate>1954-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Bradford, William<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Fishing Among the Icebergs </emph>(undated), <unitdate>1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Fishing Shacks Beneath Cliffs </emph>(undated), <unitdate>1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Buechner, Thomas S., <emph render="italic">Mintz Chicken Coop</emph> (1982), <unitdate>1983, 1985</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Bunker, Dennis M., <emph render="italic">The Station</emph> (circa 1888), <unitdate>1964-1996, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Burchfield, Charles, <emph render="italic">Wild Geese and Poplars</emph> (1956), <unitdate>1958, 1969, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Chase, William Merritt<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Landscape, Shinnecock Hills </emph>(circa 1989-1900), <unitdate>1962-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+<c03><did>
+<container type="box">1</container>
+<unittitle><emph render="italic">Multiple Portraits </emph>(undated), <unitdate>1972-1979, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03>
+</c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Cole, Thomas<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Cedar Tree </emph>(1827), <unitdate>1961-1962, 1988, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Study of a Tree </emph>(1827), <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Study of a Tree </emph>(1827), <unitdate>1964</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Coleman, Glenn O., <emph render="italic">Footlights</emph> (undated), <unitdate>1963-1965, 1975, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Cropsey, Jasper F., <emph render="italic">View from Nemi</emph> (undated), <unitdate>1962-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Davies, Arthur B., <emph render="italic">Nude in Landscape</emph> (circa 1905-1910), <unitdate>1962-1969, 1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Demuth, Charles, <emph render="italic">Pepper and Tomatoes</emph> (circa 1927-1928), <unitdate>1957-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Dinnerstein, Harvey, <emph render="italic">Brownstone Doorway</emph> (undated), <unitdate>1963-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>DuBois, Guy Pène, <emph render="italic">Paris Railroad Station</emph> (1925), <unitdate>1966, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Duveneck, Frank, <emph render="italic">Portrait of Emil Carlsen</emph> (1884), <unitdate>1959-1964, 1985-1988, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Eakins, Thomas, <emph render="italic">Study for Miss Emily Sartain</emph> (circa 1890-1895), <unitdate>1957-1992, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Glackens, William<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Yellow Bath House and Sailboats </emph>(1916), <unitdate>1949, 1962-1964, 1985-1990, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Untitled </emph>(undated), <unitdate>1958-1965, 1984-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Graves, Morris <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Crane </emph>(1954), <unitdate>1958-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Mountain Flowers </emph>(1957), <unitdate>1972</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Hale, Philip Leslie, <emph render="italic">Study for Self Portrait</emph> (M.F.A. Boston; undated), <unitdate>1966, 1968</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<unittitle>Hart, George, <emph render="italic">Theatre Interior</emph> (undated), <unitdate>1961-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Hartley, Marsden <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Storm Wave </emph>(circa 1939-1940), <unitdate>1955-1996, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Rocky Landscape, Dogtown Mass. </emph>(circa 1940), <unitdate>1957-1988, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Hassam, Childe, <emph render="italic">Easthampton </emph>(1916), <unitdate>1962, 1964, 1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Hawthorne, Charles <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Little Dora </emph>(1915), <unitdate>1957-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">The Morning Coffee </emph>(1918), <unitdate>1952-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle>Henri, Robert <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Nursemaids </emph>(1898), <unitdate>1967-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Cumulus Clouds-East River </emph>(circa 1901-1902), <unitdate>1958-1995, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">1</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Sylvester-Smiling </emph>(1914), <unitdate>1961-1995, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Henri, Robert <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Sketchers in the Woods </emph>(circa 1918), <unitdate>1958-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Concarneau </emph>(undated), <unitdate>1964-1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Peasant Girl </emph>(undated), <unitdate>1961, 1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Herschensohn, Arthur, <emph render="italic">The Lamplighter </emph>(1964), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Hirsch, Genevieve <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Untitled </emph>(1950), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Untitled </emph>(1955), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Hirsch, Joseph <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Eight Lithographs (1945, 1946, 1963, 1967, 1969), <unitdate>1970, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Death of a Salesman </emph>(1948), <unitdate>1961, 1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Inter-Office Souvenir Memo </emph>(1955), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Portrait of a Certain Tree </emph>(1955), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Portrait of Daniel Fraad Jr. </emph>(1955), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Portrait of Two Mud Trout </emph>(1955), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">To the Big Man in the Little White Boat </emph>(1955), <unitdate>1964, 1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">A View from the Bridge </emph>(1955), <unitdate>1961, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Smoking Fish </emph>(circa 1956-1957), <unitdate>1957-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Soup </emph>(circa 1957), <unitdate>1957-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Soft and Low </emph>(1965), <unitdate>1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Rita at Work </emph>(undated), <unitdate>1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Homer, Winslow<emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Green Apples </emph>(1866), <unitdate>1962-1966, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Spring </emph>(1878), <unitdate>1945, 1966-1997, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Sand and Sky </emph>(1887), <unitdate>1962-1964, 1983-1984, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Prout's Neck in Winter </emph>(1892), <unitdate>1956-1991, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Hopper, Edward<emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Man with Stick and Package </emph>(1901), <unitdate>1972-1985, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Houses on the Beach-Gloucester </emph>(1923), <unitdate>1956-1989, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Howes, John Townsend, <emph render="italic">Chimney Top Study </emph>(1892), <unitdate>1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Inness, George, <emph render="italic">Barberini, Italy </emph>(circa 1871-1874), <unitdate>1965-1978, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Johnson, David <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Landscape </emph>(undated), <unitdate>1968, 1979, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Landscape </emph>(undated),<unitdate> 1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Johnson, Eastman <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Head of a Woman </emph>(circa 1849), <unitdate>1940-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Studies of Children </emph>(undated), <unitdate>1961-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Kamm, Richard, <emph render="italic">Mother and Child </emph>(undated), <unitdate>1962, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Kensett, John Frederick, <emph render="italic">North Conway, 1851 </emph>(1851), <unitdate>1961-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Kuniyoski, Yasuo, <emph render="italic">Fisherman </emph>(1921), <unitdate>1963-1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>LaFarge, John<unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Pines in Snow </emph>(circa 1870s), <unitdate>1963-1964, 1986, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">A Taupo and her Duenna Awaiting the Approach of a Young Chief </emph>(1891), <unitdate>1966-1991, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Lawson, Ernest, <emph render="italic">Horses Grazing by a Stream </emph>(1910-1920), <unitdate>1962-1984, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Levine, Jack, <emph render="italic">Inauguration II </emph>(1958), <unitdate>1958-1990, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Luks, George <emph render="italic"></emph><unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Cabby (New York Cabby) </emph>(1921), <unitdate>1959-1986, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Old Schoolhouse, Ryders </emph>(1929), <unitdate>1957-1971, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Marsh, Reginald, <emph render="italic">Railroad Yard </emph>(1929), <unitdate>1968-1969, 1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>McDermott, <emph render="italic">Untitled </emph>(undated), <unitdate>1961-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Melchers, Gari, <emph render="italic">Portrait of Mrs. George Hitchcock </emph> (undated), <unitdate>1972-1993, undated </unitdate></unittitle>
+<physdesc>(2 folders; oversized items housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Metcalf, Willard L., <emph render="italic">The Little White House </emph>(1919), <unitdate>1963, 1965, 1984, 1995, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Meyers, Jerome, <emph render="italic">Paris Tuilleries </emph>(undated), <unitdate>1961-1967, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Mora, F. Luis <emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Child Seated at Play </emph>(undated), <unitdate>1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">On the Shores of the Housatonic </emph>(undated), <unitdate>1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Murphy, J.F., <emph render="italic">The Fence (Elizabeth, N.J.) </emph>(1879), <unitdate>1962, 1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Noble, John, <emph render="italic">Cutting the Hay, Lake George </emph>(undated), <unitdate>1963-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Palmer, William, <emph render="italic">Patterns of Fertility </emph>(1957), <unitdate>1957-1982, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Peto, John F., <emph render="italic">Library Table </emph>(undated), <unitdate>1972-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Potthast, Edward Henry <emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Beach Scene </emph>(circa 1915-1920), <unitdate>1962-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">A Summer's Night </emph>(circa 1920-1925), <unitdate>1962-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Theatre Scene </emph>(undated), <unitdate>1967-1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">2</container>
+<container type="folder"></container>
+<unittitle>Prendergast, Charles, <emph render="italic">Still Life Panel </emph>(1936), <unitdate>1963-1987, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Prendergast, Maurice<emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Venice </emph>(1898), <unitdate>1963-1989, undated  </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Siena </emph>(1900), <unitdate>1962-1992, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Circus Band </emph>(circa 1902), <unitdate>1963-1997, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">The Fountain </emph>(1909),  <unitdate>1926, 1962-1992, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Marblehead Rocks </emph>(1915), <unitdate>1963-1990, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Robinson, Theodore<emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">The Red Gown </emph>(1885), <unitdate>1965-1988, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Drawbridge-Long Branch Rail Road </emph>(1894), <unitdate>1962-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Russell, John, <emph render="italic">Sleeping Man </emph>(1953), <unitdate></unitdate>1961, 1964, undated </unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Ryder, Albert Pinkham, <emph render="italic">Landscape </emph>(undated), <unitdate>1955-1991, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Sargent, John Singer<emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Venetian Street </emph>(circa 1880-1882), <unitdate>1964-1993, undated </unitdate></unittitle>
+<physdesc>(2 folders)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Studies for Venetian Street Scenes </emph>(1882), <unitdate>1971, 1983, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Group with Parasols </emph>(circa 1903-1911), <unitdate>1961-1994, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">A Spanish Barracks </emph>(1906), <unitdate>1963-1967, 1984-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Sarka, Charles, <emph render="italic">Young Boy by a Banana Tree </emph>(1903), <unitdate>1963-1967, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Shahn, Ben, <emph render="italic">Delinquents </emph>(undated), <unitdate>1964, 1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Sheeler, Charles, <emph render="italic">Shaker Barns </emph>(1945), <unitdate>1962, 1964, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Shinn, Everett<emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Stage Scene </emph>(1906), <unitdate>1963-1964, 1989, 1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Out of a Job-News of the Unemployed </emph>(1908), <unitdate>1964-1985, undated </unitdate></unittitle>
+<physdesc>(Oversized items housed in Box 4)</physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Shirlaw, Walter, <emph render="italic">Weimaraner Sleeping </emph>(undated), <unitdate>1965, 1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Sloan, John<emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Gray Day, Jersey Coast </emph>(1911), <unitdate>1962-1964, 1983-1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Woman on Couch </emph>(1912), <unitdate>1961-1965</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle><emph render="italic"> The Black Hat </emph>(1915), <unitdate>1962-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Speicher, Eugene, <emph render="italic">Woman's Head </emph>(undated), <unitdate>1964, 1967, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Stella, Joseph, <emph render="italic">Pittsburgh Winter </emph>(1908), <unitdate>1963-1994, undated </unitdate></unittitle>
+<physdesc>(2 folders; Oversized items housed in Box 4)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Sully, Thomas, <emph render="italic">Lady Seated at Writing Table </emph>(undated), <unitdate>1964-1965, 1979, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Thomason, R.S., <emph render="italic">Untitled </emph>(undated), <unitdate>1968, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Tonnicliffe, Charles F., R.A., Multiple Prints (undated), <unitdate>1986, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Twachtman, John Henry, <emph render="italic">Gloucester, Fishermen's House </emph>(1900), <unitdate>1967-1968, 1984-1987, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Waldo, Samuel Lovett, <emph render="italic">Portrait of a Gentleman </emph>(undated), <unitdate>1964, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Webster, Herman, <emph render="italic">Fishing on the Pier </emph>(1878), <unitdate>1964-1965, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Wending, Erwin, <emph render="italic">Flowerpiece </emph>(undated), <unitdate>1961-1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>West, Benjamin, <emph render="italic">St. Paul following the Viper into the Fire </emph>(undated), <unitdate>1962-1971, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Whistler, James M., <emph render="italic">Seated Girl </emph>(1864), <unitdate>1963-1984, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">3</container>
+<container type="folder"></container>
+<unittitle>Whittredge, Worthington, <emph render="italic">Castel Gondolfo </emph>(1857), <unitdate>1967-1968, undated </unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Coleman, Glenn O., <emph render="italic">Footlights </emph>(undated), <unitdate>1963-1965, 1975, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Homer, Winslow <emph render="italic"></emph> <unitdate></unitdate></unittitle>
+<physdesc></physdesc>
+</did>
+<c03><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Sand and Sky </emph>(1887), <unitdate>1962-1964, 1983-1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+<c03><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle><emph render="italic">Spring </emph>(1878), <unitdate>1945, 1966-1997, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c03> 
+</c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Lawson, Ernest, <emph render="italic">Horses Grazing by a Stream </emph>(1910-1920), <unitdate> 1962-1984, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Melchers, Gari, <emph render="italic">Portrait of Mrs. George Hitchcock </emph>(undated), <unitdate>1972-1993, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Sargent, John Singer, <emph render="italic">Group with Parasols </emph>(circa 1903-1911), <unitdate>1961-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Sheeler, Charles, <emph render="italic">Shaker Barns </emph>(1945), <unitdate>1962, 1964, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Shinn, Everett, <emph render="italic">Out of a Job-News of the Unemployed</emph> (1908), <unitdate>1964-1985, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">4</container>
+<container type="folder"></container>
+<unittitle>Stella, Joseph, <emph render="italic">Pittsburgh Winter </emph>(1908), <unitdate>1963-1994, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+
+
+
+</c01>
+
+
+
+
+
+<!-- use this format if you have series and subseries -->
+
+
+
+<!-- use this format if you have series, subseries and sub-subseries -->
+
+
+
+</dsc>
+
+
+
+
+
+
+
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
+

@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ead PUBLIC "+//ISBN 1-931666-00-8//DTD ead.dtd (Encoded Archival Description (EAD) Version 2002)//EN" "/eadcb/shared/ead/ead.dtd">
+
+<ead audience="external" relatedencoding="MARC21">
+<eadheader langencoding="iso639-2b" audience="internal" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924">
+<eadid mainagencycode="DSI-AAA" countrycode="us" url="http://www.aaa.si.edu/collections/findingaids/xml/bodipaul.xml">bodipaul</eadid>
+
+<filedesc>
+	<titlestmt>
+		<titleproper>Paul Bodin</titleproper>
+		<subtitle>A Finding Aid to the Paul Bodin Papers, <date type="inclusive">1932-1981</date>, in the Archives of American Art</subtitle>
+		<author>by Jean Fitzgerald</author>
+	</titlestmt>
+<publicationstmt>
+	<publisher>Archives of American Art, Smithsonian Institution</publisher>
+	<date type="publication">November 2005</date>
+</publicationstmt>
+</filedesc>
+
+<profiledesc>
+<creation>Finding aid encoded by Stephanie Ashley on
+<date>April 25, 2006</date>
+</creation>
+<langusage><language>English</language></langusage>
+</profiledesc>
+</eadheader>
+
+<archdesc level="collection" type="inventory">
+<did>
+	<head>Collection Overview</head>
+	<repository label="Repository:" encodinganalog="852$a">
+		<corpname>Archives of American Art, Smithsonian Institution</corpname>
+	</repository>
+
+	<origination label="Creator:">
+		<persname encodinganalog="100">Paul Bodin</persname>
+	</origination>
+
+	<unittitle label="Title:" encodinganalog="245$a">Paul Bodin papers</unittitle>
+
+	<unitdate label="Dates:" encodinganalog="245$f">1932-1981</unitdate>
+
+	<physdesc label="Quantity:" encodinganalog="300$a">0.2 linear feet</physdesc>
+
+	<abstract encodinganalog="520$a" label="Abstract:">The collection measures 0.2 linear feet, dates from 1932 to 1981 (bulk dates 1932-1963), and primarily documents the friendship of painter Paul Bodin with abstract expressionist painter Adolph Gottlieb.  Found within the papers are letters from Gottlieb; printed material; and photographs of Bodin’s art work.</abstract>
+
+	<langmaterial>The records are in <language>English</language>.
+	</langmaterial>
+</did>
+
+
+
+<!-- TOP LEVEL METADATA GO HERE: -->
+
+
+<bioghist altrender="biography" encodinganalog="545" id="a2">
+<head>Biographical Note</head>
+<p>Paul Bodin was born in New York City on October 30, 1910.  He studied first at the National Academy of Design, but transferred to the Art Students League in 1928, briefly studying under Boardman Robinson.</p>
+
+<p>During the 1930s and early 1940s, Bodin was part of a circle of artists that included Milton Avery, Mark Rothko, and Adolph Gottlieb, who worked in New York City, and Gloucester and Provincetown, Massachusetts.  During the Depression, Bodin worked with the WPA Federal Arts Project, completing many paintings of tenement interiors, portraits of family members, and self-portraits.  His first solo exhibition was in 1936.</p>
+
+<p>He made his first abstract paintings in 1945 and exhibited regularly in Manhattan until the early 1960s.</p>
+
+<p>Paul Bodin died on February 15, 1994.</p>
+</bioghist>
+
+<scopecontent encodinganalog="520" id="a3">
+<head>Scope and Content Note</head>
+<p>The papers of painter Paul Bodin measure 0.2 linear feet and date from 1932-1981 (bulk dates 1932-1963).  Found within the papers are letters from Bodin's mentor, abstract expressionist Adolph Gottlieb.  These letters document Bodin's long friendship with Gottlieb and provide details about Gottlieb's activities and interests.  There is one letter from Gottlieb's wife, Esther. Also found with the papers are a clipping, exhibition announcements for Bodin, and photographs of Bodin's art work.</p>
+</scopecontent>
+
+<!-- END TOP LEVEL METADATA -->
+
+<!-- CONTROLLED ACCESS TERMS GO HERE: -->
+
+
+<controlaccess id="a12">
+<head>Index Terms</head>
+<p>This collection is indexed in the online catalog of the Archives of American Art under the following index terms. People, families and organizations are listed under "Subjects" when they are the topic of collection contents and under "Names" when they are creators or contributors.</p>
+<controlaccess>
+<head>Subjects:</head>
+<persname encodinganalog="600" source="lcsh">Gottlieb, Adolph, 1903-1974</persname>
+<persname encodinganalog="600" source="lcsh">Gottlieb, Esther Dick</persname>
+
+</controlaccess>
+
+<controlaccess>
+<head>Subjects-Topical:</head>
+<subject encodinganalog="650" source="lcsh">Painters -- New York (State) -- New York</subject>
+<subject encodinganalog="650" source="lcsh">Abstract expressionism</subject>
+</controlaccess>
+
+<controlaccess>
+<head>Types of Materials:</head>
+<genreform encodinganalog="655" source="lcsh">Photographs</genreform>
+</controlaccess>
+
+
+</controlaccess>
+
+
+
+
+
+
+
+<!-- END CONTROLLED ACCESS TERMS -->
+
+<!-- ADMINISTRATIVE INFORMATION GOES HERE: -->
+
+<acqinfo encodinganalog="541" id="a19">
+<head>Provenance</head>
+<p>The Paul Bodin papers were donated in 1993 by Paul Bodin and Aaron Bodin, the artist's son.</p>
+</acqinfo>
+
+<accessrestrict id="a14" encodinganalog="506">
+<head>Restrictions on Access</head>
+<p>The collection is open for research. Use requires an appointment.</p>
+</accessrestrict>
+
+<userestrict encodinganalog="540" id="a15">
+<head>Ownership and Literary Rights</head>
+<p>The Paul Bodin papers are owned by the Archives of American Art, Smithsonian Institution.  Literary rights as possessed by the donor have been dedicated to public use for research, study, and scholarship.  The collection is subject to all copyright laws.</p>
+</userestrict>
+
+<prefercite encodinganalog="510" id="a18">
+<head>Preferred Citation</head>
+<p>Paul Bodin papers, 1932-1981. Archives of American Art, Smithsonian Institution.</p>
+</prefercite>
+
+<processinfo encodinganalog="583" id="a20">
+<head>Processing Information</head>
+<p>The papers were processed in November 2005 by Jean Fitzgerald.</p>
+</processinfo>
+
+
+<!-- END ADMINISTRATIVE INFORMATION -->
+
+
+<!-- START DESCRIPTION OF SUBORDINATE COMPONENTS-->
+
+
+<dsc type="combined" id="a23">
+<head>Series Descriptions/Container Listing</head>
+<c01 level="series">
+<did><unitid>Series 1: </unitid><unittitle>Paul Bodin Papers, <unitdate>1932-1981, undated</unitdate></unittitle>
+<physdesc>(Box 1; 23 folders)</physdesc></did>
+<c02><did>
+<container type="box">1 (pam)</container>
+<unittitle>Letters from Adolph and Esther Gottlieb, <unitdate>1932-1981, undated</unitdate></unittitle>
+<physdesc>(20 folders)</physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1 (pam)</container>
+<unittitle>Clipping about Bodin, <unitdate>1949</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1 (pam)</container>
+<unittitle>Exhibition Announcements for Bodin, <unitdate>1958-1961</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>
+<c02><did>
+<container type="box">1 (pam)</container>
+<unittitle>Photographs of Artwork by Bodin, <unitdate>1952-1955, undated</unitdate></unittitle>
+<physdesc></physdesc>
+</did></c02>		
+</c01>
+
+</dsc>
+
+
+<!-- END DESCRIPTION OF SUBORDINATE COMPONENTS-->
+</archdesc>
+</ead>
+
