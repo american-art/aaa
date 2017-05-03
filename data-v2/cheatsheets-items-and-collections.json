@@ -1,0 +1,118 @@
+/* Sources for data are entered below as "variables" in the JSON context, preceded by a $; the first part indicates the sheet, the second part indicates the column */
+
+{
+  "@context": "https://linked.art/ns/context/1/full.jsonld", 
+  "id": "https://linked.art/example/object/19", 
+  "type": "ManMadeObject", 
+  "label": "$Item:TITLE", 
+  "description": "$Item:DESCRIPTION", 
+  /* Item Record ID */
+  "identified_by": {
+      "id": "https://linked.art/example/identifier/3", 
+      "type": "Identifier", 
+      "label": "Local Database Item ID Number", 
+      "value": "$Item:ITEMID", 
+      "classified_as": "aat:300404626"
+  },
+  /* Titles */
+  "title": [
+    {
+      "id": "https://linked.art/example/Title/1", 
+      "type": "Title", 
+      "value": "$Item:$TITLE, Item:DISPLAYDATE", 
+      "classified_as": "aat:300404670"
+    }, 
+    {
+      "id": "https://linked.art/example/Title/2", 
+      "type": "Title", 
+      "value": "$Item:CITATION"
+    }],
+    "referred_to_by": {
+        "id": "https://linked.art/example/text/0", 
+        "type": "LinguisticObject", 
+        "value": "$Item:DESCRIPTION", 
+        "classified_as": "aat:300080091"
+      },
+    /* Dimension statement */
+    "referred_to_by": {
+    "id": "https://linked.art/example/text/1", 
+    "type": "LinguisticObject", 
+    "value": "$Item:$ITEMSIZE or Item:DISPLAYDURATION", 
+    "classified_as": "aat:300266036"
+  },
+  /* Materials statement */
+  "referred_to_by": {
+    "id": "https://linked.art/example/text/2", 
+    "type": "LinguisticObject", 
+    "value": "$Item:SPECIFCFORMAT", 
+    "classified_as": "aat:300010358"
+  },
+  /* Materials statement */
+  "referred_to_by": {
+    "id": "https://linked.art/example/text/2", 
+    "type": "LinguisticObject", 
+    "value": "$Item:$EXTENTNUM Item:EXTENTTYPE", 
+    "classified_as": "aat:300010358"
+  },
+  /* Rights Statement */,
+  "referred_to_by": {
+    "id": "https://linked.art/example/text/3", 
+    "type": "LinguisticObject", 
+    "value": "$Item:RIGHTSSTATEMENT", 
+    "classified_as": "aat:300055547"
+  },
+  /* Digital Resources, one for each asset */
+  "representation": {
+    "id": "$Item_DigitalResource:FULLSIZE", 
+    "type": "Image", 
+    "label": "$PartNum $PartType", 
+    "format": "image/jpeg"
+  },
+  /* Not sure this is a legal designation, but there must be a way*/
+  /* Collection Record */
+  "forms_part_of": {
+      "@context": "https://linked.art/ns/context/1/full.jsonld", 
+      "id": "https://linked.art/example/object/12", 
+      "type": "PhysicalObject", 
+      "label": "$Item_Collection:COLLECTION", 
+      /* Titles */
+      "title": 
+        {
+          "id": "https://linked.art/example/Title/1", 
+          "type": "Title", 
+          "value": "$Item_Collection:$COLLECTIONTITLE, Item:DISPLAYDATE", 
+          "classified_as": "aat:300404670"
+        },      
+        "identified_by": {
+          "id": "https://linked.art/example/identifier/3", 
+          "type": "Identifier", 
+          "label": "Local Database Item ID Number", 
+          "value": "$Item_Collection:COLLECTIONID", 
+          "classified_as": "aat:300404626"
+      },
+      /* Branch classification based on Item_Collection:MEDIUM */
+      "classified_as": "aat:300027772 (corporation records)| aat:300028037 (personal papers)"
+  },
+  
+  /* Format is based on a lookup of the AAT code matching the general format*/
+  "classified_as": "$aat:FORMAT"
+}
+
+/* Collection record */
+{
+}
+
+"formats": 
+"Artworks               aat:300133025	works of art
+Interviews              aat:300026392	interviews
+Correspondence          aat:300026877	correspondence
+Artifacts               aat:300117127	artifacts (object genre)
+Photographs             aat:300046300	photographs
+Printed Materials       aat:300404588	printed materials (object genre)
+Albums                  aat:300026690	albums (books)
+Writings                aat:300189226	writings (documents)
+Financial Records       aat:300027473	financial records
+Legal Records           aat:300027590	legal documents
+Videorecording          aat:300028682	video recordings
+Sound Recording         aat:300028633	sound recordings
+Motion Picture Film     aat:300136900	motion pictures (visual works)"
