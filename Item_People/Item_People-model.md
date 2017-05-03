@@ -158,7 +158,7 @@ else:
 From column: _DISPLAYDATEDIED_
 ``` python
 if getValue("DISPLAYDATEDIED"):
-    return getValue("BirthURI")+"/timespan"
+    return getValue("DeathURI")+"/timespan"
 else:
     return ""
 ```
@@ -250,7 +250,10 @@ else:
 | From | Property | To |
 |  --- | -------- | ---|
 | `crm:E39_Actor1` | `crm:P1_is_identified_by` | `crm:E42_Identifier1`|
+| `crm:E39_Actor1` | `crm:P92i_was_brought_into_existence_by` | `crm:E63_Beginning_of_Existence1`|
+| `crm:E39_Actor1` | `crm:P93i_was_taken_out_of_existence_by` | `crm:E64_End_of_Existence1`|
 | `crm:E39_Actor1` | `crm:P131_is_identified_by` | `crm:E82_Actor_Appellation1`|
+| `crm:E39_Actor1` | `crm:P131_is_identified_by` | `crm:E82_Actor_Appellation4`|
 | `crm:E42_Identifier1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
 | `crm:E55_Type1` | `skos:broadMatch` | `http://vocab.getty.edu/aat/300404651`|
 | `crm:E55_Type2` | `skos:broadMatch` | `http://vocab.getty.edu/aat/300404652`|
@@ -258,11 +261,8 @@ else:
 | `crm:E63_Beginning_of_Existence1` | `crm:P7_took_place_at` | `crm:E53_Place1`|
 | `crm:E64_End_of_Existence1` | `crm:P4_has_time-span` | `crm:E52_Time-Span2`|
 | `crm:E64_End_of_Existence1` | `crm:P7_took_place_at` | `crm:E53_Place2`|
-| `crm:E82_Actor_Appellation1` | `crm:P92i_was_brought_into_existence_by` | `crm:E63_Beginning_of_Existence1`|
-| `crm:E82_Actor_Appellation1` | `crm:P93i_was_taken_out_of_existence_by` | `crm:E64_End_of_Existence1`|
 | `crm:E82_Actor_Appellation1` | `crm:P106_is_composed_of` | `crm:E82_Actor_Appellation2`|
 | `crm:E82_Actor_Appellation1` | `crm:P106_is_composed_of` | `crm:E82_Actor_Appellation3`|
-| `crm:E82_Actor_Appellation1` | `crm:P131_is_identified_by` | `crm:E82_Actor_Appellation4`|
 | `crm:E82_Actor_Appellation1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
 | `crm:E82_Actor_Appellation2` | `crm:P2_has_type` | `crm:E55_Type1`|
 | `crm:E82_Actor_Appellation3` | `crm:P2_has_type` | `crm:E55_Type2`|
