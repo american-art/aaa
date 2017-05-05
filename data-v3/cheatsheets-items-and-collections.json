@@ -72,9 +72,10 @@
   /* Collection Record */
   "forms_part_of": {
       "@context": "https://linked.art/ns/context/1/full.jsonld", 
-      "id": "https://linked.art/example/object/12", 
+      "id": "https://linked.art/example/collection/12", 
       "type": "PhysicalObject", 
       "label": "$Item_Collection:COLLECTION", 
+      "foaf_homepage": "$Item_Collection:COLLECTIONURL",
       /* Titles */
       "title": 
         {
@@ -93,7 +94,7 @@
       /* Branch classification based on Item_Collection:MEDIUM */
       "classified_as": "aat:300027772 (corporation records)| aat:300028037 (personal papers)"
   },
-  
+  "foaf_homepage": "$Item:RESOURCEURL",
   /* Format is based on a lookup of the AAT code matching the general format*/
   "classified_as": "$aat:FORMAT"
 }
