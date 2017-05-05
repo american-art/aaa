@@ -13,7 +13,7 @@ Literal Type: ``
 #### _ConstituentURI_
 From column: _INSTITUTIONID_
 ``` python
-return "constituent/"+getValue("INSTITUTIONID")
+return "institution/"+getValue("INSTITUTIONID")
 ```
 
 #### _PrefIdURI_
