@@ -28,7 +28,7 @@ Literal Type: ``
 #### _ConstituentURI_
 From column: _PERSONID_
 ``` python
-return "constituent/"+getValue("PERSONID")
+return "person/"+getValue("PERSONID")
 ```
 
 #### _PrefIdURI_
