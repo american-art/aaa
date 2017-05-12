@@ -23,6 +23,11 @@ Literal Type: ``
 <br/>Language: ``
 <br/>isUri: `true`
 
+#### Literal Node: `http://vocab.getty.edu/aat/300080102`
+Literal Type: ``
+<br/>Language: ``
+<br/>isUri: `true`
+
 
 ## PyTransforms
 #### _ConstituentURI_
@@ -208,13 +213,24 @@ else:
     return ""
 ```
 
+#### _BiographyURI_
+From column: _BIO_
+``` python
+if getValue("BIO"):
+    return getValue("ConstituentURI")+"/biography"
+else:
+    return ""
+```
+
 
 ## Selections
 
 ## Semantic Types
 | Column | Property | Class |
 |  ----- | -------- | ----- |
+| _BIO_ | `rdf:value` | `crm:E33_Linguistic_Object1`|
 | _BORNPLACE_ | `rdfs:label` | `crm:E53_Place1`|
+| _BiographyURI_ | `uri` | `crm:E33_Linguistic_Object1`|
 | _BirthDateEarliest_ | `crm:P82a_begin_of_the_begin` | `crm:E52_Time-Span1`|
 | _BirthDateLatest_ | `crm:P82b_end_of_the_end` | `crm:E52_Time-Span1`|
 | _BirthDateURI_ | `uri` | `crm:E52_Time-Span1`|
@@ -249,6 +265,9 @@ else:
 ## Links
 | From | Property | To |
 |  --- | -------- | ---|
+| `crm:E33_Linguistic_Object1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
+| `crm:E33_Linguistic_Object1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300080102`|
+| `crm:E39_Actor1` | `crm:P129i_is_subject_of` | `crm:E33_Linguistic_Object1`|
 | `crm:E39_Actor1` | `crm:P1_is_identified_by` | `crm:E42_Identifier1`|
 | `crm:E39_Actor1` | `crm:P92i_was_brought_into_existence_by` | `crm:E63_Beginning_of_Existence1`|
 | `crm:E39_Actor1` | `crm:P93i_was_taken_out_of_existence_by` | `crm:E64_End_of_Existence1`|
