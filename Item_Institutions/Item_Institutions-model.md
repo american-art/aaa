@@ -8,6 +8,11 @@ Literal Type: ``
 <br/>Language: ``
 <br/>isUri: `true`
 
+#### Literal Node: `http://vocab.getty.edu/aat/300080102`
+Literal Type: ``
+<br/>Language: ``
+<br/>isUri: `true`
+
 
 ## PyTransforms
 #### _ConstituentURI_
@@ -40,13 +45,24 @@ From column: _INSTITUTIONNAME_
 return getValue("INSTITUTIONNAME")
 ```
 
+#### _BiographyURI_
+From column: _HISTNOTE_
+``` python
+if getValue("HISTNOTE"):
+    return getValue("ConstituentURI")+"/biography"
+else:
+    return ""
+```
+
 
 ## Selections
 
 ## Semantic Types
 | Column | Property | Class |
 |  ----- | -------- | ----- |
+| _BiographyURI_ | `uri` | `crm:E33_Linguistic_Object1`|
 | _ConstituentURI_ | `uri` | `crm:E39_Actor1`|
+| _HISTNOTE_ | `rdf:value` | `crm:E33_Linguistic_Object1`|
 | _INSTITUTIONID_ | `rdf:value` | `crm:E42_Identifier1`|
 | _INSTITUTIONNAME_ | `rdf:value` | `crm:E82_Actor_Appellation1`|
 | _IdLabel_ | `rdfs:label` | `crm:E42_Identifier1`|
@@ -58,6 +74,9 @@ return getValue("INSTITUTIONNAME")
 ## Links
 | From | Property | To |
 |  --- | -------- | ---|
+| `crm:E33_Linguistic_Object1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
+| `crm:E33_Linguistic_Object1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300080102`|
+| `crm:E39_Actor1` | `crm:P129i_is_subject_of` | `crm:E33_Linguistic_Object1`|
 | `crm:E39_Actor1` | `crm:P1_is_identified_by` | `crm:E42_Identifier1`|
 | `crm:E39_Actor1` | `crm:P131_is_identified_by` | `crm:E82_Actor_Appellation1`|
 | `crm:E42_Identifier1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
