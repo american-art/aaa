@@ -29,9 +29,10 @@ else:
 | Column | Property | Class |
 |  ----- | -------- | ----- |
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
-| _SubjectURI_ | `crm:P62_depicts` | `crm:E22_Man-Made_Object1`|
+| _SubjectURI_ | `uri` | `crm:E39_Actor1`|
 
 
 ## Links
 | From | Property | To |
 |  --- | -------- | ---|
+| `crm:E22_Man-Made_Object1` | `crm:P62_depicts` | `crm:E39_Actor1`|
