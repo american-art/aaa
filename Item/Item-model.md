@@ -176,7 +176,7 @@ else:
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
 | _Owner_ | `rdfs:label` | `crm:E40_Legal_Body1`|
 | _OwnerURI_ | `uri` | `crm:E40_Legal_Body1`|
-| _PersonURI_ | `crm:P135i_was_created_by` | `crm:E12_Production1`|
+| _PersonURI_ | `uri` | `crm:E39_Actor1`|
 | _ProductionURI_ | `uri` | `crm:E12_Production1`|
 | _ResourceURL_ | `rdfs:label` | `foaf:Document1`|
 | _RightURI_ | `uri` | `crm:E33_Linguistic_Object3`|
@@ -191,6 +191,7 @@ else:
 ## Links
 | From | Property | To |
 |  --- | -------- | ---|
+| `crm:E12_Production1` | `crm:P14_carried_out_by` | `crm:E39_Actor1`|
 | `crm:E12_Production1` | `crm:P4_has_time-span` | `crm:E52_Time-Span1`|
 | `crm:E22_Man-Made_Object1` | `crm:P108i_was_produced_by` | `crm:E12_Production1`|
 | `crm:E22_Man-Made_Object1` | `crm:P67i_is_referred_to_by` | `crm:E33_Linguistic_Object1`|
