@@ -54,7 +54,7 @@ From column: _DisplayDate_
 return getValue("ObjectURI")+"/production"
 ```
 
-#### _TimeSpanURI_
+#### _NIU_
 From column: _ProductionURI_
 ``` python
 if getValue("DateBeginFormatted") or getValue("DateEndFormatted"):
@@ -154,6 +154,15 @@ From column: _RightsStatement_
 ``` python
 if getValue("RightsStatement"):
     return getValue("ObjectURI")+"/rights"
+else:
+    return ""
+```
+
+#### _TimeSpanURI_
+From column: _ProductionURI_
+``` python
+if getValue("DateBeginFormatted") or getValue("DateEndFormatted"):
+    return getValue("ProductionURI")+"/timespan"
 else:
     return ""
 ```
