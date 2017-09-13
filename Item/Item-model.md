@@ -1,4 +1,4 @@
-# Item.csv
+# Item_Sheet1
 
 ## Add Column
 
@@ -180,6 +180,7 @@ else:
 | _DescriptionURI_ | `uri` | `crm:E33_Linguistic_Object2`|
 | _DimensionURI_ | `uri` | `crm:E33_Linguistic_Object1`|
 | _DisplayDate_ | `rdfs:label` | `crm:E52_Time-Span1`|
+| _ItemID_ | `rdf:value` | `crm:E42_Identifier1`|
 | _ItemSize_ | `rdf:value` | `crm:E33_Linguistic_Object1`|
 | _LocationURI_ | `uri` | `crm:E53_Place1`|
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
@@ -195,21 +196,23 @@ else:
 | _TitleLabel_ | `rdfs:label` | `crm:E22_Man-Made_Object1`|
 | _TitleURI_ | `uri` | `crm:E35_Title1`|
 | _UrlURI_ | `uri` | `foaf:Document1`|
+| _fkCollectionID_ | `rdf:value` | `crm:E42_Identifier2`|
 
 
 ## Links
 | From | Property | To |
 |  --- | -------- | ---|
-| `crm:E12_Production1` | `crm:P14_carried_out_by` | `crm:E39_Actor1`|
 | `crm:E12_Production1` | `crm:P4_has_time-span` | `crm:E52_Time-Span1`|
+| `crm:E12_Production1` | `crm:P14_carried_out_by` | `crm:E39_Actor1`|
 | `crm:E22_Man-Made_Object1` | `crm:P108i_was_produced_by` | `crm:E12_Production1`|
-| `crm:E22_Man-Made_Object1` | `crm:P67i_is_referred_to_by` | `crm:E33_Linguistic_Object1`|
-| `crm:E22_Man-Made_Object1` | `crm:P129i_is_subject_of` | `crm:E33_Linguistic_Object2`|
-| `crm:E22_Man-Made_Object1` | `crm:P67i_is_referred_to_by` | `crm:E33_Linguistic_Object3`|
-| `crm:E22_Man-Made_Object1` | `crm:P102_has_title` | `crm:E35_Title1`|
+| `crm:E22_Man-Made_Object1` | `crm:P1_is_identified_by` | `crm:E42_Identifier1`|
 | `crm:E22_Man-Made_Object1` | `crm:P52_has_current_owner` | `crm:E40_Legal_Body1`|
-| `crm:E22_Man-Made_Object1` | `crm:P55_has_current_location` | `crm:E53_Place1`|
+| `crm:E22_Man-Made_Object1` | `crm:P129i_is_subject_of` | `crm:E33_Linguistic_Object2`|
 | `crm:E22_Man-Made_Object1` | `foaf:homepage` | `foaf:Document1`|
+| `crm:E22_Man-Made_Object1` | `crm:P102_has_title` | `crm:E35_Title1`|
+| `crm:E22_Man-Made_Object1` | `crm:P67i_is_referred_to_by` | `crm:E33_Linguistic_Object1`|
+| `crm:E22_Man-Made_Object1` | `crm:P55_has_current_location` | `crm:E53_Place1`|
+| `crm:E22_Man-Made_Object1` | `crm:P67i_is_referred_to_by` | `crm:E33_Linguistic_Object3`|
 | `crm:E33_Linguistic_Object1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300266036`|
 | `crm:E33_Linguistic_Object2` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
 | `crm:E33_Linguistic_Object2` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300080091`|
