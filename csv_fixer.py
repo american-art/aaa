@@ -13,21 +13,28 @@ sh = wb.sheet_by_index(0)
 fout = open(os.path.join(filedir,filename[:filename.index('.')]+'.json'),'w')
 
 header = sh.row_values(0)
+no_of_lines_with_error = 0
+no_of_blank_lines = 0
 
 for i in range(1, sh.nrows):
 	row = sh.row_values(i)
 	if len(row) == len(header):            
 	    js = {}
 	    for j in range(len(header)):
-	        js[header[j]] = row[j]
-	    #pprint(js)   
+	    	try:
+	    		if int(row[j]) == row[j]:
+	    			js[header[j]] = int(row[j])
+	    	except:
+	        	js[header[j]] = row[j] 
 	    fout.write(json.dumps(js))
 	    fout.write("\n")
-	    #print("Length: ", len(row), row) 
-	    #print "\n\n\n"
 	else:
-	    print ("Some error with ",len(row), len(header))
-	    for j in range(len(row)):
-	        print(j, row[j])
+	    if len(row) == 0:
+	    	no_of_blank_lines += 1
+	    else:
+	    	no_of_lines_with_error += 1
+
+print(no_of_blank_lines)
+print(no_of_lines_with_error)
 
 fout.close()
