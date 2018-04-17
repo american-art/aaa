@@ -1,4 +1,4 @@
-# Item.json
+# Item.csv
 
 ## Add Column
 
@@ -6,7 +6,7 @@
 #### Literal Node: `http://vocab.getty.edu/aat/300404670`
 Literal Type: ``
 <br/>Language: ``
-<br/>isUri: `true`
+<br/>isUri: `false`
 
 #### Literal Node: `http://vocab.getty.edu/aat/300266036`
 Literal Type: ``
@@ -369,6 +369,7 @@ return getValue("ObjectURI") + "/citation"
 | _RightURI_ | `uri` | `crm:E33_Linguistic_Object3`|
 | _RightsStatement_ | `rdf:value` | `crm:E33_Linguistic_Object3`|
 | _TimeSpanURI_ | `uri` | `crm:E52_Time-Span1`|
+| _Title_ | `rdf:value` | `crm:E35_Title1`|
 | _Title_ | `rdfs:label` | `crm:E35_Title1`|
 | _TitleLabel_ | `rdfs:label` | `crm:E22_Man-Made_Object1`|
 | _TitleURI_ | `uri` | `crm:E35_Title1`|
@@ -410,5 +411,6 @@ return getValue("ObjectURI") + "/citation"
 | `crm:E40_Legal_Body1` | `skos:exactMatch` | `http://vocab.getty.edu/ulan/500269705`|
 | `crm:E40_Legal_Body1` | `skos:exactMatch` | `http://vocab.getty.edu/ulan/500269705`|
 | `crm:E40_Legal_Body1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300312242`|
+| `crm:E42_Identifier1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300404670`|
 | `crm:E55_Type1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300026031`|
 | `crm:E55_Type2` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300266038`|
