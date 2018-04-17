@@ -1,7 +1,7 @@
 digraph n0 {
 fontcolor="blue"
 remincross="true"
-label="Item.json"
+label="Item.csv"
 subgraph cluster {
 label="model"
 n2[style="filled",color="white",fillcolor="lightgray",label="E12_Production1"];
@@ -25,60 +25,61 @@ n19[style="filled",color="white",fillcolor="lightgray",label="E55_Type1"];
 n20[style="filled",color="white",fillcolor="lightgray",label="E55_Type2"];
 n21[style="filled",color="white",fillcolor="lightgray",label="E78_Collection1"];
 n22[style="filled",color="white",fillcolor="lightgray",label="Document1"];
-n23[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
-n24[shape="plaintext",style="filled",fillcolor="gold",label="Owner"];
-n25[shape="plaintext",style="filled",fillcolor="gold",label="has_representation"];
-n26[shape="plaintext",style="filled",fillcolor="gold",label="ProductionURI"];
-n27[shape="plaintext",style="filled",fillcolor="gold",label="CreatorURI"];
-n28[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
-n29[shape="plaintext",style="filled",fillcolor="gold",label="DateBeginFormatted"];
-n30[shape="plaintext",style="filled",fillcolor="gold",label="PhysicalCharacteristic"];
-n31[shape="plaintext",style="filled",fillcolor="gold",label="LocationURI"];
-n32[shape="plaintext",style="filled",fillcolor="gold",label="Description"];
-n33[shape="plaintext",style="filled",fillcolor="gold",label="ResourceURL"];
-n34[shape="plaintext",style="filled",fillcolor="gold",label="CollectionURI"];
-n35[shape="plaintext",style="filled",fillcolor="gold",label="DisplayDate"];
-n36[shape="plaintext",style="filled",fillcolor="gold",label="RightsStatement"];
-n37[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
-n38[shape="plaintext",style="filled",fillcolor="gold",label="DimensionsLabel"];
-n39[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
-n40[shape="plaintext",style="filled",fillcolor="gold",label="CoCreatorURI"];
-n41[shape="plaintext",style="filled",fillcolor="gold",label="RightURI"];
-n42[shape="plaintext",style="filled",fillcolor="gold",label="IdentifierURI"];
-n43[shape="plaintext",style="filled",fillcolor="gold",label="Citation"];
-n44[shape="plaintext",style="filled",fillcolor="gold",label="Current_Location"];
-n45[shape="plaintext",style="filled",fillcolor="gold",label="Title"];
-n46[shape="plaintext",style="filled",fillcolor="gold",label="TitleURI"];
-n47[shape="plaintext",style="filled",fillcolor="gold",label="DataDateStamp"];
-n48[shape="plaintext",style="filled",fillcolor="gold",label="DateEndFormatted"];
-n49[shape="plaintext",style="filled",fillcolor="gold",label="ExtentType"];
-n50[shape="plaintext",style="filled",fillcolor="gold",label="TitleLabel"];
-n51[shape="plaintext",style="filled",fillcolor="gold",label="DescriptionURI"];
-n52[shape="plaintext",style="filled",fillcolor="gold",label="TimeSpanURI"];
-n53[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
-n54[shape="plaintext",style="filled",fillcolor="gold",label="ExtentStatement"];
-n55[shape="plaintext",style="filled",fillcolor="gold",label="ItemID"];
-n56[shape="plaintext",style="filled",fillcolor="gold",label="UrlURI"];
-n57[shape="plaintext",style="filled",fillcolor="gold",label="CitationURI"];
-n58[shape="plaintext",style="filled",fillcolor="gold",label="DimensionURI"];
-n59[shape="plaintext",style="filled",fillcolor="gold",label="OwnerURI"];
-n60[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
-n61[shape="plaintext",style="filled",fillcolor="gold",label="CharacteristicURI"];
-n62[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
-n63[shape="plaintext",style="filled",fillcolor="gold",label="ExtentURI"];
-n64[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
+n23[shape="plaintext",style="filled",fillcolor="gold",label="DimensionURI"];
+n24[shape="plaintext",style="filled",fillcolor="gold",label="TitleURI"];
+n25[shape="plaintext",style="filled",fillcolor="gold",label="TitleLabel"];
+n26[shape="plaintext",style="filled",fillcolor="gold",label="PhysicalCharacteristic"];
+n27[shape="plaintext",style="filled",fillcolor="gold",label="DateBeginFormatted"];
+n28[shape="plaintext",style="filled",fillcolor="gold",label="ExtentType"];
+n29[shape="plaintext",style="filled",fillcolor="gold",label="DateEndFormatted"];
+n30[shape="plaintext",style="filled",fillcolor="gold",label="CoCreatorURI"];
+n31[shape="plaintext",style="filled",fillcolor="gold",label="TimeSpanURI"];
+n32[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
+n33[shape="plaintext",style="filled",fillcolor="gold",label="OwnerURI"];
+n34[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
+n35[shape="plaintext",style="filled",fillcolor="gold",label="CreatorURI"];
+n36[shape="plaintext",style="filled",fillcolor="gold",label="ExtentURI"];
+n37[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
+n38[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
+n39[shape="plaintext",style="filled",fillcolor="gold",label="CitationURI"];
+n40[shape="plaintext",style="filled",fillcolor="gold",label="ResourceURL"];
+n41[shape="plaintext",style="filled",fillcolor="gold",label="Description"];
+n42[shape="plaintext",style="filled",fillcolor="gold",label="has_representation"];
+n43[shape="plaintext",style="filled",fillcolor="gold",label="Current_Location"];
+n44[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
+n45[shape="plaintext",style="filled",fillcolor="gold",label="DataDateStamp"];
+n46[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
+n47[shape="plaintext",style="filled",fillcolor="gold",label="DimensionsLabel"];
+n48[shape="plaintext",style="filled",fillcolor="gold",label="Owner"];
+n49[shape="plaintext",style="filled",fillcolor="gold",label="DescriptionURI"];
+n50[shape="plaintext",style="filled",fillcolor="gold",label="IdentifierURI"];
+n51[shape="plaintext",style="filled",fillcolor="gold",label="ItemID"];
+n52[shape="plaintext",style="filled",fillcolor="gold",label="ProductionURI"];
+n53[shape="plaintext",style="filled",fillcolor="gold",label="DisplayDate"];
+n54[shape="plaintext",style="filled",fillcolor="gold",label="Title"];
+n55[shape="plaintext",style="filled",fillcolor="gold",label="UrlURI"];
+n56[shape="plaintext",style="filled",fillcolor="gold",label="CharacteristicURI"];
+n57[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
+n58[shape="plaintext",style="filled",fillcolor="gold",label="RightsStatement"];
+n59[shape="plaintext",style="filled",fillcolor="gold",label="Citation"];
+n60[shape="plaintext",style="filled",fillcolor="gold",label="CollectionURI"];
+n61[shape="plaintext",style="filled",fillcolor="gold",label="LocationURI"];
+n62[shape="plaintext",style="filled",fillcolor="gold",label="ExtentStatement"];
+n63[shape="plaintext",style="filled",fillcolor="gold",label="RightURI"];
+n64[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
 n65[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266038"];
 n66[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300010358"];
 n67[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300404670"];
 n68[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300055547"];
-n69[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/ulan/500269705"];
+n69[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300404670"];
 n70[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/ulan/500269705"];
-n71[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300055642"];
-n72[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266036"];
-n73[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300404670"];
-n74[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
-n75[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300312242"];
-n76[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300080091"];
+n71[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/ulan/500269705"];
+n72[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300055642"];
+n73[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266036"];
+n74[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300404670"];
+n75[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
+n76[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300312242"];
+n77[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300080091"];
 }
 n2 -> n3[color="brown",fontcolor="black",label="P14_carried_out_by"]
 n2 -> n4[color="brown",fontcolor="black",label="P14_carried_out_by"]
@@ -100,58 +101,60 @@ n6 -> n19[color="brown",fontcolor="black",label="P2_has_type"]
 n6 -> n20[color="brown",fontcolor="black",label="P2_has_type"]
 n6 -> n21[color="brown",fontcolor="black",label="P46i_forms_part_of"]
 n6 -> n22[color="brown",fontcolor="black",label="homepage"]
-n7 -> n23[color="brown",fontcolor="black",label="P21_had_general_purpose"]
-n16 -> n24[color="brown",fontcolor="black",label="label"]
-n15 -> n25[color="brown",fontcolor="black",label="classLink"]
-n2 -> n26[color="brown",fontcolor="black",label="classLink"]
-n3 -> n27[color="brown",fontcolor="black",label="classLink"]
-n6 -> n28[color="brown",fontcolor="black",label="classLink"]
-n5 -> n29[color="brown",fontcolor="black",label="P82a_begin_of_the_begin"]
-n12 -> n30[color="brown",fontcolor="black",label="value"]
-n18 -> n31[color="brown",fontcolor="black",label="classLink"]
-n9 -> n32[color="brown",fontcolor="black",label="value"]
-n22 -> n33[color="brown",fontcolor="black",label="label"]
-n21 -> n34[color="brown",fontcolor="black",label="classLink"]
-n5 -> n35[color="brown",fontcolor="black",label="label"]
-n10 -> n36[color="brown",fontcolor="black",label="value"]
-n20 -> n37[color="brown",fontcolor="black",label="classLink"]
-n8 -> n38[color="brown",fontcolor="black",label="value"]
-n19 -> n39[color="brown",fontcolor="black",label="classLink"]
-n4 -> n40[color="brown",fontcolor="black",label="classLink"]
-n10 -> n41[color="brown",fontcolor="black",label="classLink"]
-n17 -> n42[color="brown",fontcolor="black",label="classLink"]
-n13 -> n43[color="brown",fontcolor="black",label="value"]
-n18 -> n44[color="brown",fontcolor="black",label="label"]
-n14 -> n45[color="brown",fontcolor="black",label="label"]
-n14 -> n46[color="brown",fontcolor="black",label="classLink"]
-n17 -> n47[color="brown",fontcolor="black",label="date"]
-n5 -> n48[color="brown",fontcolor="black",label="P82b_end_of_the_end"]
-n11 -> n49[color="brown",fontcolor="black",label="P2_has_type"]
-n6 -> n50[color="brown",fontcolor="black",label="label"]
-n9 -> n51[color="brown",fontcolor="black",label="classLink"]
-n5 -> n52[color="brown",fontcolor="black",label="classLink"]
-n19 -> n53[color="brown",fontcolor="black",label="value"]
-n11 -> n54[color="brown",fontcolor="black",label="value"]
-n17 -> n55[color="brown",fontcolor="black",label="value"]
-n22 -> n56[color="brown",fontcolor="black",label="classLink"]
-n13 -> n57[color="brown",fontcolor="black",label="classLink"]
-n8 -> n58[color="brown",fontcolor="black",label="classLink"]
-n16 -> n59[color="brown",fontcolor="black",label="classLink"]
-n7 -> n60[color="brown",fontcolor="black",label="classLink"]
-n12 -> n61[color="brown",fontcolor="black",label="classLink"]
-n7 -> n62[color="brown",fontcolor="black",label="P42_assigned"]
-n11 -> n63[color="brown",fontcolor="black",label="classLink"]
-n20 -> n64[color="brown",fontcolor="black",label="value"]
+n8 -> n23[color="brown",fontcolor="black",label="classLink"]
+n14 -> n24[color="brown",fontcolor="black",label="classLink"]
+n6 -> n25[color="brown",fontcolor="black",label="label"]
+n12 -> n26[color="brown",fontcolor="black",label="value"]
+n5 -> n27[color="brown",fontcolor="black",label="P82a_begin_of_the_begin"]
+n11 -> n28[color="brown",fontcolor="black",label="P2_has_type"]
+n5 -> n29[color="brown",fontcolor="black",label="P82b_end_of_the_end"]
+n4 -> n30[color="brown",fontcolor="black",label="classLink"]
+n5 -> n31[color="brown",fontcolor="black",label="classLink"]
+n7 -> n32[color="brown",fontcolor="black",label="classLink"]
+n16 -> n33[color="brown",fontcolor="black",label="classLink"]
+n19 -> n34[color="brown",fontcolor="black",label="value"]
+n3 -> n35[color="brown",fontcolor="black",label="classLink"]
+n11 -> n36[color="brown",fontcolor="black",label="classLink"]
+n19 -> n37[color="brown",fontcolor="black",label="classLink"]
+n20 -> n38[color="brown",fontcolor="black",label="value"]
+n13 -> n39[color="brown",fontcolor="black",label="classLink"]
+n22 -> n40[color="brown",fontcolor="black",label="label"]
+n9 -> n41[color="brown",fontcolor="black",label="value"]
+n15 -> n42[color="brown",fontcolor="black",label="classLink"]
+n18 -> n43[color="brown",fontcolor="black",label="label"]
+n6 -> n44[color="brown",fontcolor="black",label="classLink"]
+n17 -> n45[color="brown",fontcolor="black",label="date"]
+n20 -> n46[color="brown",fontcolor="black",label="classLink"]
+n8 -> n47[color="brown",fontcolor="black",label="value"]
+n16 -> n48[color="brown",fontcolor="black",label="label"]
+n9 -> n49[color="brown",fontcolor="black",label="classLink"]
+n17 -> n50[color="brown",fontcolor="black",label="classLink"]
+n17 -> n51[color="brown",fontcolor="black",label="value"]
+n2 -> n52[color="brown",fontcolor="black",label="classLink"]
+n5 -> n53[color="brown",fontcolor="black",label="label"]
+n14 -> n54[color="brown",fontcolor="black",label="value"]
+n22 -> n55[color="brown",fontcolor="black",label="classLink"]
+n12 -> n56[color="brown",fontcolor="black",label="classLink"]
+n7 -> n57[color="brown",fontcolor="black",label="P42_assigned"]
+n10 -> n58[color="brown",fontcolor="black",label="value"]
+n13 -> n59[color="brown",fontcolor="black",label="value"]
+n21 -> n60[color="brown",fontcolor="black",label="classLink"]
+n18 -> n61[color="brown",fontcolor="black",label="classLink"]
+n11 -> n62[color="brown",fontcolor="black",label="value"]
+n10 -> n63[color="brown",fontcolor="black",label="classLink"]
+n7 -> n64[color="brown",fontcolor="black",label="P21_had_general_purpose"]
 n20 -> n65[color="brown",fontcolor="black",label="P2_has_type"]
 n12 -> n66[color="brown",fontcolor="black",label="P2_has_type"]
 n14 -> n67[color="brown",fontcolor="black",label="P2_has_type"]
 n10 -> n68[color="brown",fontcolor="black",label="P2_has_type"]
-n16 -> n69[color="brown",fontcolor="black",label="exactMatch"]
+n17 -> n69[color="brown",fontcolor="black",label="P2_has_type"]
 n16 -> n70[color="brown",fontcolor="black",label="exactMatch"]
-n11 -> n71[color="brown",fontcolor="black",label="P2_has_type"]
-n8 -> n72[color="brown",fontcolor="black",label="P2_has_type"]
-n9 -> n73[color="brown",fontcolor="black",label="P2_has_type"]
-n19 -> n74[color="brown",fontcolor="black",label="P2_has_type"]
-n16 -> n75[color="brown",fontcolor="black",label="P2_has_type"]
-n9 -> n76[color="brown",fontcolor="black",label="P2_has_type"]
+n16 -> n71[color="brown",fontcolor="black",label="exactMatch"]
+n11 -> n72[color="brown",fontcolor="black",label="P2_has_type"]
+n14 -> n54[color="brown",fontcolor="black",label="label"]
+n8 -> n73[color="brown",fontcolor="black",label="P2_has_type"]
+n9 -> n74[color="brown",fontcolor="black",label="P2_has_type"]
+n19 -> n75[color="brown",fontcolor="black",label="P2_has_type"]
+n16 -> n76[color="brown",fontcolor="black",label="P2_has_type"]
+n9 -> n77[color="brown",fontcolor="black",label="P2_has_type"]
 }
