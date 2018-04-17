@@ -11,7 +11,7 @@ From column: _ItemID_
 return "object/" + getValue("ItemID")
 ```
 
-#### _fkCollectionID_
+#### _CollectionURI_
 From column: _fkCollectionID_
 ``` python
 return "collection/" + getValue("fkCollectionID")
@@ -41,8 +41,8 @@ return AATTerm.get_aat_term("aaa",getValue("GeneralFormat_Formatted"))
 ## Semantic Types
 | Column | Property | Class |
 |  ----- | -------- | ----- |
+| _CollectionURI_ | `uri` | `crm:E78_Collection1`|
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
-| _fkCollectionID_ | `uri` | `crm:E78_Collection1`|
 
 
 ## Links
