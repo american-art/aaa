@@ -1,16 +1,12 @@
 # Item_Sheet1
 
 ## Add Column
-#### _ArchivesURI_
-From column: _OwnerURI_
-<br/>Value: `http://data.aaa.si.edu`
-
 
 ## Add Node/Literal
 #### Literal Node: `http://vocab.getty.edu/aat/300404670`
 Literal Type: ``
 <br/>Language: ``
-<br/>isUri: `false`
+<br/>isUri: `true`
 
 #### Literal Node: `http://vocab.getty.edu/aat/300266036`
 Literal Type: ``
@@ -268,6 +264,12 @@ From column: _Citation_
 return getValue("ObjectURI") + "/citation"
 ```
 
+#### _ArchivesURI_
+From column: _OwnerURI_
+``` python
+return getValue("OwnerURI") + "/"
+```
+
 
 ## Selections
 
@@ -298,7 +300,6 @@ return getValue("ObjectURI") + "/citation"
 | _LocationURI_ | `uri` | `crm:E53_Place1`|
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
 | _Owner_ | `rdfs:label` | `crm:E40_Legal_Body1`|
-| _OwnerURI_ | `uri` | `crm:E40_Legal_Body1`|
 | _PhysicalCharacteristic_ | `rdf:value` | `crm:E33_Linguistic_Object5`|
 | _ProductionURI_ | `uri` | `crm:E12_Production1`|
 | _ResourceURL_ | `rdfs:label` | `foaf:Document1`|
