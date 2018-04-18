@@ -8,31 +8,13 @@
 #### _ObjectURI_
 From column: _ItemID_
 ``` python
-return "object/" + getValue("ItemID")
+return 'object/' + getValue("ItemID")
 ```
 
 #### _CollectionURI_
 From column: _fkCollectionID_
 ``` python
-return "collection/" + getValue("fkCollectionID")
-```
-
-#### _TypeURI_
-From column: _GeneralFormat_
-``` python
-return UM.uri_from_fields("thesuari/type/", getValue("AAT_Type"))
-```
-
-#### _GeneralFormat_Formatted_
-From column: _GeneralFormat_
-``` python
-return getValue("GeneralFormat").capitalize()
-```
-
-#### _AAT_Type_
-From column: _GeneralFormat_Formatted_
-``` python
-return AATTerm.get_aat_term("aaa",getValue("GeneralFormat_Formatted"))
+return 'collection/' + getValue("fkCollectionID")
 ```
 
 
