@@ -12,14 +12,14 @@
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
+_:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
 	km-dev:sourceName "Item_Classification_Sheet1" ;
-	km-dev:modelPublicationTime "1524069646703"^^xsd:long ;
+	km-dev:modelPublicationTime "1524071131080"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasInputColumns "[[{\"columnName\":\"ItemID\"}],[{\"columnName\":\"SpecificFormat\"}],[{\"columnName\":\"GeneralFormat\"}]]" ;
-	km-dev:hasOutputColumns "[[{\"columnName\":\"ObjectURI\"}],[{\"columnName\":\"AAAT_FormatURI\"}],[{\"columnName\":\"TypeURI\"}],[{\"columnName\":\"AAT_TypeURI\"}],[{\"columnName\":\"ClassificationURI\"}],[{\"columnName\":\"GeneralFormat_Formatted\"}],[{\"columnName\":\"AAT_Format\"}],[{\"columnName\":\"AAT_Type\"}],[{\"columnName\":\"SpecificFormat_Formatted\"}],[{\"columnName\":\"FormatURI\"}]]" ;
+	km-dev:hasInputColumns "[[{\"columnName\":\"ItemID\"}],[{\"columnName\":\"GeneralFormat\"}],[{\"columnName\":\"SpecificFormat\"}]]" ;
+	km-dev:hasOutputColumns "[[{\"columnName\":\"ObjectURI\"}],[{\"columnName\":\"SpecificFormat_Formatted\"}],[{\"columnName\":\"AAAT_FormatURI\"}],[{\"columnName\":\"AAT_TypeURI\"}],[{\"columnName\":\"AAT_Format\"}],[{\"columnName\":\"FormatURI\"}],[{\"columnName\":\"AAT_Type\"}],[{\"columnName\":\"TypeURI\"}],[{\"columnName\":\"ClassificationURI\"}],[{\"columnName\":\"GeneralFormat_Formatted\"}]]" ;
 	km-dev:hasModelLabel "Item_Classification" ;
-	km-dev:hasBaseURI "http://data.aaa.si.edu/aaa/" ;
+	km-dev:hasBaseURI "http://data.aaa.si.edu/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SubmitPythonTransformationCommand\",
@@ -94,7 +94,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": false,
                     \"hasGithubURL\": true,
-                    \"GithubURL\": \"https://github.com/american-art/aaa/tree/master/Item\",
+                    \"GithubURL\": \"https://github.com/american-art/aaa/tree/master/Item_Classification\",
                     \"baseURI\": \"\",
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
@@ -131,7 +131,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                 \"name\": \"properties\",
                 \"type\": \"other\",
                 \"value\": {
-                    \"graphLabel\": \"Item\",
+                    \"graphLabel\": \"Item_Classification\",
                     \"hasBaseURI\": false,
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
@@ -638,7 +638,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                 \"value\": {
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa\",
+                    \"baseURI\": \"http://data.aaa.si.edu/\",
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
                 }
@@ -676,7 +676,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                 \"value\": {
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
+                    \"baseURI\": \"http://data.aaa.si.edu/\",
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
                 }
@@ -714,7 +714,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                 \"value\": {
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
+                    \"baseURI\": \"http://data.aaa.si.edu/\",
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
                 }
@@ -752,122 +752,7 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                 \"value\": {
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"Item_Classification\",
-                    \"hasBaseURI\": false,
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.aaa.si.edu/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": false,
-                    \"hasGithubURL\": true,
-                    \"GithubURL\": \"https://github.com/american-art/aaa/tree/master/Item_Classification\",
-                    \"baseURI\": \"\",
+                    \"baseURI\": \"http://data.aaa.si.edu/\",
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
                 }
@@ -1699,1122 +1584,6 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
         \"tags\": [\"Modeling\"]
     },
     {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E35_Title1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P102_has_title\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object2\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E40_Legal_Body1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P52_has_current_owner\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object2\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E35_Title1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P102_has_title\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P138_represents\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E38_Image1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object3\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E38_Image1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E38_Image1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E38_Image1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object3\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P46i_forms_part_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E12_Production1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P108i_was_produced_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E12_Production1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E71_Man-Made_Thing1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P74i_is_current_or_former_residence_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E53_Place1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E71_Man-Made_Thing1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P46_is_composed_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E71_Man-Made_Thing1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E71_Man-Made_Thing1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P2_has_type\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P2_has_type\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E38_Image1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E42_Identifier1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P1_is_identified_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P2_has_type\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation3\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P62_depicts\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
         \"commandName\": \"AddLinkCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -2947,68 +1716,6 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
         \"tags\": [\"Modeling\"]
     },
     {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P131_is_identified_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P2_has_type\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E82_Actor_Appellation4\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
         \"commandName\": \"AddLinkCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -3042,37 +1749,6 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
         \"tags\": [\"Modeling\"]
     },
     {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type3\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P2_has_type\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
         \"commandName\": \"AddLinkCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -3090,223 +1766,6 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
                     \"edgeTargetUri\": \"http://www.cidoc-crm.org/cidoc-crm/E55_Type\",
                     \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment1\",
                     \"edgeSourceUri\": \"http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P14_carried_out_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E12_Production1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E74_Group1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P107i_is_current_or_former_member_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor2\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P62_depicts\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object1\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object4\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P129i_is_subject_of\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E39_Actor1\"
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Modeling\"]
-    },
-    {
-        \"commandName\": \"DeleteLinkCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"edge\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"edgeTargetId\": \"http://www.cidoc-crm.org/cidoc-crm/E33_Linguistic_Object5\",
-                    \"edgeId\": \"http://www.cidoc-crm.org/cidoc-crm/P67i_is_referred_to_by\",
-                    \"edgeSourceId\": \"http://www.cidoc-crm.org/cidoc-crm/E78_Collection1\"
                 }
             },
             {
@@ -3357,311 +1816,311 @@ _:node1cbcq2gbex1 a km-dev:R2RMLMapping ;
     }
 ]""" .
 
-km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a a rr:TriplesMap .
+km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 a rr:TriplesMap .
 
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a .
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 .
 
-km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex2 rr:tableName "Item_Classification_Sheet1" ;
+_:node1cbcrfpu8x2 rr:tableName "Item_Classification_Sheet1" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex2 .
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x2 .
 
-km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a rr:logicalTable _:node1cbcq2gbex2 ;
-	rr:subjectMap _:node1cbcq2gbex3 .
+km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 rr:logicalTable _:node1cbcrfpu8x2 ;
+	rr:subjectMap _:node1cbcrfpu8x3 .
 
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex3 .
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x3 .
 
-_:node1cbcq2gbex3 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
+_:node1cbcrfpu8x3 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E17_Type_Assignment1" ;
 	rr:class crm:E17_Type_Assignment ;
 	rr:template "{ClassificationURI}" .
 
-km-dev:PredicateObjectMap_145c97b1-ad72-47f9-91e0-d49f56836f41 rr:predicate crm:P101_had_as_general_use .
+km-dev:PredicateObjectMap_d4aed7d1-6fc4-477e-96cf-8cdd79ada05c rr:predicate crm:P101_had_as_general_use .
 
-km-dev:RefObjectMap_0afa957e-5f2a-4e32-93ed-332916237b42 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_6f94498c-83b8-47e0-838f-baf6cb30b9ca ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:RefObjectMap_8c90a9fc-e0d6-4c68-af64-5458e221c9e3 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_de043a0f-94d6-49e4-b1ef-386d5cdf0dea ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_0afa957e-5f2a-4e32-93ed-332916237b42 .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_8c90a9fc-e0d6-4c68-af64-5458e221c9e3 .
 
-km-dev:PredicateObjectMap_145c97b1-ad72-47f9-91e0-d49f56836f41 rr:objectMap km-dev:RefObjectMap_0afa957e-5f2a-4e32-93ed-332916237b42 .
+km-dev:PredicateObjectMap_d4aed7d1-6fc4-477e-96cf-8cdd79ada05c rr:objectMap km-dev:RefObjectMap_8c90a9fc-e0d6-4c68-af64-5458e221c9e3 .
 
-km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a rr:predicateObjectMap km-dev:PredicateObjectMap_145c97b1-ad72-47f9-91e0-d49f56836f41 .
+km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 rr:predicateObjectMap km-dev:PredicateObjectMap_d4aed7d1-6fc4-477e-96cf-8cdd79ada05c .
 
-km-dev:PredicateObjectMap_145c97b1-ad72-47f9-91e0-d49f56836f41 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_d4aed7d1-6fc4-477e-96cf-8cdd79ada05c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_145c97b1-ad72-47f9-91e0-d49f56836f41 .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d4aed7d1-6fc4-477e-96cf-8cdd79ada05c .
 
-km-dev:PredicateObjectMap_65b1ba54-52f6-45f6-8f26-c78390e5e978 rr:predicate crm:P42_assigned .
+km-dev:PredicateObjectMap_99168c38-824a-465e-b146-3cbe75a56742 rr:predicate crm:P42_assigned .
 
-km-dev:RefObjectMap_215a1b69-cb92-4f5e-b0a1-e98dbb49dfac a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_c6ab8f29-bd02-4f99-97fd-ced3b657a3f2 ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:RefObjectMap_577a3966-e5c4-4f8a-8a02-61505e5c6b28 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_35b8beb4-a730-4581-b38b-3879149c7e82 ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_215a1b69-cb92-4f5e-b0a1-e98dbb49dfac .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_577a3966-e5c4-4f8a-8a02-61505e5c6b28 .
 
-km-dev:PredicateObjectMap_65b1ba54-52f6-45f6-8f26-c78390e5e978 rr:objectMap km-dev:RefObjectMap_215a1b69-cb92-4f5e-b0a1-e98dbb49dfac .
+km-dev:PredicateObjectMap_99168c38-824a-465e-b146-3cbe75a56742 rr:objectMap km-dev:RefObjectMap_577a3966-e5c4-4f8a-8a02-61505e5c6b28 .
 
-km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a rr:predicateObjectMap km-dev:PredicateObjectMap_65b1ba54-52f6-45f6-8f26-c78390e5e978 .
+km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 rr:predicateObjectMap km-dev:PredicateObjectMap_99168c38-824a-465e-b146-3cbe75a56742 .
 
-km-dev:PredicateObjectMap_65b1ba54-52f6-45f6-8f26-c78390e5e978 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_99168c38-824a-465e-b146-3cbe75a56742 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_65b1ba54-52f6-45f6-8f26-c78390e5e978 .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_99168c38-824a-465e-b146-3cbe75a56742 .
 
-km-dev:TriplesMap_6f94498c-83b8-47e0-838f-baf6cb30b9ca a rr:TriplesMap .
+km-dev:TriplesMap_de043a0f-94d6-49e4-b1ef-386d5cdf0dea a rr:TriplesMap .
 
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_6f94498c-83b8-47e0-838f-baf6cb30b9ca .
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_de043a0f-94d6-49e4-b1ef-386d5cdf0dea .
 
-km-dev:TriplesMap_6f94498c-83b8-47e0-838f-baf6cb30b9ca km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:TriplesMap_de043a0f-94d6-49e4-b1ef-386d5cdf0dea km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex4 rr:tableName "Item_Classification_Sheet1" ;
+_:node1cbcrfpu8x4 rr:tableName "Item_Classification_Sheet1" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex4 .
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x4 .
 
-km-dev:TriplesMap_6f94498c-83b8-47e0-838f-baf6cb30b9ca rr:logicalTable _:node1cbcq2gbex4 ;
-	rr:subjectMap _:node1cbcq2gbex5 .
+km-dev:TriplesMap_de043a0f-94d6-49e4-b1ef-386d5cdf0dea rr:logicalTable _:node1cbcrfpu8x4 ;
+	rr:subjectMap _:node1cbcrfpu8x5 .
 
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex5 .
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x5 .
 
-_:node1cbcq2gbex5 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
+_:node1cbcrfpu8x5 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E55_Type3" ;
 	rr:class crm:E55_Type ;
 	rr:template "{AAT_TypeURI}" .
 
-km-dev:TriplesMap_c6ab8f29-bd02-4f99-97fd-ced3b657a3f2 a rr:TriplesMap .
+km-dev:TriplesMap_35b8beb4-a730-4581-b38b-3879149c7e82 a rr:TriplesMap .
 
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_c6ab8f29-bd02-4f99-97fd-ced3b657a3f2 .
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_35b8beb4-a730-4581-b38b-3879149c7e82 .
 
-km-dev:TriplesMap_c6ab8f29-bd02-4f99-97fd-ced3b657a3f2 km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:TriplesMap_35b8beb4-a730-4581-b38b-3879149c7e82 km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex6 rr:tableName "Item_Classification_Sheet1" ;
+_:node1cbcrfpu8x6 rr:tableName "Item_Classification_Sheet1" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex6 .
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x6 .
 
-km-dev:TriplesMap_c6ab8f29-bd02-4f99-97fd-ced3b657a3f2 rr:logicalTable _:node1cbcq2gbex6 ;
-	rr:subjectMap _:node1cbcq2gbex7 .
+km-dev:TriplesMap_35b8beb4-a730-4581-b38b-3879149c7e82 rr:logicalTable _:node1cbcrfpu8x6 ;
+	rr:subjectMap _:node1cbcrfpu8x7 .
 
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex7 .
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x7 .
 
-_:node1cbcq2gbex7 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
+_:node1cbcrfpu8x7 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E55_Type4" ;
 	rr:class crm:E55_Type ;
 	rr:template "{AAAT_FormatURI}" .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 a rr:TriplesMap .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db a rr:TriplesMap .
 
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 .
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex8 rr:tableName "Item_Classification_Sheet1" ;
+_:node1cbcrfpu8x8 rr:tableName "Item_Classification_Sheet1" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex8 .
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x8 .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 rr:logicalTable _:node1cbcq2gbex8 ;
-	rr:subjectMap _:node1cbcq2gbex9 .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db rr:logicalTable _:node1cbcrfpu8x8 ;
+	rr:subjectMap _:node1cbcrfpu8x9 .
 
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex9 .
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x9 .
 
-_:node1cbcq2gbex9 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
+_:node1cbcrfpu8x9 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1" ;
 	rr:class crm:E22_Man-Made_Object ;
 	rr:template "object/{ItemID}" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_b33650ec-d159-471c-ba8d-ac3709079f1f rr:predicate crm:P41i_was_classified_by .
+km-dev:PredicateObjectMap_7082c04c-9b50-4f87-b97a-1cb89d4fcc33 rr:predicate crm:P41i_was_classified_by .
 
-km-dev:RefObjectMap_858b5a13-09fd-4de9-acf8-d61ab1280ba2 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_69c7e962-dcae-4f63-80dc-cc982185504a ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:RefObjectMap_b165afce-e7e6-4d7d-949d-ced3fc9c5e7a a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_7619afc7-010f-464d-8f80-d4bad618a460 ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_858b5a13-09fd-4de9-acf8-d61ab1280ba2 .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_b165afce-e7e6-4d7d-949d-ced3fc9c5e7a .
 
-km-dev:PredicateObjectMap_b33650ec-d159-471c-ba8d-ac3709079f1f rr:objectMap km-dev:RefObjectMap_858b5a13-09fd-4de9-acf8-d61ab1280ba2 .
+km-dev:PredicateObjectMap_7082c04c-9b50-4f87-b97a-1cb89d4fcc33 rr:objectMap km-dev:RefObjectMap_b165afce-e7e6-4d7d-949d-ced3fc9c5e7a .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 rr:predicateObjectMap km-dev:PredicateObjectMap_b33650ec-d159-471c-ba8d-ac3709079f1f .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db rr:predicateObjectMap km-dev:PredicateObjectMap_7082c04c-9b50-4f87-b97a-1cb89d4fcc33 .
 
-km-dev:PredicateObjectMap_b33650ec-d159-471c-ba8d-ac3709079f1f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_7082c04c-9b50-4f87-b97a-1cb89d4fcc33 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b33650ec-d159-471c-ba8d-ac3709079f1f .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7082c04c-9b50-4f87-b97a-1cb89d4fcc33 .
 
-km-dev:PredicateObjectMap_6ad83263-e89e-49da-9c95-e345b5add4ea rr:predicate crm:P2_has_type .
+km-dev:PredicateObjectMap_398cf866-8fed-4207-bedc-93d851249b70 rr:predicate crm:P2_has_type .
 
-km-dev:RefObjectMap_f4ef178d-14c4-4a50-a2b1-4c898f9ea700 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:RefObjectMap_1a7e30e3-9ff5-44dd-854c-9c2ea6c42d9a a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_f4ef178d-14c4-4a50-a2b1-4c898f9ea700 .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_1a7e30e3-9ff5-44dd-854c-9c2ea6c42d9a .
 
-km-dev:PredicateObjectMap_6ad83263-e89e-49da-9c95-e345b5add4ea rr:objectMap km-dev:RefObjectMap_f4ef178d-14c4-4a50-a2b1-4c898f9ea700 .
+km-dev:PredicateObjectMap_398cf866-8fed-4207-bedc-93d851249b70 rr:objectMap km-dev:RefObjectMap_1a7e30e3-9ff5-44dd-854c-9c2ea6c42d9a .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 rr:predicateObjectMap km-dev:PredicateObjectMap_6ad83263-e89e-49da-9c95-e345b5add4ea .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db rr:predicateObjectMap km-dev:PredicateObjectMap_398cf866-8fed-4207-bedc-93d851249b70 .
 
-km-dev:PredicateObjectMap_6ad83263-e89e-49da-9c95-e345b5add4ea a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_398cf866-8fed-4207-bedc-93d851249b70 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6ad83263-e89e-49da-9c95-e345b5add4ea .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_398cf866-8fed-4207-bedc-93d851249b70 .
 
-km-dev:PredicateObjectMap_ec131617-2328-4b89-9f43-15daa37f44c9 rr:predicate crm:P2_has_type .
+km-dev:PredicateObjectMap_0e4b7784-9c24-42c3-960c-036ed9579324 rr:predicate crm:P2_has_type .
 
-km-dev:RefObjectMap_564c2378-b074-4003-a6e1-8818712d879f a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:RefObjectMap_375f5fda-1165-4975-98bb-1cbb44f8888a a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_564c2378-b074-4003-a6e1-8818712d879f .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_375f5fda-1165-4975-98bb-1cbb44f8888a .
 
-km-dev:PredicateObjectMap_ec131617-2328-4b89-9f43-15daa37f44c9 rr:objectMap km-dev:RefObjectMap_564c2378-b074-4003-a6e1-8818712d879f .
+km-dev:PredicateObjectMap_0e4b7784-9c24-42c3-960c-036ed9579324 rr:objectMap km-dev:RefObjectMap_375f5fda-1165-4975-98bb-1cbb44f8888a .
 
-km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 rr:predicateObjectMap km-dev:PredicateObjectMap_ec131617-2328-4b89-9f43-15daa37f44c9 .
+km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db rr:predicateObjectMap km-dev:PredicateObjectMap_0e4b7784-9c24-42c3-960c-036ed9579324 .
 
-km-dev:PredicateObjectMap_ec131617-2328-4b89-9f43-15daa37f44c9 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_0e4b7784-9c24-42c3-960c-036ed9579324 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ec131617-2328-4b89-9f43-15daa37f44c9 .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_0e4b7784-9c24-42c3-960c-036ed9579324 .
 
-km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec a rr:TriplesMap .
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b a rr:TriplesMap .
 
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec .
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b .
 
-km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex10 rr:tableName "Item_Classification_Sheet1" ;
+_:node1cbcrfpu8x10 rr:tableName "Item_Classification_Sheet1" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex10 .
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x10 .
 
-km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec rr:logicalTable _:node1cbcq2gbex10 ;
-	rr:subjectMap _:node1cbcq2gbex11 .
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b rr:logicalTable _:node1cbcrfpu8x10 ;
+	rr:subjectMap _:node1cbcrfpu8x11 .
 
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex11 .
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x11 .
 
-_:node1cbcq2gbex11 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
-	a rr:SubjectMap ;
-	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E55_Type2" ;
-	rr:class crm:E55_Type ;
-	rr:template "{FormatURI}" .
-
-km-dev:PredicateObjectMap_a3a58461-e140-4172-acb2-f12e5e4d051d rr:predicate crm:P2i_is_type_of .
-
-km-dev:RefObjectMap_c0f13d17-7aa0-4646-8c54-bf90ab020243 a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_c0f13d17-7aa0-4646-8c54-bf90ab020243 .
-
-km-dev:PredicateObjectMap_a3a58461-e140-4172-acb2-f12e5e4d051d rr:objectMap km-dev:RefObjectMap_c0f13d17-7aa0-4646-8c54-bf90ab020243 .
-
-km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec rr:predicateObjectMap km-dev:PredicateObjectMap_a3a58461-e140-4172-acb2-f12e5e4d051d .
-
-km-dev:PredicateObjectMap_a3a58461-e140-4172-acb2-f12e5e4d051d a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a3a58461-e140-4172-acb2-f12e5e4d051d .
-
-km-dev:PredicateObjectMap_bde4c2aa-81d4-4d16-8779-0677bcaf29a9 rr:predicate crm:P2_has_type .
-
-_:node1cbcq2gbex12 rr:constant <http://vocab.getty.edu/aat/300266038> ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasObjectMap _:node1cbcq2gbex12 .
-
-km-dev:PredicateObjectMap_bde4c2aa-81d4-4d16-8779-0677bcaf29a9 rr:objectMap _:node1cbcq2gbex12 .
-
-km-dev:TriplesMap_1162402a-b3fe-4f7a-96fa-86e03b5b7cec rr:predicateObjectMap km-dev:PredicateObjectMap_bde4c2aa-81d4-4d16-8779-0677bcaf29a9 .
-
-km-dev:PredicateObjectMap_bde4c2aa-81d4-4d16-8779-0677bcaf29a9 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_bde4c2aa-81d4-4d16-8779-0677bcaf29a9 .
-
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 a rr:TriplesMap .
-
-_:node1cbcq2gbex1 km-dev:hasTriplesMap km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 .
-
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex13 rr:tableName "Item_Classification_Sheet1" ;
-	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasLogicalTable _:node1cbcq2gbex13 .
-
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 rr:logicalTable _:node1cbcq2gbex13 ;
-	rr:subjectMap _:node1cbcq2gbex14 .
-
-_:node1cbcq2gbex1 km-dev:hasSubjectMap _:node1cbcq2gbex14 .
-
-_:node1cbcq2gbex14 km-dev:isPartOfMapping _:node1cbcq2gbex1 ;
+_:node1cbcrfpu8x11 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E55_Type1" ;
 	rr:class crm:E55_Type ;
 	rr:template "{TypeURI}" .
 
-km-dev:PredicateObjectMap_801e746c-78cf-4478-bcdd-e7d214500cb4 rr:predicate crm:P2i_is_type_of .
+km-dev:PredicateObjectMap_a337b8fb-108d-4daa-84cd-1575d5a4b41f rr:predicate rdf:value .
 
-km-dev:RefObjectMap_3ea372a0-8e47-4d56-b1a9-4ccf24d154cc a rr:RefObjectMap , rr:ObjectMap ;
-	rr:parentTriplesMap km-dev:TriplesMap_49bd49ff-9cda-4e4d-9180-29bedbb6cd21 ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasObjectMap km-dev:RefObjectMap_3ea372a0-8e47-4d56-b1a9-4ccf24d154cc .
-
-km-dev:PredicateObjectMap_801e746c-78cf-4478-bcdd-e7d214500cb4 rr:objectMap km-dev:RefObjectMap_3ea372a0-8e47-4d56-b1a9-4ccf24d154cc .
-
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 rr:predicateObjectMap km-dev:PredicateObjectMap_801e746c-78cf-4478-bcdd-e7d214500cb4 .
-
-km-dev:PredicateObjectMap_801e746c-78cf-4478-bcdd-e7d214500cb4 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
-
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_801e746c-78cf-4478-bcdd-e7d214500cb4 .
-
-km-dev:PredicateObjectMap_1d630487-dba0-4a7e-a8f2-a211703e881f rr:predicate rdf:value .
-
-_:node1cbcq2gbex15 rr:column "AAT_Type" ;
+_:node1cbcrfpu8x12 rr:column "AAT_Type" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap _:node1cbcq2gbex15 .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap _:node1cbcrfpu8x12 .
 
-km-dev:PredicateObjectMap_1d630487-dba0-4a7e-a8f2-a211703e881f rr:objectMap _:node1cbcq2gbex15 .
+km-dev:PredicateObjectMap_a337b8fb-108d-4daa-84cd-1575d5a4b41f rr:objectMap _:node1cbcrfpu8x12 .
 
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 rr:predicateObjectMap km-dev:PredicateObjectMap_1d630487-dba0-4a7e-a8f2-a211703e881f .
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b rr:predicateObjectMap km-dev:PredicateObjectMap_a337b8fb-108d-4daa-84cd-1575d5a4b41f .
 
-km-dev:PredicateObjectMap_1d630487-dba0-4a7e-a8f2-a211703e881f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_a337b8fb-108d-4daa-84cd-1575d5a4b41f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1d630487-dba0-4a7e-a8f2-a211703e881f .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a337b8fb-108d-4daa-84cd-1575d5a4b41f .
 
-km-dev:PredicateObjectMap_e975df3e-2aab-4055-b265-b9fb19ff6bc3 rr:predicate crm:P2_has_type .
+km-dev:PredicateObjectMap_71519c42-48bb-4342-8450-4cfc9841b95d rr:predicate crm:P2_has_type .
 
-_:node1cbcq2gbex16 rr:constant <http://vocab.getty.edu/aat/300026031> ;
+_:node1cbcrfpu8x13 rr:constant <http://vocab.getty.edu/aat/300026031> ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasObjectMap _:node1cbcq2gbex16 .
+_:node1cbcrfpu8x1 km-dev:hasObjectMap _:node1cbcrfpu8x13 .
 
-km-dev:PredicateObjectMap_e975df3e-2aab-4055-b265-b9fb19ff6bc3 rr:objectMap _:node1cbcq2gbex16 .
+km-dev:PredicateObjectMap_71519c42-48bb-4342-8450-4cfc9841b95d rr:objectMap _:node1cbcrfpu8x13 .
 
-km-dev:TriplesMap_e901a992-eed6-4b60-a3d4-7a7a12de4a76 rr:predicateObjectMap km-dev:PredicateObjectMap_e975df3e-2aab-4055-b265-b9fb19ff6bc3 .
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b rr:predicateObjectMap km-dev:PredicateObjectMap_71519c42-48bb-4342-8450-4cfc9841b95d .
 
-km-dev:PredicateObjectMap_e975df3e-2aab-4055-b265-b9fb19ff6bc3 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1cbcq2gbex1 .
+km-dev:PredicateObjectMap_71519c42-48bb-4342-8450-4cfc9841b95d a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
 
-_:node1cbcq2gbex1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e975df3e-2aab-4055-b265-b9fb19ff6bc3 .
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_71519c42-48bb-4342-8450-4cfc9841b95d .
+
+km-dev:PredicateObjectMap_5c11694c-7f2f-4873-82fd-e3505abdf407 rr:predicate crm:P2i_is_type_of .
+
+km-dev:RefObjectMap_e135dfad-b7fc-4bd7-8482-a6c75e0e7d73 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_e135dfad-b7fc-4bd7-8482-a6c75e0e7d73 .
+
+km-dev:PredicateObjectMap_5c11694c-7f2f-4873-82fd-e3505abdf407 rr:objectMap km-dev:RefObjectMap_e135dfad-b7fc-4bd7-8482-a6c75e0e7d73 .
+
+km-dev:TriplesMap_3f1b5d66-4016-41ad-9cb2-50a477923a9b rr:predicateObjectMap km-dev:PredicateObjectMap_5c11694c-7f2f-4873-82fd-e3505abdf407 .
+
+km-dev:PredicateObjectMap_5c11694c-7f2f-4873-82fd-e3505abdf407 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_5c11694c-7f2f-4873-82fd-e3505abdf407 .
+
+km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc a rr:TriplesMap .
+
+_:node1cbcrfpu8x1 km-dev:hasTriplesMap km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc .
+
+km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x14 rr:tableName "Item_Classification_Sheet1" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasLogicalTable _:node1cbcrfpu8x14 .
+
+km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc rr:logicalTable _:node1cbcrfpu8x14 ;
+	rr:subjectMap _:node1cbcrfpu8x15 .
+
+_:node1cbcrfpu8x1 km-dev:hasSubjectMap _:node1cbcrfpu8x15 .
+
+_:node1cbcrfpu8x15 km-dev:isPartOfMapping _:node1cbcrfpu8x1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://www.cidoc-crm.org/cidoc-crm/E55_Type2" ;
+	rr:class crm:E55_Type ;
+	rr:template "{FormatURI}" .
+
+km-dev:PredicateObjectMap_f7f11519-538b-4931-91bd-5ba7b0976921 rr:predicate crm:P2i_is_type_of .
+
+km-dev:RefObjectMap_a72b98ae-fbe1-45cf-bb92-23da26544440 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_eda3680b-ecaf-43b3-b4f6-d71ccc5b04db ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasObjectMap km-dev:RefObjectMap_a72b98ae-fbe1-45cf-bb92-23da26544440 .
+
+km-dev:PredicateObjectMap_f7f11519-538b-4931-91bd-5ba7b0976921 rr:objectMap km-dev:RefObjectMap_a72b98ae-fbe1-45cf-bb92-23da26544440 .
+
+km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc rr:predicateObjectMap km-dev:PredicateObjectMap_f7f11519-538b-4931-91bd-5ba7b0976921 .
+
+km-dev:PredicateObjectMap_f7f11519-538b-4931-91bd-5ba7b0976921 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f7f11519-538b-4931-91bd-5ba7b0976921 .
+
+km-dev:PredicateObjectMap_a7300edc-bdfc-46eb-9b78-616781bc89c5 rr:predicate crm:P2_has_type .
+
+_:node1cbcrfpu8x16 rr:constant <http://vocab.getty.edu/aat/300266038> ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasObjectMap _:node1cbcrfpu8x16 .
+
+km-dev:PredicateObjectMap_a7300edc-bdfc-46eb-9b78-616781bc89c5 rr:objectMap _:node1cbcrfpu8x16 .
+
+km-dev:TriplesMap_492858cb-70f3-4b9e-8070-68c0341201dc rr:predicateObjectMap km-dev:PredicateObjectMap_a7300edc-bdfc-46eb-9b78-616781bc89c5 .
+
+km-dev:PredicateObjectMap_a7300edc-bdfc-46eb-9b78-616781bc89c5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1cbcrfpu8x1 .
+
+_:node1cbcrfpu8x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a7300edc-bdfc-46eb-9b78-616781bc89c5 .
