@@ -107,9 +107,9 @@ else:
 | `crm:E17_Type_Assignment1` | `crm:P101_had_as_general_use` | `crm:E55_Type3`|
 | `crm:E17_Type_Assignment1` | `crm:P42_assigned` | `crm:E55_Type4`|
 | `crm:E22_Man-Made_Object1` | `crm:P41i_was_classified_by` | `crm:E17_Type_Assignment1`|
-| `crm:E22_Man-Made_Object1` | `crm:P2_has_type` | `crm:E55_Type2`|
 | `crm:E22_Man-Made_Object1` | `crm:P2_has_type` | `crm:E55_Type1`|
-| `crm:E55_Type1` | `crm:P2i_is_type_of` | `crm:E22_Man-Made_Object1`|
+| `crm:E22_Man-Made_Object1` | `crm:P2_has_type` | `crm:E55_Type2`|
 | `crm:E55_Type1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300026031`|
+| `crm:E55_Type1` | `crm:P2i_is_type_of` | `crm:E22_Man-Made_Object1`|
 | `crm:E55_Type2` | `crm:P2i_is_type_of` | `crm:E22_Man-Made_Object1`|
 | `crm:E55_Type2` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300266038`|
