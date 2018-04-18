@@ -1,6 +1,10 @@
 # Item_Sheet1
 
 ## Add Column
+#### _ArchivesURI_
+From column: _OwnerURI_
+<br/>Value: `http://data.aaa.si.edu`
+
 
 ## Add Node/Literal
 #### Literal Node: `http://vocab.getty.edu/aat/300404670`
@@ -123,7 +127,7 @@ else:
 #### _OwnerURI_
 From column: _Owner_
 ``` python
-return "http://data.aaa.si.edu/"
+return "http://data.aaa.si.edu"
 ```
 
 #### _CreatorURI_
@@ -270,6 +274,7 @@ return getValue("ObjectURI") + "/citation"
 ## Semantic Types
 | Column | Property | Class |
 |  ----- | -------- | ----- |
+| _ArchivesURI_ | `uri` | `crm:E40_Legal_Body1`|
 | _CharacteristicURI_ | `uri` | `crm:E33_Linguistic_Object5`|
 | _Citation_ | `rdf:value` | `crm:E33_Linguistic_Object7`|
 | _CitationURI_ | `uri` | `crm:E33_Linguistic_Object7`|
