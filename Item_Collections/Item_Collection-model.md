@@ -1,4 +1,4 @@
-# Item_Collections.csv
+# Item_Collections_Sheet1
 
 ## Add Column
 #### _Owner_
@@ -7,7 +7,7 @@ From column: _CollectionURI_
 
 #### _OwnerURI_
 From column: _Owner_
-<br/>Value: `http://data.americanartcollaborative.org/aaa`
+<br/>Value: `http://data.aaa.si.edu/`
 
 
 ## Add Node/Literal
@@ -19,7 +19,7 @@ Literal Type: ``
 #### Literal Node: `http://vocab.getty.edu/aat/300404670`
 Literal Type: ``
 <br/>Language: ``
-<br/>isUri: `false`
+<br/>isUri: `true`
 
 
 ## PyTransforms
