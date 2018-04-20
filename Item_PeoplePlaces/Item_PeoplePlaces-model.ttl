@@ -19,7 +19,7 @@ _:node1bvv6b75ex1 a km-dev:R2RMLMapping ;
 	km-dev:hasInputColumns "[[{\"columnName\":\"PLACENAME\"}],[{\"columnName\":\"PERSONID\"}]]" ;
 	km-dev:hasOutputColumns "[[{\"columnName\":\"PersonURI\"}],[{\"columnName\":\"PlaceURI\"}],[{\"columnName\":\"PLACENAME\"}]]" ;
 	km-dev:hasModelLabel "Item_PeoplePlaces" ;
-	km-dev:hasBaseURI "http://data.americanartcollaborative.org/aaa/" ;
+	km-dev:hasBaseURI "http://data.aaa.si.edu/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SubmitPythonTransformationCommand\",
@@ -111,44 +111,6 @@ _:node1bvv6b75ex1 a km-dev:R2RMLMapping ;
         \"tags\": [\"Transformation\"]
     },
     {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
         \"commandName\": \"SubmitPythonTransformationCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
@@ -196,44 +158,6 @@ _:node1bvv6b75ex1 a km-dev:R2RMLMapping ;
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
                 \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"PlaceURI\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
             }
         ],
         \"tags\": [\"Transformation\"]

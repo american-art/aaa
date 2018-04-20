@@ -19,7 +19,7 @@ _:node1bvvfs22vx1 a km-dev:R2RMLMapping ;
 	km-dev:hasInputColumns "[[{\"columnName\":\"DISPLAYNAME\"}],[{\"columnName\":\"DISPLAYDATEDIED\"}],[{\"columnName\":\"DISPLAYDATEBORN\"}],[{\"columnName\":\"DIEDPLACE\"}],[{\"columnName\":\"PERSONFNAME\"}],[{\"columnName\":\"IDENTIFIER\"}],[{\"columnName\":\"PERSONID\"}],[{\"columnName\":\"BORNPLACE\"}],[{\"columnName\":\"BIO\"}],[{\"columnName\":\"PERSONLNAME\"}]]" ;
 	km-dev:hasOutputColumns "[[{\"columnName\":\"BirthDateURI\"}],[{\"columnName\":\"NameLabel\"}],[{\"columnName\":\"NameLabel1\"}],[{\"columnName\":\"DeathDateLatest\"}],[{\"columnName\":\"DeathDateEarliest\"}],[{\"columnName\":\"BORNPLACE\"}],[{\"columnName\":\"IdLabel\"}],[{\"columnName\":\"BIO\"}],[{\"columnName\":\"SortNameURI\"}],[{\"columnName\":\"NameURI\"}],[{\"columnName\":\"DeathURI\"}],[{\"columnName\":\"BirthPlaceURI\"}],[{\"columnName\":\"BirthDateEarliest\"}],[{\"columnName\":\"DeathDateURI\"}],[{\"columnName\":\"PrefIdURI\"}],[{\"columnName\":\"BirthURI\"}],[{\"columnName\":\"LastNameTypeURI\"}],[{\"columnName\":\"PERSONID\"}],[{\"columnName\":\"FirstNameURI\"}],[{\"columnName\":\"FirstNameTypeURI\"}],[{\"columnName\":\"LastNameURI\"}],[{\"columnName\":\"PERSONLNAME\"}],[{\"columnName\":\"DISPLAYNAME\"}],[{\"columnName\":\"DISPLAYDATEDIED\"}],[{\"columnName\":\"DISPLAYDATEBORN\"}],[{\"columnName\":\"DIEDPLACE\"}],[{\"columnName\":\"BirthDateLatest\"}],[{\"columnName\":\"BiographyURI\"}],[{\"columnName\":\"ConstituentURI\"}],[{\"columnName\":\"PERSONFNAME\"}],[{\"columnName\":\"IDENTIFIER\"}],[{\"columnName\":\"DeathPlaceURI\"}]]" ;
 	km-dev:hasModelLabel "Item_People" ;
-	km-dev:hasBaseURI "http://data.americanartcollaborative.org/aaa/" ;
+	km-dev:hasBaseURI "http://data.aaa.si.edu/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SetWorksheetPropertiesCommand\",
@@ -1301,44 +1301,6 @@ _:node1bvvfs22vx1 a km-dev:R2RMLMapping ;
                 \"type\": \"other\",
                 \"value\": {
                     \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
                     \"hasBaseURI\": false,
                     \"hasGithubURL\": true,
                     \"GithubURL\": \"https://github.com/american-art/aaa/tree/master/Item-People\",
@@ -2577,44 +2539,6 @@ _:node1bvvfs22vx1 a km-dev:R2RMLMapping ;
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
                 \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"BiographyURI\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
             }
         ],
         \"tags\": [\"Transformation\"]

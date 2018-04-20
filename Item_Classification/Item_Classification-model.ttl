@@ -619,10 +619,28 @@ _:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
         \"tags\": [\"Transformation\"]
     },
     {
+<<<<<<< HEAD
         \"commandName\": \"SetWorksheetPropertiesCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
             {
+=======
+<<<<<<< HEAD
+        \"commandName\": \"SubmitPythonTransformationCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"ExtentType\"}]
+            },
+            {
+=======
+        \"commandName\": \"SetWorksheetPropertiesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+>>>>>>> bafe85a... Refactored Classification model
                 \"name\": \"worksheetId\",
                 \"type\": \"worksheetId\",
                 \"value\": \"W\"
@@ -635,6 +653,73 @@ _:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"properties\",
                 \"type\": \"other\",
+                \"value\": {
+                    \"graphLabel\": \"\",
+                    \"hasBaseURI\": true,
+                    \"baseURI\": \"http://data.aaa.si.edu/\",
+                    \"hasPrefix\": false,
+                    \"hasServiceProperties\": false
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Transformation\"]
+    },
+    {
+        \"commandName\": \"SetWorksheetPropertiesCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> bafe85a... Refactored Classification model
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+<<<<<<< HEAD
+                \"name\": \"properties\",
+                \"type\": \"other\",
+=======
+<<<<<<< HEAD
+                \"name\": \"newColumnName\",
+                \"type\": \"other\",
+                \"value\": \"ExtentTypeURI\"
+            },
+            {
+                \"name\": \"transformationCode\",
+                \"type\": \"other\",
+                \"value\": \"if len(getValue(\\\"ExtentType\\\")):\\n    return UM.uri_from_fields(\\\"thesauri/extent/\\\", getValue(\\\"ExtentType\\\"))\\nelse:\\n    return \\\"\\\"\"
+            },
+            {
+                \"name\": \"errorDefaultValue\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"isJSONOutput\",
+                \"type\": \"other\",
+                \"value\": \"false\"
+=======
+                \"name\": \"properties\",
+                \"type\": \"other\",
+>>>>>>> bafe85a... Refactored Classification model
                 \"value\": {
                     \"graphLabel\": \"\",
                     \"hasBaseURI\": true,
@@ -718,60 +803,50 @@ _:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
                     \"hasPrefix\": false,
                     \"hasServiceProperties\": false
                 }
+<<<<<<< HEAD
+=======
+>>>>>>> origin/master
+>>>>>>> bafe85a... Refactored Classification model
             },
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
+<<<<<<< HEAD
                 \"value\": \"[]\"
+=======
+<<<<<<< HEAD
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ExtentType\\\"}]}]\"
+=======
+                \"value\": \"[]\"
+>>>>>>> origin/master
+>>>>>>> bafe85a... Refactored Classification model
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
+<<<<<<< HEAD
                 \"value\": \"[]\"
+=======
+<<<<<<< HEAD
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ExtentTypeURI\\\"}]}]\"
+=======
+                \"value\": \"[]\"
+>>>>>>> origin/master
+>>>>>>> bafe85a... Refactored Classification model
             }
         ],
         \"tags\": [\"Transformation\"]
     },
     {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.aaa.si.edu/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
+<<<<<<< HEAD
         \"commandName\": \"SetMetaPropertyCommand\",
+=======
+<<<<<<< HEAD
+        \"commandName\": \"SubmitPythonTransformationCommand\",
+=======
+        \"commandName\": \"SetMetaPropertyCommand\",
+>>>>>>> origin/master
+>>>>>>> bafe85a... Refactored Classification model
         \"model\": \"new\",
         \"inputParameters\": [
             {
@@ -791,6 +866,7 @@ _:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
             },
             {
                 \"name\": \"metaPropertyName\",
+<<<<<<< HEAD
                 \"type\": \"other\",
                 \"value\": \"isUriOfClass\"
             },
@@ -805,6 +881,22 @@ _:node1cbcrfpu8x1 a km-dev:R2RMLMapping ;
                 \"value\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
             },
             {
+=======
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://www.cidoc-crm.org/cidoc-crm/E22_Man-Made_Object1\"
+            },
+            {
+>>>>>>> bafe85a... Refactored Classification model
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{

@@ -19,7 +19,7 @@ _:node1bvv3gkl6x1 a km-dev:R2RMLMapping ;
 	km-dev:hasInputColumns "[[{\"columnName\":\"INSTITUTIONNAME\"}],[{\"columnName\":\"INSTITUTIONID\"}],[{\"columnName\":\"HISTNOTE\"}]]" ;
 	km-dev:hasOutputColumns "[[{\"columnName\":\"ConstituentURI\"}],[{\"columnName\":\"BiographyURI\"}],[{\"columnName\":\"INSTITUTIONNAME\"}],[{\"columnName\":\"PrefIdURI\"}],[{\"columnName\":\"NameURI\"}],[{\"columnName\":\"INSTITUTIONID\"}],[{\"columnName\":\"HISTNOTE\"}],[{\"columnName\":\"NameLabel\"}],[{\"columnName\":\"IdLabel\"}]]" ;
 	km-dev:hasModelLabel "Item_Institutions" ;
-	km-dev:hasBaseURI "http://data.americanartcollaborative.org/aaa/" ;
+	km-dev:hasBaseURI "http://http://data.aaa.si.edu/.org/aaa/" ;
 	km-dev:hasWorksheetHistory """[
     {
         \"commandName\": \"SubmitPythonTransformationCommand\",
@@ -406,44 +406,6 @@ _:node1bvv3gkl6x1 a km-dev:R2RMLMapping ;
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
                 \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"BiographyURI\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"Transformation\"]
-    },
-    {
-        \"commandName\": \"SetWorksheetPropertiesCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"properties\",
-                \"type\": \"other\",
-                \"value\": {
-                    \"graphLabel\": \"\",
-                    \"hasBaseURI\": true,
-                    \"baseURI\": \"http://data.americanartcollaborative.org/aaa/\",
-                    \"hasPrefix\": false,
-                    \"hasServiceProperties\": false
-                }
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[]\"
             }
         ],
         \"tags\": [\"Transformation\"]
