@@ -4,30 +4,38 @@ remincross="true"
 label="Item_Classification.csv"
 subgraph cluster {
 label="model"
-n2[style="filled",color="white",fillcolor="lightgray",label="E22_Man-Made_Object1"];
-n3[style="filled",color="white",fillcolor="lightgray",label="E17_Type_Assignment1"];
-n4[style="filled",color="white",fillcolor="lightgray",label="E55_Type1"];
-n5[style="filled",color="white",fillcolor="lightgray",label="E55_Type2"];
-n6[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
-n7[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
-n8[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
-n9[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
-n10[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
-n11[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
-n12[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
-n13[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266038"];
+n2[style="filled",color="white",fillcolor="lightgray",label="E17_Type_Assignment1"];
+n3[style="filled",color="white",fillcolor="lightgray",label="E22_Man-Made_Object1"];
+n4[style="filled",color="white",fillcolor="lightgray",label="E55_Type3"];
+n5[style="filled",color="white",fillcolor="lightgray",label="E55_Type4"];
+n6[style="filled",color="white",fillcolor="lightgray",label="E55_Type1"];
+n7[style="filled",color="white",fillcolor="lightgray",label="E55_Type2"];
+n8[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
+n9[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
+n10[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
+n11[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
+n12[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
+n13[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
+n14[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
+n15[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
+n16[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
+n17[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266038"];
 }
-n2 -> n3[color="brown",fontcolor="black",label="P41i_was_classified_by"]
-n2 -> n4[color="brown",fontcolor="black",label="P2_has_type"]
-n2 -> n5[color="brown",fontcolor="black",label="P2_has_type"]
-n4 -> n6[color="brown",fontcolor="black",label="value"]
-n5 -> n7[color="brown",fontcolor="black",label="label"]
-n3 -> n8[color="brown",fontcolor="black",label="classLink"]
-n5 -> n9[color="brown",fontcolor="black",label="classLink"]
+n2 -> n3[color="brown",fontcolor="black",label="P41_classified"]
+n2 -> n4[color="brown",fontcolor="black",label="P21_had_general_purpose"]
+n2 -> n5[color="brown",fontcolor="black",label="P141_assigned"]
+n3 -> n6[color="brown",fontcolor="black",label="P2_has_type"]
+n3 -> n7[color="brown",fontcolor="black",label="P2_has_type"]
+n7 -> n8[color="brown",fontcolor="black",label="value"]
+n3 -> n9[color="brown",fontcolor="black",label="classLink"]
 n2 -> n10[color="brown",fontcolor="black",label="classLink"]
-n4 -> n11[color="brown",fontcolor="black",label="classLink"]
-n4 -> n6[color="brown",fontcolor="black",label="label"]
-n5 -> n7[color="brown",fontcolor="black",label="value"]
-n4 -> n12[color="brown",fontcolor="black",label="P2_has_type"]
-n5 -> n13[color="brown",fontcolor="black",label="P2_has_type"]
+n6 -> n11[color="brown",fontcolor="black",label="value"]
+n7 -> n12[color="brown",fontcolor="black",label="classLink"]
+n4 -> n13[color="brown",fontcolor="black",label="classLink"]
+n5 -> n14[color="brown",fontcolor="black",label="classLink"]
+n6 -> n15[color="brown",fontcolor="black",label="classLink"]
+n6 -> n11[color="brown",fontcolor="black",label="label"]
+n7 -> n8[color="brown",fontcolor="black",label="label"]
+n6 -> n16[color="brown",fontcolor="black",label="P2_has_type"]
+n7 -> n17[color="brown",fontcolor="black",label="P2_has_type"]
 }
