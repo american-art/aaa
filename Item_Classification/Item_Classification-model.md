@@ -13,6 +13,11 @@ Literal Type: ``
 <br/>Language: ``
 <br/>isUri: `true`
 
+#### Literal Node: `http://vocab.getty.edu/aat/300054628`
+Literal Type: ``
+<br/>Language: ``
+<br/>isUri: `true`
+
 
 ## PyTransforms
 #### _ObjectURI_
@@ -93,14 +98,18 @@ else:
 | Column | Property | Class |
 |  ----- | -------- | ----- |
 | _AAAT_FormatURI_ | `uri` | `crm:E55_Type4`|
-| _AAT_Format_ | `rdf:value` | `crm:E55_Type2`|
-| _AAT_Format_ | `rdfs:label` | `crm:E55_Type2`|
-| _AAT_Type_ | `rdf:value` | `crm:E55_Type1`|
-| _AAT_Type_ | `rdfs:label` | `crm:E55_Type1`|
+| _AAT_Format_ | `rdf:value` | `crm:E55_Type4`|
+| _AAT_Format_ | `rdfs:label` | `crm:E55_Type4`|
+| _AAT_Type_ | `rdf:value` | `crm:E55_Type3`|
+| _AAT_Type_ | `rdfs:label` | `crm:E55_Type3`|
 | _AAT_TypeURI_ | `uri` | `crm:E55_Type3`|
 | _ClassificationURI_ | `uri` | `crm:E17_Type_Assignment1`|
 | _FormatURI_ | `uri` | `crm:E55_Type2`|
+| _GeneralFormat_Formatted_ | `rdfs:label` | `crm:E55_Type1`|
+| _GeneralFormat_Formatted_ | `rdf:value` | `crm:E55_Type1`|
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
+| _SpecificFormat_Formatted_ | `rdf:value` | `crm:E55_Type2`|
+| _SpecificFormat_Formatted_ | `rdfs:label` | `crm:E55_Type2`|
 | _TypeURI_ | `uri` | `crm:E55_Type1`|
 
 
@@ -110,6 +119,7 @@ else:
 | `crm:E17_Type_Assignment1` | `crm:P41_classified` | `crm:E22_Man-Made_Object1`|
 | `crm:E17_Type_Assignment1` | `crm:P21_had_general_purpose` | `crm:E55_Type3`|
 | `crm:E17_Type_Assignment1` | `crm:P141_assigned` | `crm:E55_Type4`|
+| `crm:E17_Type_Assignment1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300054628`|
 | `crm:E22_Man-Made_Object1` | `crm:P2_has_type` | `crm:E55_Type1`|
 | `crm:E22_Man-Made_Object1` | `crm:P2_has_type` | `crm:E55_Type2`|
 | `crm:E55_Type1` | `crm:P2_has_type` | `http://vocab.getty.edu/aat/300026031`|
