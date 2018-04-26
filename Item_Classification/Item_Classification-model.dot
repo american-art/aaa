@@ -1,39 +1,8 @@
 digraph n0 {
 fontcolor="blue"
 remincross="true"
-label="Item_Classification_Sheet1"
+label="Item_Classification.csv"
 subgraph cluster {
 label="model"
-n2[style="filled",color="white",fillcolor="lightgray",label="E17_Type_Assignment1"];
-n3[style="filled",color="white",fillcolor="lightgray",label="E55_Type3"];
-n4[style="filled",color="white",fillcolor="lightgray",label="E55_Type4"];
-n5[style="filled",color="white",fillcolor="lightgray",label="E22_Man-Made_Object1"];
-n6[style="filled",color="white",fillcolor="lightgray",label="E55_Type1"];
-n7[style="filled",color="white",fillcolor="lightgray",label="E55_Type2"];
-n8[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
-n9[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
-n10[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
-n11[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
-n12[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
-n13[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
-n14[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
-n15[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
-n16[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266038"];
 }
-n2 -> n3[color="brown",fontcolor="black",label="P101_had_as_general_use"]
-n2 -> n4[color="brown",fontcolor="black",label="P42_assigned"]
-n5 -> n2[color="brown",fontcolor="black",label="P41i_was_classified_by"]
-n5 -> n6[color="brown",fontcolor="black",label="P2_has_type"]
-n7 -> n5[color="brown",fontcolor="black",label="P2i_is_type_of"]
-n5 -> n8[color="brown",fontcolor="black",label="classLink"]
-n4 -> n9[color="brown",fontcolor="black",label="classLink"]
-n3 -> n10[color="brown",fontcolor="black",label="classLink"]
-n7 -> n11[color="brown",fontcolor="black",label="classLink"]
-n6 -> n12[color="brown",fontcolor="black",label="classLink"]
-n6 -> n13[color="brown",fontcolor="black",label="value"]
-n2 -> n14[color="brown",fontcolor="black",label="classLink"]
-n5 -> n7[color="brown",fontcolor="black",label="P2_has_type"]
-n6 -> n15[color="brown",fontcolor="black",label="P2_has_type"]
-n7 -> n16[color="brown",fontcolor="black",label="P2_has_type"]
-n6 -> n5[color="brown",fontcolor="black",label="P2i_is_type_of"]
 }
