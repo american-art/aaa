@@ -1,6 +1,10 @@
 # Item.csv
 
 ## Add Column
+#### _Owner_Fixed_
+From column: _Owner_
+<br/>Value: `Archives of American Art`
+
 
 ## Add Node/Literal
 #### Literal Node: `http://vocab.getty.edu/aat/300404670`
@@ -299,15 +303,15 @@ return getValue("OwnerURI") + "/"
 | _ItemID_ | `rdf:value` | `crm:E42_Identifier1`|
 | _LocationURI_ | `uri` | `crm:E53_Place1`|
 | _ObjectURI_ | `uri` | `crm:E22_Man-Made_Object1`|
-| _Owner_ | `rdfs:label` | `crm:E40_Legal_Body1`|
+| _Owner_Fixed_ | `rdfs:label` | `crm:E40_Legal_Body1`|
 | _PhysicalCharacteristic_ | `rdf:value` | `crm:E33_Linguistic_Object5`|
 | _ProductionURI_ | `uri` | `crm:E12_Production1`|
 | _ResourceURL_ | `rdfs:label` | `foaf:Document1`|
 | _RightURI_ | `uri` | `crm:E33_Linguistic_Object3`|
 | _RightsStatement_ | `rdf:value` | `crm:E33_Linguistic_Object3`|
 | _TimeSpanURI_ | `uri` | `crm:E52_Time-Span1`|
-| _Title_ | `rdf:value` | `crm:E35_Title1`|
 | _Title_ | `rdfs:label` | `crm:E35_Title1`|
+| _Title_ | `rdf:value` | `crm:E35_Title1`|
 | _TitleLabel_ | `rdfs:label` | `crm:E22_Man-Made_Object1`|
 | _TitleURI_ | `uri` | `crm:E35_Title1`|
 | _UrlURI_ | `uri` | `foaf:Document1`|
