@@ -10,16 +10,16 @@ n4[style="filled",color="white",fillcolor="lightgray",label="E55_Type4"];
 n5[style="filled",color="white",fillcolor="lightgray",label="E22_Man-Made_Object1"];
 n6[style="filled",color="white",fillcolor="lightgray",label="E55_Type1"];
 n7[style="filled",color="white",fillcolor="lightgray",label="E55_Type2"];
-n8[shape="plaintext",style="filled",fillcolor="gold",label="GeneralFormat_Formatted"];
-n9[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
-n10[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
-n11[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
-n12[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
+n8[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
+n9[shape="plaintext",style="filled",fillcolor="gold",label="TypeURI"];
+n10[shape="plaintext",style="filled",fillcolor="gold",label="SpecificFormat_Formatted"];
+n11[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Type"];
+n12[shape="plaintext",style="filled",fillcolor="gold",label="AAAT_FormatURI"];
 n13[shape="plaintext",style="filled",fillcolor="gold",label="ObjectURI"];
-n14[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
-n15[shape="plaintext",style="filled",fillcolor="gold",label="SpecificFormat_Formatted"];
+n14[shape="plaintext",style="filled",fillcolor="gold",label="GeneralFormat_Formatted"];
+n15[shape="plaintext",style="filled",fillcolor="gold",label="AAT_TypeURI"];
 n16[shape="plaintext",style="filled",fillcolor="gold",label="ClassificationURI"];
-n17[shape="plaintext",style="filled",fillcolor="gold",label="FormatURI"];
+n17[shape="plaintext",style="filled",fillcolor="gold",label="AAT_Format"];
 n18[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300026031"];
 n19[shape="plaintext",style="filled",fillcolor="#CC7799",label="http://vocab.getty.edu/aat/300266038"];
 }
@@ -28,20 +28,20 @@ n2 -> n4[color="brown",fontcolor="black",label="P141_assigned"]
 n5 -> n2[color="brown",fontcolor="black",label="P41i_was_classified_by"]
 n5 -> n6[color="brown",fontcolor="black",label="P2_has_type"]
 n5 -> n7[color="brown",fontcolor="black",label="P2_has_type"]
-n6 -> n8[color="brown",fontcolor="black",label="value"]
-n4 -> n9[color="brown",fontcolor="black",label="label"]
-n4 -> n10[color="brown",fontcolor="black",label="classLink"]
-n6 -> n11[color="brown",fontcolor="black",label="classLink"]
-n3 -> n12[color="brown",fontcolor="black",label="label"]
+n7 -> n8[color="brown",fontcolor="black",label="classLink"]
+n6 -> n9[color="brown",fontcolor="black",label="classLink"]
+n7 -> n10[color="brown",fontcolor="black",label="label"]
+n3 -> n11[color="brown",fontcolor="black",label="label"]
+n4 -> n12[color="brown",fontcolor="black",label="classLink"]
 n5 -> n13[color="brown",fontcolor="black",label="classLink"]
-n3 -> n14[color="brown",fontcolor="black",label="classLink"]
-n7 -> n15[color="brown",fontcolor="black",label="label"]
+n6 -> n14[color="brown",fontcolor="black",label="value"]
+n3 -> n15[color="brown",fontcolor="black",label="classLink"]
 n2 -> n16[color="brown",fontcolor="black",label="classLink"]
-n7 -> n17[color="brown",fontcolor="black",label="classLink"]
-n6 -> n8[color="brown",fontcolor="black",label="label"]
+n4 -> n17[color="brown",fontcolor="black",label="label"]
+n4 -> n17[color="brown",fontcolor="black",label="value"]
+n6 -> n14[color="brown",fontcolor="black",label="label"]
+n7 -> n10[color="brown",fontcolor="black",label="value"]
 n6 -> n18[color="brown",fontcolor="black",label="P2_has_type"]
-n4 -> n9[color="brown",fontcolor="black",label="value"]
-n3 -> n12[color="brown",fontcolor="black",label="value"]
-n7 -> n15[color="brown",fontcolor="black",label="value"]
 n7 -> n19[color="brown",fontcolor="black",label="P2_has_type"]
+n3 -> n11[color="brown",fontcolor="black",label="value"]
 }
