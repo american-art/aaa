@@ -1,4 +1,4 @@
-# Item_Sheet1
+# Item.csv
 
 ## Add Column
 
@@ -306,8 +306,8 @@ return getValue("OwnerURI") + "/"
 | _RightURI_ | `uri` | `crm:E33_Linguistic_Object3`|
 | _RightsStatement_ | `rdf:value` | `crm:E33_Linguistic_Object3`|
 | _TimeSpanURI_ | `uri` | `crm:E52_Time-Span1`|
-| _Title_ | `rdfs:label` | `crm:E35_Title1`|
 | _Title_ | `rdf:value` | `crm:E35_Title1`|
+| _Title_ | `rdfs:label` | `crm:E35_Title1`|
 | _TitleLabel_ | `rdfs:label` | `crm:E22_Man-Made_Object1`|
 | _TitleURI_ | `uri` | `crm:E35_Title1`|
 | _UrlURI_ | `uri` | `foaf:Document1`|
